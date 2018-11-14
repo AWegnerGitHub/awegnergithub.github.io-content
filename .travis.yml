@@ -1,0 +1,25 @@
+language: python
+python:
+- '3.5'
+branches:
+  only:
+  - master
+before_script:
+  - git clone https://github.com/AWegnerGithub/awegnergithub.github.io-source.git source
+  - mkdir source/content 
+  - rsync -av --progress ./* source/content --exclude source --exclude deploy.sh
+  - cd source
+  - pip install --upgrade pip
+  - pip install -r requirements.txt
+script:
+  - pelican content --output output --settings publishconf.py --verbose
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: bash deploy.sh
+  on:
+    branch: master
+notifications:
+  email:
+    on_success: always
+    on_failure: always
