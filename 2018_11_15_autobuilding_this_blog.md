@@ -105,7 +105,7 @@ Click "Generate new token" and enter your password as appropriate. Provide a use
 select only `public_repo`. If you are planning on committing to a private repository, you will need to select the entire `repo` scope. Since my 
 generated content isn't hosted in a private repository, the `public_repo` is enough. Select "Generate token" at the bottom.
 
-[![GitHub Token Selection][9]]
+![GitHub Token Selection][9]
 
 You will be presented with your token. **Copy this someplace, you won't be able to access this value again**. 
 
@@ -116,7 +116,7 @@ on the left select "Settings". Scroll down to "Environment Variables". In my `de
 so that is what I'll use here too. Enter the variable name and the token GitHub provided in the previous step. Do not change "Display value 
 in build log" to `true` and press "Add".
 
-[![GitHub Token Selection][11]]
+![GitHub Token Selection][11]
 
 ### deploy.sh
 
@@ -128,7 +128,7 @@ There are a few areas that may be important. The first is that pushes to the gen
 an associated Travis CI email address. Change these as you wish. I didn't want them in my name, so that I could easily pick out which commits
 I did versus which ones were done automatically. The old commits in my name vs. the new automated commits look like this in GitHub.
 
-[![Blog commit differences][13]]
+![Blog commit differences][13]
 
 Another important line of code is the second to last one in the deploy script:
 
