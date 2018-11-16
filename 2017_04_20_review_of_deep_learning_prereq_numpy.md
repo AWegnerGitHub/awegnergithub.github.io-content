@@ -39,7 +39,7 @@ to do the coding (and add my own comments along the way) to watching someone pre
 line. I've posted my [IPython Notebooks][7] on GitHub.
 
 One other thing this course does is introduce users to the assumptions the instructor makes about the students. Machine learning and data science,
-in general, have a lot of math behind them. The instructor assumes that students have the theorectical background for this and teaches how to
+in general, have a lot of math behind them. The instructor assumes that students have the theoretical background for this and teaches how to
 implement this math in Numpy. Note to self: Brush up on those math skills. I haven't used some of this in a long time.
 
 ## Final Thoughts

@@ -42,7 +42,7 @@ from Amazon.
 
 The course covers the API Gateway, AWS permissions, AWS Lambda, body mapping templates, DynamoDB, authentication with
 Cognito and hosting a serverless SPA. At first glance this seems like a lot to cover in an 8 hour course. The instructor
-has broken these into small digestable lectures that do a good job of introducing each new service, explaining the theory
+has broken these into small digestible lectures that do a good job of introducing each new service, explaining the theory
 behind each and then using the service to implement functionality into the course long project.
 
 A course long project is a good way to show how each of these Amazon services are useful to a larger project. Instead of

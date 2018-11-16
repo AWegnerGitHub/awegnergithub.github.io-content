@@ -16,13 +16,13 @@ score: 8.0
 
 My [last review][1] covered [Lazy Programmer's][2] [Numpy prerequisites course][3] on Udemy. In my goal to learn more about NLP,
 I'm continuing through the courses this instructor has designed. To this end, that requires two additional prerequisites: [Linear
-Regression][4] and [Logistic Regression][5]. This review covers those two seperate courses.  
+Regression][4] and [Logistic Regression][5]. This review covers those two separate courses.  
 
 ## Thoughts on the lessons
 
 These two courses are each short three hour courses giving a crash course in how to perform linear regression analysis and logistic
-regression analysis. The courses cover both the theorectical math needed and the more practical Python code needed. The instructor
-states, several times, that simply copying the code isn't good enough in the later courses. The mathmatical background is needed to
+regression analysis. The courses cover both the theoretical math needed and the more practical Python code needed. The instructor
+states, several times, that simply copying the code isn't good enough in the later courses. The mathematical background is needed to
 succeed later. With that in mind, I spent most of these lectures relearning much of the math. The instructor provides several detailed
 "Theory" lectures and I found those helpful.
 

@@ -82,7 +82,7 @@ improve my code at work to utilize these.
 ### Panels
 
 Section 11 covers a topic that was brand new to me: Panels. I have never used them or heard of them. A series is a 1D
-dataset, a dataframe is a 2D dataset and a panel is a 3D dataset. It is a group of dataframes. The instructor explained
+data set, a dataframe is a 2D data set and a panel is a 3D data set. It is a group of dataframes. The instructor explained
 this concept very clearly and worked through multiple examples of how to build and use a panel.
 
 In this lesson, the panel we utilized was created by calling Google Finance for multiple companies. However, the panel
@@ -113,8 +113,8 @@ hours and 172 lessons. The may seem overwhelming at first, but the lessons are s
 minute range. There are a couple that reach the 10+ minute point, but they still held my attention the entire lesson.
 
 The instructor has the lessons structured in a way that allows you to pause and return at the start of any lesson
-without having to reexecute a long series of code. Most of the lessons are self contained, where a dataset is either
-reimported at the start of each lesson or a new one is introduced.
+without having to re-execute a long series of code. Most of the lessons are self contained, where a data set is either
+re-imported at the start of each lesson or a new one is introduced.
 
 The only Section that didn't seem to follow this pattern was the visualization module. That module kept using code
 from previous lessons. The section is less than an hour, but if you take a break you may need to rerun some of your

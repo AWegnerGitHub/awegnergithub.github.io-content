@@ -46,7 +46,7 @@ I posted my [platform][12] shortly after the nomination phase opened. I stressed
  > - In addition to the automated flagging, I participate in the review queues, provide edits and post [answers][9].
  > - As a moderator of ["Community Building"][10], I know the tools used by the Stack Exchange sites. I've used this position to interact with the existing moderators for advise and questions. This interaction will not only continue but be helpful as a new moderator to SO.
  >
- > I have the flagging history and experience to make the appropriate judgement calls. I feel that is a positive attribute that will help me in helping you to have the best experience you can on Stack Overflow.
+ > I have the flagging history and experience to make the appropriate judgment calls. I feel that is a positive attribute that will help me in helping you to have the best experience you can on Stack Overflow.
  >
  > I'll continue to help improve the site regardless of whether I am elected or not. I will be able to do a much better job at that, though, as one of your moderators.
 
