@@ -1,6 +1,6 @@
 Title: Autobuild and Deploy this Pelican Blog
 Date: 2018-11-15 08:30
-Tags: technical
+Tags: technical, Pelican
 Category: Technical Solutions
 Slug: autobuild-pelican-blog
 Summary: It's time to automate the deployment of this Pelican blog. This is a walkthrough of how I set it up.

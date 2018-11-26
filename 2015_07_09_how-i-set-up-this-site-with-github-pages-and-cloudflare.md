@@ -1,6 +1,6 @@
 Title: How I set up this site with GitHub Pages and CloudFlare
 Date: 2015-7-9 11:26
-Tags: Meta, technical
+Tags: Meta, technical, Pelican
 Category: Side Activities
 Slug: how-i-set-up-this-site-with-github-pages-and-cloudflare
 Summary: This post provides a brief description of how I set up the web site to utilize GitHub Pages and CloudFlare and eliminated my self hosting
