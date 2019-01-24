@@ -131,13 +131,17 @@ I did versus which ones were done automatically. The old commits in my name vs. 
 
 ![Blog commit differences][13]
 
-Another important line of code is the second to last one in the deploy script:
+Another important line of code is this one in the deploy script:
 
     git push -fq https://$GH_USERNAME:$GITHUB_API_KEY@github.com/$TARGET_REPO &>/dev/null || exit $?
 
 This line pushes the generated site to the appropriate repository using the `GITHUB_API_KEY` we previously generated and told
 Travis CI about. It also sends all output of this command to `/dev/null` so that the secure key won't show up in the build log. If
 this isn't done, Travis CI will print out the command and may or may not properly obscure it (see my previous warning, above).
+
+The deployment ends by pinging Google and Bing with my `sitemap.xml`. This is an automated way of telling the two search engines
+that the site has been updated and they should recheck the sitemap and reindex as appropriate. It doesn't guarantee they will
+crawl the site immediately, but it does let them know their is an update before their next scheduled crawl.
 
 ### .travis.yml
 
