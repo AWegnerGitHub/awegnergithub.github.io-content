@@ -23,7 +23,7 @@ and after several internal discussions, we settled on [Sanic][1]. The first line
 Great! I used Flask at my previous job. To be clear, Sanic is not *based on* Flask, but it's API is *Flask-like*. Good enjoy to start with. With the framework
 set, and previous experience with a similar framework, I wanted to go through how Sanic works.
 
-I turned to Udemy and the [Sanic - an asynchronous web framework for Pythonistas][2], created by Szabó Dániel Ernő.
+I turned to Udemy and the [Sanic - an asynchronous web framework for Pythonistas][2] course, created by Szabó Dániel Ernő.
 
 ## Course
 
@@ -81,7 +81,7 @@ of the time of this post, Udemy says there have been ten students that signed up
 don't know how responsive the instructor is to student questions.
 
 If you have a few hours (and dollars, during a Udemy sale) to spare and wish to learn some basics about Sanic, this is a good course to take. If not, the
-[GitHub repository][3] contains all of the lessons you go over. 
+[GitHub repository][3] contains all of the lessons you go over.
 
 [![Sanic - An Asynchronous Web Framework for Pythonistas Completion][certificate]][courselink]
 
