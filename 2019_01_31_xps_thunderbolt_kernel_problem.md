@@ -20,18 +20,18 @@ this updated added was:
 I've been putting off updating due to squeamishness involving touching the BIOS. If it goes poorly, it could make my day really
 stressful.
 
-It's current -50 with the windchill outside. Schools are closed. Businesses are closed. Even the Post Office has said they aren't
-delivering mail because it's so cold. This sounds like the perfect time to perform and update.
+It's currently -50 with the windchill outside. Schools are closed. Businesses are closed. Even the Post Office has said they aren't
+delivering mail because it's so cold. This sounds like the perfect time to perform an update.
 
 There was my mistake...
 
 After installing the update and rebooting the machine, the XPS froze as the Ubuntu login screen was loading. There was only a
 mouse cursor on an otherwise black screen. The mouse didn't respond to input from the touch pad or from a USB mouse. The keyboard
-didn't appear to be responding either. The external monitors weren't receiving a signal and finally, an attempt to SSH into the laptop failed.
+didn't appear to be responding either. The external monitors weren't receiving a signal and, finally, an attempt to SSH into the laptop failed.
 
 ## Troubleshooting
 
-The laptop was entirely unresponsive. First step: "Did you reboot it?" Yes. I had to hold down the power button so it wasn't clean.
+The laptop was entirely unresponsive. First step: "Did you reboot it?" Yes. I had to hold down the power button so it wasn't a clean reboot.
 The exact same symptoms occurred: Black screen with only a mouse cursor right before the login page loads. Doesn't respond to any input.
 
 Next, I unplugged everything. The laptop is plugged into a Thunder Bolt 16 docking station so that I can utilize two external
@@ -98,19 +98,19 @@ I was on my own.
 At first glance, the quote from the forum moderator above doesn't make much sense. How can the BIOS update break the USB Type-C port in the operating system?
 How can it not be fixed by going to a previous version?
 
-Then it hit me: There was more to this BIOS update. A day earlier I'd updated the kernel and after a reboot been fine and forgot about it.
+Then it hit me: There was more to this BIOS update. A day earlier I'd updated the kernel and hadn't rebooted yet and forgot about it.
 
     $ uname -r
     4.15.0-44-generic
 
 Working with that, the phrase "Thunder Bolt" and Google, I stumbled across a post on [Stack Exchange][1] with the same issue. Of course.
-Why didn't I start there?
+Why didn't I start there? I had been chasing the wrong thing. BIOS wasn't the cause, it was just the reason for the system reboot.
 
 ## Fix
 
 The fix involved going back to the previous kernel. I didn't follow the [Ask Ubuntu post][1] exactly. First, I edited by grub configuration to display the
 grub menu. This is at `/etc/default/grub`. I changed the `GRUB_TIMEOUT` value to `-1` and uncommented `GRUB_HIDDEN_TIMEOUT`. After saving that config file
-I run `sudo update-grub`
+I ran `sudo update-grub`
 
 Then I restarted.
 
@@ -127,7 +127,7 @@ for the time being with this command:
 
     sudo apt-get purge -f linux-image-4.15.0-44-generic
 
-This is a [known bug][bug-report] with 4.15.0-44 and a fix is being worked on. It also seems to impact more than just Dell products. It also looks like
+This is a [known bug][bug-report] with 4.15.0-44 and a fix is being worked on. It also seems to impact more than just Dell products. It looks like
 4.15.0-45 will fix the issue. We'll see.
 
 Also, Dell support is less helpful than I thought it would be. 
