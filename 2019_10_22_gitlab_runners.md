@@ -1,5 +1,5 @@
 Title: Setting up GitLab runners
-Date: 2018-10-22 11:00
+Date: 2019-10-22 11:00
 Tags: technical
 Category: Technical Solutions
 Slug: setting-up-gitlab-runners

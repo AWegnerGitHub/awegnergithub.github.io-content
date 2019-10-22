@@ -1,5 +1,5 @@
 Title: Updating PHP from 7.1 to 7.3 on Ubuntu 18.04
-Date: 2018-07-26 10:00
+Date: 2019-07-26 10:00
 Tags: technical
 Category: Technical Solutions
 Slug: updating-php-ubuntu-1804

@@ -1,5 +1,5 @@
 Title: Installing InvoiceNinja on Ubuntu 18.04
-Date: 2018-07-30 13:00
+Date: 2019-07-30 13:00
 Tags: technical
 Category: Technical Solutions
 Slug: invoiceninja-ubuntu-1804
