@@ -65,4 +65,4 @@ be looking for another course by Stephane Maarek.
  [1]: https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/
  [certificate]: {attach}images/udemy-aws-developer-certification.jpg
  [courselink]: https://ude.my/UC-CAXZ5N6F
- [awscertificate]: {attach}images/aws_certified_developer.jpg
+ [awscertificate]: {attach}images/aws_certified_developer.png
