@@ -1,4 +1,4 @@
-Title: Unboxing the family new indoor Rise Gardens hydroponic garden
+Title: Unboxing the new indoor Rise Gardens hydroponic garden
 Date: 2020-04-22 10:00
 Tags: review, garden, hydroponics
 Category: Review
@@ -45,7 +45,7 @@ The delays were unfortunate. But, I really have no major complaints. Rise Garden
 about the delays and the causes. A global pandemic will screw with your supply chain and logistics capabilities.
 Plus, the nurseries were nice. I'll cover those in a later article.
 
-I appreciate the level of communicate that I've seen so far. I hope that continues.
+I appreciate the level of communication that I've seen so far. I hope that continues.
 
 ## The Unboxing
 
@@ -164,7 +164,7 @@ and slide all over.
 The hardware feels very high quality. I don't feel like I'm going to snap these wooden legs or brackets when I put weight on them. The
 control board, and the electronics in general, appear very well assembled.
 
-In short, despite some packaging annoyances, I'm looking forward to assembling this thing over the coming dates. Next up, though, is
+In short, despite some packaging annoyances, I'm looking forward to assembling this thing over the coming day. Next up, though, is
 unpacking my first round of seeds and the nurseries.
 
 
