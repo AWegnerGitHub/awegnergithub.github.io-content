@@ -48,7 +48,7 @@ are designed to catch holes built into the shelf. Then they are tightened into p
 The lower tray operates on the same principal. The tray catches on, then is screwed into place with the
 included allen wrench.
 
-## Upper Levels
+### Upper Levels
 
 ![Middle Brackets][middlebrackets]
 
@@ -88,7 +88,7 @@ The water will flow from the basin at the bottom, all the way to the back top. I
 and drain down to the lower level. This will repeat for the second level and then the first and flow back into the
 water basin.
 
-### Testing the system
+## Testing the system
 
 With assembly done, it was time to test the lights and add the water to look for leaks.
 
@@ -140,7 +140,7 @@ Next up, planting the nursery and watching the seeds sprout.
 
 
  [risegardens]: https://risegardens.com/
- [unboxgarden]: {filename}2020_04_22_rise_garden_unbox.md
+ [unboxgardens]: {filename}2020_04_22_rise_garden_unbox.md
  [unboxnurseries]: {filename}2020_04_24_nursery_unbox.md
  [shelf]: {attach}images/garden/3_assembly/lower_brackets.jpg
  [lowtray]: {attach}images/garden/3_assembly/lower_tray.jpg
