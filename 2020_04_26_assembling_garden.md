@@ -13,7 +13,7 @@ Series: Rise Gardens Review
 ## Introduction
 
 It's time to assemble the [Rise Gardens][risegardens] indoor garden. In previous posts you can find the
-process of [unboxing the garden][unboxgardens] and the process of [unboxing the nurseries][unboxingnurseries].
+process of [unboxing the garden][unboxgardens] and the process of [unboxing the nurseries][unboxnurseries].
 Today, we assemble.
 
 Rise Gardens makes the following claim on their web page:
