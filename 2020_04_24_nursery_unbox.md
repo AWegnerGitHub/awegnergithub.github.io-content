@@ -169,7 +169,7 @@ With another unboxing complete, I am ready to start assembling the garden. My ne
 will cover [assembly of the garden][assembly].
 
  [risegardens]: https://risegardens.com/
- [unboxgarden]: {filename}2020_04_22_rise_garden_unbox.md
+ [unboxgardens]: {filename}2020_04_22_rise_garden_unbox.md
  [boxednurseries]: {attach}images/garden/2_unboxing/nurseries_boxed.jpg
  [boxinside]: {attach}images/garden/2_unboxing/box_1_seeds_instructions.jpg
  [quickstartinside]: {attach}images/garden/2_unboxing/inside_instructions.jpg
