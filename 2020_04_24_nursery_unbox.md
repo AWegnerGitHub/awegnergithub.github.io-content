@@ -166,7 +166,7 @@ All in all, the nurseries look good. The seeds look good. The tiny little garden
 me is ready to see if I can grow something.
 
 With another unboxing complete, I am ready to start assembling the garden. My next post
-will cover assembly of the garden.
+will cover [assembly of the garden][assembly].
 
  [risegardens]: https://risegardens.com/
  [unboxgarden]: {filename}2020_04_22_rise_garden_unbox.md
@@ -182,3 +182,4 @@ will cover assembly of the garden.
  [varietypack]: {attach}images/garden/2_unboxing/variety_pack.jpg
  [basil]: {attach}images/garden/2_unboxing/basil.jpg
  [plantpod]: {attach}images/garden/2_unboxing/plant_pod.jpg
+ [assembly]: {filename}2020_04_26_assembling_garden.md

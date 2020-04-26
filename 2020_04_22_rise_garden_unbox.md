@@ -1,4 +1,4 @@
-Title: Unboxing the new indoor Rise Gardens hydroponic garden
+Title: Unboxing and reviewing the new indoor Rise Gardens hydroponic garden
 Date: 2020-04-22 10:00
 Tags: review, garden, hydroponics
 Category: Review
@@ -18,7 +18,7 @@ and we've planted the first round of seeds. I anticipate by the time I'm done wi
 I'll have some plants migrated from the nursery to the garden itself. Once I reach the point of
 harvest, I'll provide a follow up.
 
-With that, let's begin.
+With that, let's begin my review of the new Rise Gardens farm!
 
 For most of last year, I had my mind set that I wanted a small indoor garden. We used to have
 an outdoor garden, but it never really did that well. This was due to both the soil and the wildlife.
@@ -165,7 +165,7 @@ The hardware feels very high quality. I don't feel like I'm going to snap these 
 control board, and the electronics in general, appear very well assembled.
 
 In short, despite some packaging annoyances, I'm looking forward to assembling this thing over the coming day. Next up, though, is
-unpacking my first round of seeds and the nurseries.
+[unpacking my first round of seeds and the nurseries][unboxnurseries].
 
 
 
