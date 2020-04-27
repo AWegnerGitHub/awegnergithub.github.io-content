@@ -270,7 +270,7 @@ Now that I've set this up and come to rely on it, I think my next steps will be 
  [gitlab]: {filename}2018_04_12_setting_up_gitlab.md
  [1]: https://docs.gitlab.com/runner/
  [2]: https://www.docker.com/
- [pipeline]: {attach}images/gitlab-python-pipeline.png.jpg
- [variables]: {attach}images/gitlab-env-variables.png.jpg
+ [pipeline]: {attach}images/gitlab-python-pipeline.png
+ [variables]: {attach}images/gitlab-env-variables.png
  [3]: https://radon.readthedocs.io/en/latest/intro.html#cyclomatic-complexity
  [4]: {filename}2018_02_28_do_not_trust_travisci_environment_variables.md
