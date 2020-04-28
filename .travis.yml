@@ -28,7 +28,7 @@ jobs:
       script: bash scripts/validate.sh
     - stage: deploy
       script: bash scripts/deploy.sh
-    - script: post-deploy
+    - stage: post-deploy
       script: bash scripts/post-deploy.sh
 
 notifications:
