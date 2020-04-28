@@ -3,17 +3,9 @@ os: linux
 dist: xenial
 python:
 - '3.7'
-
-stages:
-  - build-debug
-  - validate
-  - name: build-prod
-    if: branch = master
-  - name: deploy
-    if: branch = master
-  - name: post-deploy
-    if: branch = master
-
+branches:
+  only:
+  - master
 before_script:
   - git clone https://github.com/AWegnerGithub/awegnergithub.github.io-source.git source
   - mkdir source/content
@@ -21,20 +13,14 @@ before_script:
   - cd source
   - pip install --upgrade pip
   - pip install -r requirements.txt
-
-jobs:
-  include:
-    - stage: build-debug
-      script: bash scripts/build-debug.sh
-    - stage: validate
-      script: bash scripts/validate.sh
-    - stage: build-prod
-      script: bash scripts/build-prod.sh
-    - stage: deploy
-      script: bash scripts/deploy.sh
-    - stage: post-deploy
-      script: bash scripts/post-deploy.sh
-
+script:
+  - pelican content --output output --settings publishconf.py --verbose
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: bash deploy.sh
+  on:
+    branch: master
 notifications:
   email:
     on_success: always
