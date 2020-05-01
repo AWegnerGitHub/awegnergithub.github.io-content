@@ -104,4 +104,4 @@ This will cover both the physical hardware and the electronics/automation side t
  [day6]: {attach}images/garden/4_planting/day_6.jpg
  [day6_2]: {attach}images/garden/4_planting/day_6_2.jpg
  [transplant]: {attach}images/garden/4_planting/transplanting_2.jpg
- [app]: {attach}images/4_planting/nursery_app.png
+ [app]: {attach}images/garden/4_planting/nursery_app.png
