@@ -135,13 +135,14 @@ The build quality is good, minus that tray fitting. It feels very stable. I've h
 and the plants in the nursery are getting close to the point where they can be transplanted to the
 garden.
 
-Next up, planting the nursery and watching the seeds sprout.
+Next up, [planting the nursery and watching the seeds sprout][planting].
 
 
 
  [risegardens]: https://risegardens.com/
  [unboxgardens]: {filename}2020_04_22_rise_garden_unbox.md
  [unboxnurseries]: {filename}2020_04_24_nursery_unbox.md
+ [planting]: {filename}2020_05_01_planting_garden.md
  [shelf]: {attach}images/garden/3_assembly/lower_brackets.jpg
  [lowtray]: {attach}images/garden/3_assembly/lower_tray.jpg
  [middlebrackets]: {attach}images/garden/3_assembly/middle_tray_brackets.jpg
