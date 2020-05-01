@@ -2,7 +2,7 @@ Title: Planting the first crop in the Rise Garden
 Date: 2020-05-01 10:00
 Tags: review, garden, hydroponics
 Category: Review
-Slug: rise-garden-plaanting
+Slug: rise-garden-planting
 Summary: Planting the first crop in the garden
 Status: published
 Series: Rise Gardens Review
