@@ -90,7 +90,7 @@ combination of which plants were together and which took in more water. We'll be
 The kids continue to be super interested in this, which is exciting to see. They've grown attached to some of the plants
 they've never eaten before, both in the current round of plants and in the plants now in the nursery.
 
-Next in this series is my impressions so far, along with a set of changes that would be nice to make the product even better.
+Next in this series is my [impressions so far][suggestionsphysical], along with a set of changes that would be nice to make the product even better.
 This will cover both the physical hardware and the electronics/automation side too.
 
 
@@ -105,3 +105,4 @@ This will cover both the physical hardware and the electronics/automation side t
  [day6_2]: {attach}images/garden/4_planting/day_6_2.jpg
  [transplant]: {attach}images/garden/4_planting/transplanting_2.jpg
  [app]: {attach}images/garden/4_planting/nursery_app.png
+ [suggestionsphysical]: {filename}2020_05_04_suggested_improvements_physical.md
