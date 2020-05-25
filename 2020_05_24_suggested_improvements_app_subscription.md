@@ -2,7 +2,7 @@ Title: Rise Gardens App/Subscription Improvement suggestions
 Date: 2020-05-24 23:45
 Tags: review, garden, hydroponics
 Category: Review
-Slug: rise-garden-suggestions-physical
+Slug: rise-garden-suggestions-software
 Summary: Several suggestion for the Rise Gardens app, their subscription service and product as a whole.
 Status: published
 Series: Rise Gardens Review
