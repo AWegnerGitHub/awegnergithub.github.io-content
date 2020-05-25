@@ -117,6 +117,12 @@ months or so and allow me to change those until a few days before shipping. Then
 to be getting and if I decide that I don't like something or want to try something else in a
 few months I can still go change it.
 
+### Subscription plants vs Store plants
+
+I missed the availability of new plants for my May shipment. I was looking forward to trying some of
+these for June. It turns out, the new plants aren't listed in the list of plants I can
+select for my subscription. This is incredibly disappointing.
+
 ## Wishlist
 
 I have two items that I really think would make Rise Gardens fantastic and both are software!
@@ -170,6 +176,10 @@ can be improved (plant information) and offered a few suggestions to make the so
 
 Overall, I think everything I've mentioned is do able with some development time. I am looking forward to
 how Rise Gardens continues to improve the product.
+
+One thing that is very disappointing though, is that the new plants - cucumbers, bean mascotte, celery, catnip, and
+several more - aren't even available as options when selecting my next subscription plants. I hope this is
+resolved soon, because I really want to try some of these new plants.
 
 
  [risegardens]: https://risegardens.com/
