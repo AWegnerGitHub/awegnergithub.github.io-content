@@ -145,8 +145,8 @@ level. The packaging could be improved to reduce some of the cosmetic complaints
 This is a great design. Rise Gardens has clearly put in the time to design something that works as expected,
 but is easy to set up, maintain, and use.
 
-In my next post, I'm going to cover some more improvement ideas focused on the mobile application and
-subscription service.
+In my next post, I'm going to cover some more [improvement ideas focused on the mobile application and
+subscription service][appsuggestions].
 
 
  [risegardens]: https://risegardens.com/
@@ -154,6 +154,7 @@ subscription service.
  [unboxnurseries]: {filename}2020_04_24_nursery_unbox.md
  [assemblegarden]: {filename}2020_04_26_assembling_garden.md
  [planting]: {filename}2020_05_01_planting_garden.md
+ [appsuggestions]: {filename}2020_05_24_suggested_improvements_app_subscription.md
  [screws]: {attach}images/garden/5_suggestions/scratched_tray.jpg
  [topscratch]: {attach}images/garden/5_suggestions/scratched_top.jpg
  [smudge]: {attach}images/garden/5_suggestions/smudged_anntena.jpg
