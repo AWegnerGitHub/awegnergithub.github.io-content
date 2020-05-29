@@ -186,6 +186,8 @@ resolved soon, because I really want to try some of these new plants.
  [unboxgardens]: {filename}2020_04_22_rise_garden_unbox.md
  [unboxnurseries]: {filename}2020_04_24_nursery_unbox.md
  [assemblegarden]: {filename}2020_04_26_assembling_garden.md
+ [physicalsuggestions]: {filename}2020_05_04_suggested_improvements_physical.md
+ [planting]: {filename}2020_05_01_planting_garden.md
  [loading]: {attach}images/garden/6_app_suggestions/riseapp-loading.png
  [login]: {attach}images/garden/6_app_suggestions/riseapp-login.png
  [redoakapp]: {attach}images/garden/6_app_suggestions/redoak-harvest-day-app.png
