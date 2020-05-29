@@ -181,6 +181,8 @@ One thing that is very disappointing though, is that the new plants - cucumbers,
 several more - aren't even available as options when selecting my next subscription plants. I hope this is
 resolved soon, because I really want to try some of these new plants.
 
+The next post will be the [last in the series][final] and will cover harvest and my final, overall impressions of the garden.
+
 
  [risegardens]: https://risegardens.com/
  [unboxgardens]: {filename}2020_04_22_rise_garden_unbox.md
@@ -188,6 +190,7 @@ resolved soon, because I really want to try some of these new plants.
  [assemblegarden]: {filename}2020_04_26_assembling_garden.md
  [physicalsuggestions]: {filename}2020_05_04_suggested_improvements_physical.md
  [planting]: {filename}2020_05_01_planting_garden.md
+ [final]: {filename}2020_05_29_final_review.md
  [loading]: {attach}images/garden/6_app_suggestions/riseapp-loading.png
  [login]: {attach}images/garden/6_app_suggestions/riseapp-login.png
  [redoakapp]: {attach}images/garden/6_app_suggestions/redoak-harvest-day-app.png
