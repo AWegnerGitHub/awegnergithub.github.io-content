@@ -1,5 +1,6 @@
 Title: Rise Gardens Review
 Date: 2020-05-29 10:00
+modified: October 27, 2020
 Tags: review, garden, hydroponics
 Category: Review
 Slug: rise-garden-final-review
@@ -100,6 +101,23 @@ opinion with that bias in mind.
 I absolutely would get this again. This is a great in door garden. It grows way more than herbs. It's large enough to grow big
 plants. It's expandable to grow _more_ plants. It's easy enough to not kill plants. With a few improvements, I'd have no complaints
 at all.
+
+## Update: Oct. 2020
+
+The first full harvest took place in late August/early September. I was reasonably pleased with most of the plants. I started
+the second crop a couple weeks ago, hoping to put some lessons learned into practice to do ever better this round. A few problems
+I had with my first crop:
+
+* I planted to many tomato and pepper plants. They grow larger than the shelf space and started growing up the sides.
+* I planted kale about two weeks after my first batch of seeds and by the time it was transferred to the garden it was tiny and overwhelmed by larger plants
+* Cucumbers had a lot of buds, but few fruits. I think this is because I didn't prune well enough.
+* The pepper plants grew very large, produced many flowers, but didn't product a single pepper. I suspect part of this is due to pollination and competition with the tomatoes.
+
+For this second crop, I've spread of the plants that grow large much more and will end up having empty space in the garden because they will
+quickly overwhelm the other plants. I've put lettuce and herbs on the top shelf and filled it reasonably well. I've put two cucumber plants on the middle
+shelf and will work on pruning them better and shaping the direction they grow so that they remain on this level instead of growing everywhere. Finally, I'm
+only doing one tomato and one pepper plant this time. I'm hopeful that I get some peppers. The tomatoes were very good, but with only one plant I am hoping
+it have more room to grow and less competition.
 
 
  [risegardens]: https://risegardens.com/
