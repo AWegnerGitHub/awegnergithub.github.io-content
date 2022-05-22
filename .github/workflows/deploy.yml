@@ -40,15 +40,9 @@ jobs:
       - name: Build Site
         run: |
           cd source
-          echo "SOURCE LISTING------------------------------"
-          ls -l
-          echo "END LISTING --------------------------------"
           pelican content --output output --settings publishconf.py --verbose
-          cd output
-          echo "OUTPUT LISTING------------------------------"
-          ls -l
-          echo "END LISTING --------------------------------"
-
+          rm -rf output/content/images
+          rm -rf drafts/
 
       - name: Push to main site
         uses: cpina/github-action-push-to-another-repository@main
