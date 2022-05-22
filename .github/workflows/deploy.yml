@@ -40,6 +40,9 @@ jobs:
       - name: Build Site
         run: |
           cd source
+          echo "SOURCE LISTING------------------------------"
+          ls -l
+          echo "END LISTING --------------------------------"
           pelican content --output output --settings publishconf.py --verbose
           cd output
           echo "OUTPUT LISTING------------------------------"
