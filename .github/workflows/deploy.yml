@@ -38,6 +38,8 @@ jobs:
           cd source
           pip install --upgrade pip
           pip install -r requirements.txt
+          pip install pipdeptree
+          pipdeptree --freeze
 
       - name: Build Site
         run: pelican content --output output --settings publishconf.py --verbose
