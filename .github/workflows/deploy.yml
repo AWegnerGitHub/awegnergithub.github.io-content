@@ -55,11 +55,3 @@ jobs:
           destination-repository-name: 'test-deploy-repo'
           user-email: andy@andrewwegner.com
           target-branch: master
-
-
-MISSING THINGS:
-    CNAME
-    BingSiteAuth
-    "extra" directory
-    "images" directory
-    "pages" directory
