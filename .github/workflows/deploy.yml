@@ -26,8 +26,6 @@ jobs:
         run: |
             mkdir source/content
             rsync -av --progress content source/content --exclude source
-            cd source
-            echo "commitMessage=$(git log -1 --pretty=%B)" >> $GITHUB_ENV
 
       - name: Set up Python
         uses: actions/setup-python@v3
