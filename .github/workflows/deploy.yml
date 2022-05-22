@@ -39,10 +39,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Build Site
-        run: |
-          pwd
-          ls
-          pelican content --output output --settings publishconf.py --verbose
+        run: cd source && pelican content --output output --settings publishconf.py --verbose
 
       - name: Show output
         run: ls output
