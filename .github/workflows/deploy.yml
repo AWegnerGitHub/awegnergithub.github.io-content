@@ -49,4 +49,4 @@ jobs:
           destination-github-username: 'AWegnerGithub'
           destination-repository-name: 'test-deploy-repo'
           user-email: andy@andrewwegner.com
-          target-branch: main
+          target-branch: master
