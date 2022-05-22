@@ -34,7 +34,7 @@ jobs:
         with:
             python-version: '3.10'
             architecture: 'x64'
-      - run: pwd && ls
+      - run: cd source && ls
       - run: pip install --upgrade pip
       - run: pip install -r requirements.txt
 
