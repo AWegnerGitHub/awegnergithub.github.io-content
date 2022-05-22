@@ -39,11 +39,13 @@ jobs:
 
       - name: Build Site
         run: |
-          cd source/output
-          echo "SOURCE LISTING------------------------------"
+          cd source
+          pelican content --output output --settings publishconf.py --verbose
+          cd output
+          echo "OUTPUT LISTING------------------------------"
           ls -l
           echo "END LISTING --------------------------------"
-          pelican content --output output --settings publishconf.py --verbose
+
 
       - name: Push to main site
         uses: cpina/github-action-push-to-another-repository@main
