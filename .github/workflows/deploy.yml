@@ -27,9 +27,8 @@ jobs:
             mkdir source/content
             rsync -av --progress content source/content --exclude source
             cd source
-            commitMessage=$(git log -1 --pretty=%B)
-            echo $commitMessage
-            echo "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+            export commitMessage=$(git log -1 --pretty=%B)
+            echo "::set-env name=commitMessage::$commitMessage"
 
       - name: Set up Python
         uses: actions/setup-python@v3
