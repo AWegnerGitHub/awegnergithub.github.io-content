@@ -39,7 +39,7 @@ jobs:
 
       - name: Build Site
         run: |
-          cd source
+          cd source/output
           echo "SOURCE LISTING------------------------------"
           ls -l
           echo "END LISTING --------------------------------"
