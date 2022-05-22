@@ -1,0 +1,44 @@
+# Build and deploy the site
+
+name: Build and Deploy
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out site source
+        uses: actions/checkout@v3
+        with:
+            repository: AWegnerGitHub/awegnergithub.github.io-source
+            path: source
+
+      - name: Check out site content
+        uses: actions/checkout@v3
+        with:
+            repository: AWegnerGitHub/awegnergithub.github.io-content
+            path: content
+
+      - name: Move Content into correct location
+        run: |
+            mkdir source/content
+            rsync -av --progress content source/content --exclude source
+            cd source
+            ls
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+            python-version: '3.10'
+            architecture: 'x64'
+      - run: pip install --upgrade pip
+      - run: pip install -r requirements.txt
+
+      - name: Build Site
+        run: pelican content --output output --settings publishconf.py --verbose
+
+      - name: Show output
+        run: ls output
