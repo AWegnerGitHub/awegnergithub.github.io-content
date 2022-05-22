@@ -34,9 +34,9 @@ jobs:
         with:
             python-version: '3.10'
             architecture: 'x64'
-      - run: cd source && ls
+      - run: cd source
       - run: pip install --upgrade pip
-      - run: pip install -r requirements.txt
+      - run: ls && pip install -r requirements.txt
 
       - name: Build Site
         run: pelican content --output output --settings publishconf.py --verbose
