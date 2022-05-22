@@ -42,4 +42,4 @@ jobs:
         run: cd source && pelican content --output output --settings publishconf.py --verbose
 
       - name: Show output
-        run: ls output
+        run: cd source && ls output
