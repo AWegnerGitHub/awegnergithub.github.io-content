@@ -27,7 +27,6 @@ jobs:
             mkdir source/content
             rsync -av --progress content source/content --exclude source
             cd source
-            ls
 
       - name: Set up Python
         uses: actions/setup-python@v3
@@ -38,11 +37,12 @@ jobs:
           cd source
           pip install --upgrade pip
           pip install -r requirements.txt
-          pip install pipdeptree
-          pipdeptree --freeze
 
       - name: Build Site
-        run: pelican content --output output --settings publishconf.py --verbose
+        run: |
+          pwd
+          ls
+          pelican content --output output --settings publishconf.py --verbose
 
       - name: Show output
         run: ls output
