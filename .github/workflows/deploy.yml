@@ -21,16 +21,15 @@ jobs:
         with:
             repository: AWegnerGitHub/awegnergithub.github.io-content
             path: content
-        run: |
-            commitMessage=$(git log -1 --pretty=%B)
-            echo $commitMessage
-            echo "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
 
       - name: Move Content into correct location
         run: |
             mkdir source/content
             rsync -av --progress content source/content --exclude source
             cd source
+            commitMessage=$(git log -1 --pretty=%B)
+            echo $commitMessage
+            echo "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
 
       - name: Set up Python
         uses: actions/setup-python@v3
