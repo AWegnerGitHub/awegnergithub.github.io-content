@@ -41,5 +41,18 @@ jobs:
       - name: Build Site
         run: cd source && pelican content --output output --settings publishconf.py --verbose
 
-      - name: Show output
-        run: cd source && ls output
+      - name: Push to main site
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        run: |
+          commitMessage=$(git log -1 --pretty=%B)
+          echo $commitMessage
+          echo "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+        with:
+          source-directory: 'source/output'
+          destination-github-username: 'AWegnerGithub'
+          destination-repository-name: 'test-deploy-repo'
+          user-email: andy@andrewwegner.com
+          target-branch: main
+          commit-message: ${{ commitMessage  }}
