@@ -27,8 +27,7 @@ jobs:
             mkdir source/content
             rsync -av --progress content source/content --exclude source
             cd source
-            export commitMessage=$(git log -1 --pretty=%B)
-            echo "::set-env name=commitMessage::$commitMessage"
+            echo "commitMessage=$(git log -1 --pretty=%B)" >> $GITHUB_ENV
 
       - name: Set up Python
         uses: actions/setup-python@v3
@@ -53,4 +52,3 @@ jobs:
           destination-repository-name: 'test-deploy-repo'
           user-email: andy@andrewwegner.com
           target-branch: main
-          commit-message: $commitMessage
