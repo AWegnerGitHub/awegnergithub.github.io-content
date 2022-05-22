@@ -38,7 +38,12 @@ jobs:
           pip install -r requirements.txt
 
       - name: Build Site
-        run: cd source && pelican content --output output --settings publishconf.py --verbose
+        run: |
+          cd source
+          echo "SOURCE LISTING------------------------------"
+          ls -l
+          echo "END LISTING --------------------------------"
+          pelican content --output output --settings publishconf.py --verbose
 
       - name: Push to main site
         uses: cpina/github-action-push-to-another-repository@main
@@ -50,3 +55,11 @@ jobs:
           destination-repository-name: 'test-deploy-repo'
           user-email: andy@andrewwegner.com
           target-branch: master
+
+
+MISSING THINGS:
+    CNAME
+    BingSiteAuth
+    "extra" directory
+    "images" directory
+    "pages" directory
