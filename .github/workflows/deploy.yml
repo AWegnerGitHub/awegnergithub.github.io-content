@@ -23,7 +23,7 @@ jobs:
             path: content
 
       - name: Get Last Commit Message
-        run: echo "COMMIT_MESSAGE=$(git log -1 --pretty=%B)" >> $GITHUB_ENV
+        run: cd content && echo "COMMIT_MESSAGE=$(git log -1 --pretty=%B)" >> $GITHUB_ENV
 
       - name: Move Content into correct location
         run: |
