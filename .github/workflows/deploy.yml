@@ -22,6 +22,9 @@ jobs:
             repository: AWegnerGitHub/awegnergithub.github.io-content
             path: content
 
+      - name: Get Last Commit Message
+        run: echo "COMMIT_MESSAGE=$(git log -1 --pretty=%B)" >> $GITHUB_ENV
+
       - name: Move Content into correct location
         run: |
             mkdir source/content
@@ -43,6 +46,9 @@ jobs:
           pelican content --output output --settings publishconf.py --verbose
           rm -rf output/content/images
           rm -rf drafts/
+          echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+          echo ${{ env.COMMIT_MESSAGE }}
+          echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
       - name: Push to main site
         uses: cpina/github-action-push-to-another-repository@main
