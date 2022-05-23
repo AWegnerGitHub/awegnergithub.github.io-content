@@ -46,9 +46,6 @@ jobs:
           pelican content --output output --settings publishconf.py --verbose
           rm -rf output/content/images
           rm -rf drafts/
-          echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-          echo ${{ env.COMMIT_MESSAGE }}
-          echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
       - name: Push to main site
         uses: cpina/github-action-push-to-another-repository@main
@@ -60,3 +57,4 @@ jobs:
           destination-repository-name: 'test-deploy-repo'
           user-email: andy@andrewwegner.com
           target-branch: master
+          commit-message: ${{ env.COMMIT_MESSAGE }}
