@@ -92,7 +92,7 @@ Interviewer: As someone who’s been on both sides of the mirror, what would you
 
 ## That's a wrap
 
-With that, the conversation is over. I'm enjoying my role at Woven and plan using my previous experience as a customer to help other companies find their hidden gems in the candidate pool.
+With that, the conversation is over. I'm enjoying my role at Woven. There are a lot of ways to make the hiring process better in the tech industry and I'm going to be right there helping.
 
 
 
