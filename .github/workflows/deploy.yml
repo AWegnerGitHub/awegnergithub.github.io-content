@@ -56,3 +56,11 @@ jobs:
           user-email: andy@andrewwegner.com
           target-branch: master
           commit-message: ${{ env.COMMIT_MESSAGE }}
+
+      - name: Update Google
+        run: |
+          curl https://www.google.com/ping?sitemap=https://andrewwegner.com/sitemap.xml
+
+      - name: Update Bing
+        run: |
+          curl https://www.bing.com/ping?sitemap=https://andrewwegner.com/sitemap.xml
