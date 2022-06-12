@@ -52,7 +52,7 @@ jobs:
         with:
           source-directory: 'source/output'
           destination-github-username: 'AWegnerGithub'
-          destination-repository-name: 'test-deploy-repo'
+          destination-repository-name: 'awegnergithub.github.io'
           user-email: andy@andrewwegner.com
           target-branch: master
           commit-message: ${{ env.COMMIT_MESSAGE }}
