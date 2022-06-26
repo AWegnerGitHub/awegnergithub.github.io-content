@@ -1,5 +1,5 @@
 Title: 10 Soft Skills to Look For in Senior Software Developers
-Date: 2022-07-01 09:00
+Date: 2022-06-26 09:00
 Tags: job
 Category: Jobs
 Slug: top-soft-skills-senior-developers-need
