@@ -1,6 +1,6 @@
 Title: The Other Side of the Mirror: How I Went from Woven Client to Woven Employee
 Date: 2022-06-04 08:00
-Tags: job
+Tags: job, meta, leadership
 Category: Jobs
 Slug: woven-client-to-woven-employee
 Summary: My conversation with Woven on how I went from one of their customers to their Director of Engineering
