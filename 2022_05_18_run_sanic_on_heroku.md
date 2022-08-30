@@ -14,9 +14,11 @@ Recently I needed to set up a very simple proof of concept (POC) to demonstrate 
 
 My background is utilizing Python. I've been using it for nearly 15 years now. In my previous role I utilized [Sanic][sanic] to build our API. I've also used Django and Flask in the path, but it had been five or more years so I was rusty in those. Plus, I have a fancy new book written by Adam Hopkins, the core developer of Sanic and an amazing former colleague, called [Python Web Development with Sanic][book] that I wanted to work through. I've been meaning to get to this, and haven't had a lot of time with my recent job change. This small POC won't get far, but I've found that if I start following a long tutorial or course or book, I'll dedicate more time so that I can finish it.
 
-By the way, highly recommend the book if you are utilizing Sanic.
+By the way, I highly recommend the book if you are utilizing Sanic.
 
 Onward!
+
+**IMPORTANT UPDATE**: This post was written and utilized a free Heroku Dyno. On August 25, 2022, it was [announced that the free tier would be going away][3] on November 28, 2022. All of this will continue to work, but you won't be able to utilize the free tier to try it out after that date.
 
 ## Problem
 
@@ -122,3 +124,4 @@ With the steps above, I got a very simple Sanic proof of concept running on Hero
  [2]: https://devcenter.heroku.com/articles/heroku-cli#standalone-installation-with-a-tarball
  [newapp]: {attach}images/sanic-heroku-new-app.png
  [buildpack]: {attach}images/sanic-heroku-buildpack.png
+ [3]: https://blog.heroku.com/next-chapter
