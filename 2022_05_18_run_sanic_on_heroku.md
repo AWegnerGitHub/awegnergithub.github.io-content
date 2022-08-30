@@ -5,6 +5,7 @@ Category: Technical Solutions
 Slug: run-sanic-on-heroku
 Summary: A quick guide on how to launch a small Sanic application on Heroku
 Status: published
+modified: August 30, 2022
 
 [TOC]
 
