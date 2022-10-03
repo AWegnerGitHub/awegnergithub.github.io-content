@@ -5,7 +5,7 @@ Category: Jobs
 Slug: looking-for-new-role
 Summary: After a recent layoff, I'm looking for a new role
 
-It's been a busy couple of days. On August 16, I was part of the [15% workforce reduction][1] efforts that Woven implementing. This was not entirely unexpected, as our customers started scaling back their hiring efforts it was imperative that Woven didn't outgrow what it was able to sell.
+It's been a busy couple of days. On August 16, I was part of the [15% workforce reduction][1] efforts that Woven implemented. This was not entirely unexpected, as our customers started scaling back their hiring efforts it was imperative that Woven didn't outgrow what it was able to sell.
 
 I took the last few days to orient myself, and prepare for another job hunt. I'm looking for an Engineering Leadership role and would love an introduction if you could make one. I'm over on [LinkedIn][2], where I think it's going to be easiest to interact with my professional network.
 
