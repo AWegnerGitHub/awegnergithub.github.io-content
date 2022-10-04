@@ -19,5 +19,5 @@ I'm still looking for an engineering leadership role, but in the meantime, I'll 
 
 I cross posted this over on LinkedIn. [Join me over there][1]
 
- [1]: https://www.linkedin.com/feed/update/urn:li:activity:6971517928865157120/
+ [1]: https://www.linkedin.com/posts/andrew-wegner_opentowork-engineeringleadership-activity-6971517928865157120--eJx
  [js-to-ats]: {attach}images/job-source-ats.jpg
