@@ -1,6 +1,6 @@
 Title: Upload your resume, then re-enter it to apply for this job
 Date: 2022-09-13 08:45
-Tags: job, meta, leadership
+Tags: job, meta, job search
 Category: Jobs
 Slug: upload-resume-reenter-resume
 Summary: Talking through my current role search - How often do I need to re-enter my resume information after uploading?

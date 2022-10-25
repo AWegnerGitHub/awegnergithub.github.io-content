@@ -1,6 +1,6 @@
 Title: I am looking for an engineering leadership role
 Date: 2022-08-18 08:00
-Tags: job, meta, leadership
+Tags: job, meta, leadership, job search
 Category: Jobs
 Slug: looking-for-new-role
 Summary: After a recent layoff, I'm looking for a new role

@@ -1,6 +1,6 @@
 Title: What Job Source is using which ATS?
 Date: 2022-09-06 08:00
-Tags: job, meta, leadership
+Tags: job, meta, job search
 Category: Jobs
 Slug: what-job-source-uses-which-ats
 Summary: Talking through my current role search - Which Job Source is using which ATS?
