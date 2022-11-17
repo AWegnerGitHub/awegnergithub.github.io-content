@@ -43,7 +43,7 @@ jobs:
         run: |
           cd source
           pwd
-          ls content
+          ls content/content
           exit 1
           pelican content --output output --settings publishconf.py --verbose
           rm -rf output/content/images
