@@ -25,7 +25,6 @@ jobs:
 
       - name: Move Content into correct location
         run: |
-            pwd
             rsync -av --progress content source --exclude source
 
       - name: Set up Python
@@ -41,9 +40,6 @@ jobs:
       - name: Build Site
         run: |
           cd source
-          pwd
-          ls content
-          exit 1
           pelican content --output output --settings publishconf.py --verbose
           rm -rf output/content/images
           rm -rf drafts/
