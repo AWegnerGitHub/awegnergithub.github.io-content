@@ -61,7 +61,7 @@ Plus, the kids now was to add "all the things" to my island.
 Forgive the lack of true cinematics, and only 6 seconds of video...this wasn't covered in the course and I probably found an old way to do this 
 manually, but here is my island.
 
-https://www.youtube.com/watch?v=EpP63rH-NZI
+::: youtube EpP63rH-NZI
 
 ## Conclusion
 

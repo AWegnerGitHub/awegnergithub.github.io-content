@@ -23,7 +23,7 @@ created by members of Team Vipers. They have indicated they'd be willing to abso
 
 It's been a great run. So long Vipers, and thanks for all the fish.
 
-https://www.youtube.com/watch?v=BL-5OdZc3zw
+::: youtube BL-5OdZc3zw
 
 ![Thanks for the fish][2]
 

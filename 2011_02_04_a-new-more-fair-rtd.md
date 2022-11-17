@@ -56,7 +56,7 @@ Another change that I've added is that we can now more easily add effects. Some 
    
    For those that haven't seen it, here is one of our first tests back in November
    
-   https://www.youtube.com/watch?v=OzHNr1Bz5QQ
+::: youtube OzHNr1Bz5QQ
    
  - The Headless Horseless Headmann: That's right, you can be the Halloween nightmare.
  

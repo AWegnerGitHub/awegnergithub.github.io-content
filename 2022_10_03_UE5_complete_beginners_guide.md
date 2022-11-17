@@ -67,7 +67,7 @@ certain things are being done.
 
 My game:
 
-https://youtu.be/8_gXkDKlYIo
+::: youtube 8_gXkDKlYIo
 
 
 [![Unreal Engine 5: The Complete Beginner's Course][certificate]][courselink]

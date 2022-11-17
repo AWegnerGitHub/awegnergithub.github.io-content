@@ -6,6 +6,7 @@ Slug: gitlab-manage-remote-team
 Summary: My review of Gitlab's Coursera course on managing a remote team and workforce
 Status: published
 Series: Course Reviews
+Provider: Coursera
 template: review
 revieweditem: How to Manage a Remote Team
 score: 9.0

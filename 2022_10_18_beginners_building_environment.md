@@ -47,7 +47,7 @@ I did find that I need to learn more about rendering a scene in the future. My i
 a little saddened to see that environment that I spend so much time in look so...2005 in how it was output. I did manage to make it a little
 better. This is a three camera clip of my result.
 
-https://youtu.be/l4i1V2OMnUs
+::: youtube l4i1V2OMnUs 
 
 The first 20 seconds is just a static shot from the side of the cabin. This shows off the fire pit, the background birds, fireflies
 and waterfall as well as the nice lighting from the sky. The other 40 seconds are split to show a few different areas in a quick flyby.
@@ -63,7 +63,7 @@ I also couldn't figure out how to render it as a 4K video, instead of 1080p.
 
 The first clip in high quality (1080p):
 
-https://youtu.be/myBTHdU694c
+::: youtube myBTHdU694c
 
 I'm happy with this one. Everything looks good. Even those birds. I learned during this course that I do NOT have the skill set of 3D sculpt.
 However, that's ok. Those birds are in the background. The animation on the wings works perfectly and they look like they belong.
@@ -73,11 +73,11 @@ waterfalls in the distance, the chance to see all four sides of the house and so
 around the 12 second mark you can also see some floating rocks. This looks like some foliage that is "touching" the landscaping - in the very
 back - and didn't stay attached the the side of the landscape going into the water.
 
-https://youtu.be/uvEKQTpy32o
+::: youtube uvEKQTpy32o
 
 Finally the last clip in high quality is a fly over the lake. It starts by getting a good look at the waterfall (and some more floating rocks). It then flies through the fireflies crossing the river, and gives another look at the cabin and firepit. Finally it pulls back along the river to give a wide shot of the entire scene. A few things to point out - around the 14 second mark, you can see the mountain in the background floating above the landscape. I should have caught that, but I was more focused on keeping the cabin in the shot that I let the camera go to high and you can see a bit of level design that wasn't meant to be shown. Around the 16 second mark, as the camera pulls back, you can see the water texture start to change. I'm not sure what is causing that, but my guess is because of the lighting angles. I don't know how to fix it though.
 
-https://youtu.be/4x7yg7FSAUA
+::: youtube 4x7yg7FSAUA
 
 ## Conclusion
 
