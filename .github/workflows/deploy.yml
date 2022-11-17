@@ -41,6 +41,8 @@ jobs:
       - name: Build Site
         run: |
           cd source
+          ls
+          exit 1
           pelican content --output output --settings publishconf.py --verbose
           rm -rf output/content/images
           rm -rf drafts/
