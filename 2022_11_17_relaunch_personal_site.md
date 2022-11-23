@@ -124,7 +124,7 @@ A few other screenshots of the old site sit here:
  [tags]: /tags.html
  [categories]: /categories.html
  [reviews]: {tag}review
- [about]: {page}about
+ [about]: about
  [migrate]: {filename}2015_05_03_why-i-moved-from-wordpress-to-pelican.md
  [elegant]: https://elegant.oncrashreboot.com/
  [1]: https://github.com/Pelican-Elegant/elegant/graphs/contributors
