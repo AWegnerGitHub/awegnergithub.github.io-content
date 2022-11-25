@@ -6,6 +6,7 @@ Category: Review
 Slug: rise-garden-final-review
 Summary: The end of the series about Rise Gardens. What is my final opinion?
 Status: published
+Provider: RiseGardens
 Series: Rise Gardens Review
 template: review
 revieweditem: Rise Gardens
