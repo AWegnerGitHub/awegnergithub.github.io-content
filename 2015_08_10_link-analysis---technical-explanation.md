@@ -114,9 +114,9 @@ I am rather proud of how the results turned out for this project. I went into it
 Less than half of my sample had links (2.3M out of 5.6M). Of the 2.3M with links, only 1.5M were unique links. The final result of 10% failed links makes much more sense in this context. Ten percent of 1.5M links means that there are 150K links that are bad. 
 
 
- [1]: http://andrewwegner.com/analysis-of-links-posted-to-stack-overflow.html
- [2]: http://andrewwegner.com/a-proposal-to-fix-broken-links-on-stack-overflow.html
+ [1]: {filename}2015_08_06_analysis-of-links-posted-to-stack-overflow.md
+ [2]: {filename}}2015_08_07_a-proposal-to-fix-broken-links-on-stack-overflow.md
  [3]: https://archive.org/details/stackexchange
  [4]: https://mariadb.org/
  [5]: http://stackoverflow.com/a/13939198/189134
- [6]: http://andrewwegner.com/images/status_codes.svg
+ [6]: {attach}images/status_codes.svg

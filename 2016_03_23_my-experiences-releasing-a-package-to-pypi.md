@@ -195,7 +195,7 @@ All of these links are to the various places that StackAPI lives on the internet
 
 
 
- [1]: http://andrewwegner.com/can-a-machine-be-taught-to-flag-comments-automatically.html
+ [1]: {filename}2015_01_02_can-a-machine-be-taught-to-flag-comments-automatically.md
  [2]: https://pypi.python.org/pypi/StackAPI
  [3]: https://readthedocs.org/
  [4]: https://github.com/AWegnerGitHub/stackapi/blob/master/setup.py
