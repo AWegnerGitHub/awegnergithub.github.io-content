@@ -115,7 +115,7 @@ Less than half of my sample had links (2.3M out of 5.6M). Of the 2.3M with links
 
 
  [1]: {filename}2015_08_06_analysis-of-links-posted-to-stack-overflow.md
- [2]: {filename}}2015_08_07_a-proposal-to-fix-broken-links-on-stack-overflow.md
+ [2]: {filename}2015_08_07_a-proposal-to-fix-broken-links-on-stack-overflow.md
  [3]: https://archive.org/details/stackexchange
  [4]: https://mariadb.org/
  [5]: http://stackoverflow.com/a/13939198/189134
