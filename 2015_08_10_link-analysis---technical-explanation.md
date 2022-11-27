@@ -17,7 +17,7 @@ In my last two posts, I've discussed the number of [rotten links][1] on Stack Ov
 
 ### The database
 
-The process began by downloading the March 2013 [data dump][3]. I loaded the `posts` into a [MariaDB] instance on my local machine. This was accomplished with a very simple script and patience, as the script took a while to run.
+The process began by downloading the March 2013 [data dump][3]. I loaded the `posts` into a [MariaDB][4] instance on my local machine. This was accomplished with a very simple script and patience, as the script took a while to run.
 
     load xml local infile '/path/to/posts.xml'
     into table posts
