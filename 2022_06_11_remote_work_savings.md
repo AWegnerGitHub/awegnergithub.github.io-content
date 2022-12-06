@@ -41,7 +41,7 @@ This gets an average gas price of `$3.21`.
 
 It's probably important to note that if I run this again in August at the full 5 year mark that gas cost is going to be much higher. [Inflation was 8.6% in May 2022][8], with [average gas prices hitting $5.00 nationwide][9]. In my area, it's been above $5 for over a month. This is also part of the reason I wanted to run these numbers.
 
-Lastly, I wanted to see if I could figure out how much CO2 I had not produced based on how much gasoline I hadn't used. I was expecting a complicated formulate. Turns out that [1 Gallon of Gas = 19.59 pounds of CO2][10] (8,887 grams of CO2 per gallon).
+Lastly, I wanted to see if I could figure out how much CO2 I had not produced based on how much gasoline I hadn't used. I was expecting a complicated formula. Turns out that [1 Gallon of Gas = 19.59 pounds of CO2][10] (8,887 grams of CO2 per gallon).
 
 ## The calculations
 
