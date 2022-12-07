@@ -5,6 +5,7 @@ Category: Side Activities
 Slug: stackoverflow-bans-chatgpt
 Summary: Today Stack Overflow moderators banned ChatGPT on the site. This is my reflection on why we went this route.
 Status: published
+modified: December 6, 2022
 
 
 Today Stack Overflow moderators ([myself included][somod]), have implemented a [temporary ban on ChatGPT on the site][1].
@@ -12,7 +13,7 @@ Today Stack Overflow moderators ([myself included][somod]), have implemented a [
 > Use of ChatGPT generated text for posts on Stack Overflow is temporarily banned.
 
 This ban was picked up immediately by several [technology news outlets][2], including [ZDNet][3], [TheVerge][4], and [Vice][5]. 
-It was also picked up by [CNN][6].
+It was also picked up by [CNN][6], [The New York Times][11], and the [Washington Post][10].
 
 That's a lot of news coverage.
 
@@ -51,3 +52,5 @@ network of sites debates a similar ban][9], the Stack Overflow moderation team w
 [7]: https://openai.com/blog/chatgpt/
 [8]: https://stackoverflow.com/users?tab=moderators
 [9]: https://meta.stackexchange.com/q/384396/186281
+[10]: https://www.washingtonpost.com/business/chatgpt-could-makedemocracy-even-more-messy/2022/12/06/e613edf8-756a-11ed-a199-927b334b939f_story.html
+[11]: https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html
