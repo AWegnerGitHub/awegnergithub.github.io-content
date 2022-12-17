@@ -13,8 +13,8 @@ Status: published
 For years, I maintained a Wordpress blog covering various things I've done or created. Most of these revolved around
 things I created to make administering Team Vipers easier for me and for the rest of the admin team. It was my way
 of documenting what I'd done (in case I ever needed to do it again) and providing a way to update the Team Vipers community
-about new plugins or applications that would be deployed to the community. 
-    
+about new plugins or applications that would be deployed to the community.
+
 ## My Issues with Wordpress
 
 The problem I had with Wordpress was that it was just to bulky for the simple posts I was making. I needed a database, a full web
@@ -26,7 +26,7 @@ development career, I used PHP a lot. That was part of the reason I chose Wordpr
  > *-Me, before the real world ambushed me and beat me with a stick*
 
 ### Spam
-  
+
 I spent time setting up Wordpress. I picked out a theme, plugins, and started saving future me with documentation. Then life happened. For whatever
 reason, I stopped updating Wordpress. My blog sat out there for weeks or months unvisited by anyone. Then, one morning, my phone vibrated
 and told me that I had a new comment on my site. Woo! 

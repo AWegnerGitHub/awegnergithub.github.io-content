@@ -31,8 +31,8 @@ TL;DR: [We][1] did it, so... yes.
 Charcoal is the [organization][1] behind the [SmokeDetector][2] bot and other [nice things][3]. This bot scans new 
 posts across the entire network for spam posts and reports them to [various chatrooms][4] where people can act on them. 
 If a post has been created or edited, anywhere on the network, we've probably seen it. The bot utilizes our knowledge 
-of how spammers work and what they have previously posted to come up with common patterns and rules to detect spam in 
-the new and updated posts. You've likely seen the SmokeDetector bot if you visit chatrooms such as 
+of how spammers work and what they have previously posted to come up with common patterns and rules to detect spam in
+the new and updated posts. You've likely seen the SmokeDetector bot if you visit chatrooms such as
 [Tavern on the Meta][5], [Charcoal HQ][6], [SO Close Vote Reviewers][7] and others across the network. Over time, the 
 bot has become very accurate. 
 

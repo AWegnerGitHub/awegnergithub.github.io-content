@@ -3,7 +3,7 @@ Date: 2018-09-21 9:45
 Tags: review, technical, learning
 Category: Review
 Slug: learn-davinci-resolve-15-from-scratch
-Summary: My review of the Learn DaVinci Resolve 15 from scratch course on Udemy.  
+Summary: My review of the Learn DaVinci Resolve 15 from scratch course on Udemy.
 Status: published
 Series: Course Reviews
 template: review
@@ -40,7 +40,7 @@ This is a good overview of the DaVinci Resolve environment. I understand what ea
 
 ## Final Thoughts
 
-If you are paying for the course, you should avoid it for a while. It's not complete. There is no guarantee that additional lectures will be added and the promise of "more to come" isn't worth the full price. If you are looking for an overview of the most important buttons in DaVinci Resolve, this is a good course. If you are looking for details on what every button or menu option is going to do, this course doesn't cover that. Finally, if you are really looking to "learn DaVinci Resolve" and not "learn the DaVinci Resolve interface", this isn't the best course either. There are some tutorials here, but they are not the majority of content. 
+If you are paying for the course, you should avoid it for a while. It's not complete. There is no guarantee that additional lectures will be added and the promise of "more to come" isn't worth the full price. If you are looking for an overview of the most important buttons in DaVinci Resolve, this is a good course. If you are looking for details on what every button or menu option is going to do, this course doesn't cover that. Finally, if you are really looking to "learn DaVinci Resolve" and not "learn the DaVinci Resolve interface", this isn't the best course either. There are some tutorials here, but they are not the majority of content.
 
 [![Completion Award][3]][4]
 

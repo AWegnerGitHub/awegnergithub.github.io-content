@@ -42,18 +42,18 @@ and Postfix installed, so I was able to skip the first step in the [official ins
 the Ubuntu Omnibus package.
 
     sudo apt-get install -y curl openssh-server ca-certificates postfix
-	
+
 ### Getting the package
 
 The GitLab repository needs to added and then installed. To add the repository, issue this command:
 
     curl https://packages.gitlab.com/install/repositories/gitlab/gitlab-ee/script.deb.sh | sudo bash
-	
+
 To install the GitLab package, you need to provide an environment variable when you issue your
 `apt-get install` command. This will be the URL where you want to access your GitLab installation.
 
     sudo EXTERNAL_URL="http://gitlab.example.com" apt-get install gitlab-ee
-	
+
 ### Complete the installation
 
 Once the install, above is complete, you need to log in to complete the process. In your browser,

@@ -11,7 +11,7 @@ Series: Recovering from data loss
 
 ## Introduction
 
-[Previously][1] in this series, the new NAS was assembled. Ubuntu 16.04 has been installed and updated. It's time to do something with all those hard drives! 
+[Previously][1] in this series, the new NAS was assembled. Ubuntu 16.04 has been installed and updated. It's time to do something with all those hard drives!
 
 I'll be setting the seven 4TB drives in a single [ZFS][2] pool. I'm using ZFS for protection against data corruption. It offers several other [features][3] too. I'll
 be using dual parity, which means I could lose two drives and be able to recover. The goal is never to test this, but I'd rather not go through a [data loss scare][4] again.
@@ -20,14 +20,14 @@ Before we begin, it's a good idea to ensure Ubuntu has been updated.
 
     sudo apt-get update && sudo apt-get upgrade
 
-With the update complete, let's get started. 
+With the update complete, let's get started.
 
 ## Installing ZFS
 
-Installing the ZFS file system is simple on Ubuntu. 
+Installing the ZFS file system is simple on Ubuntu.
 
     sudo apt-get install zfs parted
-	
+
 Ta-da! Your system is now capable of setting up ZFS pools. The `parted` package will be used to set up a ZFS pool shortly.
 
 ## Setting up our pool
@@ -36,7 +36,7 @@ Pools are the basic building block of ZFS. A pool is made up of the underlying d
 for our new drives. First, ensure that the `zfs` package installed correctly by running:
 
     sudo zpool status
-	
+
 At this point in the process, you should get the message `no pools available`. 
 
 ### Adding the GPT label
@@ -45,7 +45,7 @@ I'm setting up this pool with brand new drives. We need to add a `GPT` label to 
 when we create the pool. To do this, we'll find the names of our drives first
 
     ls -l /dev/sd*
-	
+
 On my system, I get a result similar to this:
 
 	brw-rw---- 1 root disk 8,   0 Feb 13 09:23 /dev/sda
@@ -59,7 +59,7 @@ On my system, I get a result similar to this:
 	brw-rw---- 1 root disk 8,  80 Feb 13 09:23 /dev/sdf
 	brw-rw---- 1 root disk 8,  96 Feb 13 09:23 /dev/sdg
 	brw-rw---- 1 root disk 8, 112 Feb 13 09:23 /dev/sdh
-	
+
 We'll be adding the `GPT` labels to each of the unformatted drives. The unformatted ones are the listed drives that don't have a numeral as well. For me, that means we'll
 be working with `sdb`, `sdc`, `sdd`, `sde`, `sdf`, `sdg` and `sdh`. The `sda` drive has been formatted and contains partitions already. Those are `sda1`, `sda2` and `sda5`. 
 

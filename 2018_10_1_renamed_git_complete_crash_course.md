@@ -3,7 +3,7 @@ Date: 2018-10-01 9:45
 Tags: review, technical, learning
 Category: Review
 Slug: git-45-minute-crash-course
-Summary: My review of the The 2018 Git Complete: 45 minute crash course using Angular.  
+Summary: My review of the The 2018 Git Complete: 45 minute crash course using Angular.
 Status: published
 Series: Course Reviews
 template: review

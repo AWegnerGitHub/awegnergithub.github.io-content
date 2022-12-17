@@ -3,7 +3,7 @@ Date: 2017-06-28 6:16
 Tags: review, technical, learning
 Category: Review
 Slug: django-fullstack-bootcamp-course-review
-Summary: My review of the Python and Django Full Stack Web Developer Bootcamp course on Udemy.  
+Summary: My review of the Python and Django Full Stack Web Developer Bootcamp course on Udemy.
 Status: published
 Series: Course Reviews
 template: review

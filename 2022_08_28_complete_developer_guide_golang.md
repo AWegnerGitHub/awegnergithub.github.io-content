@@ -45,7 +45,7 @@ to make the few changes needed locally.
 
 My other small complaint is the relatively short lessons. I love bite sized lessons, but when a lesson is between 4 and 10 minutes and the first
 minute and last minute are spent summarizing the previous lesson and giving you and idea of what the next lesson will be,
-there is a lot of time spend reviewing.  
+there is a lot of time spend reviewing.
 
 ## Conclusion
 

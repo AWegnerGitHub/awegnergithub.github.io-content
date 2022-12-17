@@ -6,9 +6,9 @@ Slug: multiple-ip-addresses-on-the-same-physical-network-card
 Summary: A quick walkthrough on how to configure a single network card to pull multiple IP addresses (RedHat based distribution)
 Status: published
 
-There are times when a server can be allocated more than one IP Address even though it contains only one physical 
-network card. To associate these IP addresses with the server some manipulation of networking settings will need to be 
-performed. The steps outlined in this walk-through are for RedHat based systems. This tutorial is for statically assigned 
+There are times when a server can be allocated more than one IP Address even though it contains only one physical
+network card. To associate these IP addresses with the server some manipulation of networking settings will need to be
+performed. The steps outlined in this walk-through are for RedHat based systems. This tutorial is for statically assigned
 IP Addresses (as a server generally will have).
 For this walk through we are going to add one additional IP address to `eth0`. Navigate to
 

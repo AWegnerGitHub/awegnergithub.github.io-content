@@ -65,8 +65,6 @@ GitLab has done a good job with this course.
 [![How to Manage a Remote Team Certificate][certificate]][courselink]
 
 
-
-
  [1]: https://www.coursera.org/learn/remote-team-management
  [2]: https://learn.gitlab.com/coursera-remote-work
  [gitlab]: https://about.gitlab.com/blog/

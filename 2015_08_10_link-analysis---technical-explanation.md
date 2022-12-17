@@ -23,8 +23,8 @@ The process began by downloading the March 2013 [data dump][3]. I loaded the `po
     into table posts
     rows identified by '<row>';
 
-### The data 
-	
+### The data
+
 Once this was done, the next step was selecting my random sample of data. I did this by randomly selecting 25% of the days in a year and then pulling all posts for those days across all years of Stack Overflow's existence. The Python script I used to do this was fairly simple:
 
 	from datetime import timedelta, datetime
@@ -34,14 +34,14 @@ Once this was done, the next step was selecting my random sample of data. I did 
 	def random_date(start, end):
 		return start + timedelta(
 			seconds=randint(0, int((end - start).total_seconds())))
-			
+
 	percentage = 0.25
 	days = 366
-	
+
 	dayslist = []
 	for d in xrange(int(ceil(days*percentage))):
 		dayslist.append(random_date(datetime(2008,1,1), datetime(2008,12,31)))
-		
+
 At the end of this run, the days that I cared about are in the `dayslist` variable. I used that to pull questions and answers from the database that were created on that month/day combination. In the end, this resulted in just over 25% of the total posts being selected. To ensure that I could replicate the results, I also saved the dates that were selected.
 
 ## Parsing the data

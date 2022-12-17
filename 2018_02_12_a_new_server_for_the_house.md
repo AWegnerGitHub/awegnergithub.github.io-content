@@ -17,11 +17,11 @@ was happy that everything was recovered. It was time to finally build that huge 
 
 ## Server Goals
 
-A NAS for a home backup solution could be something as simple as a prebuilt device with a couple hard drives. I'm a bit of a geek and have a lot of digital data, not to 
-mention family pictures, years worth of programs I've written, and a digital music and movie collection. I'm a digital pack rat, but a well organized digital pack rat. 
-I also wanted to get more out of this server than "plug the device into the router". I ran game servers for [Vipers][2] for five years. I did a little bit of server 
-work at Caterpillar. I've toyed with server virtual machines off and on for testing various packages and software over the years. Through all of this, though, I've 
-never had a server in the house that I could use to run some of my scripts on. Those always ran on my desktop because it was always on. This server was going to change that. 
+A NAS for a home backup solution could be something as simple as a prebuilt device with a couple hard drives. I'm a bit of a geek and have a lot of digital data, not to
+mention family pictures, years worth of programs I've written, and a digital music and movie collection. I'm a digital pack rat, but a well organized digital pack rat.
+I also wanted to get more out of this server than "plug the device into the router". I ran game servers for [Vipers][2] for five years. I did a little bit of server
+work at Caterpillar. I've toyed with server virtual machines off and on for testing various packages and software over the years. Through all of this, though, I've
+never had a server in the house that I could use to run some of my scripts on. Those always ran on my desktop because it was always on. This server was going to change that.
 
 I had several goals when building this thing:
 

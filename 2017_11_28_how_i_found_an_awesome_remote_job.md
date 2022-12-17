@@ -173,7 +173,7 @@ personable.
 
 After all of this, an offer was presented and after some last minute "do I really
 want to make a big change in my life" doubts were squashed, I accepted. I love the
-job. 
+job.
 
 
 

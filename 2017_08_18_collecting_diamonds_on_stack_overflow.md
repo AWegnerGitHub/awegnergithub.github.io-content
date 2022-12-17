@@ -10,7 +10,7 @@ Status: published
 
 ## Introduction
 
-It's been over two years since I first ran for moderator on Stack Overflow. [I've ran for moderator][1] [three times][2], [previously][3] on Stack Overflow. 
+It's been over two years since I first ran for moderator on Stack Overflow. [I've run for moderator][1] [three times][2], [previously][3] on Stack Overflow.
 In each election I've done better, coming in fifth in the third election. Well, it's been a little over 8 months since the last one and new moderators are needed
 again. I decided to run once more with the knowledge that if I lost, I probably wouldn't run again in the next election. 
 

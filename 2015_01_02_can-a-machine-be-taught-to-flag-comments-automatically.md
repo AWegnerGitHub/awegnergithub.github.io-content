@@ -216,7 +216,7 @@ By month, this is the break down of rejected flags.
 
 ![2015 Flag Summary][23]
 
-The blip at the end of November is due to new moderators being elected and adjusting to what other moderators consider "good" versus "bad" comments. I didn't see the spike in the April election which is interesting, but after a couple days in November it's back to normal. The January spike I mentioned above. 
+The blip at the end of November is due to new moderators being elected and adjusting to what other moderators consider "good" versus "bad" comments. I didn't see the spike in the April election which is interesting, but after a couple days in November it's back to normal. The January spike I mentioned above.
 
 Interesting note: The longest stretch in the year with no declined flags was from August 13th through November 24th.
 

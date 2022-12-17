@@ -80,7 +80,7 @@ I didn't put over 4,300 gallons of gas in the vehicle and I didn't spend almost 
 
 These are just the easily calculable numbers on what shifting to remote work has saved me. Things that I can't put a number on: time with family, flexible scheduling, ability to take the dogs for a walk when the sun is out, and more. I'm not spending hours in a car. I'm at home when the family gets home from school and work.
 
-I hadn't tried to put hard numbers on this before, but now that I have, I am even more satisfied with my decision five years ago to start looking for a company that was 100% remote. 
+I hadn't tried to put hard numbers on this before, but now that I have, I am even more satisfied with my decision five years ago to start looking for a company that was 100% remote.
 
 
  [1]: {filename}2017_07_31_a_decade_at_caterpillar.md#the-long-drive

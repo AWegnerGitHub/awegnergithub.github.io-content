@@ -95,10 +95,6 @@ Interviewer: As someone who’s been on both sides of the mirror, what would you
 With that, the conversation is over. I'm enjoying my role at Woven. There are a lot of ways to make the hiring process better in the tech industry and I'm going to be right there helping.
 
 
-
-
-
-
  [1]: https://www.woventeams.com/the-other-side-of-the-mirror-how-andy-wegner-went-from-woven-client-to-woven-employee/
  [2]: {filename}2017_07_31_a_decade_at_caterpillar.md#the-new-job
  [3]: {filename}2017_11_28_how_i_found_an_awesome_remote_job.md

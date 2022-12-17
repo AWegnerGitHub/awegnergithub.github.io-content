@@ -14,7 +14,7 @@ Status: published
 Last year, [I ran for moderator][1] ([twice][2]) on Stack Overflow and didn't make it through the primaries. I came 
 close on that second run. Now, a year later, and a year more experienced, I'm going to try again. This post will 
 document my progress through the election cycle.
- 
+
 *Spoiler Alert*: I didn't win. The rest of this post details my thoughts as the election occured though.
 
 ## Nomination Phase
@@ -56,17 +56,17 @@ During the first full day, I'm gotten positive responses to this post. My two fa
 > queue are and if we could incorporate some of his work permanently on the site. Better identification of flags is 
 > something that would be very nice to have permanently.  - [bluefeet][6] *Stack Overflow Community Manager*
 
-and 
+and
 
 > There are always some nominees for this position who are very active, some who have good judgment and cool heads, and 
 > some who innovate with their approach to community moderation. Andy is the rare candidate who very clearly checks all 
 > three boxes. As a user on SO for 3.5 years, a moderator pro tempore on Engineering SE for 1.7 years and an early 
 > participant in the Community Building SE beta, I strongly support this nomination. - [Air][7] [*Moderator on Engineering.SE*][8]
 
-My candidate score this time is an impressive 39/40. This is up six from a year ago, and up ten from my first run. The 
+My candidate score this time is an impressive 39/40. This is up six from a year ago, and up ten from my first run. The
 one missing point is due to missing the [Refiner][10] badge. I believe the reason for this is because of my workflow. I,
-generally, don't edit and answer questions at the same time. If I'm answering, I'm not in "edit" mode. If I'm editting, 
-I'm usually in "moderation" mode. It's something I'll work on. I'm 38 out of 50 questions there, so I'll get it soon 
+generally, don't edit and answer questions at the same time. If I'm answering, I'm not in "edit" mode. If I'm editting,
+I'm usually in "moderation" mode. It's something I'll work on. I'm 38 out of 50 questions there, so I'll get it soon
 enough.
 
 ![Candidate Score][9]

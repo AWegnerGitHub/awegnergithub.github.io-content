@@ -40,8 +40,8 @@ It does not offer the following:
  - Explanation which of my skills or experiences they are interested in. Are you interested in my Python answers on Stack Overflow? My projects on Github? My PHP experience from years ago? This is *important* to know. If the company is looking to recruit me for knowledge I shared years ago (ie. PHP in my case), I'd probably be less useful right now because I haven't used PHP in years. I have not kept up with recent changes to the language or various frameworks.
  - Explanation of what the position will do, projects I'll be involved in, or challenges they are facing now that I'll help solve.
  
-I did not respond to this position. 
- 
+I did not respond to this position.
+
 ### Message 2
 
 ![Message 2][4]

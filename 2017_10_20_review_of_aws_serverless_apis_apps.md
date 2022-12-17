@@ -3,7 +3,7 @@ Date: 2017-10-20 11:17
 Tags: review, technical, learning
 Category: Review
 Slug: aws-serverless-apis-apps-review
-Summary: My review of the AWS Serverless APIs & Apps course on Udemy.  
+Summary: My review of the AWS Serverless APIs & Apps course on Udemy.
 Status: published
 Series: Course Reviews
 template: review

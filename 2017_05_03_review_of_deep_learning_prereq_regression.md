@@ -3,7 +3,7 @@ Date: 2017-05-03 10:00
 Tags: review, technical, learning
 Category: Review
 Slug: deep-learning-prereq-linear-logistic-regression
-Summary: My review of the Deep Learning Prerequisites - Linear and Logistic Regression courses on Udemy.  
+Summary: My review of the Deep Learning Prerequisites - Linear and Logistic Regression courses on Udemy.
 Status: published
 Series: Course Reviews
 template: review
@@ -16,7 +16,7 @@ score: 8.0
 
 My [last review][1] covered [Lazy Programmer's][2] [Numpy prerequisites course][3] on Udemy. In my goal to learn more about NLP,
 I'm continuing through the courses this instructor has designed. To this end, that requires two additional prerequisites: [Linear
-Regression][4] and [Logistic Regression][5]. This review covers those two separate courses.  
+Regression][4] and [Logistic Regression][5]. This review covers those two separate courses.
 
 ## Thoughts on the lessons
 

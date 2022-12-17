@@ -102,14 +102,14 @@ Count of posts by score (top 10)  (Covers 94% of all broken links):
 	| 0     | 36.4087%                   |
 	| 1     | 25.1674%                   |
 	| 2     | 13.4089%                   |
-	| 3     | 7.2806%                    | 
+	| 3     | 7.2806%                    |
 	| 4     | 4.2971%                    |
 	| 5     | 2.7065%                    |
 	| 6     | 1.8068%                    |
 	| 7     | 1.2854%                    |
 	| -1    | 1.1935%                    |
     | 8	    | 0.9415%                    |
-	
+
 ### By number of views
 
 *Note, this is number of views at the time the data dump was created, not as of today*
@@ -128,14 +128,14 @@ Count of posts by number of views (top 10):
 	| (1400, 1600] | 2.7766%     |
 	| (1600, 1800] | 2.3477%     |
     | (1800, 2000] | 1.9550%     |
-	
-	
+
+
 ### By days since post created
 
 *Note: This is number of days since creation at the time the data dump was created, not from today*
 
 Count of posts by days since creation (top 10) (Covers 64% of broken links):
-	
+
 	| Days since Creation | Percentage of Total Broken |
 	|---------------------|----------------------------|
 	| (1110, 1140]        | 7.2938%                    |
@@ -195,10 +195,10 @@ It looks like there have been a few previous discussions:
 
 ## Footnotes
 
-1. This is how it ultimately played out. Originally I sent `HEAD` requests, in an effort to save bandwidth. This turned out to waste a whole bunch of time because there are a whole bunch of sites around the internet that return a [`405 Method Not Allowed`][9] when sending a `HEAD` request. The next step was to sent `GET` requests, but utilize the default Python [requests][4] user-agent. A lot of sites were returning `401` or `404` responses to this user agent. 
+1. This is how it ultimately played out. Originally I sent `HEAD` requests, in an effort to save bandwidth. This turned out to waste a whole bunch of time because there are a whole bunch of sites around the internet that return a [`405 Method Not Allowed`][9] when sending a `HEAD` request. The next step was to sent `GET` requests, but utilize the default Python [requests][4] user-agent. A lot of sites were returning `401` or `404` responses to this user agent.
 2. Links to Stack Exchange sites were not counted in the above results. The failures seen are almost 100% due to a question/answer/comment being deleted. The process ran as an anonymous user, thus didn't have any reputation and was served a 404. A user with appropriate permissions *can* still visit the link. I verified a number of 404'd links to Stack Overflow posts and this was the case.
 3. The 4th most common failure was to `localhost`. The 16th and 17th most common were `localhost` on ports other than 80. I removed these from the result table with the knowledge that these shouldn't be accessible from the internet.
-4. There where 7 total URLs that returned status codes in the `600` and [`700`][10] range. One such site was [code.org][11] with a status code of 752. Sadly, this is not even defined the joke RFC. 
+4. There where 7 total URLs that returned status codes in the `600` and [`700`][10] range. One such site was [code.org][11] with a status code of 752. Sadly, this is not even defined the joke RFC.
 
 
 ## Follow up

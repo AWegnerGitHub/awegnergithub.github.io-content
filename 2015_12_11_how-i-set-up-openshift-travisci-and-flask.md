@@ -26,11 +26,11 @@ Next, the `rhc` OpenShift client tools are needed. This is a Ruby package. I hav
 Based on that, I figured I'd install the latest version of [Ruby][8]. At the time I tested this, that was 2.2.3. Unfortunately, when I ran the command to install the `rhc` tools, I received an error. After a bit of Googling, I found that it doesn't like 2.2x. So, I installed 2.1.7 instead. Next, I ran:
 
     gem install rhc
-	
+
 This installs several gems and took a few minutes to complete. Next,
 
     rhc setup
-	
+
 This started the OpenShift setup wizard. It consisted of filling out the few prompts and letting it generate an SSH key and then connecting to my account. Remember the Namespace you select. Again, this took a few minutes.
 
 ## Flask setup
@@ -38,7 +38,7 @@ This started the OpenShift setup wizard. It consisted of filling out the few pro
 The next step was to set up my first "Gear". This would be the Flask application. I'll work on the database next. First, I just want Python and Flask to function properly. Fortunately, this is very easy, as OpenShift has a Flask template.
 
     rhc app create testapp python-2.7 --from-code=https://github.com/openshift-quickstart/flask-base.git
-	
+
 A few notes:
 
  - I am utilizing Python 2.7, because that is the recommendation from the Flask team.
@@ -48,23 +48,23 @@ A few notes:
 At this point, Flask can be run locally using:
 
     python app.py
-	
+
 The application can be pushed back to OpenShift at this point and there should be a functional page on your OpenShift domain. In your command line, from the directory of your project:
 
     git add --all
 	git commit -m "Adding Flask application"
 	git push
-	
+
 This will take a moment. At the end, you should see these lines in your command prompt:
 
 	remote: Git Post-Receive Result: success
 	remote: Activation status: success
 	remote: Deployment completed with status: success 
-	
+
 If all three are a success, then you should be able to visit your URL. Your URL is a combination of your selected Namespace and the application name you created.
 
     http://<namespace>-<testapp>.rhcloud.com/
-	
+
 This should show a "Welcome to Flask on OpenShift" page. If you append `/test` to your URL, you'll get a message that says "It's Alive!"
 
 If it doesn't, you can check your error logs by running:

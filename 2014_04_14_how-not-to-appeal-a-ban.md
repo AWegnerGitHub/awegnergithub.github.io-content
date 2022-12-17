@@ -101,7 +101,6 @@ Break down:
  "Either I get to play with you, or I'll take down your servers".
  - You offer no proof of your claims (unsurprisingly, none existed)
 
-
 ---
 
 ## Summary

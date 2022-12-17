@@ -57,7 +57,7 @@ The application code below is a simple toy example. It will respond to the comma
         is_token_valid = request.form['token'] == SLACK_VERIFICATION_TOKEN
         is_team_id_valid = request.form['team_id'] == SLACK_TEAM_ID
         return is_token_valid and is_team_id_valid
-       
+
 
     def slack_command_response(response_url,
                                response_text,
@@ -70,7 +70,7 @@ The application code below is a simple toy example. It will respond to the comma
             'text': response_text
         }
         requests.post(response_url, json=data)
-       
+
 
     def start_command_worker(loop):
         """Switch to new event loop and run forever"""
@@ -89,7 +89,7 @@ The application code below is a simple toy example. It will respond to the comma
         slack_command_response(response_url,
                                response_type='ephemeral',
                                response_text="Hello World!")
-                                      
+
 
     @app.route('/hello-world', methods=['POST'])
     @validate_request
@@ -138,7 +138,7 @@ To test a Slack application, though, some set up within Slack is needed: create 
  1. First, create a [new Slack App][slack-app]. Fill out the name and select the appropriate workspace.
  2. After submission, it redirects to a basic information section about the new application. Scroll down to "App Credentials". Copy the `Verification Token` and put it in the `SLACK_VERIFICATION_TOKEN` variable in the Flask application.
  3. Open Slack in the browser, sign in, and then open the web console. In Chrome, do this with [kb:CTRL]+[kb:SHIFT]+[kb:I] or with [kb:F12] in FireFox. View the page source and search for `team_id`. It will look something like this: `"T083XXXX"`. Copy this value to `SLACK_TEAM_ID` in the Flask application.
- 
+
 ### ngrok set up
 
 Before slash commands can be set up in Slack, you need a development environment and an easy way to access our development server. One option is to punch holes in the router's firewall to point to your development machine. This works if you are on a home network and you'll be the only machine running the development server. It's no so easy if your set up is more complicated or infrastructure is outside of your control.

@@ -176,9 +176,6 @@ In short, despite some packaging annoyances, I'm looking forward to assembling t
 [unpacking my first round of seeds and the nurseries][unboxnurseries].
 
 
-
-
-
  [risegardens]: https://risegardens.com/
  [gardenboxes]: {attach}images/garden/1_unboxing/garden_boxes.jpg
  [extension1]: {attach}images/garden/1_unboxing/tray_covers_extension_tidy.jpg

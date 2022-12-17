@@ -3,7 +3,7 @@ Date: 2017-04-20 7:40
 Tags: review, technical, learning
 Category: Review
 Slug: become-a-product-manager-review
-Summary: My review of "Become a Product Manager  | Learn the Skills & Get the job" on Udemy.  
+Summary: My review of "Become a Product Manager  | Learn the Skills & Get the job" on Udemy.
 Status: published
 Series: Course Reviews
 template: review

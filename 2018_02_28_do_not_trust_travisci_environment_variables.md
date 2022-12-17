@@ -3,7 +3,7 @@ Date: 2018-04-02 12:30
 Tags: technical
 Category: Technical Solutions
 Slug: travisci-insecure-environment-variables
-Summary: Travis CI does not keep your environment variables secure if you transfer a repository.   
+Summary: Travis CI does not keep your environment variables secure if you transfer a repository.
 Status: published
 
 [TOC]

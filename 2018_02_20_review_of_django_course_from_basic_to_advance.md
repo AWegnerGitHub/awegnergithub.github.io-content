@@ -3,7 +3,7 @@ Date: 2018-02-20 22:45
 Tags: review, technical, learning
 Category: Review
 Slug: django-course-basic-to-advance
-Summary: My review of the Django Course from Basics to Advance course on Udemy.  
+Summary: My review of the Django Course from Basics to Advance course on Udemy.
 Status: published
 Series: Course Reviews
 template: review

@@ -3,7 +3,7 @@ Date: 2016-12-09 22:54
 Tags: review, technical, learning
 Category: Review
 Slug: data-analysis-with-pandas-review
-Summary: My review of "Data Analysis with Pandas" on Udemy.  
+Summary: My review of "Data Analysis with Pandas" on Udemy.
 Status: published
 Series: Course Reviews
 template: review

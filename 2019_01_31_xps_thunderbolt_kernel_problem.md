@@ -130,8 +130,7 @@ for the time being with this command:
 This is a [known bug][bug-report] with 4.15.0-44 and a fix is being worked on. It also seems to impact more than just Dell products. It looks like
 4.15.0-45 will fix the issue. We'll see.
 
-Also, Dell support is less helpful than I thought it would be. 
-
+Also, Dell support is less helpful than I thought it would be.
 
 
  [dell-bios]: https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverId=T7XJF&osCode=WT64A&productCode=xps-13-9360-laptop

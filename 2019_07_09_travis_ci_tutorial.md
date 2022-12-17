@@ -17,7 +17,7 @@ score: 2.0
 I've written about Travis CI before. I've reported a bug that makes it fairly easy
 to see [environment variables in Travis CI][2] or even unintentionally transfer
 them if you transfer your repository. I [build this blog using Travis CI][3]. I've
-[used Travis CI to set up an OpenShift application][4]. [SmokeDetector][5] uses it to 
+[used Travis CI to set up an OpenShift application][4]. [SmokeDetector][5] uses it to
 manage it's blacklists. In short, I have experience with Travis CI.
 
 I was surprised when I saw a course being offered for free recently on Udemy that

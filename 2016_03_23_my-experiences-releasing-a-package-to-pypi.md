@@ -30,7 +30,7 @@ Before this project, I'd written modules and libraries that were used by myself 
             mymodule.py
         __init__.py
 
-This was close to the end goal, but lacked some files in the `project_root` that were needed for a proper install via `pip`. The important file that was missing was `setup.py`. I needed this file to ensure that everything would install with a simple `pip install stackapi`	    
+This was close to the end goal, but lacked some files in the `project_root` that were needed for a proper install via `pip`. The important file that was missing was `setup.py`. I needed this file to ensure that everything would install with a simple `pip install stackapi`
 
 ### setup.py
 

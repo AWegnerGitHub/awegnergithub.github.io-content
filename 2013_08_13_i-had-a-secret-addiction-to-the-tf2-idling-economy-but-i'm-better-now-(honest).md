@@ -112,7 +112,7 @@ Tour of Duty tickets. The idle bots were shut down.
 It's been a month now. The bots are still down. I'm still around. Looking back on this, I'm happy Valve broke this. It wasn't
 doing anything for me other than providing me with something to do: "Need to idle tonight", "Need to craft and trade today", etc.
 Now I have that time back.
- 
+
 I am pleased with the technical challenges I over came to get this done though. Crafting was the biggest, but I think I'm
 most proud of the automated transfer of items to the master. Since the bots had to communicate via Steam and not via
 a local application, working out how I was going to do that took some time.

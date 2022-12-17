@@ -3,7 +3,7 @@ Date: 2017-07-31 12:00
 Tags: job
 Category: Jobs
 Slug: a-decade-at-caterpillar
-Summary: My career at Caterpillar has come to an end. This is a reflection on the last decade.  
+Summary: My career at Caterpillar has come to an end. This is a reflection on the last decade.
 Status: published
 
 [TOC]

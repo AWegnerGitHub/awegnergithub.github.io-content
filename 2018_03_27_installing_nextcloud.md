@@ -171,7 +171,6 @@ it "just happens". If I take a picture at home, it's backed up within seconds. I
 minutes of me getting home.
 
 
-
  [1]: {filename}2018_02_15_setting_up_zfs_on_ubuntu.md
  [2]: {filename}2018_02_12_a_new_server_for_the_house.md
  [3]: https://nextcloud.com/

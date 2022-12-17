@@ -93,7 +93,4 @@ Software development is a team sport. The best players are the ones who make tho
 To be truly successful, your senior engineers should have a mix of both hard skills (like coding) and soft skills (like problem-solving). These are the people who will take your company to the next level.
 
 
-
-
-
  [1]: https://www.woventeams.com/soft-skills-for-senior-software-developers/

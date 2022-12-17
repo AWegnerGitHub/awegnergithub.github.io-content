@@ -22,7 +22,7 @@ and markdown version of the pages. The first repository was set up as submodule.
 
     git submodule add https://github.com/AWegnerGitHub/awegnergithub.github.io.git output
 
-I ignored the `output` directory in `.gitignore` on the source repository. Finally, I had to adjust `publishconf.py` slightly to  
+I ignored the `output` directory in `.gitignore` on the source repository. Finally, I had to adjust `publishconf.py` slightly to
 
     DELETE_OUTPUT_DIRECTORY = False
 

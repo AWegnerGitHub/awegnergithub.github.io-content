@@ -27,7 +27,7 @@ Then we'll have the system select a set of winners from the entries. A user can 
 have a gigantic number of entries, your odds of winning more than one position are zero. Only one win per steam id.
 
 Using the prices from [backpack.tf][3], the bot will determine the "value" of the items within the trade.
- 
+
 ## How does this off set costs?
 
 Items that are received that are of high value or any additional keys we can get based on raffle entries will be sold on 
@@ -58,8 +58,8 @@ Our first winners are:
  - Popinfresh: Winner of 7 keys
  - Iamthebaron: Winner of 4 refined metal
  - That Guy From That Thing: Winner of 1 refined metal
- 
-![First Raffle Bot Entries and Winners][4] 
+
+![First Raffle Bot Entries and Winners][4]
 
 
 

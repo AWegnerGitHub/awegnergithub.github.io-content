@@ -3,7 +3,7 @@ Date: 2017-04-26 14:30
 Tags: technical, programming
 Category: Technical Solutions
 Slug: choosing-orm-library
-Summary: A discussion about how a team picked an ORM library for a new project.  
+Summary: A discussion about how a team picked an ORM library for a new project.
 Status: published
 
 [TOC]
@@ -32,7 +32,7 @@ above, and why almost everything added in 2014 looks like it's missing in later 
 
 ### What has really changed?
 
-After eliminating that Bayesian directory from git history, you can get a much better idea of how much has changed. 
+After eliminating that Bayesian directory from git history, you can get a much better idea of how much has changed.
 
 [![SmokeDetector - Git of Theseus - Filtered][6]][6]
 

@@ -46,7 +46,7 @@ With this queue, though, I think an automated process would be helpful as well. 
    Example:
      - A post where X+% of the text is hyperlinks is very dependent on the links being active. If one or more of the links are broken, the post may no longer be relevant (or may be a link only post). One example I found while doing this was [this][10] answer.
 
-I don't think that this type of edit from the Community user should bump a post to the front page. Edits done in the broken link queue, though, *should* bump the post just like a suggested edit does today. By preventing the automated Community posts from being bumped, we prevent the the front page from being flooded, daily, with old posts and these edits. I think that the exposure in the 10K tools and the broken link queue will provide the visibility needed to check the process is working correctly. 
+I don't think that this type of edit from the Community user should bump a post to the front page. Edits done in the broken link queue, though, *should* bump the post just like a suggested edit does today. By preventing the automated Community posts from being bumped, we prevent the the front page from being flooded, daily, with old posts and these edits. I think that the exposure in the 10K tools and the broken link queue will provide the visibility needed to check the process is working correctly.
 
 ## Process flows
 

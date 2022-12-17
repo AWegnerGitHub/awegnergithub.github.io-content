@@ -3,7 +3,7 @@ Date: 2017-04-20 22:30
 Tags: review, technical, learning
 Category: Review
 Slug: deep-learning-prereq-numpy
-Summary: My review of "Deep Learning Prerequisites: The Numpy Stack in Python" on Udemy.  
+Summary: My review of "Deep Learning Prerequisites: The Numpy Stack in Python" on Udemy.
 Status: published
 Series: Course Reviews
 template: review
