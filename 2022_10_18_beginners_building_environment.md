@@ -44,7 +44,7 @@ instructors (and mine is not). I found knowledge provided was wonderful to spark
 ## Future learning Goal
 
 I did find that I need to learn more about rendering a scene in the future. My initial output was grainy. It looked compressed and I was
-a little saddened to see that environment that I spend so much time in look so...2005 in how it was output. I did manage to make it a little
+a little saddened to see that environment that I spent so much time in look so...2005 in how it was output. I did manage to make it a little
 better. This is a three camera clip of my result.
 
 ::: youtube l4i1V2OMnUs 
