@@ -47,28 +47,28 @@ Press enter and wait 30 seconds or so.
 
 Within seconds I was provided this block of code
 
-```
-def longestCommonSubsequence(text1: str, text2: str) -> int:
-    # Convert text1 and text2 to lists of characters
-    s1 = list(text1)
-    s2 = list(text2)
-    
-    # Initialize the dynamic programming table
-    n = len(s1)
-    m = len(s2)
-    dp = [[0] * (m + 1) for _ in range(n + 1)]
-    
-    # Fill the dynamic programming table
-    for i in range(1, n+1):
-        for j in range(1, m+1):
-            if s1[i-1] == s2[j-1]:
-                dp[i][j] = dp[i-1][j-1] + 1
-            else:
-                dp[i][j] = max(dp[i-1][j], dp[i][j-1])
-    
-    # Return the length of the longest common subsequence
-    return dp[n][m]
-```
+
+    def longestCommonSubsequence(text1: str, text2: str) -> int:
+        # Convert text1 and text2 to lists of characters
+        s1 = list(text1)
+        s2 = list(text2)
+        
+        # Initialize the dynamic programming table
+        n = len(s1)
+        m = len(s2)
+        dp = [[0] * (m + 1) for _ in range(n + 1)]
+        
+        # Fill the dynamic programming table
+        for i in range(1, n+1):
+            for j in range(1, m+1):
+                if s1[i-1] == s2[j-1]:
+                    dp[i][j] = dp[i-1][j-1] + 1
+                else:
+                    dp[i][j] = max(dp[i-1][j], dp[i][j-1])
+        
+        # Return the length of the longest common subsequence
+        return dp[n][m]
+
 
 It likes the phrase ["dynamic programming table"][5]. Along with this code, it even explains its reasoning for going this route. Maybe 
 our intrepid AI can teach a junior dev a new trick or two while doing this puzzle. 
