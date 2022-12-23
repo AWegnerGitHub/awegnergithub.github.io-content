@@ -3,7 +3,7 @@ Date: 2017-05-22 23:45
 Tags: Stack Exchange
 Category: Side Activities
 Slug: stack-overflows-problem-feedback-from-an-experienced-user
-Summary: Stack Overflow appears to have made several poor decisions in the past few years. This is feedback from an experienced community member on how those decisions are perceived
+Summary: Stack Overflow has made several poor decisions in the past few years. I have feedback as an experienced community member on how those decisions are perceived
 Status: published
 
 [TOC]

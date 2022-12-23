@@ -3,7 +3,7 @@ Date: 2015-8-10 23:41
 Tags: Stack Exchange, programming
 Category: Side Activities
 Slug: link-analysis---technical-explanation
-Summary: In my last two posts, I've discussed the number of rotten links on Stack Overflow and a proposal to fix said links. In this post, I'm going to discuss how I performed this analysis. 
+Summary: Approximately 10% of links on the Stack Overflow are unavailable. This is an analysis of how I determined thiat and a discussion on how to improve it
 Status: published
 Series: Stack Overflow Link Analysis
 
