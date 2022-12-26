@@ -5,6 +5,7 @@ Category: Jobs
 Slug: chatgpt-should-end-leetcode-interviews
 Summary: ChatGPT's availability and ability to answer basic questions should end LeetCode use in software engineering interviews. Right?
 Status: published
+Series: ChatGPT Commentary
 
 [TOC]
 

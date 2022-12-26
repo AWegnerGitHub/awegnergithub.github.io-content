@@ -6,6 +6,7 @@ Slug: stackoverflow-bans-chatgpt
 Summary: Today Stack Overflow moderators banned ChatGPT on the site. This is my reflection on why we went this route.
 Status: published
 modified: December 6, 2022
+Series: ChatGPT Commentary
 
 
 Today Stack Overflow moderators ([myself included][somod]), have implemented a [temporary ban on ChatGPT on the site][1].
