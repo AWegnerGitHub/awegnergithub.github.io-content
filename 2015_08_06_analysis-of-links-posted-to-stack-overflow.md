@@ -3,7 +3,7 @@ Date: 2015-8-6 7:35
 Tags: Stack Exchange, programming
 Category: Side Activities
 Slug: analysis-of-links-posted-to-stack-overflow
-Summary: Approximately 10% of 1.5M randomly selected unique links in the Stack Overflow March 2015 data dump are unavailable. This is an analysis of how that was determined and a request for discussion on how to improve it
+Summary: Approximately 10% of on Stack Overflow are unavailable. This is an analysis of how I determined that and a discussion on how to improve it.
 Status: published
 modified: August 7, 2015
 Series: Stack Overflow Link Analysis
