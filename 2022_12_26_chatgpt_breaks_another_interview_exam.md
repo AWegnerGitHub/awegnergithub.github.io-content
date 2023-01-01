@@ -1,9 +1,9 @@
-Title: Breaking interview questions with ChatGPT
+Title: Breaking TestGorilla interview questions with ChatGPT
 Date: 2022-12-26 10:45
 Tags: technical, job search
 Category: Technical Solutions
 Slug: breaking-the-interview-with-chatgpt
-Summary: Using ChatGPT, I'm going to solve a couple interview questions quickly, easily and with nothing more than copying and pasting.
+Summary: Using ChatGPT, I'm going to solve a couple interview questions from TestGorilla quickly, easily and with nothing more than copying and pasting.
 Status: published
 Series: ChatGPT Commentary
 
