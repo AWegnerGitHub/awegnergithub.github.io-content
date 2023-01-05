@@ -1,6 +1,6 @@
 Title: Using ChatGPT to interact with an API
 Date: 2022-12-20 23:45
-Tags: technical
+Tags: technical, chatgpt
 Category: Technical Solutions
 Slug: chatgpt-interact-with-external-api
 Summary: I'm going to take ChatGPT for a spin against an API that I know. Let's see what it's capable of producing.

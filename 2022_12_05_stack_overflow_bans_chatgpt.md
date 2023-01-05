@@ -1,6 +1,6 @@
 Title: Stack Overflow bans ChatGPT temporarily
 Date: 2022-12-05 14:45
-Tags: Stack Exchange, moderation
+Tags: Stack Exchange, moderation, chatgpt
 Category: Side Activities
 Slug: stackoverflow-bans-chatgpt
 Summary: Today Stack Overflow moderators banned ChatGPT on the site. This is my reflection on why we went this route.
