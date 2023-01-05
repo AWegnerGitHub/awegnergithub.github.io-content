@@ -151,7 +151,7 @@ I skeptical that without the size of the figure this will work as expected.
 Lastly, we get to a question with lookup tables. These types of problems can usually be solved via brute force, at the expense of performance. They
 make good questions for a more senior developer. Note that this prompt also has exponents that I needed to adjust when pasting to the chat bot.
 
-![CodeSignal - Lookup Tables][11]
+![CodeSignal - Lookup Tables][12]
 
 > This question tests whether candidates have the problem-solving and data structures skills to use a lookup table (hash set/dictionary) in their programming language of choice. It also involves a bit of tricky logic to avoid double-counting pairs. Finally, this question asks candidates to pay close attention to constraints, testing a key skill for real-world development.
 
@@ -216,4 +216,4 @@ a problem, and what resources they utilize.
  [9]: https://codesignal.com/blog/engineering/example-codesignal-questions/
  [10]: {attach}images/codesignal-array.png
  [11]: {attach}images/codesignal-pattern.png
- [11]: {attach}images/codesignal-lookup.png
+ [12]: {attach}images/codesignal-lookup.png
