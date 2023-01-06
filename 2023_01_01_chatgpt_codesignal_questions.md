@@ -1,6 +1,6 @@
 Title: Running CodeSignal questions through ChatGPT
 Date: 2023-01-01 17:00
-Tags: technical, job search, chatgpt
+Tags: technical, job search, chatgpt, ai interviews
 Category: Technical Solutions
 Slug: chatgpt-breaks-more-interview-questions
 Summary: I am going to examine four sample CodeSignal questions and show how ChatGPT solves the problems.

@@ -1,6 +1,6 @@
 Title: Taking Codility's sample interview exam using ChatGPT
 Date: 2023-01-05 01:00
-Tags: technical, job search, chatgpt
+Tags: technical, job search, chatgpt, ai interviews
 Category: Technical Solutions
 Slug: chatgpt-continues-beating-interview-questions
 Summary: I'm continuing my look at technical interview exam questions and using ChatGPT to show the process needs to change
