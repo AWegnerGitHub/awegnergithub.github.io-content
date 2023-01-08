@@ -78,7 +78,7 @@ of the list from the list itself.
 However, the solution required taking input from STDIN, so I let ChatGPT know this by pasting in the only bit of information provided in the 
 code here:
 
-> # Enter your code here. Read input from STDIN. Print output to STDOUT
+> Enter your code here. Read input from STDIN. Print output to STDOUT
 
 ChatGPT made the neccessary change and provided a new code block.
 
