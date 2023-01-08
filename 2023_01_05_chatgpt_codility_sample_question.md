@@ -3,7 +3,7 @@ Date: 2023-01-05 01:00
 Tags: technical, job search, chatgpt, ai interviews
 Category: Technical Solutions
 Slug: chatgpt-continues-beating-interview-questions
-Summary: I'm continuing my look at technical interview exam questions and using ChatGPT to show the process needs to change
+Summary: I'm continuing my look at technical interview exam questions, this time with Codility, and using ChatGPT to show the process needs to change
 Status: published
 Series: ChatGPT Commentary
 
@@ -19,7 +19,7 @@ awareness of "AI". Especially with GPT-4's expected release in a month or so. In
 York City in their banning of the tool in the school system. 
 
 My perspective is that this is a tool that software engineers can utilize, but they have to understand that it is just that - a tool. It is 
-only as good as the engineer that wields it. A good engineer, will be able to utilize it very effectively. Hiring managers need to be aware of 
+only as good as the engineer that wields it. A good engineer will be able to utilize it very effectively. Hiring managers need to be aware of 
 what this tool is capable of, though. I've already shown that it can easily solve common interview questions that the software industry uses
 in their hiring process. I showed that questions from [LeetCode][4], [TestGorilla][5], and [CodeSignal][8] are easily solved by this tool in 
 previous articles in this series.
