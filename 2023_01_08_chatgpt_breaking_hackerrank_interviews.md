@@ -165,6 +165,6 @@ must adapt to the existance of AI assistants. Evaluate your candidates and their
  [16]: {attach}images/hackerrank-iterables-prompt.png
  [17]: {attach}images/hackerrank-iterables-result.png
  [18]: https://www.hackerrank.com/challenges/validating-postalcode/problem?isFullScreen=true
- [19]: {attach}image/hackerrank-postal-prompt.png
- [20]: {attach}image/hackerrank-postal-result.png
+ [19]: {attach}images/hackerrank-postal-prompt.png
+ [20]: {attach}images/hackerrank-postal-result.png
  [21]: {filename}2017_02_19_can-a-machine-be-taught-to-flag-spam-automatically.md
