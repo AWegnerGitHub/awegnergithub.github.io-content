@@ -1,4 +1,4 @@
-Title: Updated PHP and NextCloud
+Title: Updating PHP and NextCloud
 Date: 2023-01-30 9:30
 Tags: technical
 Category: Technical Solutions
@@ -22,32 +22,28 @@ server updated.
 The first step was to ensure I had at least PHP 7.4 installed. Since I'd be moving to [NextCloud 25][5], I wanted to ensure that I had at least PHP 8.0,
 as PHP 7.4 had been deprecated.
 
-```
-$ ll /etc/apache2/mods-available/php*
-/etc/apache2/mods-available/php7.1.conf
-/etc/apache2/mods-available/php7.1.load
-/etc/apache2/mods-available/php7.2.conf
-/etc/apache2/mods-available/php7.2.load
-/etc/apache2/mods-available/php7.3.conf
-/etc/apache2/mods-available/php7.3.load
-/etc/apache2/mods-available/php7.4.conf
-/etc/apache2/mods-available/php7.4.load
-/etc/apache2/mods-available/php8.0.conf
-/etc/apache2/mods-available/php8.0.load
-/etc/apache2/mods-available/php8.2.conf
-/etc/apache2/mods-available/php8.2.load
-```
+    $ ll /etc/apache2/mods-available/php*
+    /etc/apache2/mods-available/php7.1.conf
+    /etc/apache2/mods-available/php7.1.load
+    /etc/apache2/mods-available/php7.2.conf
+    /etc/apache2/mods-available/php7.2.load
+    /etc/apache2/mods-available/php7.3.conf
+    /etc/apache2/mods-available/php7.3.load
+    /etc/apache2/mods-available/php7.4.conf
+    /etc/apache2/mods-available/php7.4.load
+    /etc/apache2/mods-available/php8.0.conf
+    /etc/apache2/mods-available/php8.0.load
+    /etc/apache2/mods-available/php8.2.conf
+    /etc/apache2/mods-available/php8.2.load
 
 The interesting thing here is that I don't have PHP 8.1 installed. Not 100% sure why, but right now that doesn't bother me. Since the documentation
 doesn't mention PHP 8.2 support, I'll be using PHP 8.0 support, and cleaning up the old versions later.
 
 Disable Apache's PHP 7.3 module and enable the 8.0 one, then restart Apache:
 
-```
-sudo a2dismod php7.3
-sudo a2enmod php8.0
-sudo service apache2 restart
-```
+    sudo a2dismod php7.3
+    sudo a2enmod php8.0
+    sudo service apache2 restart
 
 ## Adjusting PHP 8.0's memory limit
 
@@ -64,9 +60,7 @@ attempting to restart it resulted in `Step 5 is currently in process. Please rel
 
 The solution to this, is to remove the `.step` file from your `data` directory. 
 
-```
-rm /nextcloud/data/updater-XXXXXXX/.step
-```
+    rm /nextcloud/data/updater-XXXXXXX/.step
 
 The `XXXXXXX` appears to be randomly generated, so you will need to see what yours is named. Once that file was removed, I was able to complete
 the updates through the web updater.
@@ -78,9 +72,7 @@ the `occ` utility provide by NextCloud.
 
 From your NextCloud directory:
 
-```
-sudo -u www-data php8.0 ./occ db:add-missing-indices
-```
+    sudo -u www-data php8.0 ./occ db:add-missing-indices
 
 I'm running this as the correct user. If you don't, it will warn you and fail to run.
 
