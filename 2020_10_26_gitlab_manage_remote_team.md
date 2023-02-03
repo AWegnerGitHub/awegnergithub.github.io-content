@@ -20,7 +20,7 @@ they are in an enviable position of being an expert on how to manage a team of o
 having an office. My current position puts me in charge of managing a global, remote, workforce as well but on a
 smaller scale.
 
-When GitLab announced they were releasing a course on [How to Manage a Remote Team][1] on Coursera, I jobbed at the
+When GitLab announced they were releasing a course on [How to Manage a Remote Team][1] on Coursera, I jumped at the
 opportunity to take it. I want to expand my skill set as a manager of remote employees and the chance to learn some
 best practices from GitLab in this area was a good place to start.
 
