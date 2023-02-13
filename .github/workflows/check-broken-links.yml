@@ -1,7 +1,7 @@
 name: Broken Links Checker
 on:
   schedule:
-    - cron:  '0 1 1 * *'
+    - cron:  '12 1 * * 5'
 env:
   WEBSITE_URL: "https://andrewwegner.com/"
   ISSUE_TEMPLATE: ".github/workflows/check-broken-links.md"
