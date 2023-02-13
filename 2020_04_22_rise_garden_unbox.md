@@ -192,6 +192,6 @@ In short, despite some packaging annoyances, I'm looking forward to assembling t
  [loosescrews]: {attach}images/garden/1_unboxing/tray_hardware_untidy.jpg
  [toplights]: {attach}images/garden/1_unboxing/top_light_brackets.jpg
  [wateringcan]: {attach}images/garden/1_unboxing/watering_can.jpg
- [assemblyinstr]: https://support.risegardens.com/hc/en-us/articles/360039901993-Garden-Assembly-Instructions
+ [assemblyinstr]: https://support.risegardens.com/en_us/garden-assembly-and-setup-instructions-SJBeSfy9c
  [unboxnurseries]: {filename}2020_04_24_nursery_unbox.md
  [final-review]:{filename}2020_05_29_final_review.md

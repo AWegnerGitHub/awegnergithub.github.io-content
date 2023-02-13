@@ -69,4 +69,4 @@ I followed up on my Stack Overflow post about 2 months after posting my solution
 
  [1]: http://stackoverflow.com/questions/8898114/how-can-i-connect-python-2-6-to-osi-pi
  [2]: https://github.com/mkleehammer/pyodbc
- [3]: http://python.net/crew/skippy/win32/Downloads.html
+ [3]: https://github.com/mhammond/pywin32

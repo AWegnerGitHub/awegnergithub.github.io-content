@@ -63,6 +63,6 @@ teach these courses and offer only basic "It may work on Windows" advice.
  [5]: {filename}2016_12_09_review_of_data_analysis_with_pandas_udemy_course.md
  [6]: https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/v4/overview
  [7]: https://github.com/AWegnerGitHub/Deep-Learning-Prerequisites
- [8]: https://lazyprogrammer.me/data-science-courses/
+ [8]: https://lazyprogrammer.me/deep-learning-courses/
  [9]: {attach}images/udemy-deep-learning-prereq-numpy.jpg
  [10]: https://ude.my/UC-9CGD0JX8

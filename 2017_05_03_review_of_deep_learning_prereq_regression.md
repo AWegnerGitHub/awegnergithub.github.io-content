@@ -62,7 +62,7 @@ teach these courses and offer only basic "It may work on Windows" advice.
  [4]: https://www.udemy.com/data-science-linear-regression-in-python/learn/v4/overview
  [5]: https://www.udemy.com/data-science-logistic-regression-in-python/learn/v4/overview
  [6]: https://github.com/AWegnerGitHub/Deep-Learning-Prerequisites
- [7]: https://lazyprogrammer.me/data-science-courses/
+ [7]: https://lazyprogrammer.me/deep-learning-courses/
  [8]: {attach}images/udemy-deep-learning-prereq-linear-regression.jpg
  [9]: https://ude.my/UC-OMSE1FD6
  [10]: {attach}images/udemy-deep-learning-prereq-logistic-regression.jpg

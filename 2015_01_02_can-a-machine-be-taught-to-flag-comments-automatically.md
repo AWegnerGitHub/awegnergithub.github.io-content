@@ -139,7 +139,7 @@ As a (fairly) non-subjective site, Stack Overflow made a good test case for this
 
 - [+/-1 has been discouraged][12]
 
-The observation I made on my own that comments with this type of content were distracting has been noticed by others as well. This was actually a very nice validation of my own process and some of the [results][13] posted on that thread show many such comments continue to be noise. Of course, this change did also force users to modify their content and may have added new patterns that can be utilized in future training.
+The observation I made on my own that comments with this type of content were distracting has been noticed by others as well. This was actually a very nice validation of my own process and some of the results posted on that thread show many such comments continue to be noise. Of course, this change did also force users to modify their content and may have added new patterns that can be utilized in future training.
 
 - Ability to [automatically check flags][14] would be great so that automated runs could be paused if it goes crazy
 
@@ -233,7 +233,6 @@ Interesting note: The longest stretch in the year with no declined flags was fro
   [10]: http://pets.stackexchange.com/
   [11]: http://parenting.stackexchange.com/
   [12]: http://meta.stackoverflow.com/q/277314/189134
-  [13]: https://stackedit.io/viewer#!provider=gist&gistId=af9d8186690cb658aafe&filename=commentblacklistresults.md
   [14]: http://meta.stackexchange.com/q/245416/186281
   [15]: http://data.stackexchange.com/stackoverflow/query/200435#graph
   [16]: http://meta.stackoverflow.com/q/278813/189134

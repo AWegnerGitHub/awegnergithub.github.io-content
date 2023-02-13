@@ -77,7 +77,7 @@ unilaterally nuke something.
 ## What are our safety checks?
 
 We designed the entire system with accuracy and sanity checks in mind. Our design collaborations are available for 
-your browsing pleasure ([RFC 1][16], [RFC 2][17], [RFC 3][18]). The major things that make this system safe and sane 
+your browsing pleasure ([RFC 1][16], [RFC 2][17], RFC 3 (no longer available)). The major things that make this system safe and sane 
 are:
 
  - We give users a choice as to how accurate they want to be with their automatic flags. Before casting any flags, we 
@@ -158,7 +158,7 @@ around and answering your questions. Alternatively, feel free to drop into [Char
   [5]: http://chat.meta.stackexchange.com/rooms/89/tavern-on-the-meta
   [6]: http://chat.stackexchange.com/rooms/11540/charcoal-hq
   [7]: http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers
-  [8]: https://metasmoke.charcoal-se.org
+  [8]: https://metasmoke.erwaysoftware.com/
   [9]: https://github.com/Charcoal-SE/metasmoke
   [10]: https://metasmoke.erwaysoftware.com/reason/106
   [11]: https://metasmoke.erwaysoftware.com/reason/21
@@ -168,7 +168,6 @@ around and answering your questions. Alternatively, feel free to drop into [Char
   [15]: https://metasmoke.erwaysoftware.com/flagging/ocs
   [16]: https://docs.google.com/document/d/1Bg0u4oY9W_skp79wSnyQWttUIBH8WV46JELDGJ7Bixo/edit
   [17]: https://docs.google.com/document/d/1voGyl3BUA1JHJ0pR2Mf9E5-wmIDUFC1G8HcThiS7B1k/edit
-  [18]: https://docs.google.com/document/d/1Nu2U0uFbmHpb3v61WyBxjYNK34n5tFWAPYtvu13ZQCw/edit#heading=h.9nvcibv3gama
   [19]: http://chat.stackexchange.com/transcript/message/35437121#35437121
   [20]: https://metasmoke.erwaysoftware.com/flagging/logs?filter=fps
   [21]: http://meta.stackexchange.com/questions/288120/allow-retracting-flags-from-the-api

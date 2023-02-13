@@ -87,6 +87,8 @@ down the list of companies I'd really like to talk with.
  I'm interested in. This is where I eventually found the posting for the job I
  took.
 
+UPDATE: Stack Overflow Jobs shut down in March 2021. 
+
 If I'm being honest, my search for a job took over eighteen months. I found
 several jobs that were interesting and that I applied for, but the process was
 slow. There were several false starts, several job applications were ignored,
@@ -181,7 +183,7 @@ job.
  [2]: https://www.glassdoor.com
  [3]: https://remoteok.io/
  [4]: https://weworkremotely.com/
- [5]: https://stackoverflow.com/jobs
+ [5]: https://meta.stackoverflow.com/a/415299/189134
  [6]: https://meta.stackoverflow.com/search?q=user%3A189134+%5Bjobs%5D
  [7]: https://trello.com/
  [8]: {attach}images/trello-job-board.png

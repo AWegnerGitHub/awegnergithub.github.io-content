@@ -75,7 +75,7 @@ enjoy your new GitHub Pages / CloudFlare web page for free.
  [3]: https://pages.github.com/
  [4]: https://github.com/AWegnerGitHub/awegnergithub.github.io
  [5]: https://github.com/AWegnerGitHub/awegnergithub.github.io-source
- [6]: https://raw.githubusercontent.com/AWegnerGitHub/awegnergithub.github.io-source/master/content/2015_07_09_how-i-set-up-this-site-with-github-pages-and-cloudflare.md
+ [6]: https://raw.githubusercontent.com/AWegnerGitHub/awegnergithub.github.io-content/master/2015_07_09_how-i-set-up-this-site-with-github-pages-and-cloudflare.md
  [7]: https://github.com/AWegnerGitHub/awegnergithub.github.io-source/blob/master/generate_content_production.bat
  [8]: https://github.com/AWegnerGitHub/awegnergithub.github.io-source/blob/master/content/extra/CNAME
  [9]: https://github.com/AWegnerGitHub/awegnergithub.github.io-source/blob/master/pelicanconf.py

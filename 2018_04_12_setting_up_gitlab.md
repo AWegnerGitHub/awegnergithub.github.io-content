@@ -170,6 +170,6 @@ knowledge that I can expand what I do with GitLab.
  [6]: https://gitlab.com/gitlab-org/gitlab-recipes/blob/master/web-server/apache/gitlab-omnibus-apache24.conf
  [7]: https://letsencrypt.org/
  [8]: {filename}2018_03_27_installing_nextcloud.md
- [9]: https://gitlab.com/gitlab-org/gitlab-ce/issues/32585
+ [9]: https://gitlab.com/gitlab-org/gitlab/-/issues/18213
  [10]: https://docs.gitlab.com/omnibus/settings/smtp.html#smtp-settings
  [ssl]: {filename}2018_04_25_setup_cloudflare_letsencrypt.md

@@ -93,7 +93,7 @@ This was brought up during all of the projects listed above by long time users. 
 
 ## The Fix
 
-Above I've pointed out several issues that I've seen over the past two years. These issues are part of a bigger problem though. It seems that Stack Overflow doesn't know to how handle it's community size any longer. It's in the top 300 sites visited in the US and receives [half a billion views globally per month][30]. Couple this with the fact that they [don't have a sustainable business model yet][31] and have a [sizable team][32] with good benefits and they are getting concerned.
+Above I've pointed out several issues that I've seen over the past two years. These issues are part of a bigger problem though. It seems that Stack Overflow doesn't know to how handle it's community size any longer. It's in the top 300 sites visited in the US and receives [half a billion views globally per month][30]. Couple this with the fact that they [don't have a sustainable business model yet][31] and have a sizable team with good benefits and they are getting concerned.
 
 Q&A is what built Stack Overflow, but it isn't enough to sustain them. Thus, the other projects are being created. Unfortunately, in this process, it seems the company is forgetting it's existing user base at the expense of expanding to new users. Existing users are getting frustrated with the lack of quality improvements, being ignored and not having changes that benefit their use cases.
 
@@ -155,7 +155,6 @@ I want Stack Overflow to continue to grow. I also want Stack Overflow to have hi
  [29]: https://meta.stackexchange.com/q/285889/186281
  [30]: https://www.quantcast.com/stackoverflow.com#trafficCard
  [31]: https://meta.stackoverflow.com/questions/349255/stack-overflow-now-has-its-own-app-on-ios-and-android#comment474175_349335
- [32]: https://stackoverflow.com/company/team
  [33]: https://meta.stackoverflow.com/q/349410/189134
  [34]: https://stackoverflow.com/tour
  [35]: http://data.stackexchange.com/stackoverflow/query/674690#graph

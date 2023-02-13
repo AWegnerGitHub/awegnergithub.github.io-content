@@ -214,6 +214,6 @@ testing any of those yet. This split will make it easier, I think, when or if I 
  [9]: {attach}images/build_blog_github_token.png
  [10]: https://travis-ci.org/
  [11]: {attach}images/build_blog_github_envvariable.png
- [12]: https://github.com/AWegnerGitHub/awegnergithub.github.io-source/blob/master/deploy.sh
+ [12]: https://github.com/AWegnerGitHub/awegnergithub.github.io-source/blob/a24583e590b8a5ec8377433b953abff31fdbfabb/deploy.sh
  [13]: {attach}images/build_blog_github_commits.png
- [14]: https://github.com/AWegnerGitHub/awegnergithub.github.io-content/blob/master/.travis.yml
+ [14]: https://github.com/AWegnerGitHub/awegnergithub.github.io-content/blob/4cafca4c768a9eb291e84760ebeb0df576ab82c4/.travis.yml
