@@ -1,10 +1,10 @@
 Title: Automatically checking for broken links using Github Actions
-Date: 2023-02-13 14:30
+Date: 2023-02-13 16:30
 Tags: technical, Pelican, meta
 Category: Side Activities
 Slug: find-broken-links-with-github-actions
 Summary: This blog is over a decade old with over 100 posts. This post covers my recent work to find links that have broken so that I can fix them quickly.
-Status: draft
+Status: published
 
 
 [TOC]
@@ -21,6 +21,8 @@ A decade plus is a long time to assume that links will remain operational. I wro
 especially because this is the site I give out in a professional context.
 
 ## GitHub Action
+
+The Github Action script, is [available in the repository][11] where the content of this blog is kept. It's in the `.github/workflow/` directory.
 
 ### Scheduling
 
@@ -99,24 +101,50 @@ My [template][9] is defined in the same directory as my workflow and currently l
 
     _Use search filter `─BROKEN─` to highlight failures_
 
-The top meta data defines the issue title, and any labels or assignees I want to set up. I'll probably add myself as an assignee
+The top metadata defines the issue title, and any labels or assignees I want to set up. I'll probably add myself as an assignee
 once I'm happy with the stability and reliablity of the checks.
+
+You can see what an [issue created with this template looks like in the repository][10].
 
 ### Environment Variables
 
-What do these mean?
+The last section, I've alluded to already - the environment variables. I have two currently defined. 
 
     env:
         WEBSITE_URL: "https://andrewwegner.com/"
         ISSUE_TEMPLATE: ".github/workflows/check-broken-links.md"
 
-## Gotchas
+The first is to set the domain I'm scanning. Mine, obviously. The second is a link to the issue template that is utilized if broken links
+are discovered.
 
-workflow_dispatch
-link-checker: Occassional failure of link causes problems. Uses weird DASH in output.
-Template: Would like to show broken links in the issue
-full script
-Nice to haves
+## Things I learned
+
+While setting this up there where a few things that I learned or desired that were not immediately obvious while reading documentation. The first
+was that GitHub actions aren't triggerable without setting up the appropriate `on` event type. In this case, I want to occassionally
+run the link checker on command, instead of once a week. That means I need the `workflow_dispatch` event and it needs to be empty. 
+
+  on:
+    schedule:
+      - cron:  '12 1 * * 5'
+    workflow_dispatch:
+  env:
+    WEBSITE_URL: "https://andrewwegner.com/"
+    ISSUE_TEMPLATE: ".github/workflows/check-broken-links.md"
+
+Notice that the empty `workflow_dispatch` has no other parameters. It can accept some, if I wanted to provide input to the script at run time,
+but I have no need for that right now. So, mine remains empty.
+
+A couple nice to haves, that I wasn't able to immediately figure out were how to retry a failed link "later" in the script. While testing
+the functionality, I had a run that failed because one image, in one article failed. Checking that article showed that it worked. Checking the 
+log showed that the link being checked worked. It was just the internet being the internet with a temporary blip. I'd love to be able to retry failed
+linked a little later in the run or X seconds later, etc. If it fails both times, assume it's broken and report it as normal. Without that retry,
+I'm a little worried this is going to be fragile, which is part of why I haven't populated the `assignee` metadata in the template yet.
+
+Another nice to have would be a way to embed the broken links (and page they appear on) in the issue itself. I couldn't find a way to accomplish
+that with the current tooling, so the template links to the log and you have to search for the appropriate string. 
+
+Like I mentioned earlier, I will likely look for a more up to date tool. Or build one my own. I'm interested in learning more about how GitHub actions 
+work and this may be a good usecase for myself.
 
  [1]: {filename}2022_11_17_relaunch_personal_site.md
  [2]: https://andrewwegner.com/archives.html
@@ -127,3 +155,5 @@ Nice to haves
  [7]: https://www.npmjs.com/package/broken-link-checker
  [8]: https://github.com/marketplace/actions/create-an-issue
  [9]: https://raw.githubusercontent.com/AWegnerGitHub/awegnergithub.github.io-content/master/.github/workflows/check-broken-links.md
+ [10]: https://github.com/AWegnerGitHub/awegnergithub.github.io-content/issues/5
+ [11]: https://raw.githubusercontent.com/AWegnerGitHub/awegnergithub.github.io-content/e701da303592695bc6300f155be56d79ca35957d/.github/workflows/check-broken-links.yml
