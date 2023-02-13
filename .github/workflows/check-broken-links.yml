@@ -1,0 +1,25 @@
+name: Broken Links Checker
+on:
+  schedule:
+    - cron:  '0 1 1 * *'
+env:
+  WEBSITE_URL: "https://andrewwegner.com/"
+  ISSUE_TEMPLATE: ".github/workflows/check-broken-links.md"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Run Broken Links Checker
+      run: npx broken-link-checker $WEBSITE_URL --ordered --recursive
+
+    - uses: actions/checkout@v2
+      if: failure()
+
+    - uses: JasonEtco/create-an-issue@main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        filename: ${{ env.ISSUE_TEMPLATE }}
+      if: failure()
