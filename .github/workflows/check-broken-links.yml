@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - name: Run Broken Links Checker
-      run: npx broken-link-checker $WEBSITE_URL --ordered --recursive --exclude linkedin
+      run: npx broken-link-checker $WEBSITE_URL --ordered --recursive --exclude linkedin --exclude "udemy" --exclude "ude.my"
 
     - uses: actions/checkout@v3
       if: failure()
