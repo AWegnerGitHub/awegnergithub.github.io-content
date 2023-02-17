@@ -12,7 +12,7 @@ Series: Recovering from data loss
 ## Introduction
 
 In my [last post][1], I covered the events that lead to my data loss scare. Faulty, untested, backups will bite you every time. The question 
-is just, "when will it happen?". By mid-to-late January (three months later), I'd gotten everything back from [SERT Data Recovery](http://sertdatarecovery.com) and
+is just, "when will it happen?". By mid-to-late January (three months later), I'd gotten everything back from [SERT Data Recovery](https://www.sertdatarecovery.com/) and
 was happy that everything was recovered. It was time to finally build that huge NAS.
 
 ## Server Goals
