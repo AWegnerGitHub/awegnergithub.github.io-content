@@ -26,10 +26,10 @@ never had a server in the house that I could use to run some of my scripts on. T
 I had several goals when building this thing:
 
  - Have more storage space than I needed for several years. I didn't want to rebuild this in 18 months because I was bad at planning. Years ago when I built my computer
- for college, I stuck two 120 gigabyte hard drives in the machine and thought I'd never fill that. When I came home that first summer, I already had to upgrade hard drives 
- because I was low on space. 
- - Run a server version of Linux. I don't want to buy a license for a Microsoft server product and my Microsoft Academic Licenses expired a while ago. During my time with Vipers, I used a Red Hat variant of Linux. At Caterpillar we used Ubuntu. 
- - Utilize [ZFS][3] for protection against data corruption. This combined with my more recent usage of Ubuntu lead me to decide on using Ubuntu Server for the operating system. 
+ for college, I stuck two 120 gigabyte hard drives in the machine and thought I'd never fill that. When I came home that first summer, I already had to upgrade hard drives
+ because I was low on space.
+ - Run a server version of Linux. I don't want to buy a license for a Microsoft server product and my Microsoft Academic Licenses expired a while ago. During my time with Vipers, I used a Red Hat variant of Linux. At Caterpillar we used Ubuntu.
+ - Utilize [ZFS][3] for protection against data corruption. This combined with my more recent usage of Ubuntu lead me to decide on using Ubuntu Server for the operating system.
  At the time of this post, I'll be using the 16.04 LTS version. I'll continue to upgrade to future LTS versions.
  - Back up data from all devices in the house automatically. As camera phones have gotten better, we've found that we carry our bulky digital camera less and less. The problem
  with the phone camera is that we need to get the pictures to the computer. I don't want to hunt down a data cable or email the pictures to myself. I'm also not a fan of 
