@@ -6,13 +6,14 @@ Slug: new-house-server
 Summary: Technical discussion about the new backup server
 Status: published
 Series: Recovering from data loss
+modified: March 10, 2023
 
 [TOC]
 
 ## Introduction
 
 In my [last post][1], I covered the events that lead to my data loss scare. Faulty, untested, backups will bite you every time. The question 
-is just, "when will it happen?". By mid-to-late January (three months later), I'd gotten everything back from [SERT Data Recovery](https://www.sertdatarecovery.com/) and
+is just, "when will it happen?". By mid-to-late January (three months later), I'd gotten everything back from SERT Data Recovery and
 was happy that everything was recovered. It was time to finally build that huge NAS.
 
 ## Server Goals
@@ -68,6 +69,8 @@ I assembled the machine, plugged everything in, and turned on the new server. Th
 
 The hardware is assembled. Ubuntu 16.04 Server has been installed. The next step is configuring the server to be the backup solution for the entire house and meeting my other 
 goals. I'll have a few more posts in this series on how I accomplished those goals. Stay tuned!
+
+_Note_: The link to SERT Data Recovery was removed in March of 2023 because it failed multiple link checks with multiple errors. While I am still very happy with the work they performed in 2018, as of 2023 I don't feel comfortable linking to a site that continues to fail basic SSL certificate checks and forces browsers to warn users against visiting the site.
 
 
 

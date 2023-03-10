@@ -6,6 +6,7 @@ Slug: backup-your-data
 Summary: Learn from my mistake and test your backups
 Status: published
 Series: Recovering from data loss
+modified: March 10, 2023
 
 [TOC]
 
@@ -70,7 +71,7 @@ I went with a professional. I couldn't lose that much of my history. I still tho
 
 ## SERT Data Recovery
 
-I went with [SERT Data Recovery](https://www.sertdatarecovery.com/). The technician over the phone explained their process. They asked questions that made me confident in their
+I went with SERT Data Recovery. The technician over the phone explained their process. They asked questions that made me confident in their
 ability to at least diagnose the problem, and most importantly were thousands of dollars cheaper than a competitor I spoke with. They explained their pricing structure (they
 provide a quote and it won't be a giant range), and pricing for replacement parts and allowed me to either send in an empty drive or pay for one that my data would be returned
 to me on. They answered my questions.
@@ -83,6 +84,8 @@ data was recovered with a 100% recovery rate. I was ecstatic. My data was shippe
 
 My only complaint in the entire process was that the recovery process took almost seven weeks. I shipped the drive at the end of October and received the data back the week
 before Christmas. However, all of my data was recovered, so it's a pretty minor complaint.
+
+_Note_: The link to SERT Data Recovery was removed in March of 2023 because it failed multiple link checks with multiple errors. While I am still very happy with the work they performed in 2018, as of 2023 I don't feel comfortable linking to a site that continues to fail basic SSL certificate checks and forces browsers to warn users against visiting the site.
 
 ## What's next?
 
