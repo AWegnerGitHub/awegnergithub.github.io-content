@@ -13,7 +13,7 @@ Status: published
 
 Since I [shut down][1] Vipers early this year, I've been itching to do *something* web related. Web technologies aren't my best technical skill, but I like trying out new things and learning something in the process. I use Python at work. I like Python a lot. With Christmas and New Years coming up, I want to have a project during my down time. My goal is to get a [Flask][2] application built and then deployed to [OpenShift][3]. Part of this deployment is to utilize [TravisCI][4]. I'm planning on using [pytest][14] and [hypothesis][15] for my test suite. Finally, I want to use my own (sub)domain, instead of the provided `rhcloud` one.
 
-Of these three technologies, I've used only Flask before. The [comment flagging bot][5] I built has a dashboard built in Flask. I've never used OpenShift or TravisCI. I selected OpenShift because it has a couple [features][6] I want that Heroku doesn't. The biggest one, according to the previous link, was that OpenShift has support for MySQL and Heroku doesn't (surprisingly). I want to use TravisCI and automated testing, because one of my goals for next year at work is to introduce automated tested to our development. (I work with Engineers, not coders...that's my excuse and it's a bad excuse, so I'm going to try and fix it.) To get ready for that goal, I want to test out a system that does continuous integration/automated testing. Both OpenShift and Travis CI provide me with free services. Hypothesis and py.test provide me with a way to generate comprehensive test conditions. 
+Of these three technologies, I've used only Flask before. The [comment flagging bot][5] I built has a dashboard built in Flask. I've never used OpenShift or TravisCI. I selected OpenShift because it has a couple features I want that Heroku doesn't. The biggest one, was that OpenShift has support for MySQL and Heroku doesn't (surprisingly). I want to use TravisCI and automated testing, because one of my goals for next year at work is to introduce automated tested to our development. (I work with Engineers, not coders...that's my excuse and it's a bad excuse, so I'm going to try and fix it.) To get ready for that goal, I want to test out a system that does continuous integration/automated testing. Both OpenShift and Travis CI provide me with free services. Hypothesis and py.test provide me with a way to generate comprehensive test conditions. 
 
 ## OpenShift set up
 
@@ -251,7 +251,6 @@ On to building something!
  [3]: https://www.openshift.com/
  [4]: https://travis-ci.org/
  [5]: {filename}2015_01_02_can-a-machine-be-taught-to-flag-comments-automatically.md
- [6]: http://www.paasify.it/compare/heroku-vs-openshift%20online
  [7]: https://developers.openshift.com/en/managing-client-tools.html
  [8]: http://rubyinstaller.org/downloads/
  [9]: http://www.pymysql.org/
