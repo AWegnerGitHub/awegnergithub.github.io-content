@@ -48,7 +48,8 @@ constant shifts between the lecture and the course with few natural break points
 
 ### Positive Aspects
 
-The _content_ of this course is really good. I mentioned above that I wanted to learn about blue prints and this course did a great job of showing how powerful blue prints are. It also provided an eye opening overview of how "simple" things are more complex under the hood. 
+The _content_ of this course is really good. I mentioned above that I wanted to learn about blue prints and this course did a great 
+job of showing how powerful blue prints are. It also provided an eye opening overview of how "simple" things are more complex under the hood. 
 
 A simple coin pick up system involve setting up a sprite, checking for collision and ensure it's the player and not an enemy, adding
 the coin to the player's count of coins and doing something if you collect enough coins. Conceptually, I knew all the happened, but 
@@ -82,7 +83,6 @@ walking away from this with more understanding of how blueprints work and that w
 ::: youtube m64wxIoXtJo
 
 [![Learn How To Make A 2D Platformer In Unreal Engine 5 Completion Certificate][certificate]][courselink]
-
 
 
  [1]: {filename}2022_10_03_UE5_complete_beginners_guide.md
