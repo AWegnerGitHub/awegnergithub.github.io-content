@@ -1,6 +1,6 @@
 Title: Review of Learn How To Make A 2D Platformer In Unreal Engine 5 Course
 Date: 2023-04-11 13:15
-Tags: review, technical, learning
+Tags: review, technical, learning, unreal engine
 Category: Review
 Slug: make-unreal5-2d-platformer-review
 Summary: A review of the Udemy course: Learn How To Make A 2D Platformer In Unreal Engine 5
