@@ -31,4 +31,4 @@ in the future here, as well, discussing some of the technical aspects of the bus
 [1]: {filename}2022_08_18_looking_for_new_role.md
 [2]: {filename}2022_09_06_job_source_ats.md
 [3]: {filename}2022_09_13_reenter_your_resume.md
-[4]: [filename}2022_10_24_job_search_rejections.md
+[4]: {filename}2022_10_24_job_search_rejections.md
