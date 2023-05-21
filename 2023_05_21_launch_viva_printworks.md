@@ -7,7 +7,7 @@ Summary: The start of a new project is always exciting. This project is a brand 
 Status: published
 
 
-[![Viva Printworks Banner | Link to Etsy shop]][vivaetsylink]
+[![Viva Printworks Banner | Link to Etsy shop][vivabanner]][vivaetsylink]
 
 [Viva Printworks][vivaetsylink] has launched! It's a small - for now - business producing unique designs
 for various products. We are launching with 30 designs on t-shirt and hope to expand to other product types in 
@@ -18,7 +18,7 @@ last year (and [all][2] the [fun][3] that [entailed][4]), these discussions beca
 we wanted to do, figuring out the technicalities of starting a business, and figuring out how we were going to accomplish
 this - we did it!
 
-[Viva Printworks][vivaprintworkslink] launched our first wave of designs on May 18, 2023 on Etsy. As we go through 
+[Viva Printworks][vivaetsylink] launched our first wave of designs on May 18, 2023 on Etsy. As we go through 
 launch, growth, expansion and general business lifecycles, we hope to expand beyond a single platform. 
 
 This is exciting for us! Check us out at [Viva Printworks on Etsy][vivaetsylink]. I suspect that I'll have posts
