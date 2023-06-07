@@ -1,6 +1,6 @@
 Title: Joining the Stack Exchange Moderator Strike
 Date: 2023-06-05 01:00
-Tags: Stack Exchange, moderation
+Tags: Stack Exchange, moderation, chatgpt
 Category: Side Activities
 Slug: stackexchange-moderator-strike
 Summary: Stack Exchange moderators are striking. This is my reasoning for why I'm joining.
