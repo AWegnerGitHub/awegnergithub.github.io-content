@@ -5,6 +5,7 @@ Category: Side Activities
 Slug: stackexchange-moderator-strike-week-one
 Summary: Stack Exchange moderators are striking. This is my my summary of the first week.
 Status: published
+modified: June 12, 2023
 
 [TOC]
 
@@ -62,6 +63,21 @@ The discovery that the data dumps were turned off has angered many people - thos
 it this week. The fact that these were turned off over two months ago and nothing was said to the community has made the situation
 even worse.
 
+## What's Stack Saying?
+
+_This section was added after original publication_
+
+Shortly after publishing my thoughts with this article, internal Stack Exchange emails were published. These show how 
+[Stack Exchange is communicating this with their employees][10].
+
+I highly encourage everyone to read _those_ too. There is a lot of reading scattered around to get the full scope
+of how unhappy the users of Stack Exchange are.
+
+I think it's telling that the company managed to copy and paste from the [strike letter][1], but at the same time managed 
+to completely ignore that this isn't about GPT detectors. Even worse, the company is spreading that falsehood to it's employees,
+and the press. On top of that, has two teams - Community Leadership and Marketing - working on communications, yet no progress
+has been made.
+
 ## Where do I sit?
 
 I mentioned [last week][strikestart] that I've been here for over 13 years. I've applied and interviewed at the company. I've 
@@ -80,6 +96,19 @@ and if the organization I'm donating that time to has changed their philosphy, I
 I think we are long past the point of "how it used to be" at Stack Exchange. The question I am asking my self is whether or not I
 agree with the new direction the platform is going.
 
+_Updated after the email publication, above_
+
+Reading the email and FAQ that Stack Exchange sent to their employees, I am struck by how out of touch members of the company are.
+Not the people that don't interact with the community. The people that should know the pulse of the moderation teams, the 
+community opinions, and users in general - like the Vice President of Community. While I'm not surprised that they are 
+down playing the strike, I am surprised that they are flat out lying to their employees.
+
+Stack Exchange should be called out on that and their employees should know that it's happening. Stack Exchange, Stack Overflow, Inc.,
+is lying to their employees. The email presented was written after the strike started and contains information about all of the 
+FAQ items mentioned.
+
+
+
 
  [strikestart]: {filename}2023_06_05_stackexchange_mod_strike.md
  [1]: https://openletter.mousetail.nl/
@@ -91,3 +120,4 @@ agree with the new direction the platform is going.
  [7]: https://meta.stackexchange.com/a/389825/186281
  [8]: {filename}2015_01_02_can-a-machine-be-taught-to-flag-comments-automatically.md
  [9]: {filename}2017_02_19_can-a-machine-be-taught-to-flag-spam-automatically.md
+ [10]: https://web.archive.org/web/20230612155947/https://jlericson.com/2023/06/12/internal_messages.html
