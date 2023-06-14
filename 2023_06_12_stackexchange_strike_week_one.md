@@ -5,6 +5,7 @@ Category: Side Activities
 Slug: stackexchange-moderator-strike-week-one
 Summary: Stack Exchange moderators are striking. This is my my summary of the first week.
 Status: published
+Series: Stack Exchange Moderation Strike 2023
 modified: June 12, 2023
 
 [TOC]

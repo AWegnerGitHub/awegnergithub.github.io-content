@@ -5,6 +5,7 @@ Category: Side Activities
 Slug: stackexchange-moderator-strike
 Summary: Stack Exchange moderators are striking. This is my reasoning for why I'm joining.
 Status: published
+Series: Stack Exchange Moderation Strike 2023
 
 [TOC]
 
