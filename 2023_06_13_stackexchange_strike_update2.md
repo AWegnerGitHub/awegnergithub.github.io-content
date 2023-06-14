@@ -57,9 +57,9 @@ This message was confirmed by one of the Co-Founders that has since left Stack E
 
 > I have confirmation via email from Prashanth that this is, indeed, **the new official policy**. I'm glad to see it. Creative Commons is part of our contract with the community, and it should never be broken -- however, CC does need to address the AI issue in an updated license, in my personal opinion. [...] - [Jeff Atwood][4]
 
-A couple things about this. It is incredibly telling that a Co-Founder had to step in to resolve this bullet. That speaks volumes for his commitment to
-these data dumps and I appreciate making his voice heard on this. Secondly, it is incredible how _fast_ Stack Exchange did a 180 on this. Lastly,
-it's telling that once again it's Philippe making statements that are lies.
+I am happy with this concession and confirmation of the concession from our representatives, Stack Exchange and a Co-founder.
+
+However, it's telling that once again it's Philippe making statements that are lies.
 
 He's done it with posts to the press that I mentioned yesterday (moderators are depending on GPT detectors!). He's done it with the internal 
 emails to his own coworkers. He's doing it again here.
@@ -89,7 +89,8 @@ Right now, I'm not agreeing to go back to utilizing my free time to perform mode
 
 Much like yesterday, I continue to re-evaluate my relationship with Stack Exchange. I'm really happy that the data dump has been restored. The messaging
 around it though continues to erode my trust in the company's actions. This was also one of the easier items for Stack Exchange to agree to, even 
-though it looks like a co-founder had to step in to get this accomplished. 
+though it looks like a co-founder may have had a hand in resolving this as well. I don't know if that's true and I appreciate the work the 
+representatives have done to resolve our first point of contention.
 
 It's also very telling that the messaging doesn't mention the restoration in the context of the strike at all. If the company was attempting to 
 build goodwill in this environment, I'd think they would point to the conditions in the open letter and tie the enablement of the data dumps directly
