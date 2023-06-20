@@ -58,7 +58,7 @@ summer. If the community just showed that one of those AI projects was a flop, t
 
 As this drags on into it's third week, I've become more pesimistic that this strike doesn't end with resignations. Reddit had a two day strike during this 
 time period, and they are already threatening to replace community moderators. The Stack Exchange CEO has expressed their fondness for Reddit on occassion,
-so I suspect that the action being taken over their is being considered here. Of course, the difference here is that Stack Exchange wasn't effectively shut down
+so I suspect that the action being taken over there is being considered here. Of course, the difference here is that Stack Exchange wasn't effectively shut down
 by the strike like Reddit was. Sites didn't go dark. Instead, curators and moderators stopped curating and moderating. Everything is still available,
 the sites are still working, it's just less tidy than usual. 
 
