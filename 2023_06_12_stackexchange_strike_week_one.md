@@ -1,7 +1,7 @@
 Title: Stack Exchange Strike - Week One
 Date: 2023-06-12 09:00
 Tags: Stack Exchange, moderation
-Category: Side Activities
+Category: Stack Exchange Strike
 Slug: stackexchange-moderator-strike-week-one
 Summary: Stack Exchange moderators are striking. This is my my summary of the first week.
 Status: published

@@ -1,7 +1,7 @@
 Title: Stack Exchange Strike - Does Stack Exchange Care?
 Date: 2023-06-19 14:00
 Tags: Stack Exchange, moderation
-Category: Side Activities
+Category: Stack Exchange Strike
 Slug: stackexchange-moderator-strike-does-stackexchange-care
 Summary: Stack Exchange moderators are striking. It's been two full weeks and the progress toward resolution has been minimal at best.
 Status: published

@@ -1,7 +1,7 @@
 Title: Stack Exchange Strike - Personal Frustrations
 Date: 2023-06-21 11:00
 Tags: Stack Exchange, moderation
-Category: Side Activities
+Category: Stack Exchange Strike
 Slug: stackexchange-moderator-strike-personal-frustrations
 Summary: Stack Exchange moderators are striking. The strike continues and my frustration grows.
 Status: published

@@ -1,7 +1,7 @@
 Title: Stack Exchange Strike Update 2
 Date: 2023-06-13 23:00
 Tags: Stack Exchange, moderation
-Category: Side Activities
+Category: Stack Exchange Strike
 Slug: stackexchange-moderator-strike-update
 Summary: Stack Exchange moderators are striking. My update and impression of the last day.
 Status: published
