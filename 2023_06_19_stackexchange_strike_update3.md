@@ -14,7 +14,7 @@ Series: Stack Exchange Moderation Strike 2023
  - [The Moderation and curator strike started on June 5.][strikestart]
  - Stack Exchange has downplayed the effect of this to the press, while at the same time straight lied to the press about [causes of the strike][openletter].
  - Stack Exchange [removed access to the data dump back][strikeweek1] in March but never told anyone until they were called out on it in early June.
- - The [moderation team has elected three representatives][strikeweek1update] to engage with Stack Exchange to solve these problems and end the strike.
+ - The [moderation team has elected three representatives][strikeweekupdate] to engage with Stack Exchange to solve these problems and end the strike.
 
 ## Where are we now?
 
@@ -65,7 +65,7 @@ the sites are still working, it's just less tidy than usual.
 
  [strikestart]: {filename}2023_06_05_stackexchange_mod_strike.md
  [strikeweek1]: {filename}2023_06_12_stackexchange_strike_week_one.md
- [strikeweek1update]: {filename}2023_06_13_stackexchange_strike_update2.md
+ [strikeweekupdate]: {filename}2023_06_13_stackexchange_strike_update2.md
  [openletter]: https://openletter.mousetail.nl/
  [1]: https://meta.stackexchange.com/q/389922/186281
  [2]: https://meta.stackoverflow.com/q/425162/189134
