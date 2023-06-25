@@ -65,7 +65,7 @@ the sites are still working, it's just less tidy than usual.
 
  [strikestart]: {filename}2023_06_05_stackexchange_mod_strike.md
  [strikeweek1]: {filename}2023_06_12_stackexchange_strike_week_one.md
- [strikeweek1update]: {filename}2023_06_12_stackexchange_strike_update2.md
+ [strikeweek1update]: {filename}2023_06_13_stackexchange_strike_update2.md
  [openletter]: https://openletter.mousetail.nl/
  [1]: https://meta.stackexchange.com/q/389922/186281
  [2]: https://meta.stackoverflow.com/q/425162/189134

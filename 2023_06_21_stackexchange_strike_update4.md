@@ -57,7 +57,7 @@ Obviously, I'm still pretty pesimistic about all of this.
 
  [strikestart]: {filename}2023_06_05_stackexchange_mod_strike.md
  [strikeweek1]: {filename}2023_06_12_stackexchange_strike_week_one.md
- [strikeweek1update]: {filename}2023_06_12_stackexchange_strike_update2.md
+ [strikeweek1update]: {filename}2023_06_13_stackexchange_strike_update2.md
  [openletter]: https://openletter.mousetail.nl/
  [formattingassistant]: {filename}2023_06_19_stackexchange_strike_update3.md
  [1]: https://meta.stackexchange.com/q/390463/186281
