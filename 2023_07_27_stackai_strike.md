@@ -1,5 +1,5 @@
 Title: Stack Exchange Strike - Community and AI Talk Reaction
-Date: 2023-07-07 12:00
+Date: 2023-07-27 12:00
 Tags: Stack Exchange, moderation
 Category: Stack Exchange Strike
 Slug: stackexchange-moderator-strike-overflowai-reaction
