@@ -2,7 +2,7 @@ Title: Stack Exchange Strike - The strike is over
 Date: 2023-08-07 12:00
 Tags: Stack Exchange, moderation
 Category: Stack Exchange Strike
-Slug: stackexchange-moderator-strike-overflowai-reaction
+Slug: stackexchange-moderator-ends
 Summary: Stack Exchange moderators are done striking. What did two months of inaction on the part of curators achieve?
 Status: published
 Series: Stack Exchange Moderation Strike 2023
