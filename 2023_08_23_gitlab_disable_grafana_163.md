@@ -21,12 +21,11 @@ end of it's depreciation window and was disabled. GitLab added a check to preven
 
 When performing an `apt` update, GitLab 16.3 will error out if Grafana is still enabled on your instance. The error looks like this:
 
-```
-Preparing to unpack .../gitlab-ee_16.3.0-ee.0_amd64.deb ...
-* grafana[enable] has been deprecated since 16.0 and was removed in 16.3. The bundled Grafana is deprecated and no longer available. We recommond following
-https://docs.gitlab.com/ee/administration/monitoring/performance/grafana_configuration.html#deprecation.
-Deprecations found. Please correct them and try again.
-```
+
+    Preparing to unpack .../gitlab-ee_16.3.0-ee.0_amd64.deb ...
+    * grafana[enable] has been deprecated since 16.0 and was removed in 16.3. The bundled Grafana is deprecated and no longer available. We recommond following
+    https://docs.gitlab.com/ee/administration/monitoring/performance/grafana_configuration.html#deprecation.
+    Deprecations found. Please correct them and try again.
 
 ## The Problem
 
