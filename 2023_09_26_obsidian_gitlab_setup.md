@@ -43,30 +43,28 @@ This set of steps only has to occur once. All devices will be able to start with
 
 Open the command prompt or terminal (depending on what your operating system calls the system console). Navigate to the location you want your notes to be stored. In my case, I created a new directory to match the name of my repository. I then created a `.gitignore` with the following content in the directory.
 
-```
-.obsidian/*
-!.obsidian/app.json
-!.obsidian/appearance.json
-!.obsidian/config
-!.obsidian/community-plugins.json
-!.obsidian/core-plugins.json
-!.obsidian/graph.json
-!.obsidian/hotkeys.json
-```
+
+    .obsidian/*
+    !.obsidian/app.json
+    !.obsidian/appearance.json
+    !.obsidian/config
+    !.obsidian/community-plugins.json
+    !.obsidian/core-plugins.json
+    !.obsidian/graph.json
+    !.obsidian/hotkeys.json
+
 
 This should ignore the majority of the `.obsidian` hidden directory between my devices, but keep a few key items. I may update this over time, but for now this is working well.
 
 Now, initialize the repository.
 
-```
-cd andy-notes
-git init --initial-branch=main
-git remote add origin git@<my.server.url>:andy/andy-notes.git
-git add .
-git commit -m "Initial Commit"
-git push --set-upstream origin main
+    cd andy-notes
+    git init --initial-branch=main
+    git remote add origin git@<my.server.url>:andy/andy-notes.git
+    git add .
+    git commit -m "Initial Commit"
+    git push --set-upstream origin main
 
-```
 
 We're ready to start utilizing Obsidian and GitLab!
 
@@ -78,9 +76,8 @@ Now that the backend repository is set up and it's been initially configured, al
 
 If this is not the device you initilized the repository on, you need to perform an initial `pull` of the repository to this device so that it is a local folder.
 
-```
-git clone git@<my.server.url>:andy/andy-notes.git
-```
+
+    git clone git@<my.server.url>:andy/andy-notes.git
 
 Open Obsidian. Since this is the first time you are opening it, you'll be asked to select where your vault is stored. You want to select the "Open folder as vault" option.
 
