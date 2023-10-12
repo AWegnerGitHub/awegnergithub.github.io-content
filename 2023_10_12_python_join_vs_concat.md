@@ -5,7 +5,7 @@ Category: Technical Solutions
 Slug: python-gotcha-join-vs-concat
 Summary: Append 100,000 strings together using join or concat - Which is faster?
 Status: published
-Series: Gotchas
+Series: Programming Gotchas
 
 [TOC]
 
