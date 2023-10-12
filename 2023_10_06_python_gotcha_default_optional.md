@@ -5,6 +5,7 @@ Category: Technical Solutions
 Slug: python-gotcha-optional-default-arguments
 Summary: A quick walk through of why mutable defaults on optional arguments is bad in Python.
 Status: published
+Series: Gotchas
 
 [TOC]
 
