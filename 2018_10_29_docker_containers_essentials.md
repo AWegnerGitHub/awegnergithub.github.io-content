@@ -9,6 +9,8 @@ Series: Course Reviews
 template: review
 revieweditem: Docker and Containers: The Essentials
 score: 2.0
+price: 19.99
+saleprice: 13.99
 
 [TOC]
 

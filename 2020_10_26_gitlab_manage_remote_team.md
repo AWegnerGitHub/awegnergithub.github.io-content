@@ -10,6 +10,8 @@ Provider: Coursera
 template: review
 revieweditem: How to Manage a Remote Team
 score: 9.0
+price: 0
+saleprice: 0
 
 [TOC]
 

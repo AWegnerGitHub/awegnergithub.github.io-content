@@ -9,6 +9,8 @@ Series: Course Reviews
 template: review
 revieweditem: Become a Product Manager  | Learn the Skills & Get the job
 score: 6.5
+price: 109.99
+saleprice: 17.99
 
 [TOC]
 

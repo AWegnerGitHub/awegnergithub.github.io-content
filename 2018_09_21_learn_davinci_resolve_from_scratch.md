@@ -9,10 +9,14 @@ Series: Course Reviews
 template: review
 revieweditem: Learn DaVinci Resolve 15 from scratch
 score: 4.5
+price: 0
+saleprice: 0
 
 [TOC]
 
 ## Introduction
+
+**Update**: This course is no longer offered on Udemy. DaVinci 15 is out of date.
 
 It's been a while since I've done a course review. I wanted to try something new in an area that seems interesting, but I'm not sure if I want to do anything with it hobby-wise. [Learn DaVinci Resolve 15 from scratch][1] caught my attention, and I found a coupon code that allowed me to take the course for free. Video editting sounds interesting and I always have the "do something with family videos" on my very distant TODO list. The course is two and a half hours long and it seems to be a basic class.
 

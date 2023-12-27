@@ -10,6 +10,8 @@ Series: Course Reviews
 template: review
 revieweditem: From 0 to 1: Machine Learning, NLP and Python - Cut to the Chase
 score: 2.5
+price: 59.99
+saleprice: 13.99
 
 [TOC]
 

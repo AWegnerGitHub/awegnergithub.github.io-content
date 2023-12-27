@@ -10,6 +10,8 @@ Provider: LevelUp
 template: review
 revieweditem: TeamOps Certification
 score: 7.5
+price: 0
+saleprice: 0
 
 [TOC]
 

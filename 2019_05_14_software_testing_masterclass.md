@@ -9,6 +9,8 @@ Series: Course Reviews
 template: review
 revieweditem: Software Testing Masterclass (2019) - From Notice to Expert
 score: 4.0
+price: 139.99
+saleprice: 24.99
 
 [TOC]
 
@@ -79,7 +81,5 @@ like plugs for various services, I can't recommend this course.
 [![Software Testing Masterclass (2019) - From Notice to Expert][certificate]][courselink]
 
 
- [2]: https://www.udemy.com/sanic-an-asynchronous-web-framework-for-pythonistas/
- [3]: https://github.com/r3ap3rpy/sanic-web-framework
  [certificate]: {attach}images/udemy-testing-masterclass.jpg
  [courselink]: https://ude.my/UC-1F1K67C9

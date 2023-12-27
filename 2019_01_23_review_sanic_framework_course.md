@@ -9,6 +9,8 @@ Series: Course Reviews
 template: review
 revieweditem: Sanic - An Asynchronous Web Framework for Pythonista
 score: 7.0
+price: 34.99
+saleprice: 13.99
 
 [TOC]
 

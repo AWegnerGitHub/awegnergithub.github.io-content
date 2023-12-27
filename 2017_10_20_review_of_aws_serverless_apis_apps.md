@@ -9,6 +9,8 @@ Series: Course Reviews
 template: review
 revieweditem: AWS Serverless APIs & Apps - A Complete Introduction
 score: 8.5
+price: 119.99
+saleprice: 19.99
 
 [TOC]
 
