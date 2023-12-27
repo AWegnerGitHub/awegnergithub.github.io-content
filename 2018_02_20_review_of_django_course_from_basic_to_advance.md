@@ -9,10 +9,14 @@ Series: Course Reviews
 template: review
 revieweditem: Django Course from Basics to Advance
 score: 0.5
+price: 0
+saleprice: 0
 
 [TOC]
 
 ## Introduction
+
+**UPDATE:** This course has been removed from Udemy. Read the review below to find out how bad it was and why I got a refund.
 
 With the [new server][1] coming along nicely, I wanted to take a quick refresher on Django. Last summer I went through another [Django course][2]. That
 was a decent course. I didn't need anything that intensive or that focused on the non-Django portions though. I have a couple plans for web control panels

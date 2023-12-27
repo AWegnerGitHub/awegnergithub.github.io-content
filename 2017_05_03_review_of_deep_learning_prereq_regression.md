@@ -9,14 +9,16 @@ Series: Course Reviews
 template: review
 revieweditem: Deep Learning Prerequisites - Linear and Logistic Regression
 score: 8.0
+price: 119.99
+saleprice: 19.99
 
 [TOC]
 
 ## Course
 
 My [last review][1] covered [Lazy Programmer's][2] [Numpy prerequisites course][3] on Udemy. In my goal to learn more about NLP,
-I'm continuing through the courses this instructor has designed. To this end, that requires two additional prerequisites: [Linear
-Regression][4] and [Logistic Regression][5]. This review covers those two separate courses.
+I'm continuing through the courses this instructor has designed. To this end, that requires two additional prerequisites: 
+[Linear Regression][4] and [Logistic Regression][5]. This review covers those two separate courses.
 
 ## Thoughts on the lessons
 

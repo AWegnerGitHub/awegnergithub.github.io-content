@@ -9,6 +9,8 @@ Series: Course Reviews
 template: review
 revieweditem: Python and Django Full Stack Web Developer Bootcamp
 score: 7.0
+price: 129.99
+saleprice: 19.99
 
 [TOC]
 

@@ -9,6 +9,8 @@ Series: Course Reviews
 template: review
 revieweditem: Docker Swarm: Beginner + Advanced
 score: 1.5
+price: 19.99
+saleprice: 13.99
 
 [TOC]
 

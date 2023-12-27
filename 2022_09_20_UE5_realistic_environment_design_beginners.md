@@ -9,6 +9,8 @@ Series: Course Reviews
 template: review
 revieweditem: Unreal Engine 5 - Realistic Environment Design for Beginners
 score: 5.0
+price: 79.99
+saleprice: 16.99
 
 [TOC]
 

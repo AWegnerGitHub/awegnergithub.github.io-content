@@ -9,10 +9,14 @@ Series: Course Reviews
 template: review
 revieweditem: The 2018 Git Complete: 45 minute crash course using Angular.
 score: 3.0
+price: 0
+saleprice: 0
 
 [TOC]
 
 ## Introduction
+
+**Update**: This course is no longer offered on Udemy. There are more recent version and courses for a Git introduction.
 
 I use Git extensively in both my personal and professional work. I've set up [GitLab][1] for my personal work. I know enough about Git to be effective in a small environment with a handful of developers. I found a 30 minute crash course about Git on Udemy and decided to take it with the goal of learning a little bit more.
 

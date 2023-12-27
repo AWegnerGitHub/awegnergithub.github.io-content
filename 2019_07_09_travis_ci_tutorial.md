@@ -7,12 +7,16 @@ Summary: My review of the Travis CI Tutorial course on Udemy.
 Status: published
 Series: Course Reviews
 template: review
-revieweditem: Travis CI Tutoria
+revieweditem: Travis CI Tutorial
 score: 2.0
+price: 0
+saleprice: 0
 
 [TOC]
 
 ## Introduction
+
+**Update**: This course is no longer accepting enrollments. 
 
 I've written about Travis CI before. I've reported a bug that makes it fairly easy
 to see [environment variables in Travis CI][2] or even unintentionally transfer

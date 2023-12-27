@@ -9,6 +9,8 @@ Series: Course Reviews
 template: review
 revieweditem: Ultimate AWS Certified Developer Associate 2019
 score: 8.5
+price: 139.99
+saleprice: 24.99
 
 [TOC]
 

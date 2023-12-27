@@ -9,6 +9,8 @@ Series: Course Reviews
 template: review
 revieweditem: Data Analysis with Pandas
 score: 9.5
+price: 109.99
+saleprice: 18.99
 
 [TOC]
 

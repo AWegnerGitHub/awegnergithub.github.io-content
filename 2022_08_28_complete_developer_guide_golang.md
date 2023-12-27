@@ -9,6 +9,8 @@ Series: Course Reviews
 template: review
 revieweditem: Go: The Complete Developer's Guide (Golang)
 score: 9.0
+price: 109.99
+saleprice: 17.99
 
 [TOC]
 
