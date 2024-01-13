@@ -84,4 +84,4 @@ Another solution, assuming that the result _needs_ to sit in a variable with the
 
 This results in the expected list of `[9, 5, 10]`
 
- [1]:  [2]: {filename}2023_12_20_python_list_copy_gotcha.md
+ [1]: {filename}2023_12_20_python_list_copy_gotcha.md
