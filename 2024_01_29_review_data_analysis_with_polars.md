@@ -1,4 +1,4 @@
-Title: Review of Learn Data Analytics with Polars (Python) Course
+Title: Review of "Data Analysis with Polars" Udemy course
 Date: 2024-01-29 11:30
 Tags: review, technical, learning
 Category: Review
