@@ -11,6 +11,7 @@ revieweditem: Unreal Engine 5: The Complete Beginner's Course
 score: 6.5
 price: 124.99
 saleprice: 19.99
+workload: PT10H
 
 [TOC]
 

@@ -11,6 +11,7 @@ revieweditem: Data Analysis with Pandas
 score: 9.5
 price: 109.99
 saleprice: 18.99
+workload: PT19H30M
 
 [TOC]
 

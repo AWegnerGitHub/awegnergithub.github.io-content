@@ -11,6 +11,7 @@ revieweditem: Data Analysis with Polars
 score: 4.0
 price: 84.99
 saleprice: 12.99
+workload: PT2H30M
 
 [TOC]
 

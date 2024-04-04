@@ -11,6 +11,7 @@ revieweditem: Django Course from Basics to Advance
 score: 0.5
 price: 0
 saleprice: 0
+workload: PT1M
 
 [TOC]
 

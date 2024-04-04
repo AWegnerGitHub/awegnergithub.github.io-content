@@ -11,6 +11,7 @@ revieweditem: Deep Learning Prerequisites - Linear and Logistic Regression
 score: 8.0
 price: 119.99
 saleprice: 19.99
+workload: PT13H30M
 
 [TOC]
 

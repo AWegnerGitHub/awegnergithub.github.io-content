@@ -11,6 +11,7 @@ revieweditem: Unreal Engine 5 Beginners Guide to Building an Environment
 score: 8.5
 price: 89.99
 saleprice: 16.99
+workload: PT18H30M
 
 [TOC]
 

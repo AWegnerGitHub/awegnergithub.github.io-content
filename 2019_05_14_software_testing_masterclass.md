@@ -11,6 +11,7 @@ revieweditem: Software Testing Masterclass (2019) - From Notice to Expert
 score: 4.0
 price: 139.99
 saleprice: 24.99
+workload: PT4H30M
 
 [TOC]
 

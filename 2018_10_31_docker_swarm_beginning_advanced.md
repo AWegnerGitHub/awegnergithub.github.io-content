@@ -11,6 +11,7 @@ revieweditem: Docker Swarm: Beginner + Advanced
 score: 1.5
 price: 19.99
 saleprice: 13.99
+workload: PT1H30M
 
 [TOC]
 

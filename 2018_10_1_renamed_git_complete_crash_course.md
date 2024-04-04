@@ -11,6 +11,7 @@ revieweditem: The 2018 Git Complete: 45 minute crash course using Angular.
 score: 3.0
 price: 0
 saleprice: 0
+workload: PT45M
 
 [TOC]
 

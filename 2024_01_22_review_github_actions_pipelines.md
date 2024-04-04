@@ -11,6 +11,7 @@ revieweditem: Learn Github Actions for CI/CD DevOps Pipelines
 score: 5.0
 price: 54.99
 saleprice: 0.00
+workload: PT4H
 
 [TOC]
 

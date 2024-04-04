@@ -11,6 +11,7 @@ revieweditem: Learn Data Analytics with Polars (Python) in just 2 hours!
 score: 9.5
 price: 54.99
 saleprice: 12.99
+workload: PT1H30M
 
 [TOC]
 

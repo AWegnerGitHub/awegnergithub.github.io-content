@@ -11,6 +11,7 @@ revieweditem: Learn DaVinci Resolve 15 from scratch
 score: 4.5
 price: 0
 saleprice: 0
+workload: PT5H30M
 
 [TOC]
 

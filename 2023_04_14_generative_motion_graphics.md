@@ -11,6 +11,7 @@ revieweditem: Unreal Engine 5 | Generative Motion Graphics / VFX Course
 score: 7.5
 price: 74.99
 saleprice: 15.99
+workload: PT1H30M
 
 [TOC]
 

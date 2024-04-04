@@ -11,6 +11,7 @@ revieweditem: Deep Learning Prerequisites: The Numpy Stack in Python
 score: 8.0
 price: 89.99
 saleprice: 15.99
+workload: PT6H
 
 [TOC]
 

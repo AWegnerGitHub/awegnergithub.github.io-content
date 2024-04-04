@@ -11,6 +11,7 @@ revieweditem: Learn How To Make A 2D Platformer In Unreal Engine 5 Course
 score: 6.0
 price: 74.99
 saleprice: 15.99
+workload: PT7H
 
 [TOC]
 

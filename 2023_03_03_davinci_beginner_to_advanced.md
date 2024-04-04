@@ -11,6 +11,7 @@ revieweditem: DaVinci Resolve 2022: Beginner to Advanced in DaVinci 18 Course
 score: 8.0
 price: 79.99
 saleprice: 15.99
+workload: PT10H
 
 [TOC]
 

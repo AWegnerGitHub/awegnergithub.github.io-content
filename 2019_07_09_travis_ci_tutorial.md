@@ -11,6 +11,7 @@ revieweditem: Travis CI Tutorial
 score: 2.0
 price: 0
 saleprice: 0
+workload: PT2H
 
 [TOC]
 
