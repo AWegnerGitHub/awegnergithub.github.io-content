@@ -7,6 +7,7 @@ Slug: rise-gardens-unboxing
 Summary: The garden has arrived! Time to open it up and see how it looks.
 Status: published
 Series: Rise Gardens Review
+Provider: RiseGardens
 template: review
 revieweditem: Rise Gardens
 score: 8.5
