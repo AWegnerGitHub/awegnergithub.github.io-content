@@ -64,7 +64,7 @@ I performed this OTA upgrade from my computer by navigating to the mDNS I set up
 
 At the time of this post, the [current release][7] was `0.14.1-b30`. This was released approximately 6 months ago. I briefly skimmed through recent issues and pull requests to see if I should find a more recent build. There was an [crash issue][8] reported with the `ripple` effects. Since I like that particular effect, I decided to both with a newer build than the official release. 
 
-## Official build
+### Official build
 
 If you are going to stick with an official release, navigate to the [release page][7] and download the binary file you want to install. For the Ericsity, I found that the generic ESP32 build worked. If you want to use this, look for the file titled `WLEDMM_0.14.1-b30.36_esp32_4MB_M.bin`. You could also use the `WLEDMM_0.14.1-b30.36_esp32_4MB_S.bin`. Download this file.
 
