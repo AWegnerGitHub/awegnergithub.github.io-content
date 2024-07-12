@@ -62,7 +62,7 @@ I am utilizing the [MoonModules branch][6] because the README for the default in
 
 I performed this OTA upgrade from my computer by navigating to the mDNS I set up previously. It can also be accessed by the IP address of the controller in your browser.
 
-At the time of this post, the [current release][7] was `0.14.1-b30`. This was released approximately 6 months ago. I briefly skimmed through recent issues and pull requests to see if I should find a more recent build. There was an [crash issue][8] reported with the `ripple` effects. Since I like that particular effect, I decided to both with a newer build than the official release. 
+At the time of this post, the [current release][7] was `0.14.1-b30`. This was released approximately 6 months ago. I briefly skimmed through recent issues and pull requests to see if I should find a more recent build. There was an [crash issue][8] reported with the `ripple` effects. Since I like that particular effect, I decided to go with a newer build than the official release. 
 
 ### Official build
 
@@ -74,7 +74,7 @@ Since I wanted a fix for the item I [found][8], I opted to download a recent bui
 
 ![Recent builds on Github. Look for mdev branch][builds]
 
-From here, select the build you want and scroll all the way to the bottom of the page. Find the binary you want to download. I nmy case, I wanted the `firmware-esp32_4MB_M` and download it. Once downloaded, extract it so that you can upload the `.bin` file within the WLED page. 
+From here, select the build you want and scroll all the way to the bottom of the page. Find the binary you want to download. In my case, I wanted the `firmware-esp32_4MB_M` and download it. Once downloaded, extract it so that you can upload the `.bin` file within the WLED page. 
 
 ![Select the build to utilize. For the Ericsity controller, I found the firmware-esp32_4MB_M version works][buildversion]
 
