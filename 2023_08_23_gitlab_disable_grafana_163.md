@@ -5,6 +5,7 @@ Category: Technical Solutions
 Slug: disable-grafana-in-gitlab-16
 Summary: GitLab 16.3 deprecated and disabled the bundled Grafana, but didn't provide complete instructions for how to disable it. Fortunately, it's easy to do. I've documented the few steps needed.
 Status: published
+modified: July 7, 2024
 
 [TOC]
 
@@ -66,6 +67,16 @@ This is a setting in the GitLab configuration file. You will need to edit the co
 >  4. You can now resume the `apt` update that failed due to having Grafana enabled.
 
 Once done, you will get the standard GitLab upgrade complete message and you'll be good to go.
+
+## Reading unsupported config value grafana.
+
+_Update: July 2024, GitLab 17.1_
+
+In the GitLab 17.1 update from June 2024, Grafana has been completely removed. If you still have `grafana` keys in the config file upon updating to 17.1, the upgrade will fail with
+
+    Mixlib::config::unknownconfigoptionerror: Reading unsupported config value grafana.
+
+The solution to this is to edit `/etc/gitlab/gitlab.rb` and comment out (or remove entirely) all lines that start with `grafana`. Once this is done, save the file and attempt the upgrade again. Like when it was originally deprecated, this step will end with `gitlab Reconfigured`.
 
  [gitlab]: {filename}2018_04_12_setting_up_gitlab.md
  [grafana]: https://grafana.com/
