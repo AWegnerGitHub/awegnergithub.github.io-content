@@ -44,11 +44,6 @@ jobs:
           rm -rf output/content/images
           rm -rf drafts/
 
-      - name: Setup IndexNow 
-        run: |
-          cd source
-          echo ${{ secrets.INDEXNOW_KEY }} > ${{ secrets.INDEXNOW_KEY }}.txt
-
       - name: Push to main site
         uses: cpina/github-action-push-to-another-repository@main
         env:
