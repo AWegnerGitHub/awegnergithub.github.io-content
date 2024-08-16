@@ -1,6 +1,6 @@
 Title: Setting up and updating the Ericsity WLED Controller from 0.13.3 to 0.14.1
 Date: 2024-06-20 15:45
-Tags: technical
+Tags: technical, wled
 Category: Technical Solutions
 Slug: update-wled-ericsity-controller-0141
 Summary: The Ericsity WLED controller comes with WLED 0.13.3 preinstalled and only offers the ability to update to 0.13.4. This walks through setting up the controller for the first time and moving to 0.14.1 while maintaining the sound reactive features the controller advertises.
@@ -12,7 +12,7 @@ Status: published
 
 My summer time project this year is to set up some LED lights outside. After testing out a couple Govee strips that I didn't like because I couldn't diffuse the individual lights away, I finally found an LED strip I liked. The next step was to control these strips so that I could do more than solid colors or the default rainbow every LED strip has. I settled on using the amazing [WLED project][wled] to control the lights. To speed up the project, I decided to get a prebuilt controller and eventually selected the [Ericsity controller with a built in mic][ericsity].
 
-Side note: I plan on writing about the entire project later. This post is just about how I updated the controller.
+Side note: This post is just about how I updated the controller. The next article in the post is available, and talks about how [I am controlling a larger power supply with the WLED controller][nextarticle].
 
 ## The Problem
 
@@ -142,3 +142,4 @@ Now that the controller has rebooted, audio reactions are working again. The bra
  [9]: https://github.com/MoonModules/WLED/actions/workflows/wled-ci.yml?query=branch%3Amdev
  [builds]: {attach}images/wled/github-builds.png
  [buildversion]: {attach}images/wled/github-build-version.png
+ [nextarticle]: {filename}2024_08_16_wiring_wled_controller_relay.md
