@@ -121,7 +121,7 @@ Now that the controller has rebooted, audio reactions are working again. The bra
 
 
  [wled]: https://kno.wled.ge/
- [ericsity]: https://www.amazon.com/Ericsity-Controller-Addressable-WS2812B-SK6812/dp/B0CNVXY8NX
+ [ericsity]: https://amzn.to/3X6HLLT
  [1]: https://kno.wled.ge/features/segments/
  [2]: https://kno.wled.ge/advanced/mapping/
  [3]: https://github.com/atuline/WLED
