@@ -6,6 +6,7 @@ Slug: rise-garden-two-year-review
 Summary: After two and half years of using the Rise Garden product, how is it holding up? This article provides an update.
 Status: published
 Series: Rise Gardens Review
+sponsoredpost: True
 
 
 [TOC]
@@ -117,7 +118,7 @@ I still highly recommend that Rise Garden make adjustable footings in their next
 
 The question now: Would I get it again. Previously, I said that I [absolutely would][final].
 
-I would still do this again, but I think I'd get a smaller garden. This isn't because I don't want to grow plants indoors and year round. It's
+I would still do this again, but I think I'd get a smaller garden - something like the [one level garden][onelevel] of mine, or maybe the [personal sized garden][personalgarden] for a handful of lettuce heads. This isn't because I don't want to grow plants indoors and year round. It's
 because I can't utilize all of the space I have now. A completely full garden hasn't been productive for me. I leave space open every time I plants.
 It's also due to the number of seeds that I've had not sprout. If I have less space to plant, I'll be a little more choosey on what I plants
 versus "I have some space available and might as well use it if these sprout". Additionally, the application changes have been very off
@@ -153,3 +154,5 @@ Oh, and do something about the seeds not sprouting.
  [2]: https://risegardens.com/blogs/communitygarden/earth-day-transforming-the-food-system-one-garden-at-a-time
  [3]: {filename}2022_06_11_remote_work_savings.md
  [4]: {attach}images/2022-garden-peaplant.jpg
+ [onelevel]: https://amzn.to/4e8xTIv
+ [personalgarden]: https://amzn.to/3AU9bNF
