@@ -5,6 +5,7 @@ Category: Technical Solutions
 Slug: update-wled-ericsity-controller-0141
 Summary: The Ericsity WLED controller comes with WLED 0.13.3 preinstalled and only offers the ability to update to 0.13.4. This walks through setting up the controller for the first time and moving to 0.14.1 while maintaining the sound reactive features the controller advertises.
 Status: published
+sponsoredpost: True
 
 [TOC]
 
