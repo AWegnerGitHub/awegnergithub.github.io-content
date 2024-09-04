@@ -12,6 +12,7 @@ score: 5.0
 price: 79.99
 saleprice: 16.99
 workload: PT4H30M
+sponsoredpost: True
 
 [TOC]
 
@@ -80,7 +81,7 @@ to learning more about what this tool can do - and how I'd be able to take advan
 
 
 
- [1]: https://www.udemy.com/course/unreal-engine-5-outdoor-level-design/
+ [1]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.391972925962701471845374&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2funreal-engine-5-outdoor-level-design%2f
  [2]: {filename}2022_08_18_looking_for_new_role.md
  [unreal]: https://www.unrealengine.com/en-US/unreal-engine-5
  [certificate]: {attach}images/udemy-ue5-realistic-environment-for-beginners.jpg

@@ -12,6 +12,7 @@ score: 9.0
 price: 109.99
 saleprice: 17.99
 workload: PT9H
+sponsoredpost: True
 
 [TOC]
 
@@ -65,7 +66,7 @@ things are done (declare variable, function syntax, etc) and instead focuses on 
 
 
 
- [1]: https://www.udemy.com/course/go-the-complete-developers-guide/
+ [1]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.391975127199316633738661&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2fgo-the-complete-developers-guide%2f
  [2]: {filename}2022_08_18_looking_for_new_role.md
  [go]: https://go.dev/
  [certificate]: {attach}images/udemy-complete-dev-guide-golang.jpg

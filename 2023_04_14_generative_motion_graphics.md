@@ -12,6 +12,7 @@ score: 7.5
 price: 74.99
 saleprice: 15.99
 workload: PT1H30M
+sponsoredpost: True
 
 [TOC]
 
@@ -63,7 +64,7 @@ This course was short and sweet. It took me approximately two and a half hours t
 playing around with various colors and values to make the composition unique, and the emission bug I mentioned above. I was looking 
 for a short course that focused on a single "thing" and was pleased with how this turned out.
 
-There are few things that I didn't like were the assumption that the students had experience. Normally this wouldn't be a problem, but
+There are few things that I didn't like. The biggest was the assumption that the students had experience. Normally this wouldn't be a problem, but
 the instructor does reference "previous courses" a handful of times but they only have this course on Udemy at the time of publishing
 this post. Another negative was the instructor's push of a paid for Unreal Plugin. This was for electronic wires, versus the curvy 
 ones from the image above. The electronic wires allow for a more compact blue print - which I can see being valuable in a very large
@@ -71,7 +72,7 @@ project like the 2D Platformer - but in a short course it does cause the wires t
 costs an additional $13.
 
 Overall, this was an entertaining course and I am happy with the output I produced. It was very satisfying the first time I pressed
-play and watched my cube split, flash, lauch a few small sparks, and repeat. I recommend this course for someone with a basic 
+play and watched my cube split, flash, launch a few small sparks, and repeat. I recommend this course for someone with a basic 
 Unreal Engine experience and a few hours to learn.
 
 
@@ -84,6 +85,6 @@ Unreal Engine experience and a few hours to learn.
  [4]: {attach}images/cube_material_emission.png
  [5]: {filename}2022_10_18_beginners_building_environment.md
  [6]: {filename}2023_03_03_davinci_beginner_to_advanced.md
- [course]: https://www.udemy.com/course/ue5-procedural-vfx-motion-graphics/
+ [course]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.3919717227949573438914686&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2fue5-procedural-vfx-motion-graphics%2f
  [certificate]: {attach}images/udemy-generative-motion-graphics.jpg
  [courselink]: https://www.udemy.com/certificate/UC-ce71bf81-06b7-41f4-bbbd-934670454295/

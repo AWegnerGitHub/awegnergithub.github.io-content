@@ -12,6 +12,7 @@ score: 8.0
 price: 89.99
 saleprice: 15.99
 workload: PT6H
+sponsoredpost: True
 
 [TOC]
 
@@ -64,7 +65,7 @@ teach these courses and offer only basic "It may work on Windows" advice.
  [3]: {filename}2015_03_12_zephyr-the-bot-that-watches-for-low-quality-vote-requests.md
  [4]: {filename}2017_02_19_can-a-machine-be-taught-to-flag-spam-automatically.md
  [5]: {filename}2016_12_09_review_of_data_analysis_with_pandas_udemy_course.md
- [6]: https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/v4/overview
+ [6]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.391978487082970612398357&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2fdeep-learning-prerequisites-the-numpy-stack-in-python%2f
  [7]: https://github.com/AWegnerGitHub/Deep-Learning-Prerequisites
  [8]: https://lazyprogrammer.me/deep-learning-courses/
  [9]: {attach}images/udemy-deep-learning-prereq-numpy.jpg

@@ -12,6 +12,7 @@ score: 8.0
 price: 119.99
 saleprice: 19.99
 workload: PT13H30M
+sponsoredpost: True
 
 [TOC]
 
@@ -61,9 +62,9 @@ teach these courses and offer only basic "It may work on Windows" advice.
 
  [1]: {filename}2017_04_20_review_of_deep_learning_prereq_numpy.md
  [2]: https://www.udemy.com/user/lazy-programmer/
- [3]: https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/v4/overview
- [4]: https://www.udemy.com/data-science-linear-regression-in-python/learn/v4/overview
- [5]: https://www.udemy.com/data-science-logistic-regression-in-python/learn/v4/overview
+ [3]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.391978487082970612398357&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2fdeep-learning-prerequisites-the-numpy-stack-in-python%2f
+ [4]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.3919714415792652654714032&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2fdata-science-linear-regression-in-python%2f
+ [5]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.3919712800668652568708359&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2fdata-science-logistic-regression-in-python%2f
  [6]: https://github.com/AWegnerGitHub/Deep-Learning-Prerequisites
  [7]: https://lazyprogrammer.me/deep-learning-courses/
  [8]: {attach}images/udemy-deep-learning-prereq-linear-regression.jpg

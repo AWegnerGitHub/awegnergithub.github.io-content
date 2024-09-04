@@ -12,10 +12,13 @@ score: 9.5
 price: 54.99
 saleprice: 12.99
 workload: PT1H30M
+modified: Sep 4, 2024
 
 [TOC]
 
 ## Introduction
+
+**Update**: This course is no longer offered on Udemy. Unfortunately, this is one of the better courses I've taken on Udemy. It does not appear the instructor has an alternative Polars course.
 
 I started this entire [Course Reviews][1] series 7 years ago, with a [post about a Pandas course][2]. It went so well, I continued both taking various courses to expand my own knowledge and sharing my experiences with those courses here. It seems fitting to look at a Pandas competitors: [Polars][3].
 

@@ -12,13 +12,14 @@ score: 4.0
 price: 139.99
 saleprice: 24.99
 workload: PT4H30M
+sponsoredpost: True
 
 [TOC]
 
 ## Introduction
 
 I do QA work for my job and love learning new things, techniques or ways of doing
-my job better. The [Software Testing Masterclass (2019) - From Novice to Expert][courselink]
+my job better. The [Software Testing Masterclass (2019) - From Novice to Expert][afflink]
 caught my eye during one of Udemy's many sales. This course is only five hours long
 so I figured it'd be a quick overview (and I'd be able to skip of the 'novice') part
 of the course. It was created by Ozan İlhan. Their Udemy biograph says they
@@ -83,4 +84,5 @@ like plugs for various services, I can't recommend this course.
 
 
  [certificate]: {attach}images/udemy-testing-masterclass.jpg
+ [afflink]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.391976620620375801927472&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2fsoftware-testing-masterclass-from-novice-to-expert%2f
  [courselink]: https://ude.my/UC-1F1K67C9

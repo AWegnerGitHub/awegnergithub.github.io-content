@@ -17,7 +17,7 @@ workload: PT45M
 
 ## Introduction
 
-**Update**: This course is no longer offered on Udemy. There are more recent version and courses for a Git introduction.
+**Update**: This course is no longer offered on Udemy. There are more recent versions and courses for a Git introduction.
 
 I use Git extensively in both my personal and professional work. I've set up [GitLab][1] for my personal work. I know enough about Git to be effective in a small environment with a handful of developers. I found a 30 minute crash course about Git on Udemy and decided to take it with the goal of learning a little bit more.
 

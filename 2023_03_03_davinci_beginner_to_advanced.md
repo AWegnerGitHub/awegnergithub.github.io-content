@@ -17,6 +17,8 @@ workload: PT10H
 
 ## Introduction
 
+**Update**: This course is no longer offered on Udemy. DaVinci 18 is out of date.
+
 In my two previous course reviews - the [beginners Unreal Engine course][2], and the [realistic environment course][2] -
 I presented a short YouTube clip of what I'd built. For both of those, I used [DaVinci Resolve][3] to quickly stitch together
 a few clips. There was nothing fancy in those, but while doing it I was impressed at the shear number of options and capabilities that

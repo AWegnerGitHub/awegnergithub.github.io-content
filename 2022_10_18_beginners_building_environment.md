@@ -12,6 +12,7 @@ score: 8.5
 price: 89.99
 saleprice: 16.99
 workload: PT18H30M
+sponsoredpost: True
 
 [TOC]
 
@@ -98,7 +99,7 @@ If you have the time to spare (one of the downsides to this course is the length
 
 
 
- [1]: https://www.udemy.com/course/unreal-engine-5-beginners-guide-building-environment/
+ [1]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.391973009050554219850740&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2funreal-engine-5-beginners-guide-building-environment%2f
  [2]: {filename}2022_09_20_UE5_realistic_environment_design_beginners.md
  [3]: {filename}2022_10_03_UE5_complete_beginners_guide.md
  [unreal]: https://www.unrealengine.com/en-US/unreal-engine-5
