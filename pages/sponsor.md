@@ -53,12 +53,12 @@ Andy
 
 
 [tom]: https://himynameistom.com/ethics
-[1]: {filename}2024_08_16_wiring_wled_controller_relay.md
-[2]: {filename}2022_12_07_garden_two_year_review.md
-[3]: {filename}2020_05_29_final_review.md
-[4]: {filename}2020_05_24_suggested_improvements_app_subscription.md
-[5]: {filename}2020_05_04_suggested_improvements_physical.md
-[6]: {filename}2020_05_01_planting_garden.md
-[7]: {filename}2020_04_26_assembling_garden.md
-[8]: {filename}2020_04_24_nursery_unbox.md
-[9]: {filename}2020_04_22_rise_garden_unbox.md
+[1]: {filename}../2024_08_16_wiring_wled_controller_relay.md
+[2]: {filename}../2022_12_07_garden_two_year_review.md
+[3]: {filename}../2020_05_29_final_review.md
+[4]: {filename}../2020_05_24_suggested_improvements_app_subscription.md
+[5]: {filename}../2020_05_04_suggested_improvements_physical.md
+[6]: {filename}../2020_05_01_planting_garden.md
+[7]: {filename}../2020_04_26_assembling_garden.md
+[8]: {filename}../2020_04_24_nursery_unbox.md
+[9]: {filename}../2020_04_22_rise_garden_unbox.md
