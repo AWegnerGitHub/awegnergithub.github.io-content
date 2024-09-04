@@ -4,6 +4,7 @@ Tags: technical, wled
 Category: Technical Solutions
 Slug: control-power-wled-relay
 Summary: Wiring a lot of LEDs requires more power than the small WLED controller can handle, but leaving a large power supply running even when the lights are off is inefficient. This post talks about the progress on the project and how I wired in a relay to keep everything running efficiently.
+sponsoredpost: True
 
 [TOC]
 

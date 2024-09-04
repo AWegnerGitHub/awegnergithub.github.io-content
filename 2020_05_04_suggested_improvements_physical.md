@@ -6,6 +6,7 @@ Slug: rise-garden-suggestions-physical
 Summary: Everything is set up and sprouting. While I'm waiting for a harvest, I have some thoughts on how to make the new garden even better.
 Status: published
 Series: Rise Gardens Review
+sponsoredpost: True
 
 
 [TOC]
@@ -142,7 +143,7 @@ The pump, the electronics, the assembly instructions. It all just works.
 The physical hardware of the garden has a few areas where improvement would take a great product to even another
 level. The packaging could be improved to reduce some of the cosmetic complaints I have.
 
-This is a great design. Rise Gardens has clearly put in the time to design something that works as expected,
+This is a great design. [Rise Gardens][riseamazon] has clearly put in the time to design something that works as expected,
 but is easy to set up, maintain, and use.
 
 In my next post, I'm going to cover some more [improvement ideas focused on the mobile application and
@@ -159,3 +160,4 @@ subscription service][appsuggestions].
  [topscratch]: {attach}images/garden/5_suggestions/scratched_top.jpg
  [smudge]: {attach}images/garden/5_suggestions/smudged_anntena.jpg
  [feet]: {attach}images/garden/5_suggestions/cardboard_level.jpg
+ [riseamazon]: https://amzn.to/3z8SZrf

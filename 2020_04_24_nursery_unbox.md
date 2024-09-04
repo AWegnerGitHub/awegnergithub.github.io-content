@@ -6,14 +6,14 @@ Slug: nursery-unboxing
 Summary: With the garden unboxed, it's time to look at the nurseries. Our seed have to start growing somewhere.
 Status: published
 Series: Rise Gardens Review
-
+sponsoredpost: True
 
 [TOC]
 
 ## Introduction
 
-In my [last post][unboxgardens], I opened all of the boxes related to my new indoor, hydroponic
-garden from [Rise Gardens][risegardens]. Today's post goes over the opening of the
+In my [last post][unboxgardens], I opened all of the boxes related to my new [indoor, hydroponic
+garden][riseamazon] from [Rise Gardens][risegardens]. Today's post goes over the opening of the
 three nurseries I received. Let's continue my review of the new Rise Gardens farm!
 
 I mentioned in my [first post][unboxgardens], that there were shipping delays with the garden. One
@@ -90,7 +90,7 @@ the help of the app, I'll figure out what is the correct range of values for eac
 
 ![Nutrients][nutrients]
 
-In boxes two and three, there were nutrients for the garden. It's not mentioned
+In boxes two and three, there were [nutrients for the garden][amazonnuts] and [pH balance][amazonph]. It's not mentioned
 in the quick start, but in the large instruction manual provided with the garden itself,
 there are brief instructions on the difference between the two provided here. The
 general idea, though, is that it helps the plants grow and produce. Obviously.
@@ -183,3 +183,6 @@ will cover [assembly of the garden][assembly].
  [basil]: {attach}images/garden/2_unboxing/basil.jpg
  [plantpod]: {attach}images/garden/2_unboxing/plant_pod.jpg
  [assembly]: {filename}2020_04_26_assembling_garden.md
+ [riseamazon]: https://amzn.to/3z8SZrf
+ [amazonnuts]: https://amzn.to/47gwIEo
+ [amazonph]: https://amzn.to/3Tib9Oh

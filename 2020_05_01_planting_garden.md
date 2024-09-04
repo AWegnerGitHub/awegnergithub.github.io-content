@@ -6,7 +6,7 @@ Slug: rise-garden-planting
 Summary: Planting the first crop in the garden
 Status: published
 Series: Rise Gardens Review
-
+sponsoredpost: True
 
 [TOC]
 
@@ -14,7 +14,7 @@ Series: Rise Gardens Review
 
 I've [opened the garden][unboxgardens], [opened the nurseries][unboxnurseries] and [assembled the garden][assemblegarden].
 In this post, we plant the first round of seeds, set them in the nursery and wait for them to grow. Let's
-continue on this new hydroponic journey with the [Rise Gardens][risegardens] indoor garden.
+continue on this new hydroponic journey with the [Rise Gardens][risegardens] [indoor garden][riseamazon].
 
 ## Planting Pods
 
@@ -106,3 +106,4 @@ This will cover both the physical hardware and the electronics/automation side t
  [transplant]: {attach}images/garden/4_planting/transplanting_2.jpg
  [app]: {attach}images/garden/4_planting/nursery_app.png
  [suggestionsphysical]: {filename}2020_05_04_suggested_improvements_physical.md
+ [riseamazon]: https://amzn.to/3z8SZrf
