@@ -35,7 +35,7 @@ What happened? Why wasn't the result just
 
     'andrew'
 
-## Explaination
+## Explanation
 
 Read line from the documentation again, carefully:
 
