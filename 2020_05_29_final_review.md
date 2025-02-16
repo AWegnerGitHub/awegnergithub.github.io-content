@@ -11,7 +11,6 @@ Series: Rise Gardens Review
 template: review
 revieweditem: Rise Gardens
 score: 8.5
-sponsoredpost: True
 
 [TOC]
 
@@ -74,12 +73,12 @@ cleaned off too.
 
 ## Final Summary
 
-[Rise Gardens][riseamazon] has built an amazing product. It's not going to replace your trips to the grocery store. One garden
+Rise Gardens has built an amazing product. It's not going to replace your trips to the grocery store. One garden
 isn't going to feed your family. But, it will supplement it. It will provide you with some fresh vegetables and herbs.
 It will allow you to grow for more of the year (especially in colder climates).
 
 It's also proved to be very interesting for the kids. They love checking the garden each morning to see how big
-plants have gotten or how "their" plant is doing. They help out when [nutrients][amazonnuts] are put in and like refilling the
+plants have gotten or how "their" plant is doing. They help out when nutrients are put in and like refilling the
 water with me.
 
 There are a few areas that can be improved though. I think the biggest improvement that could be made, physically, is
@@ -130,6 +129,3 @@ it have more room to grow and less competition.
  [appsuggestions]: {filename}2020_05_24_suggested_improvements_app_subscription.md
  [funding]: https://techcrunch.com/2020/05/27/rise-gardens-raises-seed-funding-for-a-indoor-hydroponic-gardening-system/
  [gardennow]: {attach}images/garden/7_final_review/garden_now.jpg
- [riseamazon]: https://amzn.to/3z8SZrf
- [amazonnuts]: https://amzn.to/47gwIEo
- 

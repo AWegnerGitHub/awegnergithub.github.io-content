@@ -11,7 +11,7 @@ Provider: RiseGardens
 template: review
 revieweditem: Rise Gardens
 score: 8.5
-sponsoredpost: True
+
 
 [TOC]
 
@@ -34,7 +34,7 @@ an outdoor garden, but it never really did that well. This was due to both the s
 Last summer and fall, I went and forth between building an internal garden and buying one and
 never really settled on one. During the winter, I found [Rise Gardens][risegardens].
 
-This is a [hydroponic garden][riseamazon], which is exactly what I wanted. I don't want soil everywhere
+This is a hydroponic garden, which is exactly what I wanted. I don't want soil everywhere
 and I'd prefer something self contained. Plus, I was secretly hoping the kids would find it
 exciting to watch vegetables grow and then harvest and eat them.
 
@@ -196,4 +196,3 @@ In short, despite some packaging annoyances, I'm looking forward to assembling t
  [assemblyinstr]: https://support.risegardens.com/en_us/garden-assembly-and-setup-instructions-SJBeSfy9c
  [unboxnurseries]: {filename}2020_04_24_nursery_unbox.md
  [final-review]:{filename}2020_05_29_final_review.md
- [riseamazon]: https://amzn.to/3z8SZrf

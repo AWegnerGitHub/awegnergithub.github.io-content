@@ -6,7 +6,7 @@ Slug: rise-garden-assembly
 Summary: Assemble the new Rise Garden
 Status: published
 Series: Rise Gardens Review
-sponsoredpost: True
+
 
 [TOC]
 
@@ -16,7 +16,7 @@ It's time to assemble the [Rise Gardens][risegardens] indoor garden. In previous
 process of [unboxing the garden][unboxgardens] and the process of [unboxing the nurseries][unboxnurseries].
 Today, we assemble.
 
-[Rise Gardens][riseamazon] makes the following claim on their web page:
+Rise Gardens makes the following claim on their web page:
 
 > Within an hour, you can assemble your garden, connect your app, and plant your first herbs and veggies.
 
@@ -153,4 +153,3 @@ Next up, [planting the nursery and watching the seeds sprout][planting].
  [lights]: {attach}images/garden/3_assembly/lights.jpg
  [gap]: {attach}images/garden/3_assembly/gap.jpg
  [gappipe]: {attach}images/garden/3_assembly/gap_pipe.jpg
- [riseamazon]: https://amzn.to/3z8SZrf
