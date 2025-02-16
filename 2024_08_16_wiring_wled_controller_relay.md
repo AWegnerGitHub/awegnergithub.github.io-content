@@ -59,12 +59,12 @@ With the relay in place, the LEDs don't draw phantom power while off because the
 The next step in the project is going to be to get this set up outside. 
 
  [wled]: https://kno.wled.ge/
- [ericsity]: https://amzn.to/3X6HLLT
+ [ericsity]: https://www.amazon.com/Ericsity-Controller-Addressable-WS2812B-SK6812/dp/B0CNVXY8NX
  [1]: {filename}2024_06_20_update_wled_ericsity_0141.md
  [voltagedrop]: {attach}images/wled/voltage-drop.png
  [equalvoltage]: {attach}images/wled/equal-voltage.png
- [wago]: https://amzn.to/4e3hBR3
- [psu]: https://amzn.to/4e547o6
+ [wago]: https://www.amazon.com/dp/B0957T1S9C
+ [psu]: https://www.amazon.com/dp/B0BXTP524R
  [2]: https://kno.wled.ge/features/relay-control/
  [3]: https://capitaloneshopping.com/p/hi-letgo-5-v-1-channel-relay-mod/2RDBGLR8VL
  [wiring]: {attach}images/wled/deck-lights-wled.png
