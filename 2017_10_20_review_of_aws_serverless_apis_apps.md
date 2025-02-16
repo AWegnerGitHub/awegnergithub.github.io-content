@@ -12,7 +12,6 @@ score: 8.5
 price: 119.99
 saleprice: 19.99
 workload: PT8H
-sponsoredpost: True
 
 [TOC]
 
@@ -31,7 +30,7 @@ integration with GitHub and a series of new commands. It's painful.
 
 One of the recent discussions to solve this problem was a centralized database. That brings me to this course.
 
-The [AWS Serverless APIs & Apps - A Complete Introduction][afflink] by Maximilian Schwarzmüller on Udemy
+The [AWS Serverless APIs & Apps - A Complete Introduction][courselink] by Maximilian Schwarzmüller on Udemy
 looked like a good overview for AWS lambda and DynamoDB, two solutions the SmokeDetector project was looking
 into using.
 
@@ -77,6 +76,5 @@ to this new solution.
 
 
  [certificate]: {attach}images/udemy-aws-serverless-apis-apps.jpg
- [afflink]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.391973565242026715741866&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2faws-serverless-a-complete-introduction%2f
  [courselink]: https://ude.my/UC-1ESFUC2V
  [1]: {filename}2017_02_19_can-a-machine-be-taught-to-flag-spam-automatically.md

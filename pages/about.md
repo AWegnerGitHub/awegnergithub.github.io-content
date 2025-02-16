@@ -16,8 +16,6 @@ high quality engineering teams.
 In my free time, I enjoy board games, video games, and a good hands on project. The projects vary depending on the time of year. It gets 
 cold in the winter and I do prefer a nice warm climate. 
 
-A handful of posts on the site (especially the course reviews) contain affiliate links. A list of all affiliate and sponsored posts, is available for everyone to read on my [Ethics Statement][ethics].
-
 ## Who am I?
 
 **Andrew Wegner**<br />
@@ -29,4 +27,3 @@ a.k.a **Andy Wegner**
 [stackoverflow]: https://stackoverflow.com/users/189134/andy
 [github]: https://github.com/AWegnerGitHub/
 [keybase]: https://keybase.io/awegner
-[ethics]: {filename}sponsor.md

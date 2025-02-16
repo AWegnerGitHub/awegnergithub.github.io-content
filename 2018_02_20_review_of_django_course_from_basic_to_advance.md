@@ -46,7 +46,7 @@ even current!
 
 There are technical issues with the course too:
 
- - The instructor is using Django 1.9. This is three years out of date at this point.
+ - The instructor is using Django 1.9. There is three years out of date at this point.
  - Installation instructions tell users to use administration or `sudo` rights for all Python libraries
  - Installation instructions are done using `easy_install` not `pip`
 

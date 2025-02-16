@@ -12,7 +12,6 @@ score: 6.5
 price: 109.99
 saleprice: 17.99
 workload: PT13H
-sponsoredpost: True
 
 [TOC]
 
@@ -55,7 +54,7 @@ Overall, I'd consider this a middle of the road course. The presentation is what
 
 
 
- [1]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.391978014189104495403846&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2fbecome-a-product-manager-learn-the-skills-get-a-job%2f
+ [1]: https://www.udemy.com/become-a-product-manager-learn-the-skills-get-a-job/learn/v4/overview
  [2]: https://soundcloud.com/
  [3]: http://www.sprintkick.com/
  [4]: {attach}images/udemy-become-a-product-manager-completion.jpg

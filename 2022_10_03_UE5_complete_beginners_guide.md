@@ -12,7 +12,6 @@ score: 6.5
 price: 124.99
 saleprice: 19.99
 workload: PT10H
-sponsoredpost: True
 
 [TOC]
 
@@ -78,7 +77,7 @@ My game:
 
 
 
- [1]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.3919718114045537750783219&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2funreal-engine-5-the-complete-beginners-course%2f
+ [1]: https://www.udemy.com/course/unreal-engine-5-the-complete-beginners-course/
  [2]: {filename}2022_09_20_UE5_realistic_environment_design_beginners.md
  [unreal]: https://www.unrealengine.com/en-US/unreal-engine-5
  [certificate]: {attach}images/UC-ue5-complete-beginners-course.jpg
