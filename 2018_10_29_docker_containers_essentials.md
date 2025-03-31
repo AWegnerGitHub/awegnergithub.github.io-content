@@ -12,7 +12,6 @@ score: 2.0
 price: 19.99
 saleprice: 13.99
 workload: PT1H
-sponsoredpost: True
 
 [TOC]
 
@@ -39,6 +38,6 @@ I don't know how long the author is spending on updating their courses, but ther
 [![Completion Award][3]][4]
 
 
- [1]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.391972679018619612576062&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2fdocker-and-containers-the-essentials%2f
+ [1]: https://www.udemy.com/docker-and-containers-the-essentials/
  [3]: {attach}images/udemy-docker-containers-essentials.jpg
  [4]: https://ude.my/UC-WEQ6PT39

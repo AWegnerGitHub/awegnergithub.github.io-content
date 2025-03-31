@@ -12,7 +12,6 @@ score: 5.0
 price: 54.99
 saleprice: 0.00
 workload: PT4H
-sponsoredpost: True
 
 [TOC]
 
@@ -50,6 +49,6 @@ If you can find a coupon code for this, I think it's worth your time to see how 
  [3]: {filename}2015_12_11_how-i-set-up-openshift-travisci-and-flask.md
  [4]: {filename}2018_02_28_do_not_trust_travisci_environment_variables.md
  [5]: https://www.youtube.com/@HoussemDellai/videos
- [course]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.3919717532835196994553405&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2flearn-github-actions-ci-cd-devops-pipelines%2f
+ [course]: https://www.udemy.com/course/learn-github-actions-ci-cd-devops-pipelines/
  [certificate]: {attach}images/udemy-github-actions-pipeline-review.jpg
  [courselink]: https://www.udemy.com/certificate/UC-628403d3-7a5b-46b5-8083-32d915e79471/

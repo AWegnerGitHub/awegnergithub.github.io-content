@@ -12,7 +12,6 @@ score: 9.5
 price: 109.99
 saleprice: 18.99
 workload: PT19H30M
-sponsoredpost: True
 
 [TOC]
 
@@ -138,7 +137,7 @@ The notebooks that I created during this course are all available on [GitHub][2]
 
 
 
- [1]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.3919710999913014905150560&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2fdata-analysis-with-pandas%2f
+ [1]: https://www.udemy.com/data-analysis-with-pandas/learn/v4/overview
  [2]: https://github.com/AWegnerGitHub/Data-Analysis-with-Pandas
  [3]: https://www.continuum.io/downloads
  [4]: http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.html

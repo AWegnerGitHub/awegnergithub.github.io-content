@@ -12,7 +12,6 @@ score: 7.0
 price: 34.99
 saleprice: 13.99
 workload: PT2H
-sponsoredpost: True
 
 [TOC]
 
@@ -24,7 +23,7 @@ and after several internal discussions, we settled on [Sanic][1]. The first line
 
 > Sanic is a Flask-like Python 3.5+ web server that’s written to go fast.
 
-Great! I used Flask at my previous job. To be clear, Sanic is not *based on* Flask, but it's API is *Flask-like*. Good enough to start with. With the framework
+Great! I used Flask at my previous job. To be clear, Sanic is not *based on* Flask, but it's API is *Flask-like*. Good enjoy to start with. With the framework
 set, and previous experience with a similar framework, I wanted to go through how Sanic works.
 
 I turned to Udemy and the [Sanic - an asynchronous web framework for Pythonistas][2] course, created by Szabó Dániel Ernő.
@@ -91,7 +90,7 @@ If you have a few hours (and dollars, during a Udemy sale) to spare and wish to 
 
 
  [1]: https://sanic.readthedocs.io/en/latest/
- [2]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.3919718232128023212992482&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2fsanic-an-asynchronous-web-framework-for-pythonistas%2f
+ [2]: https://www.udemy.com/sanic-an-asynchronous-web-framework-for-pythonistas/
  [3]: https://github.com/r3ap3rpy/sanic-web-framework
  [certificate]: {attach}images/udemy-sanic.jpg
  [courselink]: https://ude.my/UC-LYP0VLF7

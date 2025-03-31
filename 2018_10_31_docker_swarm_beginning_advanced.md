@@ -12,7 +12,6 @@ score: 1.5
 price: 19.99
 saleprice: 13.99
 workload: PT1H30M
-sponsoredpost: True
 
 [TOC]
 
@@ -39,7 +38,7 @@ I don't recommend this course (or the [previous one][2]) because of how little "
 [![Completion Award][3]][4]
 
 
- [1]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.391976931400227831759643&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2fdocker-swarm-from-beginner-to-advanced-with-docker-cluster-hosting%2f
+ [1]: https://www.udemy.com/docker-swarm-from-beginner-to-advanced-with-docker-cluster-hosting/
  [2]: {filename}2018_10_29_docker_containers_essentials.md
  [3]: {attach}images/udemy-docker-swarm-beginner-to-advanced.jpg
  [4]: https://ude.my/UC-X9SRS3MO

@@ -12,7 +12,6 @@ score: 7.0
 price: 129.99
 saleprice: 19.99
 workload: PT32H
-sponsoredpost: True
 
 [TOC]
 
@@ -88,7 +87,7 @@ relatively basic one I have), be prepared to be bored during the first half of t
  [1]: {filename}2017_04_20_review_of_deep_learning_prereq_numpy.md
  [2]: {filename}2017_05_03_review_of_deep_learning_prereq_regression.md
  [3]: https://github.com/AWegnerGitHub/IRVING
- [4]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.391971746708712562580105&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2fpython-and-django-full-stack-web-developer-bootcamp%2f
+ [4]: https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview
  [5]: https://atom.io/
  [6]: https://docs.djangoproject.com/en/1.11/topics/signals/
  [7]: https://www.djangoproject.com/weblog/2016/sep/09/channels-adopted-official-django-project/

@@ -5,7 +5,6 @@ Category: Technical Solutions
 Slug: update-wled-ericsity-controller-0141
 Summary: The Ericsity WLED controller comes with WLED 0.13.3 preinstalled and only offers the ability to update to 0.13.4. This walks through setting up the controller for the first time and moving to 0.14.1 while maintaining the sound reactive features the controller advertises.
 Status: published
-sponsoredpost: True
 
 [TOC]
 
@@ -122,7 +121,7 @@ Now that the controller has rebooted, audio reactions are working again. The bra
 
 
  [wled]: https://kno.wled.ge/
- [ericsity]: https://amzn.to/3X6HLLT
+ [ericsity]: https://www.amazon.com/Ericsity-Controller-Addressable-WS2812B-SK6812/dp/B0CNVXY8NX
  [1]: https://kno.wled.ge/features/segments/
  [2]: https://kno.wled.ge/advanced/mapping/
  [3]: https://github.com/atuline/WLED

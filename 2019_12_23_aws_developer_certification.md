@@ -12,7 +12,6 @@ score: 8.5
 price: 139.99
 saleprice: 24.99
 workload: PT33H
-sponsoredpost: True
 
 [TOC]
 
@@ -66,7 +65,7 @@ be looking for another course by Stephane Maarek.
 ![AWS Certified Developer - J2WR9QVC314Q1FSY][awscertificate]
 
 
- [1]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.391972736245127085224372&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2faws-certified-developer-associate-dva-c01%2f
+ [1]: https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/
  [certificate]: {attach}images/udemy-aws-developer-certification.jpg
  [courselink]: https://ude.my/UC-CAXZ5N6F
  [awscertificate]: {attach}images/aws_certified_developer.png

@@ -12,7 +12,6 @@ score: 6.0
 price: 74.99
 saleprice: 15.99
 workload: PT7H
-sponsoredpost: True
 
 [TOC]
 
@@ -92,6 +91,6 @@ walking away from this with more understanding of how blueprints work and that w
  [1]: {filename}2022_10_03_UE5_complete_beginners_guide.md
  [2]: {filename}2022_09_20_UE5_realistic_environment_design_beginners.md
  [3]: {filename}2022_10_18_beginners_building_environment.md
- [4]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.3919717356040598975937913&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2flearn-how-to-make-a-2d-platformer-in-unreal-engine%2f
+ [4]: https://www.udemy.com/course/learn-how-to-make-a-2d-platformer-in-unreal-engine/
  [certificate]: {attach}images/udemy-2d-platformer-completion.jpg
  [courselink]: https://www.udemy.com/certificate/UC-119fc59e-c3a0-48d2-bf43-c1377c054009/

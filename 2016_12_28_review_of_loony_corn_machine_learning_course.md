@@ -13,7 +13,6 @@ score: 2.5
 price: 59.99
 saleprice: 13.99
 workload: PT20H
-sponsoredpost: True
 
 [TOC]
 
@@ -55,6 +54,6 @@ much better than this one.
 
 
 
- [1]: https://click.linksynergy.com/link?id=upT2m3Gzivc&offerid=1597309.391972669190016373223833&type=2&murl=https%3a%2f%2fwww.udemy.com%2fcourse%2ffrom-0-1-machine-learning%2f
+ [1]: https://www.udemy.com/from-0-1-machine-learning/learn/v4/overview
  [2]: {attach}images/udemy-machine-learning-nlp-python-completion.jpg
  [3]: https://ude.my/UC-9WXL1L1V

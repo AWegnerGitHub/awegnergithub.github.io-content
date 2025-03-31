@@ -6,7 +6,6 @@ Slug: rise-garden-suggestions-software
 Summary: Several suggestion for the Rise Gardens app, their subscription service and product as a whole.
 Status: published
 Series: Rise Gardens Review
-sponsoredpost: True
 
 
 [TOC]
@@ -130,7 +129,7 @@ I have two items that I really think would make Rise Gardens fantastic and both 
 
 ### Access to old water readings
 
-I know the application is sending my water readings somewhere. I have to log in, and the
+I know the application sending my water readings somewhere. I have to log in, and the
 application doesn't work when the internet is down (tried...doesn't load). Give us the ability
 to pull those old readings via an API call so that I can plot them. I love data and I love
 visualizing date. More information via an API call would be even better. Things like:
@@ -176,7 +175,7 @@ Here I've covered the things that have frustrated me (application loading/login)
 can be improved (plant information) and offered a few suggestions to make the software and subscription better.
 
 Overall, I think everything I've mentioned is do able with some development time. I am looking forward to
-how [Rise Gardens][riseamazon] continues to improve the product.
+how Rise Gardens continues to improve the product.
 
 One thing that is very disappointing though, is that the new plants - cucumbers, bean mascotte, celery, catnip, and
 several more - aren't even available as options when selecting my next subscription plants. I hope this is
@@ -197,4 +196,3 @@ The next post will be the [last in the series][final] and will cover harvest and
  [redoakapp]: {attach}images/garden/6_app_suggestions/redoak-harvest-day-app.png
  [redoak]: {attach}images/garden/6_app_suggestions/redoak-harvest-day.jpg
  [lights]: {attach}images/garden/6_app_suggestions/light-schedule.png
- [riseamazon]: https://amzn.to/3z8SZrf

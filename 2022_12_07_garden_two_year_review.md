@@ -6,7 +6,6 @@ Slug: rise-garden-two-year-review
 Summary: After two and half years of using the Rise Garden product, how is it holding up? This article provides an update.
 Status: published
 Series: Rise Gardens Review
-sponsoredpost: True
 
 
 [TOC]
