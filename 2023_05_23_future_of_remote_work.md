@@ -1,7 +1,7 @@
 Title: My thoughts on what remote work will look like in the coming decade
 Date: 2023-05-23 15:30
 Tags: job search, leadership
-Category: Jobs
+Category: Leadership
 Slug: remote-work-thoughts-about-offices
 Summary: Return of office, hybrid work, fully remote job opportunities. Where do I think this is going?
 Status: published

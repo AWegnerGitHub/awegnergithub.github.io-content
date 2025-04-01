@@ -1,7 +1,7 @@
 Title: What should a software engineering interview look like?
 Date: 2023-07-06 15:00
 Tags: job, meta, leadership
-Category: Jobs
+Category: Leadership
 Slug: ideal-engineering-interviews
 Summary: I've interviewed a lot of engineers at various stages in their careers. I've utilized existing interview processes, built new ones and improved upon all of those. What do I think an ideal interview process would look like? Read on for details. 
 Status: published

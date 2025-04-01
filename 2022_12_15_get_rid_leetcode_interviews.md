@@ -1,7 +1,7 @@
 Title: ChatGPT is here - Use that to stop asking LeetCode questions during interviews
 Date: 2022-12-15 23:45
 Tags: job, leadership, job search, chatgpt, ai interviews
-Category: Jobs
+Category: Technical Solutions
 Slug: chatgpt-should-end-leetcode-interviews
 Summary: ChatGPT's availability and ability to answer basic questions should end LeetCode use in software engineering interviews. Right?
 Status: published
