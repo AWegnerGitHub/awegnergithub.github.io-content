@@ -43,7 +43,7 @@ I purchased a [HiLetGo relay][3] so that I could toggle the larger power supply 
 
 ![Wiring diagram for WLED controller, external power supply, LEDs and a relay controlling the external PSU][wiring]
 
-The diagram above is a rough schematic of how I wired this. The controller's sent data, but not power, to the LEDs. Data was on GPIO 16. The important part here is that the data line is shared across all of the strips. I did not need a signal booster for my project, and because I'm about to use the second exposed data channel for the relay, I had to ensure that this single channel could send a signal down the entire length of the strip. Fortunately, I didn't have any issues.
+The diagram above is a rough schematic of how I wired this. The controller sends data, but not power, to the LEDs. Data was on GPIO 16. The important part here is that the data line is shared across all of the strips. I did not need a signal booster for my project, and because I'm about to use the second exposed data channel for the relay, I had to ensure that this single channel could send a signal down the entire length of the strip. Fortunately, I didn't have any issues.
 
 The wiring ground was tied into the PSU and the LEDs as well. The common ground is important.
 
