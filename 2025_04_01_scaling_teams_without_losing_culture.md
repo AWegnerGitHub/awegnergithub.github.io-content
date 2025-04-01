@@ -33,11 +33,7 @@ The other benefit of these types of improvements, is that is supports [asynchron
 Maintaining culture during growth requires intentionality. Here are strategies I've found effective:
 
 * Immediate Integration into Meaningful Work: New team members were immediately included in team ceremonies and assigned meaningful tasks—not just busywork. This sent a clear message: you're a valued contributor from day one. By giving new engineers real problems to solve immediately, they quickly identified with the team's mission and felt ownership of their work.
-* Public Knowledge Sharing: We instituted a rule that all support work must occur in public channels. This transparency accomplished several things:
-  * New engineers could observe troubleshooting in real-time
-  * Everyone learned from each issue that arose
-  * Team members could spot when someone was solving a previously addressed problem
-  * Patterns of recurring issues became visible, highlighting systemic problems that needed permanent fixes
+* Public Knowledge Sharing: We instituted a rule that all support work must occur in public channels. This transparency accomplished several things. New engineers could observe troubleshooting in real-time allowing everyone to learn from each issue that arose. Team members could spot when someone was solving a previously addressed problem which helped find patterns of recurring issues. These became visible, highlighting systemic problems that needed permanent fixes.
 * Visual Documentation: A picture truly is worth a thousand words on day one. System architecture diagrams, workflow charts, and even team organization maps help new engineers orient themselves quickly. We continually updated these visual aids as our systems and teams evolved.
 
 ## Evolution of Team Structure and Communication
