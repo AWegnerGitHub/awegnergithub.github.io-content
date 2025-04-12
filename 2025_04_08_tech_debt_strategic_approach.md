@@ -1,6 +1,6 @@
 Title: Technical Debt Management: A Strategic Approach
 Date: 2025-04-08 09:00
-Tags: job, meta, leadership
+Tags: job, leadership
 Category: Leadership
 Slug: tech-debt-management-strategic-approach
 Summary: After navigating technical leadership roles across startups and established corporations, I've come to view technical debt as both inevitable and manageable. It's the leadership approach to this debt that often determines whether a company can maintain momentum or finds itself grinding to a halt.

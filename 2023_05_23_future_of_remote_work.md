@@ -12,7 +12,7 @@ Status: published
 
 This post is a bit different than some of my others. It's a direct response to an article. Over the past 9 months, as the 
 technology industry contracts, we've seen return to office orders from countless companies. Combined with the, roughly, 
-[300k layoffs][1] between August 1, 2022and May 23, 2023 ([I was laid off in that time frame too][2]), we've seen _a lot_ of 
+[300k layoffs][1] between August 1, 2022 and May 23, 2023 ([I was laid off in that time frame too][2]), we've seen _a lot_ of 
 articles about how many companies are recalling people to the office. 
 
 I think this is short sighted. Remote work, when done properly, is the way of the future and forcing everyone back into an 

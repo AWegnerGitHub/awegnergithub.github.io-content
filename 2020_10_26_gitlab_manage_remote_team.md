@@ -1,6 +1,6 @@
 Title: Review of GitLab's 'How to Manage a Remote Team' Coursera course
 Date: 2020-10-26 9:30
-Tags: review, technical, learning
+Tags: review, technical, learning, leadership
 Category: Review
 Slug: gitlab-manage-remote-team
 Summary: My review of Gitlab's Coursera course on managing a remote team and workforce
