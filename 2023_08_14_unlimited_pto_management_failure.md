@@ -5,6 +5,7 @@ Category: Leadership
 Slug: management-failure-unlimited-pto
 Summary: Unlimited PTO is a perk more and more organization are offering their employees. Unfortunately, many managers and organization are managing this poorly and failing their employees. What does this management failure look like?
 Status: published
+Series: Leadership Thoughts
 
 [TOC]
 

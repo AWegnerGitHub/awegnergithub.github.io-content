@@ -4,6 +4,7 @@ Tags: job, leadership
 Category: Leadership
 Slug: leading-distributed-teams-lessons
 Summary: Leading engineers from around the world has taught me how to balance asynchronous communication and decisive action. The right frameworks transform geographical challenges into strategic advantages for organizations seeking to leverage global talent and build resilient engineering cultures.
+Series: Leadership Thoughts
 
 [TOC]
 

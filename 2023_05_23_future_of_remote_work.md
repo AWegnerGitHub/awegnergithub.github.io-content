@@ -5,6 +5,7 @@ Category: Leadership
 Slug: remote-work-thoughts-about-offices
 Summary: Return of office, hybrid work, fully remote job opportunities. Where do I think this is going?
 Status: published
+Series: Leadership Thoughts
 
 [TOC]
 

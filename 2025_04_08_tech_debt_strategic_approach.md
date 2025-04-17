@@ -4,6 +4,7 @@ Tags: job, leadership
 Category: Leadership
 Slug: tech-debt-management-strategic-approach
 Summary: After navigating technical leadership roles across startups and established corporations, I've come to view technical debt as both inevitable and manageable. It's the leadership approach to this debt that often determines whether a company can maintain momentum or finds itself grinding to a halt.
+Series: Leadership Thoughts
 
 [TOC]
 

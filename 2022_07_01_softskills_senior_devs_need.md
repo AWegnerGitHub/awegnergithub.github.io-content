@@ -5,6 +5,7 @@ Category: Leadership
 Slug: top-soft-skills-senior-developers-need
 Summary: My thoughts on the top soft skills senior software developers need to be successful, republished from Woven
 Status: published
+Series: Leadership Thoughts
 
 [TOC]
 
