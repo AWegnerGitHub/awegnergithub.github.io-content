@@ -71,15 +71,15 @@ In the `/etc/gitlab/gitlab.rb` file you'll need to make several settings changes
 already installed and the `www-data` user (on Ubuntu) added to the `gitlab-www` group.
 
  * Find `nginx['enable']` and set it to `false`
- * In `web_server['external_users'], add `www-data` to the array. Note that this is an array and not a single string.
- * In `gitlab_rails['trusted_proxies'], add the IP address of the Apache web server. 
+ * In `web_server['external_users']`, add `www-data` to the array. Note that this is an array and not a single string.
+ * In `gitlab_rails['trusted_proxies']`, add the IP address of the Apache web server. 
  * Change the gitlab workhorse settings to the following (default) values. 
- 
+
 These may already be in the configuration file. If so, you probably don't need to modify them.
 
 	gitlab_workhorse['listen_network'] = "tcp"
 	gitlab_workhorse['listen_addr'] = "127.0.0.1:8181"
-	
+
 Finally, run `sudo gitlab-ctl reconfigure` for the settings to take effect.
 
 Now, you need to configure Apache's virtual host. GitLab provides [example virtual hosts][5]. Since I installed
@@ -122,7 +122,7 @@ At the top of this block, we need to reference the Let's Encrypt keys:
 	SSLCertificateFile /path/to/dehydrated/certs/gitlab.example.com/cert.pem
 	SSLCertificateKeyFile /path/to/dehydrated/certs/gitlab.example.com/privkey.pem
 	SSLCertificateChainFile /path/to/dehydrated/certs/gitlab.example.com/chain.pem
-	
+
 Save and restart Apache. You should be automatically redirected over HTTPS when you visit your GitLab URL.
 
 ### Allow spaces in repository names
@@ -135,7 +135,7 @@ the whole system.
 For me, though, the first comment which suggests a minor `RewireRule` change works great. In the virtual host, fine the line
 
     RewriteRule .* http://127.0.0.1:8181%{REQUEST_URI} [P,QSA,NE]
-	
+
 and remove the `NE` so that it reads
 
     RewriteRule .* http://127.0.0.1:8181%{REQUEST_URI} [P,QSA]
