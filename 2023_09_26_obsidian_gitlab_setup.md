@@ -1,6 +1,6 @@
 Title: Syncing Obsidian Notes across devices using Git and GitLab
 Date: 2023-09-26 13:30
-Tags: technical
+Tags: technical, gitlab
 Category: Technical Solutions
 Slug: obsidian-gitlab-setup
 Summary: Setting up Obsidian to sync notes across devices utilizing git and a GitLab backend

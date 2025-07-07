@@ -1,6 +1,6 @@
 Title: How to disable Grafana in Gitlab 16.3 Omnibus
 Date: 2023-08-23 22:15
-Tags: technical
+Tags: technical, gitlab
 Category: Technical Solutions
 Slug: disable-grafana-in-gitlab-16
 Summary: GitLab 16.3 deprecated and disabled the bundled Grafana, but didn't provide complete instructions for how to disable it. Fortunately, it's easy to do. I've documented the few steps needed.

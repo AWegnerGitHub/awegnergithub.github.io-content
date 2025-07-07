@@ -1,6 +1,6 @@
 Title: How to fix GitLab 18 error regarding git_data_dirs
 Date: 2025-07-06 08:00
-Tags: technical
+Tags: technical, gitlab
 Category: Technical Solutions
 Slug: gitlab_18_git_data_dirs_resolution
 Summary: GitLab 18 removes `git_data_dirs` and if you have been using it and didn't notice the deprecation warnings, an update to GitLab 18 will fail. This is a simple fix.

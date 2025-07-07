@@ -1,6 +1,6 @@
 Title: Setting up GitLab runners
 Date: 2019-10-22 11:00
-Tags: technical
+Tags: technical, gitlab
 Category: Technical Solutions
 Slug: setting-up-gitlab-runners
 Summary: How I set up a GitLab runner

@@ -1,6 +1,6 @@
 Title: Setting up GitLab on the new server
 Date: 2018-04-13 08:30
-Tags: technical
+Tags: technical, gitlab
 Category: Technical Solutions
 Slug: installing-gitlab
 Summary: Let's set up some private repositories on GitLab

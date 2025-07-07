@@ -1,6 +1,6 @@
 Title: Review of GitLab's 'TeamOps Certification' course
 Date: 2023-02-02 23:00
-Tags: review, technical, learning, leadership
+Tags: review, technical, learning, leadership, gitlab
 Category: Review
 Slug: gitlab-teamops-certification
 Summary: I've passed GitLab's TeamOps certification course. This is a review of the course.
