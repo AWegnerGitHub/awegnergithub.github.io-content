@@ -180,6 +180,14 @@ AI is already reshaping our industry. The question is whether we'll guide it in 
 
 The junior software engineers we hire and train today will become the senior engineers leading teams in 2030. How we prepare them for that role, in partnership with AI rather than in replacement by it, may be one of the most important strategic decisions we make as engineering leaders.
 
+---
+
+Please join the conversation over on LinkedIn. I've split this article across three posts over there and would love to hear your feedback
+
+- [AI tools make experienced software engineers 19% slower][10]
+- [Mentorship dynamics][11]
+- [What skills do junior engineers need to be successful alongside AI?][12]
+
 
 
 [1]: https://itsconchur.substack.com/p/41-of-code-is-now-ai-generated-should
@@ -191,3 +199,6 @@ The junior software engineers we hire and train today will become the senior eng
 [7]: https://www.turing.com/blog/software-development-statistics
 [8]: https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/how-an-ai-enabled-software-product-development-life-cycle-will-fuel-innovation
 [9]: {filename}2025_04_01_scaling_teams_without_losing_culture.md
+[10]: https://www.linkedin.com/posts/andrew-wegner_ai-tools-make-experienced-software-engineers-activity-7363573947457527808-3oRx
+[11]: https://www.linkedin.com/posts/andrew-wegner_ai-is-changing-mentorship-dynamics-in-ways-activity-7363916654793142273-2SOg
+[12]: https://www.linkedin.com/posts/andrew-wegner_todays-important-question-is-what-skills-activity-7364290146835316737-Chex
