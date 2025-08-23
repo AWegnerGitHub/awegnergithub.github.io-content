@@ -123,13 +123,13 @@ While setting this up there where a few things that I learned or desired that we
 was that GitHub actions aren't triggerable without setting up the appropriate `on` event type. In this case, I want to occassionally
 run the link checker on command, instead of once a week. That means I need the `workflow_dispatch` event and it needs to be empty. 
 
-  on:
-    schedule:
-      - cron:  '12 1 * * 5'
-    workflow_dispatch:
-  env:
-    WEBSITE_URL: "https://andrewwegner.com/"
-    ISSUE_TEMPLATE: ".github/workflows/check-broken-links.md"
+    on:
+      schedule:
+        - cron:  '12 1 * * 5'
+      workflow_dispatch:
+    env:
+      WEBSITE_URL: "https://andrewwegner.com/"
+      ISSUE_TEMPLATE: ".github/workflows/check-broken-links.md"
 
 Notice that the empty `workflow_dispatch` has no other parameters. It can accept some, if I wanted to provide input to the script at run time,
 but I have no need for that right now. So, mine remains empty.
