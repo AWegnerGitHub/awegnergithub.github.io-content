@@ -2,7 +2,7 @@ Title: About Andrew Wegner
 Slug: about
 Status: published
 
-I lead engineering teams to win—both in business outcomes and in conquering complex technical challenges.
+I lead engineering teams to win - both in business outcomes and in conquering complex technical challenges.
 
 I've scaled teams as VP of Strategic Software at Zayo and VP of Software Engineering at PacketFabric. I've 
 served as Fractional CTO at White Square Media and Director of Engineering at FleetOps/Class8 and Woven Teams. 
@@ -11,7 +11,7 @@ Northern Illinois University. I've built products used worldwide and mentored en
 
 My experience spans computer science and information security across academia, manufacturing, transportation, 
 logistics, telecommunications, and HR tech. I've worked everywhere from pre-seed startups to 
-Fortune 500 corporations—giving me a unique perspective on building high-quality engineering teams at any scale.
+Fortune 500 corporations - giving me a unique perspective on building high-quality engineering teams at any scale.
 
 Since 2017, I've served as an elected moderator on Stack Overflow, helping maintain one of the world's 
 largest developer communities.
