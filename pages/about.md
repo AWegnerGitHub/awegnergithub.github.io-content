@@ -2,19 +2,22 @@ Title: About Andrew Wegner
 Slug: about
 Status: published
 
-I enjoy leading engineering teams to success. Success in both a business sense and in an "overcoming a large technical challenge" sense. 
-I've held Engineering leadership roles as Vice President of Product Strategic Software at Zayo and Vice President of Software Engineering at
-PacketFabric. I was a Fractional CTO at White Square Media and I've been Director of Engineering at both FleetOps/Class8 and at Woven Teams.
-I've been an Application Lead at Caterpillar and Manager of the residental helpdesk at Northern Illinois University. I have built products used 
-around the world. I've built, led, grown and mentored teams, systems and, most importantly, engineers from around the globe. 
+I lead engineering teams to win—both in business outcomes and in conquering complex technical challenges.
 
-I have a background in computer science and information security in several industries: Academia, Manufacturing, Transportation and 
-Logistics, Telecommunication and Human Resources Information Management. I also have experience at various types of companies, ranging
-from pre-seed, Series A, Series B, and large corporations. In short, my background covers a wide swath of areas that want to build
-high quality engineering teams.
+I've scaled teams as VP of Strategic Software at Zayo and VP of Software Engineering at PacketFabric. I've 
+served as Fractional CTO at White Square Media and Director of Engineering at FleetOps/Class8 and Woven Teams. 
+Earlier in my career, I was an Application Lead at Caterpillar and managed the residential helpdesk at 
+Northern Illinois University. I've built products used worldwide and mentored engineers across the globe.
 
-In my free time, I enjoy board games, video games, and a good hands on project. The projects vary depending on the time of year. It gets 
-cold in the winter and I do prefer a nice warm climate. 
+My experience spans computer science and information security across academia, manufacturing, transportation, 
+logistics, telecommunications, and HR tech. I've worked everywhere from pre-seed startups to 
+Fortune 500 corporations—giving me a unique perspective on building high-quality engineering teams at any scale.
+
+Since 2017, I've served as an elected moderator on Stack Overflow, helping maintain one of the world's 
+largest developer communities.
+
+When I'm not leading teams or writing code, you'll find me playing board games, diving into video games, 
+or tackling hands-on projects. (Preferably in warm weather—winters are cold enough already.)
 
 ## Who am I?
 
