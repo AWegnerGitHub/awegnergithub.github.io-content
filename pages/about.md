@@ -17,7 +17,7 @@ Since 2017, I've served as an elected moderator on Stack Overflow, helping maint
 largest developer communities.
 
 When I'm not leading teams or writing code, you'll find me playing board games, diving into video games, 
-or tackling hands-on projects. (Preferably in warm weather—winters are cold enough already.)
+or tackling hands-on projects. (Preferably in warm weather - winters are cold enough already.)
 
 ## Who am I?
 
