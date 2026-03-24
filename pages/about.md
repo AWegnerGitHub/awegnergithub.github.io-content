@@ -2,22 +2,13 @@ Title: About Andrew Wegner
 Slug: about
 Status: published
 
-I lead engineering teams to win - both in business outcomes and in conquering complex technical challenges.
+I've spent nearly two decades building engineering organizations across industries, company stages, and continents. The common thread has been the same: take complex technical and organizational challenges and turn them into sustainable, high-performing teams that deliver real business results.
 
-I've scaled teams as VP of Strategic Software at Zayo and VP of Software Engineering at PacketFabric. I've 
-served as Fractional CTO at White Square Media and Director of Engineering at FleetOps/Class8 and Woven Teams. 
-Earlier in my career, I was an Application Lead at Caterpillar and managed the residential helpdesk at 
-Northern Illinois University. I've built products used worldwide and mentored engineers across the globe.
+I've held VP-level roles at Zayo and PacketFabric, served as Fractional CTO at White Square Media, and led engineering organizations as Director of Engineering at FleetOps/Class8 and Woven Teams. Earlier in my career, I was an Application Lead at Caterpillar and managed the residential helpdesk at Northern Illinois University.
 
-My experience spans computer science and information security across academia, manufacturing, transportation, 
-logistics, telecommunications, and HR tech. I've worked everywhere from pre-seed startups to 
-Fortune 500 corporations - giving me a unique perspective on building high-quality engineering teams at any scale.
+Across these roles, I've built and scaled global engineering teams, shipped products used worldwide, and navigated the full spectrum of company stages - from pre-seed startups to Fortune 500 corporations. My technical roots are in software development and information security, and I've maintained those roots deliberately. Since 2017, I've served as an elected moderator on Stack Overflow, helping maintain one of the world's largest developer communities. I believe engineering leaders are most effective when they stay close to the craft, even as their scope grows.  I also provide leadership mentoring and fractional CTO services for companies navigating growth or technical transformation.
 
-Since 2017, I've served as an elected moderator on Stack Overflow, helping maintain one of the world's 
-largest developer communities.
-
-When I'm not leading teams or writing code, you'll find me playing board games, diving into video games, 
-or tackling hands-on projects. (Preferably in warm weather - winters are cold enough already.)
+Outside of work, I'm usually playing board games, diving into video games, or tackling whatever hands-on project has caught my attention. Preferably somewhere warm.
 
 ## Who am I?
 
