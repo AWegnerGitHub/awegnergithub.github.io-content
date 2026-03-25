@@ -12,8 +12,7 @@ Series: ChatGPT Commentary
 ## Introduction
 
 I've written quiet a bit about [ChatGPT][1] in the last month. As of this post, it is still [banned on Stack Overflow][2]. I believe I showed
-why with my previous post. In it, I showed that [ChatGPT is prone to adding subtle errors][3] (and in some cases not so subtle), which is bad on
-Q&A site. 
+why with my previous post. In it, I showed that [ChatGPT is prone to adding subtle errors][3] (and in some cases not so subtle), which is bad on a Q&A site. 
 
 Today's post follows in the footsteps of my writing about how I hope ChatGPT inpires software engineering hiring managers to change their 
 hiring process. I wrote about how [ChatGPT can solve LeetCode][4] problems. Today's post is going to focus on a company called [TestGorilla][5] and a 
