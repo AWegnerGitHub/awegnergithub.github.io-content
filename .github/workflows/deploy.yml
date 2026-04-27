@@ -52,7 +52,7 @@ jobs:
           python-version: '3.14'
 
       - name: Set up uv
-        uses: astral-sh/setup-uv@v7
+        uses: astral-sh/setup-uv@v8
         with:
           enable-cache: true
 
@@ -82,7 +82,7 @@ jobs:
             --minify-js true --remove-redundant-attributes --use-short-doctype
 
       - name: Upload built site
-        uses: actions/upload-artifact@v8
+        uses: actions/upload-artifact@v7
         with:
           name: site-output
           path: source/output
