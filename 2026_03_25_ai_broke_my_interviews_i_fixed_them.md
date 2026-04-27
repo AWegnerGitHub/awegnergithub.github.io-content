@@ -5,6 +5,7 @@ Category: Leadership
 Slug: ai-broke-our-interview-process-i-had-to-fix-it
 Summary: After proving AI could beat most technical assessments, I had to rebuild how I hire engineers. Here's the process I've developed; focused on what actually predicts success on the job.
 Series: Leadership Thoughts
+Featured: true
 
 [TOC]
 

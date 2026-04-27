@@ -5,6 +5,7 @@ Category: Leadership
 Slug: junior-engineer-crisis-ai-code-generation
 Summary: An analysis of how artificial intelligence is transforming software development careers, team structures, and how engineers build expertise.
 Series: Leadership Thoughts
+Featured: true
 
 [TOC]
 

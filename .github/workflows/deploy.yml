@@ -1,57 +1,114 @@
 name: Build and Deploy
+
 on:
   push:
     branches:
       - master
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-site
+  cancel-in-progress: false
+
+permissions:
+  contents: read
 
 jobs:
   build:
+    name: Build site
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      commit-message: ${{ steps.commit.outputs.message }}
     steps:
       - name: Check out site source
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
-            repository: AWegnerGitHub/awegnergithub.github.io-source
-            path: source
+          repository: AWegnerGitHub/awegnergithub.github.io-source
+          path: source
 
       - name: Check out site content
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
-            repository: AWegnerGitHub/awegnergithub.github.io-content
-            path: content
+          repository: AWegnerGitHub/awegnergithub.github.io-content
+          path: content
 
-      - name: Get Last Commit Message
-        run: cd content && echo "COMMIT_MESSAGE=$(git log -1 --pretty=%B)" >> $GITHUB_ENV
-
-      - name: Move Content into correct location
+      - name: Capture commit message
+        id: commit
         run: |
-            rsync -av --progress content source --exclude source
+          cd content
+          {
+            echo 'message<<EOF'
+            git log -1 --pretty=%B
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Move content into source tree
+        run: rsync -av --progress content source --exclude source
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-            python-version: '3.10'
-            architecture: 'x64'
-      - run: |
-          cd source
-          pip install --upgrade pip
-          pip install -r requirements.txt
+          python-version: '3.14'
 
-      - name: Build Site
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Install Python dependencies
         run: |
           cd source
-          pelican content --output output --settings publishconf.py --verbose
+          uv sync --frozen
+
+      - name: Build site with Pelican
+        run: |
+          cd source
+          uv run pelican content --output output --settings publishconf.py --verbose
           rm -rf output/content/images
           rm -rf drafts/
 
-      - name: Push to main site
-        uses: cpina/github-action-push-to-another-repository@main
+      - name: Minify CSS
+        run: |
+          cd source
+          npx --yes clean-css-cli -o output/theme/css/site.css output/theme/css/site.css
+
+      - name: Minify HTML
+        run: |
+          cd source
+          npx --yes html-minifier-terser \
+            --input-dir output --output-dir output --file-ext html \
+            --collapse-whitespace --remove-comments --minify-css true \
+            --minify-js true --remove-redundant-attributes --use-short-doctype
+
+      - name: Upload built site
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-output
+          path: source/output
+          retention-days: 7
+          if-no-files-found: error
+
+  deploy:
+    name: Deploy to andrewwegner.com
+    runs-on: ubuntu-latest
+    needs: build
+    timeout-minutes: 10
+    steps:
+      - name: Download built site
+        uses: actions/download-artifact@v4
+        with:
+          name: site-output
+          path: output
+
+      - name: Push to public repo
+        uses: cpina/github-action-push-to-another-repository@v1.7.3
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source-directory: 'source/output'
-          destination-github-username: 'AWegnerGithub'
-          destination-repository-name: 'awegnergithub.github.io'
+          source-directory: output
+          destination-github-username: AWegnerGithub
+          destination-repository-name: awegnergithub.github.io
           user-email: andy@andrewwegner.com
           target-branch: master
-          commit-message: ${{ env.COMMIT_MESSAGE }}
+          commit-message: ${{ needs.build.outputs.commit-message }}

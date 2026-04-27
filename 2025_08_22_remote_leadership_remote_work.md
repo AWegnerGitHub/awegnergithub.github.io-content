@@ -5,6 +5,7 @@ Category: Leadership
 Slug: why-remote-work-is-good-for-your-team
 Summary: Proven processes transform distributed teams from liability into competitive advantage. This talks about why I think that is and how to ensure your team is successful when they are remote.
 Series: Leadership Thoughts
+Featured: true
 
 [TOC]
 

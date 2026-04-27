@@ -5,6 +5,7 @@ Category: Leadership
 Slug: scaling-teams-without-losing-culture
 Summary: Scaling engineering teams is about much more than just adding headcount. It's about creating sustainable growth that preserves the core elements of your culture while evolving systems to support a larger organization. Here are a few of my thoughts about the topic.
 Series: Leadership Thoughts
+Featured: true
 
 [TOC]
 
