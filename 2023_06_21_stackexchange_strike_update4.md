@@ -52,7 +52,7 @@ think that something similar is being discussed at Stack Exchange. Time will tel
 to plow ahead with GenAI content on their platform. They are going to burn 15 years of trust and quality content and they are going
 to do with regardless of what the community wants. If they community protests, they will be shown the door.
 
-Obviously, I'm still pretty pesimistic about all of this. 
+[Obviously, I'm still pretty pesimistic about all of this.][3]
  
 
  [strikestart]: {filename}2023_06_05_stackexchange_mod_strike.md
@@ -62,3 +62,4 @@ Obviously, I'm still pretty pesimistic about all of this.
  [formattingassistant]: {filename}2023_06_19_stackexchange_strike_update3.md
  [1]: https://meta.stackexchange.com/q/390463/186281
  [2]: https://www.theverge.com/2023/6/20/23767848/reddit-blackout-api-protest-moderators-suspended-nsfw
+ [3]: {filename}2023_06_23_stackexchange_strike_regain_trust.md
