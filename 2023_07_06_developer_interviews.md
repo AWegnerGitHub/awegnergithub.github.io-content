@@ -49,7 +49,7 @@ and process description that the next step is a technical scenario.
 
 ## Technical Assessment
 
-A technical assessment should be real work. Do not do leetcode or code quizzes. If you use either of these, expect them to be easily answered by 
+A technical assessment should be real work. [Do not do leetcode or code quizzes][8]. If you use either of these, expect them to be easily answered by 
 utilizing [ChatGPT][5]. Build a rubric so that every person being evaluated is judged the same way. You should be able to automate some of this
 to build in responses that can easily weed out the candidates that are completely inexperienced. 
 
@@ -130,3 +130,4 @@ be communicated with as an employee.
  [5]: {filename}2022_12_15_get_rid_leetcode_interviews.md
  [6]: https://en.wikipedia.org/wiki/Honorarium
  [7]: {filename}2023_05_23_future_of_remote_work.md
+ [8]: {filename}2026_03_25_ai_broke_my_interviews_i_fixed_them.md

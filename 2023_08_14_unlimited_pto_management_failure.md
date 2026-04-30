@@ -57,7 +57,7 @@ blocks of time, not one off days. This encourages downtime and better work/life 
 ## My thoughts on unlimited PTO
 
 I left a company with a well defined PTO policy that granted more time with more seniority. I left this company to join one with unlimited PTO. At the
-time I thought that I'd be using more time off and enjoying the benefits of this unlimited PTO policy. Unfortunately, like many others, didn't do that.
+time I thought that I'd be using more time off and enjoying the benefits of this unlimited PTO policy. Unfortunately, like many others, I didn't do that.
 Instead I took fewer days than my defined policy had allowed and even lost some company holidays that the previous employeer had that the new one did 
 not. In short, I worked more. It took a long time and a lot of push back within the company to get people to take the time they needed to recharge. 
 Sadly, by the time I left that role, it was still uncommon for people to take extended vacations. 

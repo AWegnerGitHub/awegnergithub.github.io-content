@@ -80,7 +80,7 @@ That said, if you can afford it (or get work to cover it as training), this is w
  [reivew]: {attach}images/real-python-claude-code-endoursement.png
  [certificate]: {attach}images/real-python-claude-code-certificate.png
  [courselink]: https://realpython.com/certificates/2e9b80f4-03f7-4a89-b9ef-7fef48829b8c/
- [1]: {filename}2022_12_15_get_rid_leetcode_interviews.md
+ [1]: {filename}2026_03_25_ai_broke_my_interviews_i_fixed_them.md
  [2]: {filename}2025_08_18_junior_dev_gen_ai_crisis.md
  [3]: https://realpython.com/
  [4]: https://code.claude.com/docs/en/overview

@@ -16,7 +16,7 @@ technology industry contracts, we've seen return to office orders from countless
 [300k layoffs][1] between August 1, 2022 and May 23, 2023 ([I was laid off in that time frame too][2]), we've seen _a lot_ of 
 articles about how many companies are recalling people to the office. 
 
-I think this is short sighted. Remote work, when done properly, is the way of the future and forcing everyone back into an 
+I think this is short sighted. [Remote work, when done properly, is the way of the future][8] and forcing everyone back into an 
 office is not going to work as expected. One of the bright spots from the COVID-19 pandemic was that society learned many jobs
 can be done from home.
 
@@ -130,3 +130,4 @@ ground up) the company culture to handle remote work will have a huge advantage 
 [5]: https://about.gitlab.com/teamops/
 [6]: https://handbook.gitlab.com/teamops/everyone-contributes/#give-agency
 [7]: {filename}2023_02_02_learning_gitlab_teamops.md
+[8]: {filename}2025_08_22_remote_leadership_remote_work.md

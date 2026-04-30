@@ -86,8 +86,7 @@ From the open letter:
 ## My feelings on this
 
 I've been on Stack Overflow and Stack Exchange for over 13 years. I've been a moderator on the network since 2014 and on Stack Overflow since 2017.
-I've [written about Stack Overflow a bit over the years][1]. I've participated in [Charcoal][7], the spam fighting community since 2015ish. This project
-has automatically flagged more than 86,000 posts across the network since 2016.
+I've [written about Stack Overflow a bit over the years][1]. I've participated in [Charcoal][7], the spam fighting community since 2015ish. [Charcoal has automatically flagged more than 86,000 posts across the network since 2016][8].
 
 I've applied to several jobs at Stack Exchange. I've interviewed for a couple positions. I have spent _a lot_ of time with the network, the 
 community, moderators, and employees making this a great place for internet users to find their answers.
@@ -166,3 +165,4 @@ Until Stack Overflow, Inc. retracts this policy change to a degree that addresse
  [5]: https://stackoverflow.blog/2023/05/31/ceo-update-paving-the-road-forward-with-ai-and-community-at-the-center/
  [6]: https://stackoverflow.com/legal/moderator-agreement
  [7]: https://meta.stackexchange.com/questions/291301/can-a-machine-be-taught-to-flag-spam-automatically
+ [8]: {filename}2023_11_27_a_decade_of_fighting_spam.md

@@ -10,9 +10,9 @@ Series: Leadership Thoughts
 
 ## Introduction
 
-Leading engineering teams across multiple time zones has been a defining part of my career. I have taken courses on how to [manage a remote team][1], how to implement [TeamOps][2] (both offered by [GitLab][gitlab]) and I've managed teams spanning half of the global time zones, with team members located across every continent except Antarctica. This global distribution brings tremendous advantages in terms of talent access and round-the-clock development capability, but it also presents unique leadership challenges that require intentional strategies.
+Leading engineering teams across multiple time zones has been a [defining part of my career][7]. I have taken courses on how to [manage a remote team][1], how to implement [TeamOps][2] (both offered by [GitLab][gitlab]) and I've managed teams spanning half of the global time zones, with team members located across every continent except Antarctica. This global distribution brings tremendous advantages in terms of talent access and round-the-clock development capability, but it also presents unique leadership challenges that require intentional strategies.
 
-As software development continues to [embrace remote work][4] - kind of, it has started falling out of favor since the end of the pandemic - the ability to [effectively lead and scale distributed engineering teams][3] has evolved from a nice-to-have skill to a critical competency for senior leaders. The lessons I've learned managing global teams have shaped my leadership approach and provided insights that apply across both to engineering and to the broader organization.
+As software development continues to [embrace remote work][4] - kind of, it has started falling out of favor since the end of the pandemic - the ability to [effectively lead and scale distributed engineering teams][3] has evolved from a nice-to-have skill to a critical competency for senior leaders. The [lessons I've learned managing global teams][8] have shaped my leadership approach and provided insights that apply across both to engineering and to the broader organization.
 
 ## Building Foundations for Distributed Success
 
@@ -54,7 +54,7 @@ One of the natural advantages of a globally distributed team is the ability to p
 
 This doesn't mean team members are never contacted outside working hours. True emergencies sometimes require waking someone with specialized knowledge. However, two important principles guide these situations:
 
-First, if someone is contacted outside working hours to address an issue, they receive compensatory time off. This creates accountability in the escalation process. People think twice before waking a colleague unless truly necessary.
+First, [if someone is contacted outside working hours to address an issue, they receive compensatory time off][9]. This creates accountability in the escalation process. People think twice before waking a colleague unless truly necessary.
 
 Second, and perhaps more importantly, each off-hours escalation triggers a review of our documentation and training. If someone needed to be woken for a particular issue, that indicates a gap in our knowledge distribution that needs to be addressed. This transforms what could be a negative experience into an opportunity for team improvement.
 
@@ -96,3 +96,6 @@ These capabilities represent the future of engineering leadership at the highest
 [4]: {filename}2023_05_23_future_of_remote_work.md
 [5]: {filename}2022_07_01_softskills_senior_devs_need.md#excellent-communication
 [6]: https://handbook.gitlab.com/handbook/company/culture/all-remote/remote-work-report/
+[7]: {filename}2022_06_04_the_other_side_of_the_mirror.md
+[8]: {filename}2025_08_22_remote_leadership_remote_work.md
+[9]: {filename}2023_08_14_unlimited_pto_management_failure.md

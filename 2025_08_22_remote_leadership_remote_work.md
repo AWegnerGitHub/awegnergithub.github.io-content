@@ -17,7 +17,7 @@ Rephrasing that slightly, as the number of remote workers increase at a company,
 
 For engineering leaders, this validates what many of us have seen firsthand. Remote engineering teams can outperform their co-located counterparts _when proper processes exist_. The difference between success and struggle lies in having the right systems in place.
 
-After scaling multiple engineering teams, I've learned that distance becomes a liability only when we lack intentional systems. The companies thriving with remote engineering teams have built deliberate frameworks for collaboration across timezones, asynchronous communication, and meaningful ways of measuring the team's results.
+[After scaling multiple engineering teams, I've learned that distance becomes a liability only when we lack intentional systems][7]. The companies thriving with remote engineering teams have built deliberate frameworks for collaboration across timezones, asynchronous communication, and meaningful ways of measuring the team's results.
 
 ## Remote Engineering Success
 
@@ -98,3 +98,4 @@ Remote engineering success requires intentional design rather than hoping things
 [4]: https://dora.dev/
 [5]: https://about.gitlab.com/handbook/engineering/development/performance-indicators/
 [6]: {filename}2025_08_18_junior_dev_gen_ai_crisis.md
+[7]: {filename}2025_04_15_leading_distributed_teams.md

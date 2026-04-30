@@ -71,7 +71,7 @@ They also know how to make decisions on prioritization; if (and when) they miss 
 
 This one’s a hot topic.
 
-Employees aren’t machines. They have feelings, ups and downs, and life events outside of their job.
+[Employees aren’t machines. They have feelings, ups and downs, and life events outside of their job.][2]
 
 Emotional intelligence is important —  especially in a remote work environment —  to building a great professional relationship. Experienced engineers take time to get to know their coworkers and their customers as people, not just as a means to an end.
 
@@ -95,3 +95,4 @@ To be truly successful, your senior engineers should have a mix of both hard ski
 
 
  [1]: https://www.woventeams.com/soft-skills-for-senior-software-developers/
+ [2]: {filename}2023_08_14_unlimited_pto_management_failure.md

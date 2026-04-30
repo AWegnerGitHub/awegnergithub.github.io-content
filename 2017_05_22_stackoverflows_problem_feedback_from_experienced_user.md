@@ -119,7 +119,7 @@ Thus began a slow spiral downward. Not all is lost though, because there are the
 
 ## Where to from here?
 
-I continue to invest my time and effort into the community, but even as an active user who really wants the company and community to succeed, it's getting harder and harder to ignore that those of us that have been around for years are not being listened to any more. We're being treated as the grumpy old person that grumbles about the way things used to be. Our experiences on the site are brushed aside as being unhelpful to new users. That completely ignores that fact that we are still trying to reach the goal on which Stack Overflow was created: ["With your help, we're working together to build a library of detailed answers to every question about programming."][34] To do this, we need high quality questions and answers so that we can actually provide help to all users. I think *this* is the biggest challenge that Stack Overflow is going to face in the next 18 months.
+I continue to invest my time and effort into the community, but even as an active user who really wants the company and community to succeed, it's getting harder and harder to ignore that those of us that have been around for years are not being listened to any more. We're being treated as the grumpy old person that grumbles about the way things used to be. Our experiences on the site are brushed aside as being unhelpful to new users. That completely ignores that fact that we are still trying to reach the goal on which Stack Overflow was created: ["With your help, we're working together to build a library of detailed answers to every question about programming."][34] To do this, we need high quality questions and answers so that we can actually provide help to all users. [I think *this* is the biggest challenge that Stack Overflow is going to face in the next 18 months][43].
 
 I want Stack Overflow to continue to grow. I also want Stack Overflow to have high quality content. I think my experience and the experience of others can help build the features to accomplish this. We just need Stack Overflow to refocus on the Q&A portion of their network again.
 
@@ -165,3 +165,4 @@ I want Stack Overflow to continue to grow. I also want Stack Overflow to have hi
  [40]: {attach}images/top_lqp_queue.png
  [41]: {attach}images/stackoverflow_active_reviewers_per_week.png
  [42]: https://blog.codinghorror.com/listen-to-your-community-but-dont-let-them-tell-you-what-to-do/
+ [43]: {filename}2019_03_29_stackoverflow_still_has_issues.md

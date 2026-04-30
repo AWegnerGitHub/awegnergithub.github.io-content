@@ -117,7 +117,7 @@ Despite these challenges, [employment opportunities for software engineers are s
 !!! attention
     Successful transformation requires deliberate strategy, not just tool adoption
 
-Bringing Copilot, Cursor, or other AI coding assistants to your team does not guarantee success. It is _a_ step in being successful in the AI transformation. It is not _the_ step.
+Bringing Copilot, Cursor, Claude Code or other AI coding assistants to your team does not guarantee success. It is _a_ step in being successful in the AI transformation. It is not _the_ step.
 
 ### Three Strategic Approaches
 
