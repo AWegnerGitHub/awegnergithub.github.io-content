@@ -100,7 +100,7 @@ play with your volume constantly and learn the wrong way to set up environment v
 This course feels like it was recorded while the instructor was home sick with a
 minor cold and got bored with their video editing software.
 
-[![Software Testing Masterclass (2019) - From Notice to Expert][certificate]][courselink]
+[![Travic CI Tutorial][certificate]][courselink]
 
 
  [1]: https://www.udemy.com/travis-ci-tutorial/

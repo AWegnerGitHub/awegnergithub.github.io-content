@@ -10,7 +10,7 @@ Status: published
 
 ## Introduction
 
-Not t0o long ago, applications for new membership in Team Vipers consisted of someone wandering onto the site, posting a
+Not too long ago, applications for new membership in Team Vipers consisted of someone wandering onto the site, posting a
 few words and an administrator saying they were accepted as a member. This worked when we were a small community. We
 aren't small any more. We have 5 servers and hundreds of players a day. Each server has their own sub-community. There
 are players joining the forums that entire groups of people have never met because they play exclusively on one game server.
@@ -22,7 +22,7 @@ make the administration side easier.
 ## What's new?
 
 The new system presents all users with an application template. They fill out the form and the system handles the rest.
-The New Users and Applications subforum has been modified so that no one, except the bot, can create topics. They
+The New Users and Applications subforum has been modified so that no one, except the bot, can create topics. The
 topics will only be created when the form is submitted. When a user applies to join Vipers, we will automatically
 include relevant information about the user as we know them:
 

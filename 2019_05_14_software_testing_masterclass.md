@@ -7,7 +7,7 @@ Summary: My review of the Software Testing Masterclass course on Udemy.
 Status: published
 Series: Course Reviews
 template: review
-revieweditem: Software Testing Masterclass (2019) - From Notice to Expert
+revieweditem: Software Testing Masterclass (2019) - From Novice to Expert
 score: 4.0
 price: 139.99
 saleprice: 24.99
@@ -79,7 +79,7 @@ to compare/contrast the benefits of one over the other.
 Due to the over use of Power Point though, and the last part of the course feeling
 like plugs for various services, I can't recommend this course.
 
-[![Software Testing Masterclass (2019) - From Notice to Expert][certificate]][courselink]
+[![Software Testing Masterclass (2019) - From Novice to Expert][certificate]][courselink]
 
 
  [certificate]: {attach}images/udemy-testing-masterclass.jpg
