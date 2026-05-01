@@ -17,7 +17,7 @@ workload: PT8H
 
 ## Introduction
 
-I've been involved with the [SmokeDetector][1] spam hunting project for several years. In that time It's grown from
+I've been involved with the [SmokeDetector][1] spam hunting project for several years. In that time it's grown from
 a small Python script to a large combination of Python, Ruby and user scripts. The infrastructure hasn't really changed
 in that time, though, and it's starting to show. SmokeDetector, the Python script, is run by multiple users so that
 random network problems that kill the instance don't take the entire system off line. Arguably, the project should

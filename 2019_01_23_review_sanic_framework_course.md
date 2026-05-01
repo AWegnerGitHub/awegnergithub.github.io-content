@@ -3,7 +3,7 @@ Date: 2019-01-23 10:00
 Tags: review, technical, learning
 Category: Review
 Slug: sanic-webframework-review
-Summary: My review of the Sanic Web Framework fro Pythonistas course on Udemy.
+Summary: My review of the Sanic Web Framework for Pythonistas course on Udemy.
 Status: published
 Series: Course Reviews
 template: review
@@ -18,12 +18,12 @@ workload: PT2H
 ## Introduction
 
 At work we are starting to write version 2 of our API. As part of this new version, we're migrating from PHP to Python (hooray!). There are various technical
-reasons for this, but I am excited. My technical skills are much (*much*) better in Python. Part of this migration involved decided the framework we'd be using
+reasons for this, but I am excited. My technical skills are much (*much*) better in Python. Part of this migration involved deciding the framework we'd be using
 and after several internal discussions, we settled on [Sanic][1]. The first line of the documentation reads:
 
 > Sanic is a Flask-like Python 3.5+ web server that’s written to go fast.
 
-Great! I used Flask at my previous job. To be clear, Sanic is not *based on* Flask, but it's API is *Flask-like*. Good enjoy to start with. With the framework
+Great! I used Flask at my previous job. To be clear, Sanic is not *based on* Flask, but its API is *Flask-like*. Good enough to start with. With the framework
 set, and previous experience with a similar framework, I wanted to go through how Sanic works.
 
 I turned to Udemy and the [Sanic - an asynchronous web framework for Pythonistas][2] course, created by Szabó Dániel Ernő.

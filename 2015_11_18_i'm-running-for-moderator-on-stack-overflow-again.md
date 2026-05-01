@@ -40,9 +40,9 @@ With this, I received my "candidate score". It was 33/40. Not the highest, but b
 
 *Updated November 21, 2015*
 
-The primary phase is in the third day. In day 1, I was hovering around 9th/10th place. Overnight, between days 1 and 2 though, I dropped down to 11th. I've been sitting here consistantly for a full day now and, while still gaining votes, I'm not gaining as fast as 10th position. It appears I may not make the cutoff by Friday's deadline. While disappointing, there are a few things that I came away with that I'm very happy about.
+The primary phase is in the third day. In day 1, I was hovering around 9th/10th place. Overnight, between days 1 and 2 though, I dropped down to 11th. I've been sitting here consistently for a full day now and, while still gaining votes, I'm not gaining as fast as 10th position. It appears I may not make the cutoff by Friday's deadline. While disappointing, there are a few things that I came away with that I'm very happy about.
 
-In the last primary, I revieved 1,492 positive votes. I've surpassed that already. I've over 2,100 currently. I'm pleased with that upswing. I was also more prepared for the questionnaire portion of the primaries this time. I've gotten the second highest number of upvotes on my [responses][6]. Several of the questions were similar to last time, but there are a few that I think should be included in the future elections.
+In the last primary, I received 1,492 positive votes. I've surpassed that already. I have over 2,100 currently. I'm pleased with that upswing. I was also more prepared for the questionnaire portion of the primaries this time. I've gotten the second highest number of upvotes on my [responses][6]. Several of the questions were similar to last time, but there are a few that I think should be included in the future elections.
 
 ### Questionnaire
 
@@ -89,7 +89,7 @@ My response to this question:
 
 ### Primary Results
 
-With the primaries over, I ended with **2483** positive votes. This put me in 11th place. Sadly, this was not enough to get into the election. I was 185 votes shy of over taking 10th. Good luck to the candidates that made it.
+With the primaries over, I ended with **2483** positive votes. This put me in 11th place. Sadly, this was not enough to get into the election. I was 185 votes shy of overtaking 10th. Good luck to the candidates that made it.
 
 ![Live Vote Counter at the end of the Primary][7]
 

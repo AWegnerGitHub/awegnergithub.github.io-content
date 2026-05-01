@@ -17,7 +17,7 @@ about new plugins or applications that would be deployed to the community.
 
 ## My Issues with Wordpress
 
-The problem I had with Wordpress was that it was just to bulky for the simple posts I was making. I needed a database, a full web
+The problem I had with Wordpress was that it was just too bulky for the simple posts I was making. I needed a database, a full web
 server (or a hosting provider), and either time to hunt for the "perfect" plugin(s) or PHP knowledge to do it myself. Early in my
 development career, I used PHP a lot. That was part of the reason I chose Wordpress. 
 
@@ -40,7 +40,7 @@ be registered to post. That solved my problem for a few months.
 Then the bots got smarter. They started registering. They started posting legitimate looking messages, except for that associated URL their name
 would link to in the comments. They pulled keywords out of the post and formulated a somewhat passable English question using those words. The spam
 prevention plugins I installed would slow the tide for a few weeks. The bots would adapt and then I'd be awash with spam posts again. Eventually,
-the solution was to completely disable comments. I'd spent way to much time dealing with spam on a blog that received very little legitimate traffic.
+the solution was to completely disable comments. I'd spent way too much time dealing with spam on a blog that received very little legitimate traffic.
 
 Since I don't utilize the comments, Pelican provides a nice simple page that I can post my thoughts and not worry about getting hit by a spam bot. It also
 provides plugins so that I *can* include comments should I ever choose to do so in the future. For the time being, though, I have a nice simple page 

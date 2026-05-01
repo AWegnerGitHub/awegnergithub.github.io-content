@@ -36,8 +36,8 @@ This was close to the end goal, but lacked some files in the `project_root` that
 
 My [`setup.py`][4] is pretty basic and available on GitHub. There are a couple important things though.
 
- - `version`: This is needed, but I didn't want to have to constantly remember to update this when pushing a version to PyPI. This was one of my first criteria when starting the project. I wanted to automate as much as I could, and versioning was at the top of that list. It's small, but easy to forget and keep syncronized across all the files in the project. I decided to utilize [bumpversion][5] and [Fabric][6] to manage this specific field (both here and elsewhere in the project).
- - `install_requires`: StackAPI is built in the fantastic [Requests][7] library. To ensure this was installed when StackAPI was install, it was needed in this field.
+ - `version`: This is needed, but I didn't want to have to constantly remember to update this when pushing a version to PyPI. This was one of my first criteria when starting the project. I wanted to automate as much as I could, and versioning was at the top of that list. It's small, but easy to forget and keep synchronized across all the files in the project. I decided to utilize [bumpversion][5] and [Fabric][6] to manage this specific field (both here and elsewhere in the project).
+ - `install_requires`: StackAPI is built in the fantastic [Requests][7] library. To ensure this was installed when StackAPI was installed, it was needed in this field.
  - `tests_require`: The test suite I build utilizes the `mock` library. I don't want that to be installed if the developer isn't running the tests, so it is added to this field.
  - `test_suite`: I wanted developers to be able to run `python setup.py test` to execute the test suite. To do so, I had to point to the where the tests were being executed from.
 
@@ -127,7 +127,7 @@ Nearing the end of the journey, it was time to see what exactly PyPI required. T
 
 Having one on both was important while testing. It meant that I didn't have to send broken versions to the live PyPI server, and I could adjust ReStructuredText formatting issues without requiring another release to PyPI. Each time a version is pushed to PyPI it **must** have a new version number. By using the test instance, I could use as many of these fake versions as needed to fix things. Hooray for test environments!
 
-Before we perform this step automatically, we need to test that the PyPI accounts work. By following portions of a ["First Time with PyPI"][15] tutorial, I focused by steps down to these:
+Before we perform this step automatically, we need to test that the PyPI accounts work. By following portions of a ["First Time with PyPI"][15] tutorial, I focused my steps down to these:
 
  - Create a `.pypirc` file in your home directory - not your project directory. This won't be required once Travis CI is set up and configured, so having the passwords in this, temporarily, wasn't an issue because I eventually deleted the file.
 

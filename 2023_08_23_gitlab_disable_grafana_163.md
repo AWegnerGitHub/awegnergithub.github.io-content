@@ -16,7 +16,7 @@ newest dot update and enjoy the new features. As with any piece of software, thi
 time. 
 
 In 16.3 - released in August 2023 - the version of [Grafana][grafana] bundled with the self hosted version of GitLab reached the 
-end of it's depreciation window and was disabled. GitLab added a check to prevent an update if it was still enabled. 
+end of its deprecation window and was disabled. GitLab added a check to prevent an update if it was still enabled. 
 
 ## Symptom
 
@@ -40,7 +40,7 @@ The [documentation linked][1] provides four steps to follow
 >  4. [Configure GitLab][2] to use the new Grafana instance.
 
 I've removed the links in steps 2 and 3, because they really don't matter for this write up. Step 1 does not have a link, so it's left as 
-and excercise to the user to install Grafana in their environment. Step 4, links to another article that provides a few more steps to follow.
+an exercise to the user to install Grafana in their environment. Step 4, links to another article that provides a few more steps to follow.
 
 
 >  1. On the left sidebar, expand the top-most chevron.

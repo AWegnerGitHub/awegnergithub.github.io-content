@@ -28,7 +28,7 @@ During [interviews][1], I focus on diving deep into candidates' past projects ra
 In small teams, knowledge naturally diffuses through daily interactions. As teams grow, this organic process breaks down, creating knowledge silos and redundant work. Each wave of engineers we onboarded faced steeper learning curves without proper documentation and orientation.
 Our solution was to make each cohort of new hires part of the knowledge-building process. Every wave of engineers contributed to our knowledge bases, improving the experience for the next group. We implemented, essentially, an onboarding buddy system that paired new engineers with each other to build relationships, while also connecting them with experienced team members who could fill in knowledge gaps.
 
-The other benefit of these types of improvements, is that is supports [asynchronous communication and remote work][3]. Remote work and hybrid work have grown in popularity, especially since 2020. Building knowledge transfers through tooling that doesn't expect the entire team to be in a single location provides so much _context_ to others. Someone can catch up in a Slack channel later, or read a Confluence article tomorrow. 
+The other benefit of these types of improvements, is that it supports [asynchronous communication and remote work][3]. Remote work and hybrid work have grown in popularity, especially since 2020. Building knowledge transfers through tooling that doesn't expect the entire team to be in a single location provides so much _context_ to others. Someone can catch up in a Slack channel later, or read a Confluence article tomorrow. 
 
 ## Culture Preservation Techniques That Work
 

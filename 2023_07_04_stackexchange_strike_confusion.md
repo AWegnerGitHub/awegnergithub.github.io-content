@@ -45,7 +45,7 @@ Their own post is explaining why it's not worth the risk.
 ## What's this mean?
 
 I see this as more communication failure on Stack Exchange's part. In an [update I posted weeks ago][7], I linked to internal emails that
-where leaked.
+were leaked.
 
 > How are we messaging this? Who is allowed to post and respond to questions and comments on Meta, chat, social media, etc?
 > 
@@ -54,7 +54,7 @@ where leaked.
 Someone, somewhere, didn't realize what this blog post was about or what it linked to. 
 
 But, nothing changes with this. The company has dug in so hard on forcing GenAI to be on the sites and is marching toward an announcement
-of somekind in late July 2023 about AI. In the meantime, I can only see blog posts like this one as an indication that Stack Exchange
+of some kind in late July 2023 about AI. In the meantime, I can only see blog posts like this one as an indication that Stack Exchange
 doesn't know what they are attempting to build toward and at the same time have come to the conclusion (or at least a team within Stack 
 Exchange has) that GenAI isn't to be trusted. 
 

@@ -20,7 +20,7 @@ The controller arrived and was easy to set up. I wired up my strips in the basem
 
 The problem I quickly encountered was that I am outlining my deck with these lights and right in the middle of the deck is a set of steps that I also wanted to light up and then the rest of the deck rail. WLED doesn't have the ability (at least that I've found) to span an effect across multiple segments and I'd need multiple segments for this. 
 
-At minimium I'd need 3 segments - The rail, the steps, the rest of the rail. If I want an effect to span the entire rail, I can't do that with the steps in the middle. Further research pointed me to the ability to [remap the physical LED order][2] to a logical LED order. After trying to set this up, it wasn't feature complete in 0.13, but did appear to be in 0.14.
+At minimum I'd need 3 segments - The rail, the steps, the rest of the rail. If I want an effect to span the entire rail, I can't do that with the steps in the middle. Further research pointed me to the ability to [remap the physical LED order][2] to a logical LED order. After trying to set this up, it wasn't feature complete in 0.13, but did appear to be in 0.14.
 
 However, the Ericsity - rightfully so - utilizes a [stable version of WLED][3] that only allows you to [update to 0.13.4][4] and the README has the following note:
 
@@ -54,7 +54,7 @@ Scroll all the way down to the bottom of this page and you should see that you h
 
 ## Update to 0.14.x
 
-From the Security & Updates page, it makes sense to try and perform and update. If you click "Manual OTA Update" you'll notice that only version `0.13.3` is available via this link though. It's time to do a manual update!
+From the Security & Updates page, it makes sense to try and perform an update. If you click "Manual OTA Update" you'll notice that only version `0.13.3` is available via this link though. It's time to do a manual update!
 
 I am utilizing the [MoonModules branch][6] because the README for the default install says that changes should be made against this branch.
 
@@ -62,7 +62,7 @@ I am utilizing the [MoonModules branch][6] because the README for the default in
 
 I performed this OTA upgrade from my computer by navigating to the mDNS I set up previously. It can also be accessed by the IP address of the controller in your browser.
 
-At the time of this post, the [current release][7] was `0.14.1-b30`. This was released approximately 6 months ago. I briefly skimmed through recent issues and pull requests to see if I should find a more recent build. There was an [crash issue][8] reported with the `ripple` effects. Since I like that particular effect, I decided to go with a newer build than the official release. 
+At the time of this post, the [current release][7] was `0.14.1-b30`. This was released approximately 6 months ago. I briefly skimmed through recent issues and pull requests to see if I should find a more recent build. There was a [crash issue][8] reported with the `ripple` effects. Since I like that particular effect, I decided to go with a newer build than the official release. 
 
 ### Official build
 
@@ -117,7 +117,7 @@ Finally, reboot the controller by selecting "Info" and rebooting the controller 
 
 ## Good to go
 
-Now that the controller has rebooted, audio reactions are working again. The branch I've updated by controller to is actively maintained for the 0.14 branch, even if it is several months behind the main line. I'm satisfied with this for now and will begin experimenting with the led mappings that I need that started this entire upgrade process.
+Now that the controller has rebooted, audio reactions are working again. The branch I've updated my controller to is actively maintained for the 0.14 branch, even if it is several months behind the main line. I'm satisfied with this for now and will begin experimenting with the led mappings that I need that started this entire upgrade process.
 
 
  [wled]: https://kno.wled.ge/

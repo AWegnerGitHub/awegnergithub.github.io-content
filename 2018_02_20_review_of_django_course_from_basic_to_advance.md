@@ -46,7 +46,7 @@ even current!
 
 There are technical issues with the course too:
 
- - The instructor is using Django 1.9. There is three years out of date at this point.
+ - The instructor is using Django 1.9. This is three years out of date at this point.
  - Installation instructions tell users to use administration or `sudo` rights for all Python libraries
  - Installation instructions are done using `easy_install` not `pip`
 
@@ -69,7 +69,7 @@ three year old version of Django [watch it on YouTube][5]. It's not worth it. Th
 a quick dollar. They didn't build this course for Udemy. They built it for YouTube and you can tell. The quality of content here is not what I've come to expect from
 Udemy course.
 
-Fortunately for me, Udemy Support was very helpful when I requested a refund. I listed most of the complaints I did above and mentioned it course was just a
+Fortunately for me, Udemy Support was very helpful when I requested a refund. I listed most of the complaints I did above and mentioned the course was just a
 YouTube channel that had been uploaded to Udemy. I was issued a refund in under an hour. I also left my first public review of a course on Udemy so that other students
 know they can get the same content elsewhere.
 

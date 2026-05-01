@@ -18,7 +18,7 @@ Copy `ifcfg-eth0` to `ifcfg-eth0:0`
 
     cp ifcfg-eth0 ifcfg-eth0:0
 
-Now we need to modify the new file slightly so that it gets it's own IP address. Open `ifcfg-eth0:0` in your favorite editor
+Now we need to modify the new file slightly so that it gets its own IP address. Open `ifcfg-eth0:0` in your favorite editor
 
 	DEVICE=eth0:0     		<-- Change this to match the new eth0:0 file we just created
 	BOOTPROTO=none

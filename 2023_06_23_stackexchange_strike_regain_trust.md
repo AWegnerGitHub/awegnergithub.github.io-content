@@ -42,7 +42,7 @@ For context, I've been on the network for nearly 14 years. I'm a moderator on St
 
 > What is needed for users to trust the Stack Exchange company
 
-Stack Exchange has gone through this cycle before. I've written about it in those past cycles for anyone who wishes to go through my profile and fine previous thoughts. Each time, less of my energy comes back as we - community and company - reconcile and bury the problem in the sand. 
+Stack Exchange has gone through this cycle before. I've written about it in those past cycles for anyone who wishes to go through my profile and find previous thoughts. Each time, less of my energy comes back as we - community and company - reconcile and bury the problem in the sand. 
 
 The last major cycle ended with a lot of lawyer language, including the new [moderator agreement](https://stackoverflow.com/legal/moderator-agreement) that every mod had to accept to retain their diamond. This cycle started with a violation of one of the provisions of that agreement by Stack Exchange. It received a, in my opinion, flippant "Oops, that was my fault" by the Vice President of Community at Stack Exchange. 
 

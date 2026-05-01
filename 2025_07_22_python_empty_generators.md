@@ -74,7 +74,7 @@ No, and looking at the log quickly shows that.
 
 ### Fibonacci
 
-Let's use a generator to build the Fibonocci sequence. Spoiler for interviews! In this case, I'm going to use a generator to get the first 10 items. Then print out the first 5 and then try to print the entire list of 10 items.
+Let's use a generator to build the Fibonacci sequence. Spoiler for interviews! In this case, I'm going to use a generator to get the first 10 items. Then print out the first 5 and then try to print the entire list of 10 items.
 
     def fibonacci(n):
         a, b = 0, 1

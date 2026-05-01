@@ -24,13 +24,13 @@ click "Continue" to move past them.
 
 We have a very simple structure for how bans work. Unless you are incredibly egregious in your behavior, or are out right
 cheating by using hacks of some kind, you get a 4 strike policy. The ban length for the first three increases for each, but you
-are allowed back. On the forth, we show you the door. Most of our bans are [automated][2], thus are violating the very first rule.
+are allowed back. On the fourth, we show you the door. Most of our bans are [automated][2], thus are violating the very first rule.
 
 ## Bad appeals
 
 Playing on our servers is not a right. It is not a guarantee. We are not obligated to provide a gaming environment for you
 to spew your filth. If you can't meet our simple rules, you can leave. If you want to get back into the servers after your
-forth offense, you have to come to us and ask. You should think about how you get someone to do what you want in "the
+fourth offense, you have to come to us and ask. You should think about how you get someone to do what you want in "the
  real world".
 
 ### Method 1: Freedom of Speech

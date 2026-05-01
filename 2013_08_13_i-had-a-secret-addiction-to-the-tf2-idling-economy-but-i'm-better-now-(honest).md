@@ -16,7 +16,7 @@ the `-textmode` [game parameter][2]. This would "launch" the game without graphi
 come back in a few hours with 8-10 new items (your weekly limit).
 
 The idea behind this was to then trade or craft these into metal. The metal could be used to trade for keys, hats, etc. and
-all you to be "rich". The quotes are there because I do realize that being rich in a virtual game does not make one rich in
+allow you to be "rich". The quotes are there because I do realize that being rich in a virtual game does not make one rich in
 the real world. But, since the [Mann-Conomy Update][3] introduced this massive meta game to Team Fortress, I've tried to stay
 out of it.
 
@@ -61,7 +61,7 @@ In either case, 17 accounts is a lot to handle and trading/crafting is rather bo
 
 My solution was to modify the raffle bot. I'd designate one account as a master account. This would be the account that
 received items. All others would dump items to it. I'd log into the account that was receiving items and initiate a trade
-with each other bot in turn. I'd issue a command `add all` and that bot would dump it's inventory into trade. Making it
+with each other bot in turn. I'd issue a command `add all` and that bot would dump its inventory into trade. Making it
 through all the bots would take 5 minutes. Previously it would take me an hour or more to log into each account and
 manually add items to the trade windows and then confirm the trade on both sides. *yawn*
 
@@ -94,7 +94,7 @@ I'd end the week with 3-4 keys. I'd trade these for Tour of Duty tickets and go 
 
 The actual work required on my part was starting the idling for the night, shutting down idling in the morning, starting
 the automated trade, crafting and trade left overs processes and finally trading metal for keys. What used to take me hours
-to do each week, I could not do in less than an hour (the bulk of which ended up being trading metal for keys).
+to do each week, I could now do in less than an hour (the bulk of which ended up being trading metal for keys).
 
 ## What changed?
 
@@ -113,7 +113,7 @@ It's been a month now. The bots are still down. I'm still around. Looking back o
 doing anything for me other than providing me with something to do: "Need to idle tonight", "Need to craft and trade today", etc.
 Now I have that time back.
 
-I am pleased with the technical challenges I over came to get this done though. Crafting was the biggest, but I think I'm
+I am pleased with the technical challenges I overcame to get this done though. Crafting was the biggest, but I think I'm
 most proud of the automated transfer of items to the master. Since the bots had to communicate via Steam and not via
 a local application, working out how I was going to do that took some time.
 

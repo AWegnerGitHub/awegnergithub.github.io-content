@@ -3,7 +3,7 @@ Date: 2025-06-17 08:00
 Tags: technical
 Category: Technical Solutions
 Slug: python-gotcha-identity-vs-equality
-Summary: To a new developer `is` can look like an equality check in Python, especially in poorly written tutorials. I'll an overview of what `is` is and how you should use it in only limited circumstances.
+Summary: To a new developer `is` can look like an equality check in Python, especially in poorly written tutorials. I'll give an overview of what `is` is and how you should use it in only limited circumstances.
 Status: published
 Series: Programming Gotchas
 

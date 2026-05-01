@@ -37,7 +37,7 @@ to narrow it down to 10 before the final election. My nomination was the followi
 ### Nomination Reflections
 
 An astute reader may have noticed this is pretty similar to previous nomination posts. There are a couple major differences though. The first thing is that I am the 
-the number one Low Quality Posts reviewer on the site. I am pretty proud of this particular statistic. It shows just how much work I've done during my tenure at Stack 
+number one Low Quality Posts reviewer on the site. I am pretty proud of this particular statistic. It shows just how much work I've done during my tenure at Stack 
 Overflow to improve the quality of the site. The unfortunate thing is that I'd probably lose this position as a moderator because they don't sit in the review queues.
 
 ![Low Quality Posts][9]

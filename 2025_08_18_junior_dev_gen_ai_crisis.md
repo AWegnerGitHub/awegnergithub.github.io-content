@@ -129,7 +129,7 @@ However, a new AI-era junior engineer needs different skills. They need to be ab
 
 The most effective teams I've observed use AI as a teaching tool rather than a replacement for learning. Junior software engineers work with both AI tools and senior engineers, using AI to handle boilerplate while focusing human mentorship on architectural decisions and problem-solving approaches. This keeps several of the mentorship gaps minimal and builds a foundation that today's junior engineers can build on as they grow in their careers.
 
-I've also heard of teams implementing regular "AI-free" coding sessions for engineers to ensure they can solve problems without the assistance of the AI tooling to build their early troubleshooting and debugging muscles. This type of thing also has been extended to code reviews, where an engineers must be able to explain why the AI tool took certain approaches and if their are alternatives that might have been better.
+I've also heard of teams implementing regular "AI-free" coding sessions for engineers to ensure they can solve problems without the assistance of the AI tooling to build their early troubleshooting and debugging muscles. This type of thing also has been extended to code reviews, where engineers must be able to explain why the AI tool took certain approaches and if there are alternatives that might have been better.
 
 Personally, these approaches feel somewhat academic. A junior engineer is still a professional not a student in school. I think there could be good training around these ideas, but I don't think it should feel like we are taking away a tool. Instead, teach how to use it correctly while filling in the knowledge gaps.
 

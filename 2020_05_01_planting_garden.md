@@ -61,7 +61,7 @@ The adult nursery was much less green. We have some lettuce.
 
 ## Transplanting
 
-Ten days after the initial pods were put in to the nurseries, we had sprouts that were touching the roof of the nursery.
+Ten days after the initial pods were put into the nurseries, we had sprouts that were touching the roof of the nursery.
 I figured it was time to transplant some of the more mature ones. Even though we were a week and a half later, there were
 not sprouts in all of the pods. We didn't transplant those.
 

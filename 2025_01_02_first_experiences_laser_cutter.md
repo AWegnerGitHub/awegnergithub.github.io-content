@@ -43,7 +43,7 @@ I tried a couple acrylic colors - Black and Blue - to see how it'd look. In this
 
 ![Blue acrylic with an outer border, still with masking tape][bluemasked]
 
-Unfortunately, I didn't like the blue acrylic. This is how blue looks with the masking tape still in place. This tape is is to prevent scorching marks. It looks ok with the tape in place, but once removed, the blue text just kind of got lost.
+Unfortunately, I didn't like the blue acrylic. This is how blue looks with the masking tape still in place. This tape is to prevent scorching marks. It looks ok with the tape in place, but once removed, the blue text just kind of got lost.
 
 ![Blue acrylic without an outer border, with no masking tape][blueunmasked]
 
@@ -67,7 +67,7 @@ Once stacked and glued together, I realized that I hadn't kept the inner pieces 
 
 Over the holidays, I completed the project and got everything labeled. I'm pleased with how it turned out. I was not surprised at how easy the Glowforge itself is to use. Learning how to design the SVG cut files took longer than I expected. There are likely other software tools that could do the job better, but for this small project and for some experiments, Inkscape worked just fine.
 
-For my next project, I'd like to finish off the [WLED][wled] work I did last summer. The original project didn't work as expected, but the WLED portion worked wonderfully. I could build a couple stand lights and laser cut out the base. I'd have to figure out how to model the aluminium rail to cut it correctly, but that sound like a fun task.
+For my next project, I'd like to finish off the [WLED][wled] work I did last summer. The original project didn't work as expected, but the WLED portion worked wonderfully. I could build a couple stand lights and laser cut out the base. I'd have to figure out how to model the aluminium rail to cut it correctly, but that sounds like a fun task.
 
 
 

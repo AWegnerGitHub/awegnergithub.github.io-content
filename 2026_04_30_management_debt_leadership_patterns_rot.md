@@ -14,7 +14,7 @@ Featured: true
 
 Engineering leaders talk about [technical debt][1] frequently. We track it, we visualize it, we plan around it, we explain it to executives. There's a related kind of debt that gets a fraction of that attention and, in my experience, does at least as much damage to engineering organizations. I've come to think of it as management debt - the engineering-leadership flavor of what [recent research calls organizational debt][2]: the accumulation of outdated structures, policies, and processes that quietly hinder how a company operates.
 
-By management debt I mean the gap between how leadership is supposed to operate and how it actually operates. Decision rights that have quietly migrated to whoever speaks up first. Skip-levels that became calendar holds nobody runs. Quarterly planning sessions that turned into backwards-looking status reviews. Performance feedback that gets saved up for the yearly review cycle because nobody had the harder conversation in when a problem occurred.
+By management debt I mean the gap between how leadership is supposed to operate and how it actually operates. Decision rights that have quietly migrated to whoever speaks up first. Skip-levels that became calendar holds nobody runs. Quarterly planning sessions that turned into backwards-looking status reviews. Performance feedback that gets saved up for the yearly review cycle because nobody had the harder conversation when a problem occurred.
 
 None of that looks like failure in the moment. It looks like a function nobody changed for three years. It still works, technically. Every change to it just costs more than it should.
 

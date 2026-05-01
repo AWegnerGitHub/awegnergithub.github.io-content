@@ -27,7 +27,7 @@ everything updated. I noticed this line during the `apt-get` scroll:
 
     php7.1 module already enabled, not enabling PHP 7.3
 
-Time to figure out how to use that newly install/upgraded PHP 7.3
+Time to figure out how to use that newly installed/upgraded PHP 7.3
 
 ## What is actually running?
 
@@ -46,7 +46,7 @@ Apache, shows something different:
 
     PHP Version 7.1.30-1+ubuntu18.04.1+deb.sury.org+1
 
-Ok. Now I know which module is out of date. It's the run that is configured to
+Ok. Now I know which module is out of date. It's the one that is configured to
 be used with Apache.
 
 ## Verifying what's installed

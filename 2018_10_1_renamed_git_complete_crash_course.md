@@ -17,7 +17,7 @@ workload: PT45M
 
 ## Introduction
 
-**Update**: This course is no longer offered on Udemy. There are more recent version and courses for a Git introduction.
+**Update**: This course is no longer offered on Udemy. There are more recent versions and courses for a Git introduction.
 
 I use Git extensively in both my personal and professional work. I've set up [GitLab][1] for my personal work. I know enough about Git to be effective in a small environment with a handful of developers. I found a 30 minute crash course about Git on Udemy and decided to take it with the goal of learning a little bit more.
 
@@ -29,9 +29,9 @@ The course I found was [The 30 minute crash course to learning GIT][2][2] by Ric
 
 When I took this course it was definitely incomplete. The very first lesson starts with "In our previous lecture...". Obviously, as the first lecture, there isn't a previous one. The 15 minutes of new content does add a few introduction lectures before this, so it's not as jarring, but the order of lectures is still out of order. There are next instances of "In the next lecture I'll cover..." and then the next lecture is something else, or "In the last lecture we talked about..." and the mentioned topic was a few lectures ago.
 
-The course is a very quick run down of common Git commands. Very quick. Most lessons are under a minute in length. What this means is that there is almost no explanation about the command you're about to learn. In most of the lectures, it's a quick reading of the command's "help" sentence, then typing the command in a terminal window to show the syntax. Unfortunately, there isn't an over all project and the order of the lectures is out of order, so it's difficult to see how a particular command actually works since there isn't any set up done ahead of time.
+The course is a very quick run down of common Git commands. Very quick. Most lessons are under a minute in length. What this means is that there is almost no explanation about the command you're about to learn. In most of the lectures, it's a quick reading of the command's "help" sentence, then typing the command in a terminal window to show the syntax. Unfortunately, there isn't an overall project and the order of the lectures is out of order, so it's difficult to see how a particular command actually works since there isn't any set up done ahead of time.
 
-One example of how this is poorly demonstrated is in the lecture on renaming a file. The example uses `mv` to rename a file, talks about how it's been renamed, and then uses `mv` to rename it back to the original name to that there "won't be problems with Git." The entire point of the lecture is to show how this should be accomplished and this lecture misses it's mark entirely.
+One example of how this is poorly demonstrated is in the lecture on renaming a file. The example uses `mv` to rename a file, talks about how it's been renamed, and then uses `mv` to rename it back to the original name so that there "won't be problems with Git." The entire point of the lecture is to show how this should be accomplished and this lecture misses its mark entirely.
 
 Another example is in the lessons on handling merge conflicts. This is an important topic because conflicts need to be handled when multiple developers are working on the same thing. The lecture on handling these though talks about the theory of handling it but doesn't provide a demo. The same thing is done in the topic on rebasing.
 

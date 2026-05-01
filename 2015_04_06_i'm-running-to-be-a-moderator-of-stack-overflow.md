@@ -44,13 +44,13 @@ I posted my [platform][12] shortly after the nomination phase opened. I stressed
  >
  > - I've built an automated script to handle [noisy comments][8]. It runs daily, probably to the chagrin of the current moderators, but it helps keep the comments noise down and it is incredibly accurate.
  > - In addition to the automated flagging, I participate in the review queues, provide edits and post [answers][9].
- > - As a moderator of ["Community Building"][10], I know the tools used by the Stack Exchange sites. I've used this position to interact with the existing moderators for advise and questions. This interaction will not only continue but be helpful as a new moderator to SO.
+ > - As a moderator of ["Community Building"][10], I know the tools used by the Stack Exchange sites. I've used this position to interact with the existing moderators for advice and questions. This interaction will not only continue but be helpful as a new moderator to SO.
  >
  > I have the flagging history and experience to make the appropriate judgment calls. I feel that is a positive attribute that will help me in helping you to have the best experience you can on Stack Overflow.
  >
  > I'll continue to help improve the site regardless of whether I am elected or not. I will be able to do a much better job at that, though, as one of your moderators.
 
-With this, I received my "candidate score". It was 29/40. Not the highest, but not the lowest either. I expect, if any one is concerned about this score, it will be mentioned it in the comments.
+With this, I received my "candidate score". It was 29/40. Not the highest, but not the lowest either. I expect, if anyone is concerned about this score, it will be mentioned in the comments.
 
 ![Candidate Score][11]
 
@@ -87,7 +87,7 @@ I am also very impressed by the other candidates. There are many very good candi
 
 *Updated April 17, 2015*
 
-The nomination phases has ended. I have advanced to the primary phase. The purpose of this phase is to narrow the list of 30 candidates to 10. Those 10 will be the ones that can be voted on to be the next moderators. In the primary phase, users can vote nominees up or down.
+The nomination phase has ended. I have advanced to the primary phase. The purpose of this phase is to narrow the list of 30 candidates to 10. Those 10 will be the ones that can be voted on to be the next moderators. In the primary phase, users can vote nominees up or down.
 
 As part of the election process, one of the other [candidates][16] created several tools to help users see nominee activity. He also created a [live vote monitor][13]. It was exciting to hang out in the Election Chat room and watch votes roll in. The position of 10th was highly contested
 toward the end of the primary. I was very pleased to see that everyone remained civil in the chat room too.
@@ -107,7 +107,7 @@ provided, at a glance, a way to see who is and is not active.
 Below are the charts of my activity that the tool created. The green vertical bar is account creation date. The orange/brown vertical bars are previous election windows.
 
 ![Stack Overflow Activity Chart][18]
-This is my activity chart for Stack Overflow itself. It shows that I've had an account since 2009, but didn't really start utilizing the site, more than occassionally, until 2013. Since then, it shows that a large majority of my
+This is my activity chart for Stack Overflow itself. It shows that I've had an account since 2009, but didn't really start utilizing the site, more than occasionally, until 2013. Since then, it shows that a large majority of my
 activity onsite is in the review queues. There are posts, revisions, comments and more along the bottom, but most of my activity is in the review queues.
 
 ![Meta Stack Overflow Activity Chart][19]
@@ -121,12 +121,12 @@ Finally, the last chart shows the combined activity across all three areas (SO, 
 
 *Updated April 21, 2015*
 
-The election is over. Three great candidates were elected. One thing I am like about Stack Exchange's elections is their [usage of OpenSTV and the Meek STV method][22]. The results of each round of the
+The election is over. Three great candidates were elected. One thing I like about Stack Exchange's elections is their [usage of OpenSTV and the Meek STV method][22]. The results of each round of the
 election cycle are available at [opavote.org][23].
 
 ## Final Thoughts
 
-Like most elections, there are known and unknown winners before the election even begins. The response that [Martijn Pieters][24] received from the time he nominated through the final moments of the election all but guarenteed a victory for him. It is a
+Like most elections, there are known and unknown winners before the election even begins. The response that [Martijn Pieters][24] received from the time he nominated through the final moments of the election all but guaranteed a victory for him. It is a
 well deserved victory. I hope that he is able to keep up his frequent, high quality, answers in the [python][25] tag. If not, his drop in activity will be felt. The surprise, to me, was [Jeremy Banks][26]. He ended in 9th place in the primaries. That doesn't mean he can't do the job.
 
 I've interacted with all three moderators on site and in chat prior to their victory. I've been very happy with those interactions. With their promotion, I look forward to working with them as a moderator on the Stack Exchange network in the future.

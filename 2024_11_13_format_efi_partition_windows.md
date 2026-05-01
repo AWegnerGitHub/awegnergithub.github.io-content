@@ -52,7 +52,7 @@ Then show the partitions on the disk.
     -------------  ----------------  -------  -------
     Partition 1    System            4000 KB   850 KB
 
-There is a single partition - the EFI partition. The rest of the drive is unallocated, as the screenshot above shows. Select this partition. IF you have multiple partitions listed, you'll need to determine which is the EFI partition. In my case, since I'm going to be formatting the entire drive anyway, if there were multiple listed I'd select and delete each individual partition. 
+There is a single partition - the EFI partition. The rest of the drive is unallocated, as the screenshot above shows. Select this partition. If you have multiple partitions listed, you'll need to determine which is the EFI partition. In my case, since I'm going to be formatting the entire drive anyway, if there were multiple listed I'd select and delete each individual partition. 
 
     DISKPART> sel partition 1
 

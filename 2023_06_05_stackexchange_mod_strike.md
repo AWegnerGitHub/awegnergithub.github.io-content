@@ -13,7 +13,7 @@ Series: Stack Exchange Moderation Strike 2023
 
 I'm signing an open letter to Stack Exchange because those of us that volunteer our time and energy have 
 been put in an impossible situation. On Stack Overflow we [banned ChatGPT created content][2] almost immediately
-after it was released. Theorectically, that is not longer in effect.
+after it was released. Theoretically, that is no longer in effect.
 
 This isn't due to a change in community perception. Instead, it's due to an [abrupt policy change][4] on Stack
 Exchange's part that was posted on May 30. It's important to note that this public policy does _not_ match
@@ -35,24 +35,24 @@ This goes against the community desire to _not_ have GenAI content on the site. 
 other than a note that there is a big summer project with GenAI. The community reaction hasn't been positive.
 
 Combining this announcement with the newly announced policy the previous day, and an astonishing inability to articulate more details or reasoning,
-has producted a lot of unhappy moderators.
+has produced a lot of unhappy moderators.
 
 Additionally, I feel that the company has destroyed 3 years of rebuilding trust. Back in 2019, they destroyed this trust and nearly had a moderator
 strike then too. That involved providing information to a journalist that had very limited context and due to that, presented a single moderator in 
 unflattering light. The feelings from that have taken years to rebuild and even today that incident is cited as a low point, and users can point
-out that singular incident when trust of the company plummetted. 
+out that singular incident when trust of the company plummeted. 
 
 The public announcement to not moderate GenAI content contained this:
 
 > Through no fault of moderators' own, we also suspect that there have been biases for or against residents of specific countries as a potential result of the heuristics being applied to these posts.
 
-That's just wrong. Absolutely wrong. It is 100% inaccurate and Stack Exchange has offered no data to back this up. User country of origin, region in the world, or any kind of physical location is not available to moderators. We are present a flag and given information to the content that has been flagged. 
+That's just wrong. Absolutely wrong. It is 100% inaccurate and Stack Exchange has offered no data to back this up. User country of origin, region in the world, or any kind of physical location is not available to moderators. We are presented a flag and given information to the content that has been flagged. 
 
 ## Why am I participating?
 
 So...my participation? Why am I joining in? 
 
-Stack Exchange, and Stack Overflow, thrive due to the human element. It's userbase has been around over a decade and answered millions of questions across over 180 sites. The week ChatGPT came out, the community saw the bad results it can provide. For the past 6 months, we've continued to see how bad that is. The moderation teams across the network to generate a policy and get it approved by the company. I've reproduced it in full below, but as of this post it is still on the site and contridicts the new policy.
+Stack Exchange, and Stack Overflow, thrive due to the human element. It's userbase has been around over a decade and answered millions of questions across over 180 sites. The week ChatGPT came out, the community saw the bad results it can provide. For the past 6 months, we've continued to see how bad that is. The moderation teams across the network to generate a policy and get it approved by the company. I've reproduced it in full below, but as of this post it is still on the site and contradicts the new policy.
 
 In addition to completely ignoring the community's input on how they do not want GenAI on the site, the company ignored their own [moderator agreement][6].
 
@@ -74,7 +74,7 @@ Stack Exchange, Inc. agrees that it will:
 The relevant section is `vi`. There was no discussion period on this. No engagement with the moderators, or the community. Instead it was "effective
 immediately." The best we've gotten so far is an "oops, sorry."
 
-That's not now something in a `/legal` link should operate. If I can't trust  them to uphold an agreement they have in writing, why should I trust
+That's not how something in a `/legal` link should operate. If I can't trust  them to uphold an agreement they have in writing, why should I trust
 them to uphold anything else? 
 
 ## What does the community want out of this?
@@ -95,7 +95,7 @@ I have helped to build the community/company trust that I mentioned above. I wat
 spent the next three years working to rebuild that trust. I'm at the point again, where I see the company not understanding their community. At all.
 It's sad that this cycle has repeated itself and it's worse that the company is, again, tossing their most engaged users under the bus.
 
-This strike serves two purposes in my mind - the first is the officially stated one. Do not all GenAI content on the network. It will erode the value of the network quickly. We've also demonstrated that ChatGPT and it's peers are not great at answering complex questions. But, second, and unofficially, 
+This strike serves two purposes in my mind - the first is the officially stated one. Do not allow GenAI content on the network. It will erode the value of the network quickly. We've also demonstrated that ChatGPT and it's peers are not great at answering complex questions. But, second, and unofficially, 
 this strike will represent a change for Stack Exchange to show whether or not they care about what the community has to say. This is, I believe, the last
 opportunity for them to retract this policy and reflect on why they are over ruling so many communities that reject GenAI in their community. It's their
 last opportunity to show they support their moderators and the human aspect of moderation. Failure to do either means that Stack Exchange has given up

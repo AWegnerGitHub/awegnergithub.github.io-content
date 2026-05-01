@@ -17,9 +17,9 @@ with an [open letter to Stack Exchange][openletter].
 Over the weekend the moderators, and community curators elected three representatives to talk with Stack Exchange. Those talks started this week.
 They went into these discussions to reiterate the four conditions to end the strike.
 
- - A retraction of the of the prohibition of moderating GPT content.
+ - A retraction of the prohibition of moderating GPT content.
  - The private policy on GPT content that was issued to moderators must be revealed publicly.
- - The data dumps must be re-enabled and SEDE and API access guarenteed.
+ - The data dumps must be re-enabled and SEDE and API access guaranteed.
  - Stack Exchange, Inc. must communicate, gather feedback, and act on that feedback before making major policy or software changes to the public platform.
 
 So, where are we now?
@@ -35,7 +35,7 @@ relayed to those of us not in the discussions:
 
 My take away here is that the Vice President of Community - a person who's job should involve _dealing with the community_ doesn't think this is 
 important enough to attend. While I've worked with Cesar in my role as a moderator, this is just making Cesar the car salesman that has to 
-"talk with the manager about your offer". It's a way for the company to drag this out and a way to make a the real decisions without moderation
+"talk with the manager about your offer". It's a way for the company to drag this out and a way to make the real decisions without moderation
 input. I fully expect to hear from the community representatives that Cesar liked a proposal but the VP did not but that the VP wasn't around to 
 discuss why not. I'd love to be proven wrong on that though.
 
@@ -66,7 +66,7 @@ emails to his own coworkers. He's doing it again here.
 
 > Our intention was never to stop posting the data dump...
 
-This [directly contridicts that statement provided by the Stack Exchange Chief Technology Officer][5] last week. 
+This [directly contradicts that statement provided by the Stack Exchange Chief Technology Officer][5] last week. 
 
 > Stack Overflow senior leadership is working on a strategy to protect Stack Overflow data from being misused by companies building LLMs. While working on this strategy, we decided to stop the dump until we could put guardrails in place.
 
@@ -94,7 +94,7 @@ representatives have done to resolve our first point of contention.
 
 It's also very telling that the messaging doesn't mention the restoration in the context of the strike at all. If the company was attempting to 
 build goodwill in this environment, I'd think they would point to the conditions in the open letter and tie the enablement of the data dumps directly
-to that. Instead, we got a statement that says they didn't intend to stop posting the data dump, directly contridicting a previous statement saying
+to that. Instead, we got a statement that says they didn't intend to stop posting the data dump, directly contradicting a previous statement saying
 senior leadership decided to stop the dump.
 
 Amazing.

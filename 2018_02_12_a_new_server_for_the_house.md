@@ -43,7 +43,7 @@ I had several goals when building this thing:
 Now that I've decided my goals, it was time to pick out hardware. The biggest decision was to determine how much storage space I'd be getting. The idea was that hard drives
 would be the majority of the cost of this machine. In the end, I went with the following hardware:
 
- - Rosewell 4U server chasis. It's rack mountable for the future when I can convince myself that a server rack in the basement is a thing I want to spend money on and haul around.
+ - Rosewill 4U server chassis. It's rack mountable for the future when I can convince myself that a server rack in the basement is a thing I want to spend money on and haul around.
  - Supermicro MBD-X11SSM-F-O Micro AT server motherboard (LGA 1151)
  - Intel Xeon E3-1230 V5 3.4 Ghz processor
  - 2x Supermicro certified MEM-DR416L-SL01-EU21 16 GB DDR4-2133 ECC server memory. Take careful note of that model. I originally ordered MEM-DR416L-SL01-ER21 (notice 

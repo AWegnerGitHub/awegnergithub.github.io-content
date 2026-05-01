@@ -22,7 +22,7 @@ In Python, this is done with the [`.strip()`][1], [`.lstrip()`][2] or [`.rstrip(
     >>> "     Andrew Wegner     ".lower().rstrip()
     '     andrew wegner'
 
-That's pretty straightforward and nothing unexpected in going on. 
+That's pretty straightforward and nothing unexpected is going on. 
 
 ## Gotcha
 
@@ -37,15 +37,15 @@ What happened? Why wasn't the result just
 
 ## Explanation
 
-Read line from the documentation again, carefully:
+Read the line from the documentation again, carefully:
 
 > A list of **characters**
 
 Not a list of strings.
 
-This is explicitly spelled out in the documentation, with an example, showing what the implications are. However, for a new developer, it's unexpected behavior. After all, these seem like intutive functions. 
+This is explicitly spelled out in the documentation, with an example, showing what the implications are. However, for a new developer, it's unexpected behavior. After all, these seem like intuitive functions. 
 
-The example with my does the following:
+The example above does the following:
 
  1. Receives a list of characters to remove. In this case it is all letters in my last name, plus the space character: ` wegner`
  2. Lower case all letters in the input string, resulting in `andrew wegner`

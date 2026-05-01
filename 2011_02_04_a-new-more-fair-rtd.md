@@ -92,7 +92,7 @@ split of Good vs Bad. I am very happy with an almost exactly 50/50 split over ne
 
 ### Class with the most RTDs
 
-Solider was the most popular class on the crit server. The images below show number of times our soldiers got certain rolls. Note that God Mode is 
+Soldier was the most popular class on the crit server. The images below show number of times our soldiers got certain rolls. Note that God Mode is 
 low because the community decided having both God Mode and Powerplay was redundant. They decided to keep Power play. God Mode was
 disabled about a year after this version was released. Homing is low because it wasn't implemented until about 18 months after
 the initial release.
@@ -101,7 +101,7 @@ the initial release.
 
 ### Class with the least RTDs
 
-Medics rolled RTD the least number of times. This means sense for two reasons. First, they were not a common class on the crit server. When 
+Medics rolled RTD the least number of times. This makes sense for two reasons. First, they were not a common class on the crit server. When 
 nearly everything is one hit, one kill, it's very hard to build uber. Second, when you *do* try to build Uber, ruining it with a 50/50
 shot at getting a bad roll isn't good for the team. The low God Mode and Homing results are the same here as they were for the soldier.
  

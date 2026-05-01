@@ -17,7 +17,7 @@ annoyance of cleaning the pages every week or so. I've found that if I don't let
 has a fine film over it that makes writing a little more difficult. Think writing with a pen that is low on ink.
 
 I discovered [Obsidian][obsidian] a while ago. I've put a little bit of effort into utilizing it, but more recently I've committed to utilizing it more.
-The idea of all digial notes is enticing. Over time I'll see if it's helpful.
+The idea of all digital notes is enticing. Over time I'll see if it's helpful.
 
 But, like anyone with multiple devices, I want my Obsidian vault on all devices. What if I have a thought while I'm away from my main computer? One option is to utilize the [Obsidian Sync][sync] feature. It's got end to end encryption, version history and a monthly subscription fee. I can build something using my [existing GitLab installation][gitlab] without that monthly subscription fee. Plus, since I'm the only user of this, I'm ok with a little trade off that a full service provides. 
 
@@ -74,7 +74,7 @@ We're ready to start utilizing Obsidian and GitLab!
 
 Now that the backend repository is set up and it's been initially configured, all instances of Obsidian can utilize these sets of steps to start working. 
 
-If this is not the device you initilized the repository on, you need to perform an initial `pull` of the repository to this device so that it is a local folder.
+If this is not the device you initialized the repository on, you need to perform an initial `pull` of the repository to this device so that it is a local folder.
 
 
     git clone git@<my.server.url>:andy/andy-notes.git
@@ -149,7 +149,7 @@ Then on a scheduled basis - 5 minutes in my case - it will commit and push chang
 
 ![Successful autocommit][autocommit]
 
-In GitLab, this commit will should show up immediately. 
+In GitLab, this commit should show up immediately. 
 
 ![GitLab commit][commit]
 

@@ -146,7 +146,7 @@ Make a change and commit it to the new repository. I simply modified the "Hello 
 
     print("Hello World from new owner!")
 
-A new build will kick off. You can see that the repository has transferred to the new owner in the build log. You can also see the environment variables were transfered to the
+A new build will kick off. You can see that the repository has transferred to the new owner in the build log. You can also see the environment variables were transferred to the
 new owner. Other than the new owner being listed, the build log shows the same output as before
 
 ![Everything has transfered][16]

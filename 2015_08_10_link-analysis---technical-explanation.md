@@ -3,7 +3,7 @@ Date: 2015-8-10 23:41
 Tags: Stack Exchange, programming
 Category: Side Activities
 Slug: link-analysis---technical-explanation
-Summary: Approximately 10% of links on the Stack Overflow are unavailable. This is an analysis of how I determined thiat and a discussion on how to improve it
+Summary: Approximately 10% of links on the Stack Overflow are unavailable. This is an analysis of how I determined that and a discussion on how to improve it
 Status: published
 Series: Stack Overflow Link Analysis
 
@@ -97,7 +97,7 @@ Processing the posts was fairly time consuming, but was able to be parallelized 
 
 The most time consuming portion of this entire project was actually checking link status. Each link that appeared in the `Links` table was checked. As I mentioned in my first post, the original idea was to simply send a `HEAD` request to each URL. The idea was to save myself and the end point a tiny amount of bandwidth. I had over a million links to process. I figured a little saved bandwidth wouldn't hurt.
 
-I turns out this isn't a good idea. When I started seeing larger sites as not being accessible, I go suspicious that something was wrong. These sites were returning status 405 errors. This indicates that the method is not allowed. So, I switched to `GET` for every link. The next problem I ran into was that many sites didn't like the default user agent of the spider. They rejected requests with 404 and 401 errors. In the end, I got around this by mimicking Firefox on every request. 
+It turns out this isn't a good idea. When I started seeing larger sites as not being accessible, I got suspicious that something was wrong. These sites were returning status 405 errors. This indicates that the method is not allowed. So, I switched to `GET` for every link. The next problem I ran into was that many sites didn't like the default user agent of the spider. They rejected requests with 404 and 401 errors. In the end, I got around this by mimicking Firefox on every request. 
 
 With those kinks worked out, every link was sent a `GET` request that looked to be from a Firefox browser. The process would allow 20 seconds per link. If the link didn't respond in that time limit, it was declared inaccessible. 
 
@@ -105,11 +105,11 @@ A week later, I repeated the process with anything that hadn't returned a status
 
 ## Results
 
-The [SVG image][6] that I created for the write up was generated with Pygal. The tables were the result of various break downs of the data via queries to the status results. 
+The [SVG image][6] that I created for the write up was generated with Pygal. The tables were the result of various breakdowns of the data via queries to the status results. 
 
 ## Wrap up
 
-I am rather proud of how the results turned out for this project. I went into it expecting about 15% of links to be broken, but I didn't really realize what the meant. Fifteen percent of 21 million total posts is over 3 million. That's a large number. BUT, it also ignored that a large percentage of posts don't contain links. I failed to consider that in my original hypothesis. 
+I am rather proud of how the results turned out for this project. I went into it expecting about 15% of links to be broken, but I didn't really realize what that meant. Fifteen percent of 21 million total posts is over 3 million. That's a large number. BUT, it also ignored that a large percentage of posts don't contain links. I failed to consider that in my original hypothesis. 
 
 Less than half of my sample had links (2.3M out of 5.6M). Of the 2.3M with links, only 1.5M were unique links. The final result of 10% failed links makes much more sense in this context. Ten percent of 1.5M links means that there are 150K links that are bad. 
 

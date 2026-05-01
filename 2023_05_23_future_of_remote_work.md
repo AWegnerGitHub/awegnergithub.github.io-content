@@ -33,7 +33,7 @@ Let's get started, shall we?
 
 I have a lot of problems with this article. The short version is that it sounds like this company implemented remote work poorly, 
 possibly during covid (I'm not sure how long they've been around). I think remote work is the best, especially for companies 
-that does not need a local presence.
+that do not need a local presence.
 
 The article raises four coordination cost bullet points:
 
@@ -96,7 +96,7 @@ professional level of trust.
 The last one, absolutely. In this environment, I as a manager, can hire the best person for the job regardless of where they sit in 
 the world. It doesn't matter if we could car pool to an office or if you are 18 hours ahead of me. This is the massive advantage of a 
 fully remote workforce and is commonly brushed under the rug in these types of articles. A team that is aligned and has the best 
-people in the world or industry working for them is going to crush a team of that is colocated and is limited by who lives in 
+people in the world or industry working for them is going to crush a team that is colocated and is limited by who lives in 
 commuting distance or is willing to relocate to commuting distance of the office.
 
 Lastly, this quote
@@ -111,9 +111,9 @@ their coworker doing the exact same thing and see how quickly engineering morale
 companies that pay the same regardless of location? If not, you should be. 
 
 The best engineers I've worked with, except one, have been located well outside of the Bay Area. An engineer in Miami can do the exact
-same work that an engineer in San Fransisco can at the same quality.
+same work that an engineer in San Francisco can at the same quality.
 
-Remote works can and is incredibly successful for many companies. It does require deliberate, intentional, company decisions to make 
+Remote work can and is incredibly successful for many companies. It does require deliberate, intentional, company decisions to make 
 it work though. I shared the [TeamOps][5] information above (and completed [TeamOps certification][7] earlier this year). GitLab, one 
 of the largest successful all remote companies in the world, has intentionally built their remote policies around this. Without
 putting in the time or effort to ensure remote is successful, teams will (and are) defaulting back to in office. I think we are 

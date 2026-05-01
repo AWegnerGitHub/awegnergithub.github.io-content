@@ -11,7 +11,7 @@ Status: published
 ## What happened?
 
 In November of 2018, Dell released a [BIOS update][dell-bios] (version 2.10.0) for my XPS 13 9360 running Ubuntu 18.04.1. Among the enhancements
-this updated added was:
+this update added was:
 
 > Enhanced the stability of Linux operating system
 
@@ -108,7 +108,7 @@ Why didn't I start there? I had been chasing the wrong thing. BIOS wasn't the ca
 
 ## Fix
 
-The fix involved going back to the previous kernel. I didn't follow the [Ask Ubuntu post][1] exactly. First, I edited by grub configuration to display the
+The fix involved going back to the previous kernel. I didn't follow the [Ask Ubuntu post][1] exactly. First, I edited my grub configuration to display the
 grub menu. This is at `/etc/default/grub`. I changed the `GRUB_TIMEOUT` value to `-1` and uncommented `GRUB_HIDDEN_TIMEOUT`. After saving that config file
 I ran `sudo update-grub`
 

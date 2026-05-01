@@ -51,6 +51,6 @@ Once I confirmed this worked, I added it to my user's crontab on the laptop. It 
 
 ## Next steps
 
-The next steps I'll take be taking are to restrict the new SSH key on the server to only allow it to perform `rsync` tasks. This can be done by slightly modifying the appropriate line in `authorized_keys`. I'll see how this daily, single, back up works for a while. If I need to, I may change it to a rotating weekly backup. I don't forsee that right now, but I need a few weeks of seeing how this works and if the single day is good enough.
+The next steps I'll be taking are to restrict the new SSH key on the server to only allow it to perform `rsync` tasks. This can be done by slightly modifying the appropriate line in `authorized_keys`. I'll see how this daily, single, back up works for a while. If I need to, I may change it to a rotating weekly backup. I don't foresee that right now, but I need a few weeks of seeing how this works and if the single day is good enough.
 
  [1]: https://rsync.samba.org/

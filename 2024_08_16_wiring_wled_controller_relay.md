@@ -11,7 +11,7 @@ Summary: Wiring a lot of LEDs requires more power than the small WLED controller
 
 It's time to continue my summer project of setting up some outdoor LED lights. [Previously][1], I [set up and updated the Ericsity controller][ericsity] with [WLED][wled].
 
-I am putting up approximiately 20 meters - 65 feet - of LEDs. Total this will be nearly 2,000 individual LEDs and approximately 665 individually controlled LED segments (3 LEDs per segment). This will take more power than the little controller can handle. To demonstrate the problem of powering all of these LEDs with only the controller, look at this image:
+I am putting up approximately 20 meters - 65 feet - of LEDs. Total this will be nearly 2,000 individual LEDs and approximately 665 individually controlled LED segments (3 LEDs per segment). This will take more power than the little controller can handle. To demonstrate the problem of powering all of these LEDs with only the controller, look at this image:
 
 ![Power drop across 20 meters of LEDs][voltagedrop]
 
@@ -19,7 +19,7 @@ These strips are wired with the end of one strip connected to the start of the n
 
 ## Power Injection
 
-The solution to this specific problem is to inject power into the LED strips. I picked up some [WAGO connectors][wago] and a [NUOFUWEI power supply][psu]. I also had some 18 guage wire on hand. With this power unit, I can easily set up three injection points.
+The solution to this specific problem is to inject power into the LED strips. I picked up some [WAGO connectors][wago] and a [NUOFUWEI power supply][psu]. I also had some 18 gauge wire on hand. With this power unit, I can easily set up three injection points.
 
 The goal was to inject power at the start of strip 1, right where the controller is connecting in the image above. Then inject between strips 2 and 3, in the middle of the run. Finally, I injected power at the end of strip 4. With these three, equally spaced injection points, I was able to get a nice uniform color across the entire 20 meter run.
 
@@ -31,7 +31,7 @@ Not exactly.
 
 ## Turning off the PSU
 
-WLED controls the lights, but doesn't control the power supply with this wiring setup. Turning off the lights within WLED does turn off the LEDs, but the power supply continues to run. It's not drawing at full load, but it is drawing power and the cooling fan is active. It's noticable and unneeded. I want a way to turn off the power supply AND the LEDs at the same time. 
+WLED controls the lights, but doesn't control the power supply with this wiring setup. Turning off the lights within WLED does turn off the LEDs, but the power supply continues to run. It's not drawing at full load, but it is drawing power and the cooling fan is active. It's noticeable and unneeded. I want a way to turn off the power supply AND the LEDs at the same time. 
 
 I can't power the WLED controller from the large power supply to do this, because if I turn off the power supply that'd also turn off the WLED controller. I'll need to power the WLED controller independently from the lights. Fortunately, this won't be a problem. 
 
@@ -49,11 +49,11 @@ The wiring ground was tied into the PSU and the LEDs as well. The common ground 
 
 On the other side of the diagram is the relay. I put this relay between the wall and the PSU. When WLED sent an `ON` signal, it would close the relay, turning on the PSU and the LEDs. GPIO 2 was tied to the relay and within `LED Preferences`, the Relay Pin was set to GPIO 2. 
 
-One quick power cycle from within WLED is required at this point. Press the power button in the UI to turn everything off, press it once more to turn it on. As long as the PSU is plugged into the wall, you should here it fire up and see the LEDs turn on. If you press the power button again, the LEDs turn off, the relay clicks, shuts down the PSU and only the WLED controller remains active.
+One quick power cycle from within WLED is required at this point. Press the power button in the UI to turn everything off, press it once more to turn it on. As long as the PSU is plugged into the wall, you should hear it fire up and see the LEDs turn on. If you press the power button again, the LEDs turn off, the relay clicks, shuts down the PSU and only the WLED controller remains active.
 
 ## Success
 
-With the relay in place, the LEDs don't draw phantom power while off because the PSU isn't active. The added benefit, at least for this specific power unit, is the the fans aren't running constantly so it's not as loud. While this will eventually be outside, I'd still prefer to not hear the fan when the lights are off. While they are active it's not going to be bothering me, because I'll likely have music playing for the sound reactive features which will easily be louder than this fan.
+With the relay in place, the LEDs don't draw phantom power while off because the PSU isn't active. The added benefit, at least for this specific power unit, is that the fans aren't running constantly so it's not as loud. While this will eventually be outside, I'd still prefer to not hear the fan when the lights are off. While they are active it's not going to be bothering me, because I'll likely have music playing for the sound reactive features which will easily be louder than this fan.
 
 The next step in the project is going to be to get this set up outside. 
 

@@ -10,7 +10,7 @@ Status: published
 
 ## Introduction
 
-Charcoal is nearing a decade of existance. In January of 2024, the Stack Exchange community will have been fighting the good fight of keeping spam off the platform. I've written about a [machine being able to flag spam][1] in the past. I've also posted [the original][2] and it's follow up on being able to [spam flag even better][3] on Stack Exchange itself.
+Charcoal is nearing a decade of existence. In January of 2024, the Stack Exchange community will have been fighting the good fight of keeping spam off the platform. I've written about a [machine being able to flag spam][1] in the past. I've also posted [the original][2] and it's follow up on being able to [spam flag even better][3] on Stack Exchange itself.
 
 Recently, I was asked to talk a bit about a hobby of mine. I put together this presentation. 
 
@@ -18,7 +18,7 @@ Recently, I was asked to talk a bit about a hobby of mine. I put together this p
 
 ## What is Stack Exchange?
 
-To set a bit of context for those need it. Stack Exchange is a network of over 180 sites covering almost any topic you can think of. It's a question and answer network. The slide you are seeing here are just a handful of the sites of more interesting logos - but you can see they cover a range of topics from [professional work place questions][4], to the [intricacies of the English Language][5], to [Data Science][6] and [gaming][7].
+To set a bit of context for those who need it. Stack Exchange is a network of over 180 sites covering almost any topic you can think of. It's a question and answer network. The slide you are seeing here are just a handful of the sites of more interesting logos - but you can see they cover a range of topics from [professional work place questions][4], to the [intricacies of the English Language][5], to [Data Science][6] and [gaming][7].
 
 ![A handful of Stack Exchange site logos - Workplace, English Language, Data Science and Arquade included][slide2]
 
@@ -70,13 +70,13 @@ How's this work?
 
 There are two systems behind this community effort - SmokeDetector and Metasmoke.
 
-SmokeDetector, affectionatly named "Smokey", is designed to be the early warning system. It quickly provides a yes/no decision on whether a post is spam and alerts users for manual action. It passes off the more intense confidence checks and automatic flags to MetaSmoke.
+SmokeDetector, affectionately named "Smokey", is designed to be the early warning system. It quickly provides a yes/no decision on whether a post is spam and alerts users for manual action. It passes off the more intense confidence checks and automatic flags to MetaSmoke.
 
 ![Two systems create the anti-spam system. SmokeDetector for a quick spam/not-spam decision and Metasmoke to handle confidence checks and automatic flags][slide7]
 
 Every post on the network goes through the process below. A user clicks the submit button and Stack Exchange does their few checks - remember these are black boxed - and if the post makes it through these it gets published to a real time web socket.
 
-SmokeDetector does a quick "Is this spam?" check. If it is, it's posted to chat rooms around the network - to the network wide Charcoal room and usually to a site specific room if the room is utilized enough. Users than go and investigate and if they agree that it's spam, cast a flag. After 6 of these are cast, the post is removed. Hooray! Another victory again spam.
+SmokeDetector does a quick "Is this spam?" check. If it is, it's posted to chat rooms around the network - to the network wide Charcoal room and usually to a site specific room if the room is utilized enough. Users then go and investigate and if they agree that it's spam, cast a flag. After 6 of these are cast, the post is removed. Hooray! Another victory against spam.
 
 When Smokey posts that spam is found, it also sends a message to MetaSmoke. This system is checking how confident we are that this is spam. If there is high confidence, it will start utilizing community member flagging privileges to cast spam flags on the post as well. If there isn't high confidence, no automatic flags will be cast. 
 
@@ -150,9 +150,9 @@ The goal of the Charcoal project is to remove spam quickly from the site. Flags 
 
 When there is no system cast flags, an average spam post lives for 21 minutes on the site. If the system casts all 6 - which is only utilized during a spam wave like in the summer of 2022 and with company permission - a post lives for 16 seconds. During day to day operations, the system is configured to cast 3 automatic flags. This was determined by a lot of conversations with individual sites around the network and what they felt comfortable with.
 
-![Timing of how long a post is visable based on the number of automatic flags. At the default 3 flags, a post will be visible for less than 5 minutes][slide14]
+![Timing of how long a post is visible based on the number of automatic flags. At the default 3 flags, a post will be visible for less than 5 minutes][slide14]
 
-SmokeDetector has over 103 thousand commits to its repostory over the last 10 years with 90 different code contributors. In the slide below, the top two graphs show that it's rulesets are updated daily - except for this past summer.
+SmokeDetector has over 103 thousand commits to its repository over the last 10 years with 90 different code contributors. In the slide below, the top two graphs show that it's rulesets are updated daily - except for this past summer.
 
 Over the course of a 24 hour period, flags are automatically cast from nearly 420 different users around the network.
 

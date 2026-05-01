@@ -3,7 +3,7 @@ Date: 2012-4-22 12:13
 Tags: team vipers, automation, programming
 Category: Vipers
 Slug: monitoring-language-on-the-game-servers
-Summary: Team Vipers is proud of it's friendly atmosphere. This post describes how I automated a large part of the process
+Summary: Team Vipers is proud of its friendly atmosphere. This post describes how I automated a large part of the process
 Status: published
 modified: January 8, 2015
 
@@ -30,7 +30,7 @@ in solving problems of "what happened" on the servers.
 
 ![Multiserver Chat monitor][2]
 
-I've expanded it's usefulness. Now I can load a single page and see all chat activity occurring on all active game servers
+I've expanded its usefulness. Now I can load a single page and see all chat activity occurring on all active game servers
 on a single screen. It provides, at a glance, a quick way to see if there are problems on the servers. It also allows me
 to step back from picking which server I think will be "bad" and monitor that. Now I can monitor all of them at once.
 
@@ -56,7 +56,7 @@ threshold for banning, they will be removed from the server and banned for a day
  The ban length will be 1 day.
  - The system keeps messages for a total of 5 minutes. If a message is older than that, the system forgets it.
 
-Currently, the three inappropriate terms all have a threshold of `1`. This means they saying the words results in a ban.
+Currently, the three inappropriate terms all have a threshold of `1`. This means saying the words results in a ban.
 Homophobic, racist remarks aren't welcome on the Viper servers. We can't prevent it, but we can deal with offenses swiftly.
 The 5 minute window is added because the community requested that excessive swearing also be limited. We don't want to
 outright ban it, but they don't want a swear filled rant to occur after every match.
@@ -76,12 +76,12 @@ I've made a change to the logic in how long a ban will last. It provides a 4 str
  - First offence: Weight of term(s) said times 1. This means, for most cases, they are issued a single day ban.
  - Second offence: Weight of term(s) said times 3. This means, for most cases, they are issued a three day ban.
  - Third offence: Weight of terms said times 21. This means, for most cases, they are issued a three week ban.
- - Forth offence: Permanent removal from the game servers.
+ - Fourth offence: Permanent removal from the game servers.
 
 The community has been very enthusiastic about how quickly users of inappropriate terms are removed. I've seen a few minor
-complaints about the permanent removal of users on the forth offense. I've told the community that *if* a user protests the
+complaints about the permanent removal of users on the fourth offense. I've told the community that *if* a user protests the
 ban and *if* they can show they've learned our rules, I will provide one additional chance after the user has waited a minimum
-of a month from from last time they were banned. If they return to their previous activities, they will be re-banned and
+of a month from the last time they were banned. If they return to their previous activities, they will be re-banned and
 they will not be able to return in the future.
 
 ## Update at shutdown

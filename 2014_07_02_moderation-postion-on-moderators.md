@@ -1,4 +1,4 @@
-Title: Moderation postion on Moderators
+Title: Moderation position on Moderators
 Date: 2014-7-02 10:51
 Tags: Stack Exchange, moderation
 Category: Side Activities
@@ -11,9 +11,9 @@ modified: December 4, 2014
 
 ## Introduction
 
-I've been the owner of Vipers for almost 5 years. In that time I've help the community grown and get stronger. I've helped
+I've been the owner of Vipers for almost 5 years. In that time I've helped the community grown and get stronger. I've helped
 members begin their own communities and I've maintained the game servers the players utilize 24 hours a day. I've been 
-concerned about low activity, excited about new events and updates, and watched the community ebb and flow through out
+concerned about low activity, excited about new events and updates, and watched the community ebb and flow throughout
 the years. I've dealt with trolls, spammers, and new community members. I think I've gained valuable experience in 
 managing a community.
  
@@ -27,7 +27,7 @@ community started recently: [Moderators][2]. The idea behind this site is for pe
 cultivating digital communities to have a place to ask others with similar experiences questions. I love it!
 
 One of the things a new site needs on the Stack Exchange network is a set of pro tempore moderators. While Stack Exchange 
-believe in [community moderation][3], there are still some things that require more access. These pro tempore moderators
+believes in [community moderation][3], there are still some things that require more access. These pro tempore moderators
 are those people. I [nominated][4] myself for one such position.
 
 ### The Nomination
@@ -55,14 +55,14 @@ One in particular that I mention is the [automated language filter][5] we have o
  >
  > I have no experience moderating a Stack Exchange site. I don't feel that's a down side though. I can provide the 
  > "outside" perspective in a Stack Exchange heavy group. That does mean, though, that I'd depend on and expect the 
- > community to provide feedback on how moderation in being handled. Much like my existing gaming community, input from the 
+ > community to provide feedback on how moderation is being handled. Much like my existing gaming community, input from the 
  > community to the moderation team is important and the moderation team should be listening to that input. 
  
 ### Appointment
 
 *Updated on August 12, 2014*
 
-I have been [appointed][6] to a moderator position on Moderators. I now "moderator the moderators", as the running joke 
+I have been [appointed][6] to a moderator position on Moderators. I now "moderate the moderators", as the running joke 
 has been on meta and the chatroom. I am looking forward to helping this community grow and to providing my experience 
 of community management outside of Stack Exchange to this position.
 

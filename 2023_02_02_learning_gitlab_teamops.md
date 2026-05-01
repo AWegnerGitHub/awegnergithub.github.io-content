@@ -23,7 +23,7 @@ and I was able to apply several best practices from that course to my role at th
 I continue to manage global and remote teams, so I was excited to hear about GitLab's newest course covering their
 ["TeamOps"][2] model of improving teams.
 
-This course is hosted on [LevelUp][3], and is one of 9 public course they have available right now. 
+This course is hosted on [LevelUp][3], and is one of 9 public courses they have available right now. 
 
 ## Course Overview
 
@@ -49,7 +49,7 @@ like - a refresher.
 
 ## Conclusion
 
-The change from video to text based courses was surprising, and slightly unwelcome. The content of the course is good, and will definately 
+The change from video to text based courses was surprising, and slightly unwelcome. The content of the course is good, and will definitely 
 help teams improve how they operate. However, many of the same ideas were covered in the previous course. I suppose that if this continues
 to work for GitLab, it makes sense that they aren't trying to make sweeping changes, but I was hoping for...more, I suppose. 
 

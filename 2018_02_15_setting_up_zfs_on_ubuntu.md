@@ -116,7 +116,7 @@ device serial number. It'll make it easier to determine problem disks in the fut
 
 ### Create the pool
 
-Now that we've determined the device ides for each of our hard drives, it's time to actually create the pool. As I mentioned above, we'll be creating using dual parity
+Now that we've determined the device ids for each of our hard drives, it's time to actually create the pool. As I mentioned above, we'll be creating using dual parity
 (`raidz2`). We'll be naming our pool `data`. Once this command is complete, `/data` will be where this pool resides.
 
     sudo zpool create data raidz2 /dev/disk/by-id/ata-WDC_WD40EFRX-68N32N0_WD-WCC7K0HLKUXT /dev/disk/by-id/ata-WDC_WD40EFRX-68N32N0_WD-WCC7K0HLKXS0 /dev/disk/by-id/ata-WDC_WD40EFRX-68N32N0_WD-WCC7K6VNNTXY /dev/disk/by-id/ata-WDC_WD40EFRX-68N32N0_WD-WCC7K6VNN6TA /dev/disk/by-id/ata-WDC_WD40EFRX-68N32N0_WD-WCC7K5LCEYN4 /dev/disk/by-id/ata-WDC_WD40EFRX-68N32N0_WD-WCC7K4YJ6T0U /dev/disk/by-id/ata-WDC_WD40EFRX-68N32N0_WD-WCC7K7TSA4VS

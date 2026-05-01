@@ -14,7 +14,7 @@ for various products. We are launching with 30 designs on t-shirt and hope to ex
 the coming months.
 
 [Dana][danalinkedin] and I have talked about building a side business off and on for years. During my [job search][1]
-last year (and [all][2] the [fun][3] that [entailed][4]), these discussions became most ernest. After determining what 
+last year (and [all][2] the [fun][3] that [entailed][4]), these discussions became most earnest. After determining what 
 we wanted to do, figuring out the technicalities of starting a business, and figuring out how we were going to accomplish
 this - we did it!
 

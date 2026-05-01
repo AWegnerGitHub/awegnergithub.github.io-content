@@ -112,7 +112,7 @@ documentation to see what other options are available (there are a ton).
 ## Final Thoughts
 
 While I used a coupon code to take this course for free, I feel it was worth the listed price. The course covers 19
-hours and 172 lessons. The may seem overwhelming at first, but the lessons are short, with most falling in the 4-7
+hours and 172 lessons. This may seem overwhelming at first, but the lessons are short, with most falling in the 4-7
 minute range. There are a couple that reach the 10+ minute point, but they still held my attention the entire lesson.
 
 The instructor has the lessons structured in a way that allows you to pause and return at the start of any lesson

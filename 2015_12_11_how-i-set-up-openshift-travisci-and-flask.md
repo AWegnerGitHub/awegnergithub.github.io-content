@@ -13,7 +13,7 @@ Status: published
 
 Since I [shut down][1] Vipers early this year, I've been itching to do *something* web related. Web technologies aren't my best technical skill, but I like trying out new things and learning something in the process. I use Python at work. I like Python a lot. With Christmas and New Years coming up, I want to have a project during my down time. My goal is to get a [Flask][2] application built and then deployed to [OpenShift][3]. Part of this deployment is to utilize [TravisCI][4]. I'm planning on using [pytest][14] and [hypothesis][15] for my test suite. Finally, I want to use my own (sub)domain, instead of the provided `rhcloud` one.
 
-Of these three technologies, I've used only Flask before. The [comment flagging bot][5] I built has a dashboard built in Flask. I've never used OpenShift or TravisCI. I selected OpenShift because it has a couple features I want that Heroku doesn't. The biggest one, was that OpenShift has support for MySQL and Heroku doesn't (surprisingly). I want to use TravisCI and automated testing, because one of my goals for next year at work is to introduce automated tested to our development. (I work with Engineers, not coders...that's my excuse and it's a bad excuse, so I'm going to try and fix it.) To get ready for that goal, I want to test out a system that does continuous integration/automated testing. Both OpenShift and Travis CI provide me with free services. Hypothesis and py.test provide me with a way to generate comprehensive test conditions. 
+Of these three technologies, I've used only Flask before. The [comment flagging bot][5] I built has a dashboard built in Flask. I've never used OpenShift or TravisCI. I selected OpenShift because it has a couple features I want that Heroku doesn't. The biggest one, was that OpenShift has support for MySQL and Heroku doesn't (surprisingly). I want to use TravisCI and automated testing, because one of my goals for next year at work is to introduce automated testing to our development. (I work with Engineers, not coders...that's my excuse and it's a bad excuse, so I'm going to try and fix it.) To get ready for that goal, I want to test out a system that does continuous integration/automated testing. Both OpenShift and Travis CI provide me with free services. Hypothesis and py.test provide me with a way to generate comprehensive test conditions. 
 
 ## OpenShift set up
 
@@ -133,14 +133,14 @@ I like to use [MySQL Workbench][12] while building and testing to watch what's h
  - Set the SSH key file. On Windows this is in `\Users\<username>\.ssh\id_rsa` by default
  - Set MySQL Hostname equal to the value in `OPENSHIFT_MYSQL_DB_HOST`
  - Set Username equal to the value in `OPENSHIFT_MYSQL_DB_USERNAME` (this was also provided to you when you installed MySQL)
- - See Password equal to the value in `OPENSHIFT_MYSQL_DB_PASSWORD` (again, this was provided to you when MySQL was installed)
+ - Set Password equal to the value in `OPENSHIFT_MYSQL_DB_PASSWORD` (again, this was provided to you when MySQL was installed)
  
 
 ## TravisCI setup
 
 I want to play with automated testing. The idea behind this is to get a jump start on a goal for next year at work and to learn something new. I'd like to utilize Travis CI to perform the tests and if they pass, deploy to OpenShift. If the tests fail, I don't want to push a broken build to OpenShift. That's the goal...we'll see how it turns out. But, the first step is getting Travis CI and OpenShift talking to one another.
 
-Travis CI integrates with GitHub, so what I'm going to do in reality is push to GitHub and let Travis CI pick up the changes. From there, it will perform it's tests. If the tests pass, it will push the commit to OpenShift.
+Travis CI integrates with GitHub, so what I'm going to do in reality is push to GitHub and let Travis CI pick up the changes. From there, it will perform its tests. If the tests pass, it will push the commit to OpenShift.
 
 On GitHub, create a new repository for your source. This is where you will be pushing your code for Travis CI to pick up.
 
@@ -181,7 +181,7 @@ Deploy these changes to GitHub:
 	git commit -m "Deploying Travis"
 	git push origin master
 			
-This will commit and push the changes to GitHub. A few seconds later, if you are watching Travis CI, you'll see it notices the new commit and starts running tests. If you tests complete with a status code of `0` (successful), it will deploy the changes to OpenShift. If the tests fail (any other status code), it will not deploy to OpenShift.
+This will commit and push the changes to GitHub. A few seconds later, if you are watching Travis CI, you'll see it notices the new commit and starts running tests. If your tests complete with a status code of `0` (successful), it will deploy the changes to OpenShift. If the tests fail (any other status code), it will not deploy to OpenShift.
 
 ## py.test setup
 
@@ -229,11 +229,11 @@ After a successful run through Travis, you'll see something like this:
 	
 ## Custom Domain
 
-I have my own domain name. I want to utilize OpenShift with one of those domains, instead of the default one provided. Since I've using the free tier, that will rule out using the SSL certificate that is wildcarded to the whole `rhcloud.com` domain. I can live with this. If I need SSL on my domain, I'll upgrade.
+I have my own domain name. I want to utilize OpenShift with one of those domains, instead of the default one provided. Since I'm using the free tier, that will rule out using the SSL certificate that is wildcarded to the whole `rhcloud.com` domain. I can live with this. If I need SSL on my domain, I'll upgrade.
 
 To set up OpenShift to use your domain, log into the web console. Go to the gear you are configuring. At the top, where the full domain is displayed, is the option to "Change". Select that option. Input the full domain (and subdomain) you want to utilize and click "Save". After a few seconds, you'll get a notification that the alias was created.
 
-The next step is to configure the DNS records. I [utilize][17] CloudFlare for my domains, so the instructs will be specific to that, but should apply to any DNS system. Login to your management system and go to the area where you can specify DNS records.
+The next step is to configure the DNS records. I [utilize][17] CloudFlare for my domains, so the instructions will be specific to that, but should apply to any DNS system. Login to your management system and go to the area where you can specify DNS records.
 
 For my test, I set up a subdomain of one of my domains as the alias I wanted to use. In your DNS system, set up a CNAME that points to the original hostname on OpenShift. The CNAME should be the subdomain you told OpenShift about. Save the record. 
 

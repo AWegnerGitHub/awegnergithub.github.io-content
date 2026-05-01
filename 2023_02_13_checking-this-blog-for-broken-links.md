@@ -102,7 +102,7 @@ My [template][9] is defined in the same directory as my workflow and currently l
     _Use search filter `─BROKEN─` to highlight failures_
 
 The top metadata defines the issue title, and any labels or assignees I want to set up. I'll probably add myself as an assignee
-once I'm happy with the stability and reliablity of the checks.
+once I'm happy with the stability and reliability of the checks.
 
 You can see what an [issue created with this template looks like in the repository][10].
 
@@ -119,8 +119,8 @@ are discovered.
 
 ## Things I learned
 
-While setting this up there where a few things that I learned or desired that were not immediately obvious while reading documentation. The first
-was that GitHub actions aren't triggerable without setting up the appropriate `on` event type. In this case, I want to occassionally
+While setting this up there were a few things that I learned or desired that were not immediately obvious while reading documentation. The first
+was that GitHub actions aren't triggerable without setting up the appropriate `on` event type. In this case, I want to occasionally
 run the link checker on command, instead of once a week. That means I need the `workflow_dispatch` event and it needs to be empty. 
 
     on:
@@ -137,13 +137,13 @@ but I have no need for that right now. So, mine remains empty.
 A couple nice to haves, that I wasn't able to immediately figure out were how to retry a failed link "later" in the script. While testing
 the functionality, I had a run that failed because one image, in one article failed. Checking that article showed that it worked. Checking the 
 log showed that the link being checked worked. It was just the internet being the internet with a temporary blip. I'd love to be able to retry failed
-linked a little later in the run or X seconds later, etc. If it fails both times, assume it's broken and report it as normal. Without that retry,
+links a little later in the run or X seconds later, etc. If it fails both times, assume it's broken and report it as normal. Without that retry,
 I'm a little worried this is going to be fragile, which is part of why I haven't populated the `assignee` metadata in the template yet.
 
 Another nice to have would be a way to embed the broken links (and page they appear on) in the issue itself. I couldn't find a way to accomplish
 that with the current tooling, so the template links to the log and you have to search for the appropriate string. 
 
-Like I mentioned earlier, I will likely look for a more up to date tool. Or build one my own. I'm interested in learning more about how GitHub actions 
+Like I mentioned earlier, I will likely look for a more up to date tool. Or build my own. I'm interested in learning more about how GitHub actions 
 work and this may be a good usecase for myself.
 
  [1]: {filename}2022_11_17_relaunch_personal_site.md

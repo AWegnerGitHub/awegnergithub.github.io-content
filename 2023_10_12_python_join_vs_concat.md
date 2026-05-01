@@ -11,7 +11,7 @@ Series: Programming Gotchas
 
 ## The Problem
 
-Here's a somewhat contrivied example to demonstrate a problem. I need to create a string with the word `word` 100,000 times. What's the fastest way to generate this string? I could use string concatenation (simply `+` the strings to one another). I could [`join`][1] a list with 100,000 items. 
+Here's a somewhat contrived example to demonstrate a problem. I need to create a string with the word `word` 100,000 times. What's the fastest way to generate this string? I could use string concatenation (simply `+` the strings to one another). I could [`join`][1] a list with 100,000 items. 
 
 My proposed code for this example is below
 
@@ -62,9 +62,9 @@ Running each function through the built in profiler (`cProfile`) shows how these
 
 ## What's happening here?
 
-`join` is more than 75x than the concatination method. Why?
+`join` is more than 75x than the concatenation method. Why?
 
-String are immutable objects in Python. I talked about these in my last [Gotcha Article about default parameters][2]. This immutability means that a string can't be changed. `concat_string` does appear to be changing the string with each `+` action, but under the hood, Python has to create a new string object each iteration through the loop. That means there are 99,999 temporary string values - creating and discarding almost all of them immediately on the next iteration during the concatenation action. 
+Strings are immutable objects in Python. I talked about these in my last [Gotcha Article about default parameters][2]. This immutability means that a string can't be changed. `concat_string` does appear to be changing the string with each `+` action, but under the hood, Python has to create a new string object each iteration through the loop. That means there are 99,999 temporary string values - creating and discarding almost all of them immediately on the next iteration during the concatenation action. 
 
 `join_string` on the other hand, is appending 100,000 string objects to a list. But, only one list is created. The final `join` is only doing a _single_ concatenation with all 100,000 strings.
 

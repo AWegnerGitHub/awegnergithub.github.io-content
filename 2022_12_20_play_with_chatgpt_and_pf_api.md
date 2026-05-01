@@ -57,7 +57,7 @@ The code that I was provided:
     else:
         print(f"Request failed with status code {response.status_code}")
 
-As I mentioned above, the Bearer token isn't required for this end point. It's inclusion does not impact the functionality of this 
+As I mentioned above, the Bearer token isn't required for this end point. Its inclusion does not impact the functionality of this 
 script, and assuming I'm making more than calls to the `locations` end point, it'll be needed anyway. I'll keep it here. 
 
 Now, there is a mistake in the code. For exactly the [same reason we banned ChatGPT on Stack Overflow][2], we see a subtle error here too. If
@@ -84,7 +84,7 @@ The same code provided simply strips the `state=CA` from the `requests.get()` ca
 public locations in the United States. But it will also return locations outside of the United States too. This is a much larger result set than I was 
 looking for.
 
-A developer should be able to catch this during testing and realize that the code is incorrect. However, ChatGPT has a tendancy to write responses in a 
+A developer should be able to catch this during testing and realize that the code is incorrect. However, ChatGPT has a tendency to write responses in a 
 very confident manner. This one is no exception.
 
 ## Finding a specific POP location
@@ -93,7 +93,7 @@ Moving to the next test, I wanted to find locations just in a single point of pr
 
 > How do I get all locations in the `ATL1` pop?
 
-The response returned seemed reasonable. There was a bit of prose with this explaination and a code snippet that adjusted the query parameters.
+The response returned seemed reasonable. There was a bit of prose with this explanation and a code snippet that adjusted the query parameters.
 
 > To get a list of all locations in the ATL1 pop (point of presence) using PacketFabric's API, you will need to send a GET request to the /location endpoint with the `pop_code` query parameter set to ATL1.
 
@@ -154,7 +154,7 @@ It introduced a subtle bug - omitting the `region` to get US based locations, re
 
 Personally, I'd be upset if an engineer on my team committed code generated in this test. It's buggy, and has subtle inaccuracies. The code
 provided by ChatGPT is a good _skeleton_. It is up to the developer to validate that it works as expected. Without the crucial step of developer testing,
-it is guarenteed that bugs will be committed to the code base because "the AI said it'd work".
+it is guaranteed that bugs will be committed to the code base because "the AI said it'd work".
 
 If you are going to use ChatGPT (or Copilot or a system similar to either), it is vital that you verify the code you are running. Does it do what you 
 expect? Does it perform as you expect? The tools are there to help you build this, but that's just it. *Help*, not do. The testing I did here took

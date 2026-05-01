@@ -37,7 +37,7 @@ I'm looking to address here based on concerns then.
 Let's start with the application itself. In my [previous post][applicationsuggestions], I raised a couple
 concerns I had about the mobile application.
 
-In good news, the splash screen issue has been resolved. The log in issue has also been resolved. I do still need to occassionally re-login, but
+In good news, the splash screen issue has been resolved. The log in issue has also been resolved. I do still need to occasionally re-login, but
 overall, the application remembers me a lot longer than the handful of days it did at the time.
 
 The lighting options have also been updated.
@@ -83,7 +83,7 @@ latest batch, I had 3 lettuce and 1 pea plant that didn't sprout. This was my hi
 
 I did notice, while writing this post, that Rise Gardens [released a new nursery][1]. It only supports 4 pods though, compared to the 12 pods one of
 my current nurseries holds. I'd have to replan how and when I plant certain plants (or buy extra of these small nurseries). I like to get two
-sets of lettuce in for 1 tomatato plant due to their different growth cycles. Fewer nursery spots would enforce more staggered growing. This isn't bad
+sets of lettuce in for 1 tomato plant due to their different growth cycles. Fewer nursery spots would enforce more staggered growing. This isn't bad
 just something I'd need to adapt to.
 
 ## Seed Subscriptions
@@ -93,13 +93,13 @@ I complained two years ago about the [lack of variety packs][applicationsuggesti
 I can't get them all to grow at once, like I mentioned above. But, if I could get a tomato, a pepper and a couple other plants, I have a nice set
 of plants that I could use all at once. That is assuming that they all sprout.
 
-I keep looking for this. Until then, I turn my subscription on and off for about three months at a time, because otherwise I just get to many
+I keep looking for this. Until then, I turn my subscription on and off for about three months at a time, because otherwise I just get too many
 seeds to utilize and I don't need to buy a subscription for seeds that have an increasingly common failure rate.
 
 ## Garden Hardware
 
 The garden hardware has held up really well. I did replace the original DC30 pump with the upgraded DC40 pump about six months ago. I did this
-because I kept getting nutrient build up in my tubing and along the bottom of my trays. Theorectically, the more powerful pump should solve
+because I kept getting nutrient build up in my tubing and along the bottom of my trays. Theoretically, the more powerful pump should solve
 this problem. At the end of my current harvest I'll have a better idea of how well it's worked, but I haven't had to do an emergency tube
 cleaning because the water couldn't get past the build up, so that is a positive.
 
@@ -118,8 +118,8 @@ I still highly recommend that Rise Garden make adjustable footings in their next
 The question now: Would I get it again. Previously, I said that I [absolutely would][final].
 
 I would still do this again, but I think I'd get a smaller garden - something like the [one level garden][onelevel] of mine, or maybe the [personal sized garden][personalgarden] for a handful of lettuce heads. This isn't because I don't want to grow plants indoors and year round. It's
-because I can't utilize all of the space I have now. A completely full garden hasn't been productive for me. I leave space open every time I plants.
-It's also due to the number of seeds that I've had not sprout. If I have less space to plant, I'll be a little more choosey on what I plants
+because I can't utilize all of the space I have now. A completely full garden hasn't been productive for me. I leave space open every time I plant.
+It's also due to the number of seeds that I've had not sprout. If I have less space to plant, I'll be a little more choosey on what I plant
 versus "I have some space available and might as well use it if these sprout". Additionally, the application changes have been very off
 putting. The new tray page is unusable and the inaccurate plant pages continue to be unhelpful.
 
@@ -130,8 +130,8 @@ for a meal.
 ![Garden Stats - 107 pounds of produce, 2800 gallons of water saved, 190,000 food miles saved][gardenstats]
 
 These stats fall into the same category as the plant stats. I'm not sure how reliable they actually are, but it is nice to see
-numbers. Saving nearly 3,000 gallons of water over two and a half years is drop in the bucket, but it's still good to see an impact.
-Rise Gardens describes it's ["Food Miles" equation][2] on their blog. Going with my [calculations from this summer on gasoline savings][3] and CO2 not
+numbers. Saving nearly 3,000 gallons of water over two and a half years is a drop in the bucket, but it's still good to see an impact.
+Rise Gardens describes its ["Food Miles" equation][2] on their blog. Going with my [calculations from this summer on gasoline savings][3] and CO2 not
 produced due to remote work, I've made another tiny positive impact.
 
 Finally, Rise Gardens: Add strawberries as a plant you provide in your subscriptions. I'd still like that API I talked about before, but I'd be much happier with strawberries.

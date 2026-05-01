@@ -1,4 +1,4 @@
-Title: Review of Software Testing Masterclass (2019) - From Notice to Expert Udemy course
+Title: Review of Software Testing Masterclass (2019) - From Novice to Expert Udemy course
 Date: 2019-05-14 15:00
 Tags: review, technical, learning
 Category: Review
@@ -21,7 +21,7 @@ I do QA work for my job and love learning new things, techniques or ways of doin
 my job better. The [Software Testing Masterclass (2019) - From Novice to Expert][courselink]
 caught my eye during one of Udemy's many sales. This course is only five hours long
 so I figured it'd be a quick overview (and I'd be able to skip of the 'novice') part
-of the course. It was created by Ozan İlhan. Their Udemy biograph says they
+of the course. It was created by Ozan İlhan. Their Udemy biography says they
 have been a professional software tester for the last 10 years.
 
 ## Course
@@ -36,7 +36,7 @@ instructor, but they specifically call out in the course description:
 Unfortunately, those subtitles are exactly what was said, so the grammar issues
 are even more glaring.
 
-The "high-quality sound" that boasted about in the course description doesn't
+The "high-quality sound" that is boasted about in the course description doesn't
 seem accurate. Sound from one lesson to the next varies wildly. In one lesson
 it is difficult to hear the instructor and in the next they are super loud.
 
@@ -56,7 +56,7 @@ used "in the real world", even if I hated using it at the time.
 
 I think the "Expert" part of the course is labeled "Advance Testing Concepts",
 which covers different types of tests in more detail. This covers, black box testing,
-smoke and sanity testing, reggression testing, risk based testing and a few others.
+smoke and sanity testing, regression testing, risk based testing and a few others.
 Unfortunately, this is presented as Power Point slides again.
 
 The last real content in the course is covering how to sign up for various
@@ -73,7 +73,7 @@ covered a bit more or even new methods. Unfortunately, everything here I've hear
 of and used at one point or another.
 
 Additionally, I'm really disappointed that so much of the course was being read
-a Power Point presentation. I was hoping to see some testing frameworks in action
+from a Power Point presentation. I was hoping to see some testing frameworks in action
 to compare/contrast the benefits of one over the other.
 
 Due to the over use of Power Point though, and the last part of the course feeling

@@ -17,14 +17,14 @@ use the system are determined.
 
 A lot has changed under the hood. I was hoping to put a cool chart here showing code change over time, but some early
 decisions with the project really throw off the chart. Using a [Ship of Theseus][2] analogy for code, you can see how
-much has changed. The basic idea is, if a ship leaves port and replaces every plank along it's journey, is it still the
+much has changed. The basic idea is, if a ship leaves port and replaces every plank along its journey, is it still the
 same ship when it returns? With code, the idea is to apply this to lines of code in an application.
 
 [![SmokeDetector - Git of Theseus][3]][3]
 
 ### What happened in 2014?!
 
-In late 2014, the project attempted their first machine learning method of detecting spam. In this time period, a
+In late 2014, the project attempted its first machine learning method of detecting spam. In this time period, a
 [commit][4] was added that added about 200,000 lines of code to the project. This was almost all training data for a
 Bayesian algorithm. It wasn't needed and probably shouldn't have been added to the main repository. Unfortunately, it
 stayed in the repository for over a year and was finally [removed][5] in late 2015. This is the cause of the weird graph
@@ -43,13 +43,13 @@ Even more dramatically, you can see how long a line of code is expected to survi
 
 [![SmokeDetector - Line Survival Rate][7]][7]
 
-Within one year, the team is removing over 40% what's been committed to the repository. Looking at these commits,
+Within one year, the team is removing over 40% of what's been committed to the repository. Looking at these commits,
 it was determined that a vast majority aren't even *code*. They are new items to blacklist or new patterns to detect.
 
 ## Enter the database
 
 All of this type of data can be stored in a database and managed outside of code. In early 2017, those discussions
-started taking place. Several team members come from a Ruby background and were familiar with it's [ORM][8] method of
+started taking place. Several team members come from a Ruby background and were familiar with its [ORM][8] method of
 accessing databases. They wanted something similar when a database was brought into SmokeDetector.
 
 A bit of research was done and it was narrowed down to [peewee][9] and [SQLAlchemy][10].

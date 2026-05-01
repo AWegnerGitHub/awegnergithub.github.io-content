@@ -22,12 +22,12 @@ made to my instance.
 
 ### Look & Feel
 
-The logo is perhaps the most subtle change. It's designed, intentionally, to not be a circle (to common on other sites )or a square (to boring).
+The logo is perhaps the most subtle change. It's designed, intentionally, to not be a circle (too common on other sites) or a square (too boring).
 It's an off shape blob. Take a look at it. It very slowly shifts too. You can see it along the bottom of the shirt most clearly. It's designed
 to move only a little and pretty slowly, so that it's not distracting. It's just active enough to catch your eye if you are looking but not 
 designed to pull focus from the article you are reading.
 
-The default flex theme is very...neat. There are nice crisp lines. It's very clinical. I changed this just a little with splash of a curved
+The default flex theme is very...neat. There are nice crisp lines. It's very clinical. I changed this just a little with a splash of a curved
 red border between the side bar and the main article. It's not a major change, but it adds a little personality. Combined with the 
 blob/animated head shot, it makes it feel unique among the flex theme'd blogs I looked at to evaluate if I liked the theme.
 
@@ -40,16 +40,16 @@ category pages all match.
 
 The table on contents on the side bar is an addition I made, because I dislike when the table of contents scrolls off the screen. It's the same 
 reason I froze the table of contents to the side bar on the previous iteration of the site. When I'm reading, I like to know how far I am in 
-and article and be able to easily jump to another section. Since I am also a reader of my site (especially on the technical posts), I try
+an article and be able to easily jump to another section. Since I am also a reader of my site (especially on the technical posts), I try
 to make it easy for myself too.
 
 ### Tags/Categories
 
-The tags and category pages on my old site where bad. They were a giant list of meta-data and a link to a post. It was messy. I didn't like
+The tags and category pages on my old site were bad. They were a giant list of meta-data and a link to a post. It was messy. I didn't like
 it, but I also didn't use it so I spent very little time trying to make it work better. With a new theme, I wanted to make the pages more 
 useful, at least to me. I found an excellent post by [John Paton][paton] on how to make a responsive bar chart for these pages.
 
-Take look at my [tags][tags] or [categories][categories] pages. To me, that looks wonderful. I can get a quick look at how many articles 
+Take a look at my [tags][tags] or [categories][categories] pages. To me, that looks wonderful. I can get a quick look at how many articles 
 are in each section and clicking on one brings me to a page specifically for articles in that slice of meta-data. 
 
 ### SEO
@@ -64,7 +64,7 @@ rich snippets. However, they provided a great base. I've updated my instance to 
 of that to get a better idea of what's on the site. I have a few more I want to implement too, but this gets me beyond parity with my old theme. 
 
 I've also made sure that canonical links are included in my articles. I have a couple that Google sees as duplicates due to UTM tags I stuck on
-links a while ago. Having cononical links in place should resolve some annoying errors and warnings I see in my search console.
+links a while ago. Having canonical links in place should resolve some annoying errors and warnings I see in my search console.
 
 ## Goals of the update
 
@@ -73,7 +73,7 @@ I have a few goals with this newly updated site. A couple relate directly to the
 * Updated Tool set - I was running an old version of Pelican and missed out on some new features. By updating, I'm hoping that I 
 can remain closer to the current release. I like to get the newest features, and that alone feels better.
 * A useful tags and categories page. Like I mentioned above, they used to be useless. Now, there is more than just a list of 1-2 
-work phrases sitting on my site across two pages. If I start another series - I believe I have two right now total, I may add a 
+word phrases sitting on my site across two pages. If I start another series - I believe I have two right now total, I may add a 
 similar series page.
 * Site face lift. As you can see below, the old version was pretty bland. This update adds some color, makes a few things more accessible,
 and generally feels less like reading a sheet of paper on a screen. It's not the flashiest thing on the internet, but you can see 
@@ -87,15 +87,15 @@ SEO work I'm putting in now will, hopefully, pay off.
 
 ## Where the site was
 
-One last trip down memory lane, as the template that has served as the base of the site since the intial [migration from Wordpress in 2015][migrate] is retired. The old template was using [Elegant][elegant]. I am the [#7 contributor to the theme][1] at the time of publishing 
+One last trip down memory lane, as the template that has served as the base of the site since the initial [migration from Wordpress in 2015][migrate] is retired. The old template was using [Elegant][elegant]. I am the [#7 contributor to the theme][1] at the time of publishing 
 this. That's not saying a whole lot, with my brief spurt of activity in 2019, but it was a contribution that I hope others using the theme 
 are able to utilize. 
 
 I was stuck on the Pelican 3.0 branch. I really don't remember why. I remember attempting to upgrade to Pelican 4.0 and everything broke. At the 
 time I was unable to spend a significant time to fix it, so I rolled back and stuck with the latest version that ran. 
 
-Going through this revamp, I upgraded to the latest Pelican, the newest Markdown and go all the new fancy things. We'll see if they actually 
-improve my experience. From a user stand point, not much should change other than a visual overhual. It's a static site and is designed to be
+Going through this revamp, I upgraded to the latest Pelican, the newest Markdown and got all the new fancy things. We'll see if they actually 
+improve my experience. From a user stand point, not much should change other than a visual overhaul. It's a static site and is designed to be
 pretty non-interactive. On my side though, I'm hoping things are a little less brittle. 
 
 On to the last pictures of the old template. 

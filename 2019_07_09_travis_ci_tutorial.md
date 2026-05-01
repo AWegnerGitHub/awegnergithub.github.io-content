@@ -23,7 +23,7 @@ I've written about Travis CI before. I've reported a bug that makes it fairly ea
 to see [environment variables in Travis CI][2] or even unintentionally transfer
 them if you transfer your repository. I [build this blog using Travis CI][3]. I've
 [used Travis CI to set up an OpenShift application][4]. [SmokeDetector][5] uses it to
-manage it's blacklists. In short, I have experience with Travis CI.
+manage its blacklists. In short, I have experience with Travis CI.
 
 I was surprised when I saw a course being offered for free recently on Udemy that
 deals with Travis CI. Since it was free and only a couple hours long, I figured I'd
@@ -38,7 +38,7 @@ the course is about, or goals for the course. If you don't know what Travis CI i
 don't expect to learn that here. You are expected to know what it is and what
 it does. Honestly, you should probably have used it before too.
 
-All coding done for this course is gone in the GitHub web editor. This bothered
+All coding done for this course is done in the GitHub web editor. This bothered
 me initially, but after thinking about it, not so much. Most of the "real code"
 needed for this course is simply editing the `.travis.yml` file and the instructor
 saves a lot of time by *not* dealing with git and GitHub more than necessary.
@@ -52,7 +52,7 @@ used picks up static and most annoyingly, the instructor keeps coughing into the
 mic. Sound *within* a lesson is also inconsistent. In one lesson - Lesson 13 "Build Stages" -
 it went from quiet to loud and back multiple times.
 
-Testing of the course material was inconsistent. The instructor recording their
+Testing of the course material was inconsistent. The instructor was recording their
 videos an hour after they had done it the first time, in some cases. This
 short time between doing it the first time and recording it for the tutorial
 is seen in how the instructor handles unexpected delays and failing builds.
@@ -68,7 +68,7 @@ Which brings me to the content. This is also inconsistent. There are points wher
 the instructor didn't have a script at worse and only high level bullet points
 at best. They mumble their way through an explanation or series of interface
 options. They live code - with typos - their way through set up. They navigate to
-GitHub using Google Search, but accidentally click to quickly and get a previous
+GitHub using Google Search, but accidentally click too quickly and get a previous
 search result (that could have been embarrassing).
 
 Along with the live coded examples and an after thought of an explanation of

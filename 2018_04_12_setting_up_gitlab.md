@@ -13,7 +13,7 @@ Series: Recovering from data loss
 
 Back when I ran Vipers, my fellow admins and I hosted a small set of code repositories -
 SVN, Mercurial and Git - to host some of our custom code. We ran [RhodeCode][rhode] and
-the fork, [Kallithea][kallithea], when RhodeCode close sourced some of it's code and
+the fork, [Kallithea][kallithea], when RhodeCode closed sourced some of its code and
 couldn't figure out if the license it used actually allowed themselves to do that. A private
 repository was awesome for plugins, server configurations and personal projects.
 
@@ -28,10 +28,10 @@ they had done it again in the meantime. I didn't want to deal with that. I attem
 Kallithea using their [instructions][1], but I kept running into Python syntax errors. It wasn't
 worth the time and effort to figure out the problem.
 
-So, I turned to [GitLab][2]. It'd definitely overkill for what I really need, but it works and
+So, I turned to [GitLab][2]. It's definitely overkill for what I really need, but it works and
 if I ever truly decide to get fancy, I have a lot of other tools I can use. The [core][3] functionality
 is what I'll be using and is free. The three other versions cost some money and contain features that
-would be useful for large team, not a single developer or very small team.
+would be useful for large teams, not a single developer or very small team.
 
 ## Installation
 
@@ -45,7 +45,7 @@ the Ubuntu Omnibus package.
 
 ### Getting the package
 
-The GitLab repository needs to added and then installed. To add the repository, issue this command:
+The GitLab repository needs to be added and then installed. To add the repository, issue this command:
 
     curl https://packages.gitlab.com/install/repositories/gitlab/gitlab-ee/script.deb.sh | sudo bash
 
@@ -95,7 +95,7 @@ This will go in `/etc/apache2/sites-available/` and a symlink in `/etc/apache2/s
 
 The example virtual host provided by GitLab uses HTTP only. I want to set up my instance to use HTTPS. I'll be 
 doing this with [Let's Encrypt][7], like I did when I set up NextCloud in the previous post. I cover the exact 
-[steps for Let's Encrypt][ssl] in another post. The keys referenced in the virtual host configuration file below created 
+[steps for Let's Encrypt][ssl] in another post. The keys referenced in the virtual host configuration file below were created 
 by that process. 
 
 The first change to make is to redirect the HTTP version of your domain to HTTPS. The goal is that all traffic to
@@ -132,7 +132,7 @@ in the web browser. It throws a `400 Bad Request` when trying to view the direct
 regarding this problem. The developers are working on updating the samples in a way that is guaranteed to work through
 the whole system. 
 
-For me, though, the first comment which suggests a minor `RewireRule` change works great. In the virtual host, fine the line
+For me, though, the first comment which suggests a minor `RewireRule` change works great. In the virtual host, find the line
 
     RewriteRule .* http://127.0.0.1:8181%{REQUEST_URI} [P,QSA,NE]
 

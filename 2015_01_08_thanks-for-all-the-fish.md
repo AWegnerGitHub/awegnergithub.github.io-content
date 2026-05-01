@@ -11,7 +11,7 @@ modified: April 28, 2015
 
 ## Goodbye Team Vipers
 
-A few days ago Team Vipers shut down. Exactly 6 years after I join the community and 5 years after taking
+A few days ago Team Vipers shut down. Exactly 6 years after I joined the community and 5 years after taking
 over as owner, I decided to step aside. I announced my decision to my admin team in November and asked if anyone wanted to
 take over. A week later I made the announcement public. I copied that below. My hope was that someone would be willing to
 take over day to day operations and management.
@@ -43,7 +43,7 @@ as well. In fact, I'll start with a few questions that I think may help lead thi
 Short answer - No. If the community wants to focus on a specific server mode, then a single server is all that is needed.
 When I joined Vipers there were two servers: An Orange server and a vanilla server. For the first year-ish, the
 servers base grew and contracted around different mods. Orange turned to Crit Orange, a Randomizer appeared and then
-splintered into it's own community, the Nest grew and then shrank. Zombie popped up. Prophunt and Dodgeball came around
+splintered into its own community, the Nest grew and then shrank. Zombie popped up. Prophunt and Dodgeball came around
 multiple times. In all of this, there has been between one or two popular servers, with the rest being very niche. Those
 are for fun. Those are also frustrating to fix when updates break them.
 
@@ -74,7 +74,7 @@ fresh install of PHPBB would be a good thing, but you'll have all of the data an
 into the database. If you go with something else, you'll have the database and can attempt to use that software's
 conversion script. Results will vary on how that works.
 
-### Does we make money on donations?
+### Do we make money on donations?
 No. Since July of [2014 to November 2014], the community has donated $20. Total. It has been 14 months since we reached our monthly
 goal. In the last year, we have broken $50 only 4 times. To prevent someone from misconstruing this as a plea for
 money, I've disabled donations. I don't want someone to start a misguided "Save the Vipers" campaign that you believe
@@ -102,8 +102,8 @@ Ownership of the Steam Group for Team Vipers has been transferred back to Russel
 
 I've also transferred data from the Vipers blog to my personal one here and removed links to Vipers from most posts
 since they will all fail to resolve correctly. Unfortunately, it's not worth it to preserve small bits of history in
-this case and was just easier to remove the links. The best I can do it transfer the blog posts and copy snippets or
-screenshots here. Direct links to the forum discussions has been intentionally removed.
+this case and was just easier to remove the links. The best I can do is transfer the blog posts and copy snippets or
+screenshots here. Direct links to the forum discussions have been intentionally removed.
 
  [1]: http://steamcommunity.com/groups/viperservers#announcements/detail/205255298394906049
  [2]: {attach}images/thanks-for-the-fish.jpg

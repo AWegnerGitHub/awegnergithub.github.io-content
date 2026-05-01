@@ -19,7 +19,7 @@ workload: PT1H30M
 
 I started this entire [Course Reviews][1] series 7 years ago, with a [post about a Pandas course][2]. It went so well, I continued both taking various courses to expand my own knowledge and sharing my experiences with those courses here. It seems fitting to look at a Pandas competitors: [Polars][3].
 
-I've used Pandas for years and it's done the job well enough. But, Polars is gaining traction in the industry and one of the data engineers at work mentioned it as a possible tool to look at. I like to be informed when my engineers make tooling recommendations, so I took it upon myself to learn a little more about Polars. I did so by selecting a course by Kieran Keene, titled [Learn Data Analytics with Polars (Python) in just 2 hours!][course]. I got this course duing another of Udemy's sales for $13.
+I've used Pandas for years and it's done the job well enough. But, Polars is gaining traction in the industry and one of the data engineers at work mentioned it as a possible tool to look at. I like to be informed when my engineers make tooling recommendations, so I took it upon myself to learn a little more about Polars. I did so by selecting a course by Kieran Keene, titled [Learn Data Analytics with Polars (Python) in just 2 hours!][course]. I got this course during another of Udemy's sales for $13.
 
 ## About the course
 
@@ -27,12 +27,12 @@ The entire course is run out of [Google Colab][4]. This is nice, because you don
 
 The course is taught with Polars version `0.17.3`, which is from April 2023. I took this course in January 2024, so I used the current version - `0.20.2`. This introduces a few very minor deprecations from the older version, but simply reading the deprecation warning for each tells you how to solve the problem.
 
-Named, the two deprecations that I recall running into:
+Namely, the two deprecations that I recall running into:
 
  * In 0.17 there is the `df.apply()` function. This has been deprecated in favor of `df.map_rows()`
  * The `groupby()` function has been deprecated in favor of `group_by()`
 
-Both take exactly the same arguments, so it was as simple as renaming the instructors function to the modern one. 
+Both take exactly the same arguments, so it was as simple as renaming the instructor's function to the modern one. 
 
 The one other minor difference is that the example data has changed at some point between when the course material was recorded and when I took the course. This doesn't change how any of the lectures behave or any of the examples act. It does change a couple results, so I couldn't compare exact numbers between what I received and what the instructor received.
 
@@ -50,9 +50,9 @@ I enjoyed this course, the instructor's teaching method, and two challenges at t
 
 Experimenting helps me learn more about the tool, and I commend the instructor for building the course in such a way that students could try out the library.
 
-I also found that I liked the Polars library. Pandas has it's quirks and when I dig more into Polars, I'm sure I'll find it has some too. But, Polars feels easier to grasp. The API is easier to understand as you are reading through the code. 
+I also found that I liked the Polars library. Pandas has its quirks and when I dig more into Polars, I'm sure I'll find it has some too. But, Polars feels easier to grasp. The API is easier to understand as you are reading through the code. 
 
-I think I'm going to try out another course to see what else the library can do. That alone should be a complement to both the library and this course - it's encouraged me to keep learning more.
+I think I'm going to try out another course to see what else the library can do. That alone should be a compliment to both the library and this course - it's encouraged me to keep learning more.
 
 [![Learn Data Analytics with Polars (Python) in just 2 hours! Completion Certificate][certificate]][courselink]
 

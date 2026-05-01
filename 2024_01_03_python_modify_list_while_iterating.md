@@ -25,7 +25,7 @@ Let's check code for this simple problem.
 
     print(numbers_list)
 
-It'd be reasonable to expect an final list that looks like this:
+It'd be reasonable to expect a final list that looks like this:
 
     [9, 5, 10]
 
@@ -35,9 +35,9 @@ But, the actual output is:
 
 What is _happening_? 
 
-## Explaination
+## Explanation
 
-The (unconsious?) assumption that the developer is making with this piece of code is that the final list _must_ be in `numbers_list`. Since we're able to iterate and modify, there is no need for a temporary variable or a need to worry about [list copy gotchas][1]. But, let's go through this one iteration at a time.
+The (unconscious?) assumption that the developer is making with this piece of code is that the final list _must_ be in `numbers_list`. Since we're able to iterate and modify, there is no need for a temporary variable or a need to worry about [list copy gotchas][1]. But, let's go through this one iteration at a time.
 
     Starting list: [0, 9, 2, 1, 5, 1, 10, 4, 3]
     
@@ -51,12 +51,12 @@ The (unconsious?) assumption that the developer is making with this piece of cod
 
     End of iteration as list has no more elements
 
-Looking at this, it's a little clearer what's going on. Let's go through there one iteration at a time.
+Looking at this, it's a little clearer what's going on. Let's go through these one iteration at a time.
 
 - On the first iteration, the value of `Index 0` is `0`, so it's deleted. _And the problem starts now_.
 - On the next iteration, the value of `Index 1` is `2` (**not 9**). In the previous iteration, `Index 0` was deleted, which means everything has moved up one index. The value of `9` was never checked. Instead, we look at a value of `2`. It's less than our threshold so it's also deleted.
 - On the third iteration, the value of `Index 2` is `5`. Again, we've skipped a value (`1`) and it's never even checked. This iteration doesn't result in a deletion because `5` is not less than `5`.
-- On the forth iteration, the value of `Index 3` is `1`. This is deleted as expected.
+- On the fourth iteration, the value of `Index 3` is `1`. This is deleted as expected.
 - On the fifth iteration, the value of `Index 4` is `4`. We've skipped another value (`10`) and this iteration's value is less than our threshold so it's deleted. 
 - There is no further iteration, because the last one has made the final value the last index, so the final value is never checked. 
 

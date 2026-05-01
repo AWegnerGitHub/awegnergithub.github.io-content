@@ -34,7 +34,7 @@ that deals out a hand in a card game. You learn about variables, functions, rece
 and more. Nothing feels overwhelming and it is a nice logical progression.
 
 The other project is a web site status checker, which introduces goroutines and channels. These are very important concepts in the language
-and the example, while basic, is not contrived. It is very good at introducing there two features, showing common problems and how
+and the example, while basic, is not contrived. It is very good at introducing these two features, showing common problems and how
 to properly handle them.
 
 Throughout the course, the instructor made use of the official documentation and showed how someone new to the language
@@ -47,8 +47,8 @@ led to a few IDE warnings, and a quick search to determine how to fix it. Once t
 to make the few changes needed locally.
 
 My other small complaint is the relatively short lessons. I love bite sized lessons, but when a lesson is between 4 and 10 minutes and the first
-minute and last minute are spent summarizing the previous lesson and giving you and idea of what the next lesson will be,
-there is a lot of time spend reviewing.
+minute and last minute are spent summarizing the previous lesson and giving you an idea of what the next lesson will be,
+there is a lot of time spent reviewing.
 
 ## Conclusion
 

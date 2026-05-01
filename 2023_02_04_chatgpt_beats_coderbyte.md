@@ -16,12 +16,12 @@ question from their list of [open challenges][3] and ran those through ChatGPT.
 
 In previous articles in this series, I've shown how [ChatGPT][1] can easily solve interview assessments from [LeetCode][leetcode], 
 [TestGorilla][gorilla], [CodeSignal][codesignal], [Codility][codility] and [HackerRank][hackerrankg]. I've said it in 
-those articles, but I'll say it again: Companies need to evaluate their engineering candidates - all candidates, actually - apprpriately 
+those articles, but I'll say it again: Companies need to evaluate their engineering candidates - all candidates, actually - appropriately 
 when they are hiring. Your engineers are using many tools to do their jobs and AI Tooling is one of the newest tools on the market. Removing 
 a tool from your engineers is going to make them less efficient, and _not_ testing your candidates on how they use these tools is 
 going to mean you hire someone that had not fully demonstrated their capabilities.
 
-ChatGPT should be treated as a tool, but it's also helpful to think of it as a junior level engineer. You need to check it's work. 
+ChatGPT should be treated as a tool, but it's also helpful to think of it as a junior level engineer. You need to check its work. 
 [ChatGPT is known to be inaccurate][pfapi], which is why it remains [banned on Stack Overflow][soban]. There are a few instances where
 I had to do that below.
 
@@ -32,7 +32,7 @@ seem to consider Woven a competitor, as Woven isn't listed as an [alternative on
 ## Easy - React Button Toggle
 
 While I've tried to be mostly random in my selection of assessments during these tests, I intentionally selected this react 
-assessment because I don't know react. I've liked these types of assessment questions in the previous articles because I means I can't 
+assessment because I don't know react. I've liked these types of assessment questions in the previous articles because it means I can't 
 apply my experience to "nudge" ChatGPT toward a solution. 
 
 The challenge here is to toggle a button between "On" and "Off". You're presented with a very small amount of boiler plate code. 
@@ -63,7 +63,7 @@ I copied that into the IDE provided by CoderByte and submitted the code.
 
 ![CoderByte - Easy Challenge - React Toggle Button Score][5]
 
-This test took two minutes to complete. The bulk of that time was spot checking that ChatGPT didn't mess with the boiler plate code to badly.
+This test took two minutes to complete. The bulk of that time was spot checking that ChatGPT didn't mess with the boiler plate code too badly.
 
 ![CoderByte - Easy Challenge - React Toggle Button Time Taken][6]
 
@@ -129,7 +129,7 @@ I copied the prompt and boiler plate code into ChatGPT and it returned the follo
     # keep this function call here 
     print(BracketCombinations(input()))
 
-Experience here says that is odd. Technically speaking, Python will allow you to have that `import` statemnet inside a function, but if I saw one of 
+Experience here says that is odd. Technically speaking, Python will allow you to have that `import` statement inside a function, but if I saw one of 
 my developers do it, I'd mention it during a code review. I was curious though and submitted it as is. 
 
 I also went back and told ChatGPT:
@@ -168,15 +168,15 @@ Copy pasting to CoderByte kept this close to a minute.
 
 ## Final Thoughts
 
-Another code only assessment tool has been shown to be ineffective. The one thing this one does, that others does show publicly, is the 
+Another code only assessment tool has been shown to be ineffective. The one thing this one does, that others don't show publicly, is the 
 time it took to solve a problem. I'm very surprised that a majority of these were solved in under ten minutes. Even so, solving a problem in 
-less than a minute will probably raise a flag of some kind for a hiring manager giving this type of assessment. I guarentee that time is visbile 
+less than a minute will probably raise a flag of some kind for a hiring manager giving this type of assessment. I guarantee that time is visible 
 to them.
 
 These three assessments show how well ChatGPT can be in being your virtual junior engineer. With the react question, I have no idea if it's 
 the more efficient way to solve the problem but it works. With the SQL question, experience identified two small problems and allowed me to 
 provide feedback and get a corrected query in seconds. The third question turned in two different ways of solving the problem. Apparently, according
-to CoderByte, bother of which perform exactly the same.
+to CoderByte, both of which perform exactly the same.
 
 The total time it took me to run these three tests was under five minutes. That's a great tool to have in my pocket.
 

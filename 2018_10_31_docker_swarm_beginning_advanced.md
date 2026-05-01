@@ -17,7 +17,7 @@ workload: PT1H30M
 
 ## Introduction
 
-I recently found short two courses about Docker on Udemy there were listed as free by the author as they get ready to update the course. This is a review of [Docker Swarm: Beginner + Advanced][1] by Luke Angel. This is the second course I've reviewed by this author. The previous course was reviewed [here][2].
+I recently found two short courses about Docker on Udemy that were listed as free by the author as they get ready to update the course. This is a review of [Docker Swarm: Beginner + Advanced][1] by Luke Angel. This is the second course I've reviewed by this author. The previous course was reviewed [here][2].
 
 I have a very basic idea of what the container/microservice architecture is designed to solve. I've never used it professionally or on personal projects. My experience is limited to reading articles about technologies such as Docker or Kubernetes and thinking that I'd like to try those out at some point in the future.
 
@@ -31,7 +31,7 @@ This is not a beginner course, despite the name. The author assumes knowledge of
 
 ## Final Thoughts
 
-This is a course that is several years old. It is not well put together, with multiple lectures being duplicated. Sound issues plague the presentation throughout the hour. These are all similar complaints to the [previous course][2]. This course also includes a demonstration, that is really just looking at the output of an attached text file. For a demonstration, I was expecting to be able to follow along, as as this is "Beginner + Advanced", I was expecting some kind of instructions on how to set up my environment. There is none.
+This is a course that is several years old. It is not well put together, with multiple lectures being duplicated. Sound issues plague the presentation throughout the hour. These are all similar complaints to the [previous course][2]. This course also includes a demonstration, that is really just looking at the output of an attached text file. For a demonstration, I was expecting to be able to follow along, as this is "Beginner + Advanced", I was expecting some kind of instructions on how to set up my environment. There is none.
 
 I don't recommend this course (or the [previous one][2]) because of how little "useful" content is fit into these two hours.
 

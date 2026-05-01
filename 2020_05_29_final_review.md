@@ -38,7 +38,7 @@ or taste of the lettuce. Surprisingly, the kids liked all of them too.
 
 ![5 weeks into growth][gardennow]
 
-Five weeks into growing, and I have a decent crop growing. On the bottom, there is a couple tomato plants,
+Five weeks into growing, and I have a decent crop growing. On the bottom, there are a couple tomato plants,
 some pepper plants, a swiss chard (almost to harvest too), and a tiny little kale plant. I finally got one
 of those to sprout. That was my last kale pod, so I'm happy at least one sprouted.
 
@@ -63,7 +63,7 @@ that focus on the customer.
 
 In my post about [assembling the garden][assemblegarden] I mentioned that there is a gap that appears when you
 place the small tray covers in place. It turns out, I was putting those trays on backward. This was pointed
-out to be by another Rise Garden owner. Thank you for your help!
+out to me by another Rise Garden owner. Thank you for your help!
 
 In the picture above, you can see I have those trays in place correctly now. You can also see a long white
 stain on the second level that is clearly coming from the exit pipe. This is due to the splashing the water
@@ -109,16 +109,16 @@ The first full harvest took place in late August/early September. I was reasonab
 the second crop a couple weeks ago, hoping to put some lessons learned into practice to do ever better this round. A few problems
 I had with my first crop:
 
-* I planted to many tomato and pepper plants. They grow larger than the shelf space and started growing up the sides.
+* I planted too many tomato and pepper plants. They grow larger than the shelf space and started growing up the sides.
 * I planted kale about two weeks after my first batch of seeds and by the time it was transferred to the garden it was tiny and overwhelmed by larger plants
 * Cucumbers had a lot of buds, but few fruits. I think this is because I didn't prune well enough.
-* The pepper plants grew very large, produced many flowers, but didn't product a single pepper. I suspect part of this is due to pollination and competition with the tomatoes.
+* The pepper plants grew very large, produced many flowers, but didn't produce a single pepper. I suspect part of this is due to pollination and competition with the tomatoes.
 
-For this second crop, I've spread of the plants that grow large much more and will end up having empty space in the garden because they will
+For this second crop, I've spread out the plants that grow large much more and will end up having empty space in the garden because they will
 quickly overwhelm the other plants. I've put lettuce and herbs on the top shelf and filled it reasonably well. I've put two cucumber plants on the middle
 shelf and will work on pruning them better and shaping the direction they grow so that they remain on this level instead of growing everywhere. Finally, I'm
 only doing one tomato and one pepper plant this time. I'm hopeful that I get some peppers. The tomatoes were very good, but with only one plant I am hoping
-it have more room to grow and less competition.
+it has more room to grow and less competition.
 
 
  [risegardens]: https://risegardens.com/

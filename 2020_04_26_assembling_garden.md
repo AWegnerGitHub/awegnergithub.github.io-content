@@ -26,7 +26,7 @@ assemble, so it took about an hour and a half. Not a big deal. It was a good fam
 ## Assembly
 
 The assembly manual that we pulled out while [unboxing the garden][unboxgardens] is misleading in how complex
-the process it. It is a fairly thick manual, but it turns out that is because Rise Gardens has documented the
+the process is. It is a fairly thick manual, but it turns out that is because Rise Gardens has documented the
 process very well. Most pieces just fit together, get a couple screws and you keep working your way up.
 
 ### Lower Shelf and Level
@@ -45,7 +45,7 @@ are designed to catch holes built into the shelf. Then they are tightened into p
 
 ![Lower Tray][lowtray]
 
-The lower tray operates on the same principal. The tray catches on, then is screwed into place with the
+The lower tray operates on the same principle. The tray catches on, then is screwed into place with the
 included allen wrench.
 
 ### Upper Levels
@@ -100,7 +100,7 @@ Adding water to the basin and trays and turning on the pump went better than exp
 don't always get along. In this case though, water went up and cycled through as expected.
 
 But, there was one aspect I didn't like about plant trays and the water. Each level has three
-large plant trays with four holes each to support twelve plans on the level. There is also a gap
+large plant trays with four holes each to support twelve plants on the level. There is also a gap
 by the plumbing that has a small black covering too. That covering doesn't fit though.
 
 ![Gap between pipe and tray][gap]
@@ -111,11 +111,11 @@ that water was splashing out of this gap.
 
 ![Outpipe doesn't fit under tray][gappipe]
 
-As you can see here, the output pipe and it's 90 degree elbow doesn't fit under the black
+As you can see here, the output pipe and its 90 degree elbow doesn't fit under the black
 tray covering.
 
-This is something I'll have to keep an eye one. I have had the system running for about
-a week, but the time this was posted. The first day or two, while the water level was high,
+This is something I'll have to keep an eye on. I have had the system running for about
+a week, by the time this was posted. The first day or two, while the water level was high,
 I noticed this splashing. As the water level got lower though, I noticed less and less.
 
 ## Summary

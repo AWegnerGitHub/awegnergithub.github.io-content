@@ -99,15 +99,15 @@ The total time it took to perform this test was under 5 minutes. I randomly sele
 from the chatbot, copy and pasted the code response, waited for the tests to run. Complete.
 
 As a hiring manager, I'd have wasted my time and the candidates time having them do this problem now. Instead, we can talk about 
-an actual problem they will be solving. We can do a real world problem instead this. There are better ways to interview an engineer
+an actual problem they will be solving. We can do a real world problem instead of this. There are better ways to interview an engineer
 and I'm hoping ChatGPT makes that abundantly clear to hiring managers everywhere. 
 
 We're going to have to adapt our hiring processes, but that's a good thing. My recent experience shows that at most companies, it's bad anyway.
 Now we have an opportunity to shine some sunlight on it and make it better.
 
-In the meantime, if you continue to use LeetCode or something similar to evaluate your candidate's technical skills, your are doing your 
-team a huge diservice. Candidates know about this tool, and they know that the easiest way to get an interview is to play the game. There 
-have been tens of thousands of layoffs in the tech industry in the last six months. I guarentee candidates are looking for every advantage they can
+In the meantime, if you continue to use LeetCode or something similar to evaluate your candidate's technical skills, you are doing your 
+team a huge disservice. Candidates know about this tool, and they know that the easiest way to get an interview is to play the game. There 
+have been tens of thousands of layoffs in the tech industry in the last six months. I guarantee candidates are looking for every advantage they can
 get, to move to their next role.
 
 

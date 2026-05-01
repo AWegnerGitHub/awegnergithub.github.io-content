@@ -51,7 +51,7 @@ This provided a base of 30,000 comments that were roughly categorized into 3 dis
 
 My next step was to train a classifier. I had initially assumed that I'd start with a Naive Bayes to get a baseline and then work to something more complicated from there. Perhaps, extract text features, user information, etc. and build a fancy classifier. My initial tests showed that the Naive Bayes was accurate 80-90% of the time with test data.
 
-I combined the classifier's certainty of classification with an acceptable threshold of when I'd allow a flag to be issued in my name. Tuning these threshold took a few weeks but eventually I determined the following thresholds were appropriate for my use:
+I combined the classifier's certainty of classification with an acceptable threshold of when I'd allow a flag to be issued in my name. Tuning these thresholds took a few weeks but eventually I determined the following thresholds were appropriate for my use:
 
 	Type			| Threshold		| Flagging Enabled
 	--------------------------------------------------
@@ -85,7 +85,7 @@ There are pictures that help tell this story too. In this first one, we see that
 
 ![Flags per day with rolling 10 day average][4]
 
-Since November, the number of mistakes has climbed slightly. The biggest number of mistakes it has made was the opening day of Winter Bash 2014. Purely speculation, but I believe this was the moderators being protective of content and not wanting people to farm the [Resolution hat][5]. Of course, I don't know this. Another theory I have about this uptick since November is the adjustment to day light saving time. My process starts 10 minutes after UTC. It is possible that this earlier hour has caused my flags to be processed by a different moderator, or a moderator that is more awake/less hungry/in a different mood than previously at this point in the daily rotation cycle or because they [lost their keys][6] that day.
+Since November, the number of mistakes has climbed slightly. The biggest number of mistakes it has made was the opening day of Winter Bash 2014. Purely speculation, but I believe this was the moderators being protective of content and not wanting people to farm the [Resolution hat][5]. Of course, I don't know this. Another theory I have about this uptick since November is the adjustment to daylight saving time. My process starts 10 minutes after UTC midnight. It is possible that this earlier hour has caused my flags to be processed by a different moderator, or a moderator that is more awake/less hungry/in a different mood than previously at this point in the daily rotation cycle or because they [lost their keys][6] that day.
 
 ---
 

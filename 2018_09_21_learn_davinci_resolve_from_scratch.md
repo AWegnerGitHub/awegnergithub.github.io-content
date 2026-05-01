@@ -19,9 +19,9 @@ workload: PT5H30M
 
 **Update**: This course is no longer offered on Udemy. DaVinci 15 is out of date.
 
-It's been a while since I've done a course review. I wanted to try something new in an area that seems interesting, but I'm not sure if I want to do anything with it hobby-wise. [Learn DaVinci Resolve 15 from scratch][1] caught my attention, and I found a coupon code that allowed me to take the course for free. Video editting sounds interesting and I always have the "do something with family videos" on my very distant TODO list. The course is two and a half hours long and it seems to be a basic class.
+It's been a while since I've done a course review. I wanted to try something new in an area that seems interesting, but I'm not sure if I want to do anything with it hobby-wise. [Learn DaVinci Resolve 15 from scratch][1] caught my attention, and I found a coupon code that allowed me to take the course for free. Video editing sounds interesting and I always have the "do something with family videos" on my very distant TODO list. The course is two and a half hours long and it seems to be a basic class.
 
-[DaVinci Resolve][2] is a very powerful, professional piece video editing software. The free version has everything I'd ever need for home use or even YouTube content. The paid version adds in multi-user collaboration features, additional 3D tools and new Resolve FX.
+[DaVinci Resolve][2] is a very powerful, professional piece of video editing software. The free version has everything I'd ever need for home use or even YouTube content. The paid version adds in multi-user collaboration features, additional 3D tools and new Resolve FX.
 
 ## Course
 
@@ -37,9 +37,9 @@ As an overview of the interface for DaVinci Resolve, this course is good. As a "
 
 I had several nit-picks with the content too. For one, I was immediately turned off to the course creator when they begged in the first lecture to not give them bad reviews. That isn't the type of thing I expect from someone who's put time and effort into creating the course. I was worried when this was done, but it turned out to be better than the begging implied.
 
-My second complaint is about how the content is presented. This is a course on *video editting*. I expect a certain amount of care to be put into the presentation of such a topic, but the course wasn't well paced. There are very abrupt endings to several lectures. There are other lectures that have long periods of silence at the end. There are also more than a few occasions where the audio and video seem to be out of sync. You never see the instructor, but when they are presenting a new tab and say something like "Click on this tab" and then the mouse doesn't move to the tab for a few seconds it makes it hard to follow along.
+My second complaint is about how the content is presented. This is a course on *video editing*. I expect a certain amount of care to be put into the presentation of such a topic, but the course wasn't well paced. There are very abrupt endings to several lectures. There are other lectures that have long periods of silence at the end. There are also more than a few occasions where the audio and video seem to be out of sync. You never see the instructor, but when they are presenting a new tab and say something like "Click on this tab" and then the mouse doesn't move to the tab for a few seconds it makes it hard to follow along.
 
-My final complaint is how incomplete the course is. There is one five second lecture that is just "This lecture will be uploaded very soon". The last bonus lecutre ends with "See you at the next lecture", but there are no more lectures. I realize the course was released this month, but it's incomplete. The full price of the course is $80. I expect more to be completed for that price.
+My final complaint is how incomplete the course is. There is one five second lecture that is just "This lecture will be uploaded very soon". The last bonus lecture ends with "See you at the next lecture", but there are no more lectures. I realize the course was released this month, but it's incomplete. The full price of the course is $80. I expect more to be completed for that price.
 
 This is a good overview of the DaVinci Resolve environment. I understand what each tab is and how I can use them for basic edits. I feel comfortable enough to make a very simple video with some home videos now.
 

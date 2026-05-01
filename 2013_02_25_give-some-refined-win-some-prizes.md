@@ -23,7 +23,7 @@ I've built a Raffle bot based on [SteamBot][1], which is the base of [scrap.tf][
 per refined metal. You can have an unlimited number of entries. I will convert the refined metal to various prizes 
 (with the goal being keys most of the time).
 
-Then we'll have the system select a set of winners from the entries. A user can only win once per raffle, so even if you you
+Then we'll have the system select a set of winners from the entries. A user can only win once per raffle, so even if you 
 have a gigantic number of entries, your odds of winning more than one position are zero. Only one win per steam id.
 
 Using the prices from [backpack.tf][3], the bot will determine the "value" of the items within the trade.
@@ -36,7 +36,7 @@ various TF2 trading markets. The profits from these trades will be used to cover
 
 ## Keep high value items for future raffles?
 
-*This question was added based on feed back from the community. It was added on March 20, 2013*
+*This question was added based on feedback from the community. It was added on March 20, 2013*
 
 The original plan was to sell any such items. However, due to community feedback, I've changed my mind. We will utilize 
 "high value" items as prizes for future raffles. These future raffles will not be announced until any running raffles are 

@@ -3,7 +3,7 @@ Date: 2020-05-24 23:45
 Tags: review, garden, hydroponics
 Category: Review
 Slug: rise-garden-suggestions-software
-Summary: Several suggestion for the Rise Gardens app, their subscription service and product as a whole.
+Summary: Several suggestions for the Rise Gardens app, their subscription service and product as a whole.
 Status: published
 Series: Rise Gardens Review
 
@@ -13,10 +13,10 @@ Series: Rise Gardens Review
 ## Introduction
 
 The [garden has been opened][unboxgarden]. The [garden has been assembled][assemblegarden]. The [nurseries were
-opened][unboxnurseries]. The [first plants have sprouted][planting]. I've had my first lecture harvest (more on
-this next time). While waiting for that harvest, I offered suggestion on how to [improve the hardware][physicalsuggestions].
+opened][unboxnurseries]. The [first plants have sprouted][planting]. I've had my first lettuce harvest (more on
+this next time). While waiting for that harvest, I offered suggestions on how to [improve the hardware][physicalsuggestions].
 
-Today, after about a month of growing, monitoring and watching the sprout go from seed to plate, I've been
+Today, after about a month of growing, monitoring and watching the sprouts go from seed to plate, I've been
 using the application almost daily. I have thoughts on how to make it even better. I have thoughts on how to make
 the subscription service better. I'll share those below.
 
@@ -54,8 +54,8 @@ indefinitely. I should be able to do that same here too.
 
 ### Plant Information
 
-One of the nice things about the application, in addition to it's ability to tell me how many and what kind
-of nutrients to add, is suggestions on how when to harvest your plants. Unfortunately, I don't think it's
+One of the nice things about the application, in addition to its ability to tell me how many and what kind
+of nutrients to add, is suggestions on when to harvest your plants. Unfortunately, I don't think it's
 very accurate.
 
 This accuracy is something I'm aware of and am keeping in mind as I add nutrients too. If I can't trust one
@@ -69,7 +69,7 @@ Why is it inaccurate?
 On harvest day, this is the information presented by the application. There are a few things to
 notice in this screen shot. First, "0 days to harvest", yet still showing the "Mid-growth" data.
 Second, this didn't change to "harvest" until a full day later. Thinking about it now, I suspect
-the datetime of when I added the plant to a nursery was recorded, not just the day and it's going
+the datetime of when I added the plant to a nursery was recorded, not just the day and is going
 by "hours since planted", to display the stage information.
 
 ![Red Oak on Harvest Day][redoak]
@@ -129,10 +129,10 @@ I have two items that I really think would make Rise Gardens fantastic and both 
 
 ### Access to old water readings
 
-I know the application sending my water readings somewhere. I have to log in, and the
+I know the application is sending my water readings somewhere. I have to log in, and the
 application doesn't work when the internet is down (tried...doesn't load). Give us the ability
 to pull those old readings via an API call so that I can plot them. I love data and I love
-visualizing date. More information via an API call would be even better. Things like:
+visualizing data. More information via an API call would be even better. Things like:
 
  - How long the lights were on
  - Water level
@@ -158,8 +158,8 @@ crosses the sky, there are hours where the plants are in direct sunlight. I coul
 down to 50% intensity during those hours or off all together.
 
 There are two open ports on the controller. A piece of hardware that can detect light level
-could be used to control on/off or light intensity level. Obviously you couldn't put there right next
-to a plant, because the LEDs would affect the sensor, but put it on a post and it could tell if you if
+could be used to control on/off or light intensity level. Obviously you couldn't put it there right next
+to a plant, because the LEDs would affect the sensor, but put it on a post and it could tell you if
 the sun was shining on the garden.
 
 This type of thing could also be used in different seasons to determine when to turn the lights on

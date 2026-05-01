@@ -28,11 +28,11 @@ On top of that, they shared the same IP address as the member that attempted to 
 ### A little more background
 
 The member that was "helping" had recently been approached by the admin team in an effort to clarify some questions about
-their age. One of the admins had been presented evidence that the user was under the age of 16, which we all know if the
+their age. One of the admins had been presented evidence that the user was under the age of 16, which we all know is the
 minimum age to be a Vipers member.
 
 The user took this as a threat that we were going to remove them from the community entirely via bans on the servers and
-forums. They posted a rant on their "sub-community". To mean this seems much more like a place where people that didn't
+forums. They posted a rant on their "sub-community". To me this seems much more like a place where people that didn't
 like our rules go to complain about us in an unproductive manner. I'm still not sure why they set up this community in
 the first place, because they have always expressed a very keen interest in Vipers.
 
@@ -77,7 +77,7 @@ the admin team, after all it was Christmas. However, there have been a few reque
 I feel this incident just confirms that we need a couple more. In the coming days, we'll announce who our new admins will be.
 
 The member that has been removed has been banned from the servers and the forums. We've also destroyed two new user accounts
-they created since the spam wave. This is business as usual. I did offer them the chance to appear at the end of June.
+they created since the spam wave. This is business as usual. I did offer them the chance to appeal at the end of June.
 I suspect they will not.
 
 ## The appeal
@@ -86,13 +86,13 @@ I suspect they will not.
 It seems I was wrong. They filed an appeal to their ban. Of course it took place over another holiday (4th of July). Fortunately,
 our two European admins were still around while the rest of us were out enjoying some fireworks.
 
-The appeal was filed on the forums, as is usual. Community members stepped in to experess their unhappiness that the user
+The appeal was filed on the forums, as is usual. Community members stepped in to express their unhappiness that the user
 would consider returning after what they did over Christmas. One of the admins that were around put a message in the admin
 area and asked for feedback from other admins.
 
 When I returned home after some amazing fireworks, I found I had an email from our hosting provider. They'd blocked another
 attempted denial of service attack. I logged into the forums to see what was going on and noticed that the appeal thread
-was not going well. The user were getting more and more upset at the community members who were rallying against their
+was not going well. The user was getting more and more upset at the community members who were rallying against their
 return. It eventually ended with a note saying that they hope Vipers never recovers from the DDOS. At this point one of the
 other admins locked the thread.
 
@@ -102,4 +102,4 @@ showed that the IP was on the list, and again they were all in the same city (an
 Their appeal was rejected. They were informed they would not be welcome back.
 
 After this appeal, I don't believe anything will need to change on our side. The appeal process concluded faster than normal.
-Attempts to DDOS the community server makes the decision rather easy for the admins.
+Attempts to DDOS the community server make the decision rather easy for the admins.

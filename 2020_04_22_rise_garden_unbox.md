@@ -31,7 +31,7 @@ final review, you can jump right to that [here][final-review].
 
 For most of last year, I had my mind set that I wanted a small indoor garden. We used to have
 an outdoor garden, but it never really did that well. This was due to both the soil and the wildlife.
-Last summer and fall, I went and forth between building an internal garden and buying one and
+Last summer and fall, I went back and forth between building an internal garden and buying one and
 never really settled on one. During the winter, I found [Rise Gardens][risegardens].
 
 This is a hydroponic garden, which is exactly what I wanted. I don't want soil everywhere
@@ -60,7 +60,7 @@ I appreciate the level of communication that I've seen so far. I hope that conti
 
 ### Boxes
 
-We ordered the triple level garden. According to the specifications, that means it's 66 inches tall and weights 106 pounds.
+We ordered the triple level garden. According to the specifications, that means it's 66 inches tall and weighs 106 pounds.
 It showed up in three boxes.
 
 ![Garden Boxes][gardenboxes]
@@ -81,7 +81,7 @@ This is the light cover for the lower level.
 ![Extension 2][extension2]
 
 The second extension has the same hardware as the first. The difference is, this one didn't show up as nicely packaged. It
-looks like tape holdig the tray covers in place came loose in shipping and allowed everything to slide around.
+looks like tape holding the tray covers in place came loose in shipping and allowed everything to slide around.
 
 ![Extension Brackets][brackets]
 
@@ -91,7 +91,7 @@ fit together correctly when assembling the levels.
 ![Grow Lights][lights]
 
 Each level of the garden has a set of grow lights. These are two LED panels. The light tray also holds the plastic
-water tray of the level above. The two holes you see at the top of this light panel are wher the plumbing passes through
+water tray of the level above. The two holes you see at the top of this light panel are where the plumbing passes through
 to the next level.
 
 ### Main Garden
@@ -110,12 +110,12 @@ intensity and off.
 
 ![Water Basin][waterbasin]
 
-The marks on the water basic coorespond to the lights on the exterior of the shelving unit. There are five blue
+The marks on the water basin correspond to the lights on the exterior of the shelving unit. There are five blue
 water level marks and five LEDs.
 
 ![Water Pump][waterpump]
 
-Tucked inside the water basin is the water pump. This hangs from the side of the basic and is submerged into the
+Tucked inside the water basin is the water pump. This hangs from the side of the basin and is submerged into the
 water.
 
 ![Watering Can][wateringcan]
@@ -151,7 +151,7 @@ Unfortunately, this also seems to have scratched the tray a bit.
 
 ![Top Lights][toplights]
 
-The last part of the packaging is the top light and brackets. The brackets here re the legs that attach to
+The last part of the packaging is the top light and brackets. The brackets here are the legs that attach to
 the shelf and hold it off the ground. The light will be installed above the top level of plants.
 
 ## Summary
@@ -161,13 +161,13 @@ individual one. For now though, let's talk about what I thought while unboxing e
 
 The first thing I noticed was that Rise Gardens provides printed instructions. This is something I'd been worried about.
 I had found their [assembly instructions][assemblyinstr] on their web site and I was concerned that's what I've had to use to assemble
-the garden. The included instructors are the same as those on the website, but I like the tangible instructions to needing
+the garden. The included instructions are the same as those on the website, but I like the tangible instructions instead of needing
 my phone near by during assembly.
 
 The second thing I noticed, both during this unboxing and while unboxing the nurseries is that Rise Gardens loves their packaging
 tape. Box seams are fully covered. Tape is not something they are concerned about...
 
-...on the outside boxes. Internally though, the lack of tape or using cheap masking tape, caused interal components to break free
+...on the outside boxes. Internally though, the lack of tape or using cheap masking tape, caused internal components to break free
 and slide all over.
 
 The hardware feels very high quality. I don't feel like I'm going to snap these wooden legs or brackets when I put weight on them. The

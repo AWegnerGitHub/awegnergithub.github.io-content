@@ -37,7 +37,7 @@ It's not difficult. I will save you a bit of time on one step though. This minut
 was more useful than pages of text from NVidia. 
 
 With that out of the way, it's onto the course material. The instructor is clear about the what and the why we are doing things.
-I appreciated the explaination of small bits of logic and the migration from hard coded sections to more dynamic blue prints. It 
+I appreciated the explanation of small bits of logic and the migration from hard coded sections to more dynamic blue prints. It 
 was a good way to introduce a concept and the same type of thing I've done when teaching beginners. 
 
 I have one issue with my blue print logic that the instructor didn't seem to have. I'm not sure if it's due to different versions
@@ -67,11 +67,11 @@ There are few things that I didn't like were the assumption that the students ha
 the instructor does reference "previous courses" a handful of times but they only have this course on Udemy at the time of publishing
 this post. Another negative was the instructor's push of a paid for Unreal Plugin. This was for electronic wires, versus the curvy 
 ones from the image above. The electronic wires allow for a more compact blue print - which I can see being valuable in a very large
-project like the 2D Platformer - but in a short course it does cause the wires the overlap and can be difficult to follow. It also
+project like the 2D Platformer - but in a short course it does cause the wires to overlap and can be difficult to follow. It also
 costs an additional $13.
 
 Overall, this was an entertaining course and I am happy with the output I produced. It was very satisfying the first time I pressed
-play and watched my cube split, flash, lauch a few small sparks, and repeat. I recommend this course for someone with a basic 
+play and watched my cube split, flash, launch a few small sparks, and repeat. I recommend this course for someone with a basic 
 Unreal Engine experience and a few hours to learn.
 
 

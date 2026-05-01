@@ -24,10 +24,10 @@ Today, Prashanth Chandrasekar - CEO of Stack Overflow - presented the next visio
 
 ### Welcoming
 
-> You will continue to be the focus. 100%. We are here to serve you. To fight on your behalf. To make sure you are recognized for the work you are doing and that you are able to responsible harness the power of AI for your needs to be the best devolopers you can be. All of this is centered around the collective community and knowledge. That is irreplaceable.
+> You will continue to be the focus. 100%. We are here to serve you. To fight on your behalf. To make sure you are recognized for the work you are doing and that you are able to responsibly harness the power of AI for your needs to be the best developers you can be. All of this is centered around the collective community and knowledge. That is irreplaceable.
 
 This is a good start. It rings hollow to me right now though. These last two months in particular have shown that the community is easily tossed aside. 
-2019, and it's literal legal settlement with a community member for tossing them aside, shows that current time isn't a one time thing. We'll see what the rest of this talk covers, but right now this feels like pandering to the audience.
+2019, and its literal legal settlement with a community member for tossing them aside, shows that current time isn't a one time thing. We'll see what the rest of this talk covers, but right now this feels like pandering to the audience.
 
 ### Guiding Principles
 
@@ -52,7 +52,7 @@ program. Technological improvements should come from any one who wants to make l
 > Humans should always be included in the application of any new technology.
 
 Again, agreed. My concern here is whether or not Stack Exchange has the capability to do that. Technically, they've had a human involved, but it's 
-only been from a single perspective - that over the company. They have ignored the other side of this: the community. The people that provided the 
+only been from a single perspective - that of the company. They have ignored the other side of this: the community. The people that provided the 
 data for their business to thrive.
 
 ### Overflow AI
@@ -62,7 +62,7 @@ _insert applause_
 This has been in development for "the past three months". It also covers 6 items being talked about today and 6 additional items. That time frame is 
 concerning. Three months is not a lot of time to build a lot of these larger items. 
 
-Search: Summarized verion of multiple answers with citations from where the answers came from. It also allows you to continue the conversation with the 
+Search: Summarized version of multiple answers with citations from where the answers came from. It also allows you to continue the conversation with the 
 results - including code. It also allows the user to post the question to Stack Overflow if the generative AI portion gets stuck.
 
 My concerns lie with how this impacts the community. Hand waving away that the system is able to synthesize an answer and properly attribute it, what
@@ -72,7 +72,7 @@ community, though, we have a problem.
 
 I find it unlikely that a new user is going to post a question to Stack Overflow when they received an answer. Why would they? They already got the 
 answer they need. If this repeats constantly, the knowledge base that Stack Overflow represents becomes significantly less useful. Fewer questions
-mean fewer answers. With fewer answers, the platform becomes more dependant on the trained AI model which is receiving less data to feed it. The system
+mean fewer answers. With fewer answers, the platform becomes more dependent on the trained AI model which is receiving less data to feed it. The system
 spirals.
 
 Does this only matter to prevent duplicates though? If the system is only summarizing other topics, wouldn't that mean the question being asked is a 
@@ -84,9 +84,9 @@ integration to Stack Overflow. The same is true for the Slack / Stack Overflow i
 
 The Enterprise knowledge injestion is an interesting product. While we don't use Stack Overflow for teams at my current company, this would be 
 a great way to start using it. The ability to load initial data into a new system is important. I'd love to see this in practice and how well it does 
-at building initial Q&A pairs from the data it injests. 
+at building initial Q&A pairs from the data it ingests. 
 
-I haven't looked into Stack Overflow for Teams for my profession work. A couple comments that were made do raise a few concerns about how Stack Exchange
+I haven't looked into Stack Overflow for Teams for my professional work. A couple comments that were made do raise a few concerns about how Stack Exchange
 is using company data. Before making a recommendation to utilize it for my company, I'd need to investigate that data from my company is not made 
 available outside of my organization.
 

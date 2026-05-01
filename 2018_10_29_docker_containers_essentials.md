@@ -17,13 +17,13 @@ workload: PT1H
 
 ## Introduction
 
-I recently found short two courses about Docker on Udemy there were listed as free by the author as they get ready to update the course. This is a review of [Docker and Containers: The Essentials][1] by Luke Angel. There is a third free Docker course by the same author as well.
+I recently found two short courses about Docker on Udemy that were listed as free by the author as they get ready to update the course. This is a review of [Docker and Containers: The Essentials][1] by Luke Angel. There is a third free Docker course by the same author as well.
 
 I have a very basic idea of what the container/microservice architecture is designed to solve. I've never used it professionally or on personal projects. My experience is limited to reading articles about technologies such as Docker or Kubernetes and thinking that I'd like to try those out at some point in the future.
 
 ## Course
 
-This course is a one hour, very high level, overview of what containers are. The course description mentions that there won't be detailed developer examples, and this is true. My issue with the course is that it is to high level. This course is not for anyone with even a tiny idea of what a container is.
+This course is a one hour, very high level, overview of what containers are. The course description mentions that there won't be detailed developer examples, and this is true. My issue with the course is that it is too high level. This course is not for anyone with even a tiny idea of what a container is.
 
 The author has basically created an hour long, narrated Power Point presentation. Even worse, there are at least two instances of lecture that are duplicated (and are pointed out in the community feedback and Q&A section). The narration is obviously edited from multiple microphones and the sound consistency is uneven. The author also spends lectures typing on their keyboard while talking. This is loud and distracting.
 

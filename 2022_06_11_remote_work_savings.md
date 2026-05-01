@@ -28,7 +28,7 @@ Before I can do some of these calculations, I needed to get some starting number
     Total number of work days: 1089
     Average MPG: 22.5
 
-I also needed to find an average gas price. While starting to write this post I thought I'd pull official numbers from the [US Energy Information Administration][5]. They have numbers going back to 1993 broken down by week. This would be amazing, but I was spending to much time trying to figure out when I was on vacation and how to handle weeks with a holiday in it. I don't need exact numbers. I'm looking for ball park, so instead I went with the [yearly gas price average for 2017 through 2021][6] then I used the [inflation calculator from the Bureau of Labor Statistics][7] to adjust for inflation using May of that year to May of 2022.
+I also needed to find an average gas price. While starting to write this post I thought I'd pull official numbers from the [US Energy Information Administration][5]. They have numbers going back to 1993 broken down by week. This would be amazing, but I was spending too much time trying to figure out when I was on vacation and how to handle weeks with a holiday in it. I don't need exact numbers. I'm looking for ball park, so instead I went with the [yearly gas price average for 2017 through 2021][6] then I used the [inflation calculator from the Bureau of Labor Statistics][7] to adjust for inflation using May of that year to May of 2022.
 
     2017: $2.52 -> $3.01
     2018: $2.81 -> $3.26

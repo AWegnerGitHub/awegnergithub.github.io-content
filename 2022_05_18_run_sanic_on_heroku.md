@@ -13,7 +13,7 @@ modified: August 30, 2022
 
 Recently I needed to set up a very simple proof of concept (POC) to demonstrate to myself and eventually my team that an idea would work. A POC isn't production ready, it doesn't need to be robust and in my case wasn't even going to be written using the same framework we use in production. I just needed to see if the integration would work as I thought it would. If it did, I'd work with my team to build a production ready version. If it didn't work, no problem. I expected this POC to take about two hours of my time, including initial research around the integration itself.
 
-My background is utilizing Python. I've been using it for nearly 15 years now. In my previous role I utilized [Sanic][sanic] to build our API. I've also used Django and Flask in the path, but it had been five or more years so I was rusty in those. Plus, I have a fancy new book written by Adam Hopkins, the core developer of Sanic and an amazing former colleague, called [Python Web Development with Sanic][book] that I wanted to work through. I've been meaning to get to this, and haven't had a lot of time with my recent job change. This small POC won't get far, but I've found that if I start following a long tutorial or course or book, I'll dedicate more time so that I can finish it.
+My background is utilizing Python. I've been using it for nearly 15 years now. In my previous role I utilized [Sanic][sanic] to build our API. I've also used Django and Flask in the past, but it had been five or more years so I was rusty in those. Plus, I have a fancy new book written by Adam Hopkins, the core developer of Sanic and an amazing former colleague, called [Python Web Development with Sanic][book] that I wanted to work through. I've been meaning to get to this, and haven't had a lot of time with my recent job change. This small POC won't get far, but I've found that if I start following a long tutorial or course or book, I'll dedicate more time so that I can finish it.
 
 By the way, I highly recommend the book if you are utilizing Sanic.
 
@@ -23,7 +23,7 @@ Onward!
 
 ## Problem
 
-The problem I encounted during this POC wasn't the integration, like I expected. Instead, the problem I ran into was figuring out where I could deploy this POC at no cost. I considered [ngrok][ngrok], but that meant leaving something running on my machine until my team had a chance to play with the POC. Instead, I turned to [Heroku][heroku]. The next problem I ran into was determining how to deploy a Sanic application to Heroku. Google returned 5 year old articles, forum posts that don't have answers ([denvercoder9][1], is that you?), and Flask tutorials.
+The problem I encountered during this POC wasn't the integration, like I expected. Instead, the problem I ran into was figuring out where I could deploy this POC at no cost. I considered [ngrok][ngrok], but that meant leaving something running on my machine until my team had a chance to play with the POC. Instead, I turned to [Heroku][heroku]. The next problem I ran into was determining how to deploy a Sanic application to Heroku. Google returned 5 year old articles, forum posts that don't have answers ([denvercoder9][1], is that you?), and Flask tutorials.
 
 ## Toy Sanic App
 
@@ -51,7 +51,7 @@ In Adam's book, in the "Organizing a Project" chapter, he shows that running an 
 
     sanic src.server:app -p 7777 --debug --workers=2
 
-Simplifying that command a bit and setting up the Heroku `Procfile` (capitization matters and no extension) I have a single line in my `Procfile` that reads:
+Simplifying that command a bit and setting up the Heroku `Procfile` (capitalization matters and no extension) I have a single line in my `Procfile` that reads:
 
     web: sanic server:app
 

@@ -10,7 +10,7 @@ Status: published
 
 ## Background and goals
 
-At work I am the software QA team lead (I haven't given myself a fancy title, but I should). As such, I spend a lot of time in JIRA tracking our bug and feature requests and in Slack working with every aspect of the company to ensure the new features work as expected and bugs as appropriately squashed. As new releases approach their release date, I start running more queries to ensure everything will be done on time.
+At work I am the software QA team lead (I haven't given myself a fancy title, but I should). As such, I spend a lot of time in JIRA tracking our bug and feature requests and in Slack working with every aspect of the company to ensure the new features work as expected and bugs are appropriately squashed. As new releases approach their release date, I start running more queries to ensure everything will be done on time.
 
 Mini-rant: I hate JIRA's UI. It's slow, clunky and makes rolling things up as I need them unnecessarily complicated.
 
@@ -117,7 +117,7 @@ Next up is `slack_command_response`, which is used to send text back to Slack. I
 
 Starting the worker thread is done in `start_command_worker` and the next three lines. This will fire up a thread that listens forever. It will not take place on the main thread, which allows Flask to respond immediately and then perform work in the background. Remember, this is a small application and will work for the scale me and my team will be using this on. This is most certainly not designed for a huge number of users constantly using it.
 
-Now it's time to get to the real work. `hello_world` and `command_hello_world`. If you've used Flask before, you can see that `command_hello_world` will be the function associated with a user hitting `http:\\server.tld\hello-world` with a `POST` request. Slack only sends `POST` requests, so I care about `GET` methods. In `command_hello_world`, we send a call to the command worker thread, telling it to call `hello_world` and then pass the `response_url` as a parameter. The function immediately returns a response to Slack telling the user to wait.
+Now it's time to get to the real work. `hello_world` and `command_hello_world`. If you've used Flask before, you can see that `command_hello_world` will be the function associated with a user hitting `http:\\server.tld\hello-world` with a `POST` request. Slack only sends `POST` requests, so I don't care about `GET` methods. In `command_hello_world`, we send a call to the command worker thread, telling it to call `hello_world` and then pass the `response_url` as a parameter. The function immediately returns a response to Slack telling the user to wait.
 
 In `hello_world`, the function sleeps for a few seconds before sending a response back to the passed `response_url`. This `sleep` is to emulate "real work" being done. In my case, it's five seconds of queries to JIRA to gather and format all of the data I want to return.
 
@@ -141,7 +141,7 @@ To test a Slack application, though, some set up within Slack is needed: create 
 
 ### ngrok set up
 
-Before slash commands can be set up in Slack, you need a development environment and an easy way to access our development server. One option is to punch holes in the router's firewall to point to your development machine. This works if you are on a home network and you'll be the only machine running the development server. It's no so easy if your set up is more complicated or infrastructure is outside of your control.
+Before slash commands can be set up in Slack, you need a development environment and an easy way to access our development server. One option is to punch holes in the router's firewall to point to your development machine. This works if you are on a home network and you'll be the only machine running the development server. It's not so easy if your set up is more complicated or infrastructure is outside of your control.
 
 I choose to use [ngrok][ngrok] instead. This application provides you with a free, secure and public URL to your local development environment without worrying about your NAT or firewall settings.
 
@@ -157,7 +157,7 @@ I choose to use [ngrok][ngrok] instead. This application provides you with a fre
 
 ![ngrok dashboard][5]
 
-**Important Note:** This changes every time `ngrok` is stated.
+**Important Note:** This changes every time `ngrok` is started.
 
 At this point, I can visit `https://1eed8eae.ngrok.io/hello-world` in my browser and get an error message because I didn't configure it to support `GET` requests.
 

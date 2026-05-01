@@ -10,7 +10,7 @@ Status: published
 
 ## Introduction
 
-Several years ago I [set up GitLab in my home environment][1]. I apprecate past me documenting the basic steps I took to do this, because I'll need them again at some point when I make upgrades to my home lab. I've documented somethings I've done (like [setting up GitLab runners][3], or dealing with [Grafana being deprecated within GitLab][4] or utilzing [GitLab to automatically backup my Obsidian notes][5]) Unfortunately, I didn't document everything. One of those things that I didn't document was changing where my repositories are stored on disk by default.
+Several years ago I [set up GitLab in my home environment][1]. I appreciate past me documenting the basic steps I took to do this, because I'll need them again at some point when I make upgrades to my home lab. I've documented some things I've done (like [setting up GitLab runners][3], or dealing with [Grafana being deprecated within GitLab][4] or utilizing [GitLab to automatically backup my Obsidian notes][5]) Unfortunately, I didn't document everything. One of those things that I didn't document was changing where my repositories are stored on disk by default.
 
 In GitLab 17.8 (January 2025), a new deprecation warning started appearing.
 
@@ -20,7 +20,7 @@ I'm a little annoyed that there were only 5 months of notice on this because maj
 
 ## Solution
 
-As usual, GitLab is good at providing [documentation on resoluting and migrating][2] through the deprecations. However, on my first attempt I encountered an error. I believe it's because I missed a note buried in the text - not the code blocks - the first time.
+As usual, GitLab is good at providing [documentation on resolving and migrating][2] through the deprecations. However, on my first attempt I encountered an error. I believe it's because I missed a note buried in the text - not the code blocks - the first time.
 
 > Note that the `/repositories` suffix must be appended to the path because it was previously appended internally.
 
@@ -57,7 +57,7 @@ My `gitlab.rb` now has this:
 
 ## Conclusion
 
-With this quick change, I can continue to hold the repositories at a location of my choosing. The biggest thing is to add `/repositories` to the `path` in the new Gitly configuration. With this change, I can continue to utilizing the current version of GitLab - a tool that I still find invaluable.
+With this quick change, I can continue to hold the repositories at a location of my choosing. The biggest thing is to add `/repositories` to the `path` in the new Gitaly configuration. With this change, I can continue to utilize the current version of GitLab - a tool that I still find invaluable.
 
 
 

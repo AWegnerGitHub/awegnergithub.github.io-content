@@ -3,7 +3,7 @@ Date: 2023-06-12 09:00
 Tags: Stack Exchange, moderation
 Category: Stack Exchange Strike
 Slug: stackexchange-moderator-strike-week-one
-Summary: Stack Exchange moderators are striking. This is my my summary of the first week.
+Summary: Stack Exchange moderators are striking. This is my summary of the first week.
 Status: published
 Series: Stack Exchange Moderation Strike 2023
 modified: June 12, 2023
@@ -23,7 +23,7 @@ The Stack Exchange strike has been covered:
 
  - [On Gizmodo](https://gizmodo.com/ai-stack-overflow-content-moderation-chat-gpt-1850505609)
  - [On Vice](https://www.vice.com/en/article/4a33dj/stack-overflow-moderators-are-striking-to-stop-garbage-ai-content-from-flooding-the-site)
- - [On DevClass](https://devclass.com/2023/06/05/stack-overflow-volunteer-moderators-down-tools-over-secret-new-policy-that-obstructs-removal-of-ai-generated-content/) (with an inverview from a fellow Charcoal power user and Stack Overflow moderator)
+ - [On DevClass](https://devclass.com/2023/06/05/stack-overflow-volunteer-moderators-down-tools-over-secret-new-policy-that-obstructs-removal-of-ai-generated-content/) (with an interview from a fellow Charcoal power user and Stack Overflow moderator)
 
 The important thing in this set of articles is the public statement that was released by Philippe Beaudette, Vice President of Community (taken from the Vice article above).
 
@@ -31,7 +31,7 @@ The important thing in this set of articles is the public statement that was rel
 > 
 > We stand by our decision to require that moderators stop using the tools previously used. We are confident that we will find a path forward. We regret that actions have progressed to this point, and the Community Management team is evaluating the current situation as we work hard to stabilize things in the short term.
 
-They doubled down on this explaination in two meta posts. The [initial statement][2] and a [post with "data"][3]. I encourage readers 
+They doubled down on this explanation in two meta posts. The [initial statement][2] and a [post with "data"][3]. I encourage readers 
 to spend a while reading through that second link and the answers. The community is skeptical of the conclusions drawn and 
 have counter arguments and data scattered in the answers.
 
@@ -51,12 +51,12 @@ With the summary out of the way, where do we sit now?
 As of midnight today, the users that have stopped moderation activities have [selected three representatives][5] to be our voice
 in conversations with Stack Exchange and listed the conditions for ending the strike.
 
- - A retraction of the of the prohibition of moderating GPT content.
+ - A retraction of the prohibition of moderating GPT content.
  - The private policy on GPT content that was issued to moderators must be revealed publicly.
- - The data dumps must be re-enabled and SEDE and API access guarenteed.
+ - The data dumps must be re-enabled and SEDE and API access guaranteed.
  - Stack Exchange, Inc. must communicate, gather feedback, and act on that feedback before making major policy or software changes to the public platform.
 
-I want to point out that there is nothing here about GPT detection tools. That's because this isn't the reasong for the strike. 
+I want to point out that there is nothing here about GPT detection tools. That's because this isn't the reason for the strike. 
 Despite what Stack Exchange has said in their messages to the press, [this isn't about detection tools][6]. (I also have 
 [an answer][7] on that question about the policy's origination.)
 
@@ -75,7 +75,7 @@ I highly encourage everyone to read _those_ too. There is a lot of reading scatt
 of how unhappy the users of Stack Exchange are.
 
 I think it's telling that the company managed to copy and paste from the [strike letter][1], but at the same time managed 
-to completely ignore that this isn't about GPT detectors. Even worse, the company is spreading that falsehood to it's employees,
+to completely ignore that this isn't about GPT detectors. Even worse, the company is spreading that falsehood to its employees,
 and the press. On top of that, has two teams - Community Leadership and Marketing - working on communications, yet no progress
 has been made.
 
@@ -92,7 +92,7 @@ over these last three years and have been marginally successful. That's gone aga
 
 Now I'm reevaluating how I utilize my free time again. It's not constructive to say I'll hand in my diamonds and walk away if the
 conditions above aren't hit. But, it's worth noting that I agree with all four of those conditions. This is my free time I'm donating
-and if the organization I'm donating that time to has changed their philosphy, I will take that into consideration as I reevaluate.
+and if the organization I'm donating that time to has changed their philosophy, I will take that into consideration as I reevaluate.
 
 I think we are long past the point of "how it used to be" at Stack Exchange. The question I am asking my self is whether or not I
 agree with the new direction the platform is going.

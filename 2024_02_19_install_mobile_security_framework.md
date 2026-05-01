@@ -10,7 +10,7 @@ Status: published
 
 ## Introduction
 
-I recently needed to poke around an APK. I'd done this sort of thing before, but it's been years so the process of setting up an Android environment was unfamilar. Instead of spending a day reimmersing myself for what was (hopefully) going to be a 10-15 minute thing, I turned to another tool: [Mobile Security Framework][1] (also known as MobSF)
+I recently needed to poke around an APK. I'd done this sort of thing before, but it's been years so the process of setting up an Android environment was unfamiliar. Instead of spending a day reimmersing myself for what was (hopefully) going to be a 10-15 minute thing, I turned to another tool: [Mobile Security Framework][1] (also known as MobSF)
 
 ## Setting up Docker
 
@@ -23,7 +23,7 @@ Using the [Install Docker for Windows][3] documentation, I downloaded the instal
 
 ## Installing MobSF
 
-Once logged back in, I fired up the command line. The [MobSF README][1] provides two lines to execute on the command line to pull the latest image. I didn't go through the process of setting up a dymanic analyzer. I didn't think I'd need it (and as luck would have it in this case, I was correct).
+Once logged back in, I fired up the command line. The [MobSF README][1] provides two lines to execute on the command line to pull the latest image. I didn't go through the process of setting up a dynamic analyzer. I didn't think I'd need it (and as luck would have it in this case, I was correct).
 
 Run the two commands:
 
@@ -36,13 +36,13 @@ This will pull the latest version of MobSF and then run it on port 8000 on the l
 
 ## Find your APK
 
-Theorectically, you'll be running this against an APK you've built and developed. In that case, you'll have the APK handy and can load it into the UI. I, unfortunately, didn't have that luxuary. Fortunately, getting the APK is relatively simple.
+Theoretically, you'll be running this against an APK you've built and developed. In that case, you'll have the APK handy and can load it into the UI. I, unfortunately, didn't have that luxury. Fortunately, getting the APK is relatively simple.
 
 1. Go to the [Google Playstore][4] and search for the application
 2. Navigate into the details page of the application (you should see the option to install it)
 3. Copy the URL to this page
 4. Go to [APKCombo][5]
-5. Paste the URL you copied in step 3 instal the appropriate text box and click "Generate Download Link"
+5. Paste the URL you copied in step 3 into the appropriate text box and click "Generate Download Link"
 6. After a few seconds, click the download icon next to the link that was generated
 
 You now have the APK to use.
@@ -59,9 +59,9 @@ The dashboard has a _lot_ of detail about the APK. Scroll through to see the per
 
 ## Conclusion
 
-For my purpose, this 15 minute excersice not only answered the question I was seeking it also raised a few items that will need to be corrected before the next release. Introducing security practices with a tool like MobSF would be incredibly benefitial to a team tasked with building an Android application. Further, adding in the dynamic analysis capabilities can provide more details on areas to improve. 
+For my purpose, this 15 minute exercise not only answered the question I was seeking it also raised a few items that will need to be corrected before the next release. Introducing security practices with a tool like MobSF would be incredibly beneficial to a team tasked with building an Android application. Further, adding in the dynamic analysis capabilities can provide more details on areas to improve. 
 
-While I didn't need those to answer my question, I'd enourage someone looking to introduce this to a team, to look at the [capabilities of MobSF][8]
+While I didn't need those to answer my question, I'd encourage someone looking to introduce this to a team, to look at the [capabilities of MobSF][8]
 
 
 

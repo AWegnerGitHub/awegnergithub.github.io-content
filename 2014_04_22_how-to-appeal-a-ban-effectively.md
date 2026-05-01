@@ -19,7 +19,7 @@ behaviors, this allows you to play on the Vipers servers again. To get this chan
 
 The secret to a successful appeal is to do all of the following in your appeal thread:
 
- - Post in complete sentences, using mostly correct english. I'm not going to mark you off for simple spelling mistakes, but
+ - Post in complete sentences, using mostly correct English. I'm not going to mark you off for simple spelling mistakes, but
  I'm not going to read your post if it looks like you typed it from your phone to your teenage buddy. 
  - Stay polite. If you lose your cool, it's much less likely we are going to want to work with you. Remember, this is a game.
  You not being able to play on one server is not the end of the world. 

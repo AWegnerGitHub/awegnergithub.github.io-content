@@ -54,7 +54,7 @@ As I mentioned above, I initially installed version 12 of NextCloud. The latest 
 used instead of the version 12 link in the following code block. The code block below will be putting NextCloud in the default location Ubuntu has Apache look. You can modify
 that as needed. If you do so, the virtual host will need to be modified slightly.
 
-    sudo cd /tmp && wget wget https://download.nextcloud.com/server/releases/nextcloud-12.0.2.zip
+    sudo cd /tmp && wget https://download.nextcloud.com/server/releases/nextcloud-12.0.2.zip
     sudo unzip nextcloud-12.0.2.zip
     sudo mv nextcloud/ /var/www/html
 
@@ -67,7 +67,7 @@ different user or group, adjust this command accordingly.
 
 I'll be exposing this to the internet and I'll be accessing it via the internet. That means I really don't want to send data unencrypted to or from NextCloud. I'll be setting
 up the standard port 80 web server traffic to redirect to the secure port of 443. I cover [generating SSL certificates][ssl] in another post. I use [Let's Encrypt][5]. The keys
-referenced in the virtual host configuration file below created by that process.
+referenced in the virtual host configuration file below were created by that process.
 
 Create a new virtual host.
 

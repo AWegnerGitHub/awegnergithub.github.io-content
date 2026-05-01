@@ -15,7 +15,7 @@ Last year, [I ran for moderator][1] ([twice][2]) on Stack Overflow and didn't ma
 close on that second run. Now, a year later, and a year more experienced, I'm going to try again. This post will 
 document my progress through the election cycle.
 
-*Spoiler Alert*: I didn't win. The rest of this post details my thoughts as the election occured though.
+*Spoiler Alert*: I didn't win. The rest of this post details my thoughts as the election occurred though.
 
 ## Nomination Phase
 
@@ -37,7 +37,7 @@ thought it was a great question, so I suggested it again:
 
 ### My nomination
 
-My [platform][5] isn't all the different than the last two times. 
+My [platform][5] isn't all that different than the last two times. 
 
 > Hi Everyone, I'm **Andy** and I'd like to be a moderator for you and Stack Overflow. I've answered the questions posted by the community [here](http://meta.stackoverflow.com/a/337574/189134). I encourage you to take a look.
 >
@@ -50,7 +50,7 @@ My [platform][5] isn't all the different than the last two times.
 >
 > I enjoy the moderation aspect on Stack Overflow (and Stack Exchange in general). I have a history of good community moderation, am here all the time and believe I can help the current team.
 
-During the first full day, I'm gotten positive responses to this post. My two favorite, so far, are:
+During the first full day, I've gotten positive responses to this post. My two favorite, so far, are:
 
 > Andy's work around comment flags has been very impressive. I'm definitely curious to see what his thoughts on the mod 
 > queue are and if we could incorporate some of his work permanently on the site. Better identification of flags is 
@@ -65,7 +65,7 @@ and
 
 My candidate score this time is an impressive 39/40. This is up six from a year ago, and up ten from my first run. The
 one missing point is due to missing the [Refiner][10] badge. I believe the reason for this is because of my workflow. I,
-generally, don't edit and answer questions at the same time. If I'm answering, I'm not in "edit" mode. If I'm editting,
+generally, don't edit and answer questions at the same time. If I'm answering, I'm not in "edit" mode. If I'm editing,
 I'm usually in "moderation" mode. It's something I'll work on. I'm 38 out of 50 questions there, so I'll get it soon
 enough.
 
@@ -90,7 +90,7 @@ My response is:
 > sensitive than others, a stream of this many flags across an extended period of time doesn't lead me to believe the 
 > problem is with the community users.
  
-The point raised in the comments was that I was rushing into banning the user without commuicating first. I disagree
+The point raised in the comments was that I was rushing into banning the user without communicating first. I disagree
 with that, and explained that they've already been contacted privately and ignored those warnings. A ban is the next 
 step in getting the user's attention. I was told this would be "humiliating" for a high rep user. Again, I disagree
 and believe it's not humiliating, but [educating][12] the user.
@@ -116,9 +116,9 @@ My response:
 > irregularity" bans that I imagine the responses to such bans are all similar (and invalid). I see no reason to 
 > change that policy.
 
-The push back I recieved on this was that I was letting a user off the hook by unbanning them. I argued that unbanning
+The push back I received on this was that I was letting a user off the hook by unbanning them. I argued that unbanning
 has been done in the past. Sometimes the ban is needed simply to get the user's attention and start the conversation
-and explain that why they are doing is wrong. If the user abuses the trust at that point and repeats the behavior, then
+and explain that what they are doing is wrong. If the user abuses the trust at that point and repeats the behavior, then
 the longer ban is completely justified. A bit of compassion isn't a bad thing. 
 
 ## Primary Phase
@@ -144,7 +144,7 @@ The election lasts for several days and covers a weekend. We'll see how it turns
 
 ### Election Results
 
-Well, the election has concluded. I didn't secure on of the three positions for moderator. I finished in [5th place][15],
+Well, the election has concluded. I didn't secure one of the three positions for moderator. I finished in [5th place][15],
 with my elimination propelling second and third place to a victory. I was eliminated in the 10th round of the Meek STV
 process. 
 

@@ -10,7 +10,7 @@ modified: April 16, 2012
 
 OSI PI is a historian database. I had a task to connect a python application to this database. I asked a question on
 [Stack Overflow][1] about whether this was a simple problem to solve. After two weeks I still hadn't gotten a viable response,
-so I had to build by own solution.
+so I had to build my own solution.
 
 I did reach out to the vendor first for help. Their response back was not helpful.
 
@@ -28,8 +28,8 @@ OSI PI would return a message like this:
 
     pyodbc.Error: ('IM002', "[IM002] [OSI][PI ODBC][PI]PI-API Error <pilg_getdefserverinfo> 0 (0) (SQLDriverConnectW); [01000] [Microsoft][ODBC Driver Manager] The driver doesn't support the version of ODBC behavior that the application requested (see SQLSetEnvAttr). (0)")
 
-They vendor mentioned that using OLEDB instead may prove more fruitful. Thus, the code below is how I got connected using 
-the vendor provided OLDEB driver. The downside is that I also had to do this all through COM objects using [win32com][3]. 
+The vendor mentioned that using OLEDB instead may prove more fruitful. Thus, the code below is how I got connected using 
+the vendor provided OLEDB driver. The downside is that I also had to do this all through COM objects using [win32com][3]. 
 I'm not knocking the module, because it is extremely useful and I've done some great things with it.
 
     from win32com.client import Dispatch

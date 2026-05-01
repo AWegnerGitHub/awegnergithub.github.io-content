@@ -32,10 +32,10 @@ _First a disclaimer_: I was Director of Engineering at [Woven Teams][6] in 2022.
 Woven is a competitor of Codility. 
 
 The question in this post is taken from [Codility's sample test][11]. I will not be sharing the exact prompt from the sample test, as Codility has
-a disclaimer in the prompt clearly stating that disclousure is prohibited. Fair enough.
+a disclaimer in the prompt clearly stating that disclosure is prohibited. Fair enough.
 
 It'd be a shame if they hid all of their technical exam questions behind such a disclaimer though. Especially when this 
-[sample question sits on Stack Overflow][12] with over 400k views and has over 100 answers. It also generated it's own 
+[sample question sits on Stack Overflow][12] with over 400k views and has over 100 answers. It also generated its own 
 [meta question][13]. 
 
 This is just one reason that these types of questions aren't great for technical interview questions. Exam questions will always escape the 
@@ -45,7 +45,7 @@ there.
 ## The problem
 
 If you want to see the full prompt, take a look at the [Stack Overflow question][12]. But, briefly, the problem to solve is to find the 
-smallest positve integer that does not appear in an array of numbers. We are provided three sample arrays with positive, negative and duplicate entires.
+smallest positive integer that does not appear in an array of numbers. We are provided three sample arrays with positive, negative and duplicate entries.
 
 I copy and pasted the prompt into ChatGPT and got a short function back.
 
@@ -86,7 +86,7 @@ receive my results.
 
 I passed the 3 example test cases, 5 additional "correctness" test cases and 4 performance test cases. 100%
 
-Hooray! ChatGPT wins again. Total time taken - 4 minutes (plus 5 minutes for Codility to do it's evaluation). 
+Hooray! ChatGPT wins again. Total time taken - 4 minutes (plus 5 minutes for Codility to do its evaluation). 
 
 ## Change your interview processes
 
@@ -94,11 +94,11 @@ Engineers are smart individuals. They, generally, enjoy new technologies too. Ch
 tool in their future. GitHub has had [Copilot][15] for a while now. ChatGPT brings a new tool to the toolbelt. It should be expected by 
 hiring managers that your current engineering team and engineers you hire will use such tools. 
 
-Interview processes need to adapt to the existance of these tools. If you are asking a question that a simple tool can solve, are you 
-really determining an engineer's ability? Do your counterparts ask someone in finanace to calculate a percentage and not expect the candidate 
+Interview processes need to adapt to the existence of these tools. If you are asking a question that a simple tool can solve, are you 
+really determining an engineer's ability? Do your counterparts ask someone in finance to calculate a percentage and not expect the candidate 
 to use, at least, a calculator? 
 
-Hiring processes much adapt. Evaluate your candidates, especially the more experienced candidates, with something other than an exam question that 
+Hiring processes must adapt. Evaluate your candidates, especially the more experienced candidates, with something other than an exam question that 
 their newest tool can solve. Your engineer is going to be doing more than writing code and implementing an algorithm. Evaluate _those_ skills. Those 
 are the ones you really need on your team. 
 

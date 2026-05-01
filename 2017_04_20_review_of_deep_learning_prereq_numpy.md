@@ -47,7 +47,7 @@ implement this math in Numpy. Note to self: Brush up on those math skills. I hav
 
 ## Final Thoughts
 
-This is an introduction course to the bigger ["Deep Learning" courses][8] that Lazy Programmer offers. It does it's job well and has increased my
+This is an introduction course to the bigger ["Deep Learning" courses][8] that Lazy Programmer offers. It does its job well and has increased my
 confidence in the instructor. My last couple courses haven't been great and I'm happy that this quick two hour course was available. I'm looking
 forward to taking some more of these courses.
 

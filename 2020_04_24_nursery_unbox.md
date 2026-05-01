@@ -3,7 +3,7 @@ Date: 2020-04-24 10:00
 Tags: review, garden, hydroponics
 Category: Review
 Slug: nursery-unboxing
-Summary: With the garden unboxed, it's time to look at the nurseries. Our seed have to start growing somewhere.
+Summary: With the garden unboxed, it's time to look at the nurseries. Our seeds have to start growing somewhere.
 Status: published
 Series: Rise Gardens Review
 
@@ -57,7 +57,7 @@ It also gives you a quick overview of how to use the nursery. It's pretty simple
 
 ![Quick Start - Back][quickstartback]
 
-The last step in the quick start is a note on the application provide by Rise Gardens.
+The last step in the quick start is a note on the application provided by Rise Gardens.
 I'm new at hydroponics, so I'm looking forward to using this for the first few growing
 cycles. I'm also hoping that I learn something about how much nutrient solution I should
 be adding, so that I don't need to be reliant on the app in the future. We'll see
@@ -75,7 +75,7 @@ inside of the quick start guide, you'll see the nice bold warning: Never add nut
 
 ![Plant Pod][plantholder]
 
-The plant pods, or net cups as the quick start calls them, clips into the nursery. They are
+The plant pods, or net cups as the quick start calls them, clip into the nursery. They are
 easy to add and remove. They are also much more solidly built than the plastic of the
 nursery. I'm interested in seeing how the nursery holds up after a couple cycles of
 clipping/unclipping these pods.
@@ -97,10 +97,10 @@ general idea, though, is that it helps the plants grow and produce. Obviously.
 
 ## The seeds
 
-Now we get to the seeds. What will I be growing on the first round of two of plants.
-With a three tier garden, and three nurseries, I have room for 36 individual. That's a
+Now we get to the seeds. What will I be growing on the first round of plants.
+With a three tier garden, and three nurseries, I have room for 36 individual plants. That's a
 lot of vegetables all at once. I'm planning on staggering these in 3-4 week batches. That
-what I don't get 40 tomatoes all at once.
+way I don't get 40 tomatoes all at once.
 
 In the boxes, I received the same plants for each, plus an extra box of chamomile in
 boxes two and three. That's eight pods. I'm not sure what I'm going to do with that
@@ -114,7 +114,7 @@ In each large box, I received two salad mix boxes. Each of these contains
 
  - 1 pod of Red Oak lettuce
  - 1 pod of butter lettuce
- - 1 pod of dragoon romain lettuce
+ - 1 pod of dragoon romaine lettuce
  - 1 pod of astro arugula
 
 I'll have lettuce forever. Excellent. These also grow relatively quickly, so I'll

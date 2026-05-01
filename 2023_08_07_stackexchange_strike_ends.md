@@ -13,7 +13,7 @@ Series: Stack Exchange Moderation Strike 2023
 
 [The Stack Exchange strike is over][1]. It took two months and two days of inaction on behalf of community members and moderators to resolve
 the strike. The [results of the negotiations][2] were posted last week. Over the weekend the community voted that the goals of the strike have
-been achieved and called the end the strike.
+been achieved and called the end of the strike.
 
 So, what was achieved? What did more than two months of community upheaval get the users of Stack Exchange? 
 
@@ -24,11 +24,11 @@ usage. Additionally, the original policy that was the straw that started all of 
 
 This release took two months and was the cause of the strike beginning. It drove a wedge between the moderators of Stack Exchange and the 
 company and its employees. I do not understand why it took so long to release this. The public answer is that there was initial moderator 
-pushback on releasing it but that was recinded within days. Like much of the public communications during this, Stack Exchange clung to 
+pushback on releasing it but that was rescinded within days. Like much of the public communications during this, Stack Exchange clung to 
 outdated information.
 
 Something that I think is amazing is that this private policy was never leaked in full during the strike. Despite what the company was saying about
-moderators and the community, the community abided by its believe that agreements - private moderator space - should remain just that: private. I 
+moderators and the community, the community abided by its belief that agreements - private moderator space - should remain just that: private. I 
 applaud the moderation community for this commitment to their ideals.
 
 ## Data Dumps
@@ -39,7 +39,7 @@ Exchange CEO in March to disable the scheduled data dump.
 
 The company officially states that it's committed to the  long-term (foreseeable future) survival of the data dumps, the API, and SEDE [Stack Exchange Data Explorer]. 
 
-This is good. It is concerned that this action was done without informing the community and only discovered after the after though. This type of 
+This is good. It is concerned that this action was done without informing the community and only discovered after the fact though. This type of 
 "ask for forgiveness" behavior from Stack Exchange is common and is a concern for me. 
 
 ## Moderation Agreement Changes
@@ -52,7 +52,7 @@ Assuming that the agreement holds though, a review period will be good for the m
 time to get clarifications and be prepared for the discussions on meta. 
 
 The company also agreed to update their press policy. New statements to the press must get at least one member of the community management team to 
-sign off on the statement and statements must be as general as possible. This works in tandum with the existing policy put in place in 2019, where
+sign off on the statement and statements must be as general as possible. This works in tandem with the existing policy put in place in 2019, where
 statements won't discuss an individual moderator without written permission.
 
 This is another one that we can't judge effectiveness of until it's been broken. Unfortunately, the press policy from 2019 wasn't enough to prevent
@@ -65,21 +65,21 @@ That said, there was an [apology][5] for that from the Vice President of Communi
 
 ## Violations of the Moderator Agreement
 
-The current moderator agreement does not layout a process for determining if the company violates the agreement. The strike representatives and the 
-company agreed to an outline for such a process. IF Stack Exchange is found to have violated the agreement, actions taken and comments made during the 
+The current moderator agreement does not lay out a process for determining if the company violates the agreement. The strike representatives and the 
+company agreed to an outline for such a process. If Stack Exchange is found to have violated the agreement, actions taken and comments made during the 
 violation must be retracted and nullified and a public apology must be made detailing the violation.
 
 This is one that I hope we don't have to see utilized. Again, time will tell if it is something that will occur. 
 
-There is also a process where the moderation team can vote on if a violation occurred. Exact numbers of still being determined, but essentially a 
-minimium number of moderators must vote on if a violation was committed and from that a minimium amount must vote that a violation occurred.
+There is also a process where the moderation team can vote on if a violation occurred. Exact numbers are still being determined, but essentially a 
+minimum number of moderators must vote on if a violation was committed and from that a minimum amount must vote that a violation occurred.
 
 While I'm unhappy with the percentages used as placeholders, the discussions here continue. I am happy with the process and the proposed actions if 
 a violation is determined.
 
 ## Stack Exchange Processes
 
-Several internal changes were negotated as well. Each of these were around how the company communicates. These include being transparent that the 
+Several internal changes were negotiated as well. Each of these were around how the company communicates. These include being transparent that the 
 strike occurred, collaboration with the community instead of fighting it, public policies, and clear communication. 
 
 All of these are positives changes and can only be evaluated over time. There are already signs that some are taking place with public releases of 
@@ -92,8 +92,8 @@ the company would start replacing moderators in a few months - either when the a
 announced at the [developer conference last month][6] started appearing on the site.
 
 I'm still pessimistic about the future of the platform, if I'm being honest with myself. I do not think generative AI will be a benefit to the community,
-as it exists right now. By the time it's to a point where generative AI doesn't make things up, it'll be to late. The bad data and information will 
-already been on the site and trust will be gone.
+as it exists right now. By the time it's to a point where generative AI doesn't make things up, it'll be too late. The bad data and information will 
+have already been on the site and trust will be gone.
 
 The policies that can't be measured until a violation occurs also has me concerned. We went through this cycle back in 2019 with a strike being 
 very narrowly averted then. Unfortunately, the same things that occurred then triggered the issues now: a private policy and talking to the press. Both

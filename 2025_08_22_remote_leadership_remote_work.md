@@ -31,13 +31,13 @@ Instead of forcing everyone into the same working hours, successful teams design
 
 **Strategic Overlap Windows**
 
-While asynchronous work drives the majority of productivity, you still need dedicated synchronous time for problem-solving and relationship building. I've found that scheduling dedicated overlapping windows a couple times per week provides face-to-face interaction without constraining individual productivity. Teams need _at least_ one session that focuses on technical discussions and a second that builds team culture. Be intentional about these meetings though. To many and you fall into the trap of making this a scheduling problem. To few, and your team starts siloing itself.
+While asynchronous work drives the majority of productivity, you still need dedicated synchronous time for problem-solving and relationship building. I've found that scheduling dedicated overlapping windows a couple times per week provides face-to-face interaction without constraining individual productivity. Teams need _at least_ one session that focuses on technical discussions and a second that builds team culture. Be intentional about these meetings though. Too many and you fall into the trap of making this a scheduling problem. Too few, and your team starts siloing itself.
 
 Remote teams need fewer but more intentional synchronous touchpoints instead of trying to replicate in-office meeting cadences.
 
 ### Asynchronous Communication as a Strategic Advantage
 
-[GitLab's engineering team][3] scaled from 100 to 280 engineers in 1.5 years while remaining fully remote in in the early 2020s. They deliberately avoided making their primary productivity metric, Merge Request Rate, an individual metric because they wanted to encourage collaborative behavior rather than siloed competition.
+[GitLab's engineering team][3] scaled from 100 to 280 engineers in 1.5 years while remaining fully remote in the early 2020s. They deliberately avoided making their primary productivity metric, Merge Request Rate, an individual metric because they wanted to encourage collaborative behavior rather than siloed competition.
 
 The takeaway from this, to me, is that successful remote teams optimize for collective intelligence rather than individual heroics.
 
@@ -79,11 +79,11 @@ Remote work amplifies individual accountability. When you can't rely on hallway 
 
 **Celebration and Recognition**
 
-Remote teams need to work harder at celebrating wins and recognizing contributions. Without spontaneous high-fives and impromptu team lunches, recognition becomes a deliberate practice that requires system and consistency.
+Remote teams need to work harder at celebrating wins and recognizing contributions. Without spontaneous high-fives and impromptu team lunches, recognition becomes a deliberate practice that requires systems and consistency.
 
 ## The Competitive Advantage of Getting This Right
 
-The [Bureau of Labor Statistics data][1] reveals an something else too. A 1 percentage-point increase in the percentage of remote workers is associated with a 0.4 percentage-point decrease in growth in unit office building costs. This extends beyond productivity to sustainable economics, and makes me raise an eyebrow at the number of return of office mandates we have been seeing.
+The [Bureau of Labor Statistics data][1] reveals something else too. A 1 percentage-point increase in the percentage of remote workers is associated with a 0.4 percentage-point decrease in growth in unit office building costs. This extends beyond productivity to sustainable economics, and makes me raise an eyebrow at the number of return of office mandates we have been seeing.
 
 Companies that master remote engineering practices can access talent from anywhere rather than just expensive tech hubs, reduce operational overhead without sacrificing performance, build more resilient teams that aren't dependent on physical proximity, and create competitive advantages through superior asynchronous collaboration.
 

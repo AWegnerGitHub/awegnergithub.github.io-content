@@ -68,8 +68,8 @@ and waiting until a member of my team was assigned the problem to work with. Sim
 
 During this move, a third party logistics service was brought in to 'improve' our processes. It turns out that a start up company without a large customer doesn't
 know how to manage transportation for a company that spends hundreds of millions of dollars a year to move stuff around. The relationship didn't improve over time.
-Instead, each side attempted blame the other for the smallest of issues. After being assigned the task of ensuring our data was transferred every day by an early time,
-I started looking for another position in the company. I was tried of getting up early and missing time with the family.
+Instead, each side attempted to blame the other for the smallest of issues. After being assigned the task of ensuring our data was transferred every day by an early time,
+I started looking for another position in the company. I was tired of getting up early and missing time with the family.
 
 ## The long drive
 
@@ -110,7 +110,7 @@ things more and more. Caterpillar says things like "work-life balance", but I'm 
 
 If they do, it's not a "work life balance" for families where both parents are employed - especially if they aren't both employed at Caterpillar. A week before I found
 the new job, a new flexible work schedule was announced where employees could work 80 hours over the course of 9 days instead of the usual 10, giving you every other Friday
-off. At first glance, that sounds appealing. But, after minute or so of figuring of how it works there is a fatal flaw: I'd be home even later over the course of 9 days and
+off. At first glance, that sounds appealing. But, after a minute or so of figuring out how it works there is a fatal flaw: I'd be home even later over the course of 9 days and
 then be home on a Friday - when the rest of the family is at work or school. That doesn't solve anything for me.
 
 The new job is a full time remote position. I'll be home every day. I can step out for an hour to go to a class room party or take a morning off to go on a field trip. The flexibility I've been told about is amazing. The official vacation policy is:

@@ -34,7 +34,7 @@ But what about `list1`? It also has changed.
     >>> list1
     [6, 2, 3, 4, 5]
 
-This is occuring because, as mentioned, `list2` is assigned to the same object as `list1`. Any change to either, changes the object that both are assigned to.
+This is occurring because, as mentioned, `list2` is assigned to the same object as `list1`. Any change to either, changes the object that both are assigned to.
 
     >>> print(f"list1 id: {id(list1)}")
     list1 id: 1497534800448

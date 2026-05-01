@@ -123,7 +123,7 @@ This prevents code like this from entering the `if` block of an `if/else` statem
 
 In this example, they are _never_ equal. 
 
-This leads to an interesting, if not unintutive, way of checking if a variable is a `nan` value. Since `nan` is not equal to _all_ other values, it is not equal to itself.
+This leads to an interesting, if not unintuitive, way of checking if a variable is a `nan` value. Since `nan` is not equal to _all_ other values, it is not equal to itself.
 
     >>> a != a
     True
@@ -152,7 +152,7 @@ Comparisons aren't always as straight forward as we'd like. I covered a few comm
 
 Floating point comparisons are common across languages. Python has a few ways of making this easier for developers. I recommend utilizing `isclose` as it keeps the code a bit cleaner and eliminates the need to wrap numbers in strings if using the `Decimal` module.
 
-`is` should _only_ being used to check if two items are referring to the same object. In any other case, it's not doing the check you want it to be doing. 
+`is` should only be used to check if two items are referring to the same object. In any other case, it's not doing the check you want it to be doing. 
 
 Lastly, `nan` is equal to _nothing else_. It's important to be aware of that before you start comparing values in your dataset to one another. 
 

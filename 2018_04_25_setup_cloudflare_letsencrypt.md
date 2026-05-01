@@ -37,7 +37,7 @@ looked at it again. "It just works." Hooray!
 
 For this, we're going to add two new A entries to reflect the subdomains I want to use. I'll point it at my IP address initially too.
 
-### Automating the IP adddress updates
+### Automating the IP address updates
 
 The initial set up of the A entry/IP address takes a minute. The trick is automating that process every time your IP address changes. I
 am doing that with a small Python script called [`cloudflare-ddns`][4]. Clone this to the server.
@@ -104,7 +104,7 @@ because it provides my DNS services, I use a hook in Let's Encrypt's ACME client
     git clone https://github.com/kappataumu/letsencrypt-cloudflare-hook hooks/cloudflare
     pip install -r hooks/cloudflare/requirements.txt
 
-This downloads deydrated and then downloads the CloudFlare hook that is needed. It installs the required libraries too.
+This downloads dehydrated and then downloads the CloudFlare hook that is needed. It installs the required libraries too.
 
 The last bit of configuration that is needed is setting up a `config` file in the `dehydrated` directory.
 

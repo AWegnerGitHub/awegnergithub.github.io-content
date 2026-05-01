@@ -34,7 +34,7 @@ Previously, my invoices would have been whipped up in Word and converted to a PD
 off to the client. It worked for years. I was able to keep track of everything,
 properly report it (don't want to mess with the tax man) and I kept chugging along. The
 problem now, is that if I'm doing work for a client, I want to do the work and be done. I don't
-want to spent time making a presentable invoice in Word.
+want to spend time making a presentable invoice in Word.
 
 So, I went hunting for some software. I found [InvoiceNinja][ninja]. It's amazing.
 
@@ -48,7 +48,7 @@ So, I went hunting for some software. I found [InvoiceNinja][ninja]. It's amazin
 I have this habit of self hosting my own software. See my posts on [NextCloud][nextcloud]
 and [GitLab][gitlab] for other examples.
 
-This rest of this post is going to walk through how I installed InvoiceNinja.
+The rest of this post is going to walk through how I installed InvoiceNinja.
 
 ## Getting Started
 
@@ -62,7 +62,7 @@ to update it in the future.
     $ unzip ninja-v4.5.13.zip
 
 This downloads and unzips InvoiceNinja 4.5.14 to the current directory. Next,
-let's move it to it's final install location and set up appropriate owner and
+let's move it to its final install location and set up appropriate owner and
 permissions.
 
     $ sudo mv ninja /var/www/html
@@ -134,7 +134,7 @@ My entry looks like this:
         </Directory>
     </VirtualHost>
 
-This sets up a direct from HTTP to HTTPS. Then it points to the SSL certificates I've
+This sets up a redirect from HTTP to HTTPS. Then it points to the SSL certificates I've
 created for this subdomain. I previously wrote about [how I set up SSL][ssl]. I followed the
 same steps, using the new subdomain.
 

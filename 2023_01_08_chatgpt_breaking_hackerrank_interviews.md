@@ -17,14 +17,14 @@ your software engineers?
 
 AI Tooling - things like GitHub's [Copilot][11] and now [ChatGPT][1] - are _tools_ that your engineers can use to do their job. During the hiring 
 process, engineers should be evaluated on the skills they have, and that includes the ability to utilize all available tools. I expect AI
-assistance to be come as common place as using Stack Overflow to solve a problem. ChatGPT, Copilot, and any future tools doing similar tasks are 
+assistance to become as common place as using Stack Overflow to solve a problem. ChatGPT, Copilot, and any future tools doing similar tasks are 
 going to be used frequently in the near future.
 
 In this article, I'm testing [ChatGPT][1] against one of the most popular coding assessment services: [HackerRank][10]. I've already covered other assessment services like [LeetCode][4], [TestGorilla][5], [CodeSignal][8] and [Codility][9] in this series. I recommend taking a look at those too.
 
 To the engineers that have found this post and are looking for solutions to your coding assessments, I want to warn you, ChatGPT is an
-_assistant_. Think of it as a junior level engineer. You may need to check it's work. [ChatGPT is known to be inaccurate][3], which is why 
-[it was banned on Stack Overflow][2]. Don't take it's responses as gospel. Evaluate the responses and make improvements as needed. You'll see I 
+_assistant_. Think of it as a junior level engineer. You may need to check its work. [ChatGPT is known to be inaccurate][3], which is why 
+[it was banned on Stack Overflow][2]. Don't take its responses as gospel. Evaluate the responses and make improvements as needed. You'll see I 
 had to do that a couple of times with the questions below.
 
 _First a disclaimer_: I was Director of Engineering at [Woven Teams][6] in 2022. Prior to that, [I was a customer of Woven for over two years][7]. 
@@ -52,7 +52,7 @@ I submitted the code and passed all test cases.
 
 ![HackerRank - Triangle Quest Results][13]
 
-I was surprised by this one. I was expecting to encounter some problems with the constraint of only being able to use arithemtic operations. It 
+I was surprised by this one. I was expecting to encounter some problems with the constraint of only being able to use arithmetic operations. It 
 turns out, ChatGPT caught that constraint and solved the problem without any issue.
 
 ## Iterables and Iterators
@@ -80,7 +80,7 @@ code here:
 
 > Enter your code here. Read input from STDIN. Print output to STDOUT
 
-ChatGPT made the neccessary change and provided a new code block.
+ChatGPT made the necessary change and provided a new code block.
 
     import itertools
 
@@ -111,7 +111,7 @@ I submitted this code and it also passed each of the test cases. This solution a
 ## Validating Postal Codes
 
 At this point, I've shown that ChatGPT can do medium level problems. So, I selected a Hard problem: [Validating Postal Codes][18]. 
-The intersting constraint on this one is that `if` statements aren't allowed. The goal here is to provide two regular expressions to solve the problem.
+The interesting constraint on this one is that `if` statements aren't allowed. The goal here is to provide two regular expressions to solve the problem.
 
 I've built some nasty regular expressions over the years. I've talked about [SmokeDetector][21] in the past, and it's role in removing spam from 
 the Stack Exchange network. It is built on regular expressions. Lots and lots of regular expressions. So, I felt pretty comfortable with 
@@ -144,7 +144,7 @@ returned code too - one required accepting user input and the other was an inval
 problem resolved immediately.
 
 This is exactly the type of thing that I'd expect an engineer to need to do with the AI assistant (or more junior engineer). Hiring processes
-must adapt to the existance of AI assistants. Evaluate your candidates and their ability to do more than simply write code. 
+must adapt to the existence of AI assistants. Evaluate your candidates and their ability to do more than simply write code. 
 
 
  [1]: https://openai.com/blog/chatgpt/

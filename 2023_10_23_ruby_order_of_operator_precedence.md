@@ -3,7 +3,7 @@ Date: 2023-10-23 10:45
 Tags: technical
 Category: Technical Solutions
 Slug: ruby-gotcha-operator-precedence
-Summary: In Ruby you can use either `and` or `&&`. You can use `or` or `||`. What's is the difference and what's the catch? 
+Summary: In Ruby you can use either `and` or `&&`. You can use `or` or `||`. What is the difference and what's the catch? 
 Status: published
 Series: Programming Gotchas
 
@@ -96,7 +96,7 @@ This was hidden when `true` and `false` was swapped because `result2` was assign
 
 ## How do you prevent this?
 
-There is very few reasons to utilize the English words `and` and `or` in Ruby's logical evaluations. Instead, these should be utilized as flow control modifiers (think `if` and `unless`) and not for boolean logic. 
+There are very few reasons to utilize the English words `and` and `or` in Ruby's logical evaluations. Instead, these should be utilized as flow control modifiers (think `if` and `unless`) and not for boolean logic. 
 
 Here's an example of how it should be utilized for flow control
 

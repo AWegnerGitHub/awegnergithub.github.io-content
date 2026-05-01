@@ -44,11 +44,11 @@ As a spoiler, my review of the course is on the main course page.
 
 ## Course
 
-As you can see from above, I thought this course was great. It was a two day (over a weekend) live course with about 100 participants from around the world. Based on the chat during the course, the skill set of participants ranged from "new to Claude code but experienced developer" to "somewhat familiar with Claude Code and looking to do more with it". It was a nice mix of participants. The instructor, [Philipp Acsany][5], did a good job of answering questions, sharing content, and ensuring everyone was able to follow along. This was very hands on workshop.
+As you can see from above, I thought this course was great. It was a two day (over a weekend) live course with about 100 participants from around the world. Based on the chat during the course, the skill set of participants ranged from "new to Claude code but experienced developer" to "somewhat familiar with Claude Code and looking to do more with it". It was a nice mix of participants. The instructor, [Philipp Acsany][5], did a good job of answering questions, sharing content, and ensuring everyone was able to follow along. This was a very hands on workshop.
 
-Before the course began, set up instructions were sent out. I can not overstate how much this was appreciated, because that meant the course could assume that everyone has a functioning environment to work in. This saved so much time and basic questions and allowed the course to start with the interesting content, not a tutorial on how to install Claude Code, GitHub CLI, Python and uv, Git and Zoom.
+Before the course began, set up instructions were sent out. I can not overstate how much this was appreciated, because that meant the course could assume that everyone has a functioning environment to work in. This saved so much time on basic questions and allowed the course to start with the interesting content, not a tutorial on how to install Claude Code, GitHub CLI, Python and uv, Git and Zoom.
 
-Day 1 started with the very basics of Claude. Normally, I'd be annoyed by starting with such a basic concept, but Philipp kept it engaging and more importantly, showed some best practicies using Claude to scaffold a new project that I hadn't seen. Thinking that this bodes well for the rest of the course, I eagerly followed along. 
+Day 1 started with the very basics of Claude. Normally, I'd be annoyed by starting with such a basic concept, but Philipp kept it engaging and more importantly, showed some best practices using Claude to scaffold a new project that I hadn't seen. Thinking that this bodes well for the rest of the course, I eagerly followed along. 
 
 As Day 1 moved on, we built upon our scaffold to develop a small application, learning how to manipulate various aspects of claude, setting up prompts and skills to assist our workflow and learning how to debug when something doesn't work. Day 1 concluded with a little bit of homework. After 4 hours in the workshop, I felt pretty confident that I could accomplish this and was happy to see that confidence was justified. After about an hour more of individual work, I completed the tasks and was ready for day 2.
 
@@ -69,7 +69,7 @@ So, why did I only give this a 9 out of 10? What's preventing that last star?
 
 There are aspects of the course that were touched on so briefly that I think would have been useful to dive into. These are the topics that have ended up in my research queue - hooks, mcp services, agents, agent teams. I think these could have filled another 4 hour block, but this was a weekend course and didn't fit. I'll be watching for a session that covers these topics.
 
-The other thing - the cost can be prohibitive to students. There is the cost of the course itself: $800 normally, $500 on sale when I joined. Plus the cost of Claude. It is recommended to get at last the MAx plan which runs $100 per month. I agree with that. I think if I'd only gone with Pro, I'd have hit usage limits during the course.
+The other thing - the cost can be prohibitive to students. There is the cost of the course itself: $800 normally, $500 on sale when I joined. Plus the cost of Claude. It is recommended to get at least the Max plan which runs $100 per month. I agree with that. I think if I'd only gone with Pro, I'd have hit usage limits during the course.
 
 That said, if you can afford it (or get work to cover it as training), this is worth it for both an introduction to Claude Code and to learn about features you likely aren't using to their full power. Even with this course, I don't think I am doing that yet, but I know what to research now to get better for personal usage and for team improvements.
 

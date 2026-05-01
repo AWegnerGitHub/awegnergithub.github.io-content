@@ -39,7 +39,7 @@ router I had didn't seem up to the task of handling all of it.
 
 It was time for an upgrade. I didn't want just another router that I'd have to
 replace in a few years though. I wanted something high quality and that could
-handle anything I through at it.
+handle anything I threw at it.
 
 ## Enter Ubiquti
 
@@ -47,7 +47,7 @@ I don't remember what brought [Ubiquiti][ubiquiti] to my attention years ago, bu
 was immediately impressed with the hardware, the reviews and the price point. It
 is not a home router, but it's also not a five figure price.
 
-I did some research I what I'd need in the house. I needed to be able to support
+I did some research on what I'd need in the house. I needed to be able to support
 several wired devices, even more wireless ones (computers, phones, tablets, and
 home automation devices). I wanted to have a guest network like the previous ASUS,
 so that I could easily give visitors access to the internet without giving them
@@ -58,7 +58,7 @@ I am trained as an information security professional. I understand the risks tha
 all of these devices can add. It's a lot of little mini-computers on the network.
 I don't want an outlet plug compromising my house. I also don't have top secret
 data, so a little risk for the sake of convenience is ok to me. If I could
-put these devices on a network that is seperate from both the main network and
+put these devices on a network that is separate from both the main network and
 the guest network, that'd be good for my purposes.
 
 ## Ubiquiti Devices
@@ -71,7 +71,7 @@ the two brands is how they are managed.
 I am *not* a network engineer. I work with some great ones at work and they
 speak another technical language entirely. As useful as it'd be to know more
 in that area for work, that's not a goal I wanted to pursue for a home project.
-I went with UniFi because of it's easier management with the UniFi controller.
+I went with UniFi because of its easier management with the UniFi controller.
 
 I went with the following devices
 
@@ -83,7 +83,7 @@ I went with the following devices
 
 ### Security Gateway
 
-The [security gateway][uf-sg] is the router the handles the network. It's much
+The [security gateway][uf-sg] is the router that handles the network. It's much
 smaller than previous routers I've had. The purpose of this product is to provide
 routing, not be the device everything in the network plugs into. That's the switches.
 
@@ -123,13 +123,13 @@ they provide to the house. So far, I am pleased with how they are performing. I'
 not sure where the last two will go yet, but I'll find a spot eventually.
 
 These access points are handling the three networks without any issues. The
-trust home devices are on one network, the smart home devices are on another, and
+trusted home devices are on one network, the smart home devices are on another, and
 a third guest network is used occasionally with no issues.
 
 ### Cloud Key (Gen 1)
 
 This is the device I wish I'd researched a little more before purchasing. I see
-it's purpose, but I don't need it. I can run the UniFi controller on my Ubuntu
+its purpose, but I don't need it. I can run the UniFi controller on my Ubuntu
 server. It took a little bit of work to get it installed because of port
 conflicts with GitLab and poor error messages, but once that was figured out, it
 works just fine.

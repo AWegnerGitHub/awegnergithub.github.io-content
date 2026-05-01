@@ -27,7 +27,7 @@ or another. Over time, this evolved to include other tags such as:
 
 The problem with these is that the requests are only seen by users active in the specific room where it was posted. 
 Other users across the network miss the request. **[Zephyr][4]** was built to resolve this problem. Zephyr monitors
-several rooms where these types of requests are frequent. These requests all all posted into a single [chat room][5]. 
+several rooms where these types of requests are frequent. These requests are all posted into a single [chat room][5]. 
 This provides users with a single room to monitor to see requests for multiple questions and sites across the network.
 
 Here is an example of what Zephyr's chat activity looks like during a spam wave:
@@ -64,7 +64,7 @@ There are, however, a few larger changes that I'd like to note below.
 
 ### Commands
 
-The other bots that Zephyr monitors respond to user input. Zephyr has very little that requires user interaction since all of it's
+The other bots that Zephyr monitors respond to user input. Zephyr has very little that requires user interaction since all of its
 posts are generated *by* user input. However, there have been times where I, as the bot owner, would like to be able to issue
 certain commands to it. My most common desire is to see a report of how many spam posts Zephyr has seen. Thus, Zephyr now responds
 to the command `spamreport` from me. It then prints out a nice summary of information. This information has been utilized in 
@@ -93,7 +93,7 @@ The first step was transferring data. I learned that there isn't a decent utilit
  - Convert the SQLite dump to MySQL format. Though both systems use SQL, there are slight differences in dialect. I utilized
  [this Python script][13] as a starting point. It got me most of the way there, but not completely.
  - Data clean up. Ugh. The dreaded part of the job for anyone who handles data. Fortunately, the script above did most of the work.
- I ended up fixing a couple stray back ticks that didn't convert properly, escaping a very extra quotation marks, and replacing
+ I ended up fixing a couple stray back ticks that didn't convert properly, escaping a few extra quotation marks, and replacing
  a few "smart quotes" (of both the [left][14] and [right][15] variety). I wish data at the office job was this easy to clean...
  - Import into MariaDB
 
@@ -102,7 +102,7 @@ Since the transfer to MariaDB, I've noticed no performance degradation. The erro
 ### Upgrade to utilize web sockets
 
 Originally, Zephyr used the [`watch`][16] method when monitoring a room. This method would long poll the room. It turns out that this is 
-pretty unreliable. I'd get multiple errors through out the week, ranging from `Connection Aborted` errors to random `404` messages. The 
+pretty unreliable. I'd get multiple errors throughout the week, ranging from `Connection Aborted` errors to random `404` messages. The 
 solution has been to switch to [`watch_socket`][17]. The only time I've had problems since this switch is when the Stack Exchange 
 web sockets go down. This saves a lot of restarts to get everything up and running again.
 

@@ -85,7 +85,7 @@ of those ports and could be used to automatically decide if the overhead lights 
 
 As the year passes, the sun rises and sets at different times of day. I received my garden after day light saving kicked in this
 year, but I am curious how it handles that too. Right now, the lights are controlled by the application to come on at a specific time,
-stay one for a specific number of hours and then turn off. My garden receives sunlight throughout the day. I'd like to use the overhead
+stay on for a specific number of hours and then turn off. My garden receives sunlight throughout the day. I'd like to use the overhead
 lights to augment that natural light. If it's a cloudy day - turn on the lights. If it's during that time of day where the sun goes
 over the corner of the room so the garden is in shade, turn on the lights. If it's early in the morning and the sun is shining on the
 plants, but it's just not the intensity recommended, turn on the lights at an appropriate intensity to augment the sun. As it rises and
@@ -93,7 +93,7 @@ places the garden in more direct sunlight, lower the lights.
 
 ### Wire harness around controller
 
-The garden has some nice groves built into it to hide the wiring for the lights. It works really well and makes the garden look
+The garden has some nice grooves built into it to hide the wiring for the lights. It works really well and makes the garden look
 nice when you are looking at the plants, or showing off to family members. But, this nice wiring solution doesn't exist once everything
 is inside the cabinet. It's a giant free for all of wires. There are light wires, the pump power wire and the power cord for the whole system.
 It is fortunate that the wires are long enough that things can be moved and adjusted, but it also means that there is a mass of
@@ -117,7 +117,7 @@ do and how to help.
 The system is solid. I am confident it's going to hold the weight of the water and the plants. The biggest thing I need to
 worry about is a power outage, which would drain the water (due to gravity) in the basin in the cabinet. If this happens
 soon after I refill the water, I suspect it'd overflow. It'll happen at some point, so we'll see how it works out. But,
-apart from using a larger basic for a three level garden, I don't think there is anything that needs to change here.
+apart from using a larger basin for a three level garden, I don't think there is anything that needs to change here.
 
 ### Support
 
@@ -131,7 +131,7 @@ customer loyalty.
 ### It works
 
 Rise Gardens is a young company. It's been my experience that young companies don't always turn out high quality
-productions on their first iteration. Rise Gardens has show that experience is not the rule. Everything worked as
+productions on their first iteration. Rise Gardens has shown that experience is not the rule. Everything worked as
 expected when I assembled it.
 
 The pump, the electronics, the assembly instructions. It all just works.

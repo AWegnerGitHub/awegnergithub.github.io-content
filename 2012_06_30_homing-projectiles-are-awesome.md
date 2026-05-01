@@ -24,7 +24,7 @@ to the front line constantly.
 
 ## Reflectiles
 
-Reflected Projectiles - Reflectiles, if you will - becoming homing projectiles when a Pyro air blasts them away. These
+Reflected Projectiles - Reflectiles, if you will - become homing projectiles when a Pyro air blasts them away. These
 newly tracking projectiles will track an opposing team member and hunt them down. If the player being tracked dies before
 the projectile hits them, the projectile will select a new target. 
 

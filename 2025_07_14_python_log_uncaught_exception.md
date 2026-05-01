@@ -11,7 +11,7 @@ Series: Programming Gotchas
 
 ## Introduction
 
-A well build application will use logging instead of `print` statements. An exceptionally well built one will log in such a way that additional context is added to each log message and be consumable by a log aggregation service. Perhaps I'll write up such an article in the future. For now though, let's focus on a single problem. 
+A well built application will use logging instead of `print` statements. An exceptionally well built one will log in such a way that additional context is added to each log message and be consumable by a log aggregation service. Perhaps I'll write up such an article in the future. For now though, let's focus on a single problem. 
 
 Here is some sample code to demonstrate the problem.
 
@@ -64,7 +64,7 @@ The `app.log` file contains a single line:
 
 Where is the gotcha here? The stack trace is right there!
 
-You are, of course, right. However, imagine that this was not a simple application, but instead a production application that sends logs to a central service. Your application crashed and now one was watching the console. Your `app.log` file has no information. It says the application started and then...nothing. What happened? Is it still running?
+You are, of course, right. However, imagine that this was not a simple application, but instead a production application that sends logs to a central service. Your application crashed and no one was watching the console. Your `app.log` file has no information. It says the application started and then...nothing. What happened? Is it still running?
 
 As you dig through running processes, or check a `/health` end point for responses, you find out that it isn't running. That took a lot of time, and production isn't responding.
 
@@ -124,7 +124,7 @@ Someone running this in the console will notice that there is not a stack trace 
             ~^~
     ZeroDivisionError: division by zero
 
-This is great! Now when troubleshooting this failing application and looking at the logs, we can easily see that an exception occurred. Additionally, with proper updates to the logging, more context can be provide such as the values of `a` and `b`. While it's easy enough to figure out that `b` is `0` in this simple example, the context in a larger production application could save a ton of troubleshooting time.
+This is great! Now when troubleshooting this failing application and looking at the logs, we can easily see that an exception occurred. Additionally, with proper updates to the logging, more context can be provided such as the values of `a` and `b`. While it's easy enough to figure out that `b` is `0` in this simple example, the context in a larger production application could save a ton of troubleshooting time.
 
 ## Conclusion
 
@@ -132,7 +132,7 @@ Logging is vital to knowing what your application is doing. But, it's even more 
 
 I know some of you are coming up with alternatives. Terrible ideas like wrapping the entire main block in a `try/except`. There are legitimate reasons to throw an exception. In this case, a `ZeroDivisionError` is a great exception to catch. But, you'd want to do it around as small of a code block as possible.
 
-This is a clean way to catch truly unexcepted exceptions, not something a developer could have anticipated and, perhaps, fixed with additional input validation.
+This is a clean way to catch truly unexpected exceptions, not something a developer could have anticipated and, perhaps, fixed with additional input validation.
 
 
  [1]: https://docs.python.org/3/library/sys.html#sys.excepthook

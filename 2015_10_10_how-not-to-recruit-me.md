@@ -12,7 +12,7 @@ Status: published
 
 A few days ago, on Meta.StackOverflow, a product manager [asked][1] for feedback on how they could make first contact between employers and potential employees more valuable to the potential employee. I provided my [feedback][2]. I've reposted it below, with some minor changes to further explain my ideals. 
 
-The summary of this entire post is: If I have to spend time to make my resume jump out and catch *your* attention, I expect you to spend just a little bit of time telling me about your company and the position you are recruiting for. I don't think a few sentences with these details is that much ask.
+The summary of this entire post is: If I have to spend time to make my resume jump out and catch *your* attention, I expect you to spend just a little bit of time telling me about your company and the position you are recruiting for. I don't think a few sentences with these details is that much to ask.
 
 ---
 
@@ -20,7 +20,7 @@ The summary of this entire post is: If I have to spend time to make my resume ju
 
 I want to know what the company does and I want to know who you are. I also want to know what positions you are looking to fill and a few details about the position are also important.
 
-## Messages I've recieved
+## Messages I've received
 
 ### Message 1
 
@@ -59,7 +59,7 @@ What this does not have:
 I actually talked to this recruiter and I have to say that I'm both disappointed in the company and myself for not noticing some red flags in this message. This wasn't an interview for a specific position. This was a general recruiting email and I suspect it was sent to multiple users. Flags that I missed in the message:
  
  - Lack of any details at all and use of buzzwords ("top technical talent", "fast paced", "start-up like", "eCommerce industry").
- - Discussion about personal career goals and technical background. Some of my back ground should be obvious from my Careers profile, SO profile and links on both. More importantly, I missed the "personal career goals" flag. The details they wanted were to see if my goals aligned with any open positions they had at the time. 
+ - Discussion about personal career goals and technical background. Some of my background should be obvious from my Careers profile, SO profile and links on both. More importantly, I missed the "personal career goals" flag. The details they wanted were to see if my goals aligned with any open positions they had at the time. 
  - When the discussion took place, the recruiter knew little more than my name. There were no questions about my careers profile (at the very least) or other projects I mentioned on my profile. 
  
 Shame on me.
@@ -76,7 +76,7 @@ This message isn't useful to me at all.
  
 I suspect this message showed up because I work for one of their largest clients, live 10 miles from their office and work, literally, right across the street from them. I didn't know that at the time though. I had to ask a co-worker if they'd ever heard of the company. They pointed out their office at lunch.
 
-I did not respond this this message.
+I did not respond to this message.
 
 ### Message 4
 
@@ -91,9 +91,9 @@ This message is worthless.
  
 ## Summary of the messages
 
-I need *details* and I need details more than what the salary is going to be. Obviously, I need to do some research about your company, if I've never heard of you. But, throw me a bone. Tell me a bit about your self. I had to make a fancy resume to get you to reach out to me. I did something that caught your eye. Now, do something that will catch mine. 
+I need *details* and I need details more than what the salary is going to be. Obviously, I need to do some research about your company, if I've never heard of you. But, throw me a bone. Tell me a bit about yourself. I had to make a fancy resume to get you to reach out to me. I did something that caught your eye. Now, do something that will catch mine. 
 
-I don't need to work at a company that is the next Google or Apple or start up flush with cash. But, I do want to know about the company before I talk to you. If you can't spend a few seconds explaining a bit about the company, I don't want to talk with you. I don't think a few sentences is that much to offer:
+I don't need to work at a company that is the next Google or Apple or start up flush with cash. But, I do want to know about the company before I talk to you. If you can't spend a few seconds explaining a bit about the company, I don't want to talk with you. I don't think a few sentences is that much to ask:
 
 > "Here at COMPANY NAME, we are looking for a POSITION with skills in LANGUAGE or experience in INDUSTRY. I see you have both and think you'd be able to help TEAM NAME with their on going project of MAKING THE WORLD BETTER. Your PROJECT ON GITHUB looks like you've dealt with aspects of this problem before. We've gotten some press recently about our innovations in this area (check them out HERE)."
 

@@ -147,7 +147,7 @@ for one month from now. Triggering off this due date, the butler would move card
 to "Recheck" if the due date was exceeded.
 
 When a card was moved to "Submitted Applications" the due date was changed to be
-three weeks from now. The thought here was that if I haded heard from the company
+three weeks from now. The thought here was that if I hadn't heard from the company
 in three weeks, I was probably being ignored and thus rejected.
 
 This automation helped keep the board clean and usable. I was always presented

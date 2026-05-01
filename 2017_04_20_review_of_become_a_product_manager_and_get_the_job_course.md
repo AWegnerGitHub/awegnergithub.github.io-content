@@ -32,7 +32,7 @@ information will be incredibly useful at work.
 That glowing review said, I had a hard time getting through the lessons. Despite the amount of useful information, I found
 the lessons to be...boring, at best. At worst, the instructors attempted to throw jokes in that just didn't work for this format.
 That type of distraction made it hard to stick with the lessons. Additionally, the quizzes that cropped up occasionally, were
-treated as a joke by the course creators. There were joke answers, there were joke explanations for answers and their were
+treated as a joke by the course creators. There were joke answers, there were joke explanations for answers and there were
 questions unrelated to the content but instead about the instructors.
 
 Finally, there are several points in the lessons that ask students to go the message board and provide feedback, do a quick activity,

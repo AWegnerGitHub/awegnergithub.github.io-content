@@ -26,7 +26,7 @@ I ignored the `output` directory in `.gitignore` on the source repository. Final
 
     DELETE_OUTPUT_DIRECTORY = False
 
-Without this, I was constantly destroying the output repository and had to reinitialize it. This prevents that from occuring.
+Without this, I was constantly destroying the output repository and had to reinitialize it. This prevents that from occurring.
 
 Now, a new post consists of writing up the [Markdown page][6], generating the page with the command below (or the [batch script][7]) and then committing and
 pushing the changes to the submodule to GitHub.
@@ -58,13 +58,13 @@ The two important fields to add or edit are:
 The final thing I needed in order to get rid of my server was control over DNS. I could revert back to GoDaddy, but after a little research found that CloudFlare's additional CDN and
 security was a "good thing" (because, you know, I'm such a highly traffic'd blog these days). Step one was signing up to CloudFlare. This was a 3-5 minute thing.
 
-Once signed up and signed in, I went to set up DNS. This was as simple as adding my domain name and waiting for CloudFlare to import my existing DNS records. With this, I kept by Google Apps
+Once signed up and signed in, I went to set up DNS. This was as simple as adding my domain name and waiting for CloudFlare to import my existing DNS records. With this, I kept my Google Apps
 email intact (which is what I was most concerned with). Next, I went and removed the `A` records. I replaced these with `CNAME` records pointing to my GitHub Pages URL. I also added a `www` CNAME
 pointing to the same location. Since I have Pelican configured to strip it with the setting below, it doesn't matter other than people expect to enter `www dot domain dot com` in their URL bar.
 
     SITEURL = 'http://andrewwegner.com'
 
-Last, I had to point by name servers to CloudFlare instead of my dedicated server. They provide a list of registrars to choose from. Select your registrar and follow the instructions. My biggest
+Last, I had to point my name servers to CloudFlare instead of my dedicated server. They provide a list of registrars to choose from. Select your registrar and follow the instructions. My biggest
 issue here was remembering my GoDaddy password. After I made it into my account, the steps to change name servers were very simple. Once those are saved, you wait for the changes to propagate and
 enjoy your new GitHub Pages / CloudFlare web page for free.
 

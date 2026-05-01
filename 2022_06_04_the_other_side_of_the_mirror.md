@@ -38,7 +38,7 @@ Interviewer: Had you used a technical assessment tool before Woven?
 >
 > This is not something that a small team can do when they need to grow quickly, which is where Woven came in. Woven was very helpful in getting us a set of scenarios that matched what we needed. One of them matched exactly what we were hiring for; the calculating and billing invoices was exactly what we needed a couple of engineers to build. So it was very, very fortuitous in that case. Woven made evaluating those candidates very easy.
 >
-> Other things like debugging and systems architecture were very helpful in identifying the senior engineers we were looking for at the time, because we were growing quickly. And Woven was able to identify a senior engineer versus somebody that had some experience but hadn’t done the full gambit of work that a senior engineer would have done in the past.
+> Other things like debugging and systems architecture were very helpful in identifying the senior engineers we were looking for at the time, because we were growing quickly. And Woven was able to identify a senior engineer versus somebody that had some experience but hadn’t done the full gamut of work that a senior engineer would have done in the past.
 >
 > So Woven really grew to cover most of engineering because it was so successful in bringing in high-quality engineers with very low turnover.
 

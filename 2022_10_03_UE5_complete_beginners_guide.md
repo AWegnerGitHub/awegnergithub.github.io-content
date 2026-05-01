@@ -49,7 +49,7 @@ However, the tutorials are rushed. On the better laid out ones, its obvious that
 get 2-3 steps ahead of what the video is showing. This makes following along difficult when these are literally just "click here, change this value"
 rapid fire instructions.
 
-Additionally, many of the instructions provided are to set exact object dimensions or locations, with no explaination of why or how these were found.
+Additionally, many of the instructions provided are to set exact object dimensions or locations, with no explanation of why or how these were found.
 The end result is a project that works...but I am left wondering _how_ certain dimensions were found. Was this done via guess and check? Did the
 instructor do fancy math to figure out where to place walls? Is there a systematic way that these could have been placed?
 
@@ -62,7 +62,7 @@ and have literally the same project as they do because of it.
 This course was better than the previous one, but I still feel like it could have been so much better. The overview portions of the course were
 really good. Unfortunately, they didn't translate as well into the tutorial lectures. While the tutorials accomplished the goal of building a
 simple game, they left out so much content that would be useful to know. The tutorials moved quickly and felt more like checking off boxes to
-make a game instead of designing, debugging, or even just providing a little explaination on how or why certain decisions were made.
+make a game instead of designing, debugging, or even just providing a little explanation on how or why certain decisions were made.
 
 I recommend this course for the overviews provided. If you know going into it that the tutorials will get you the game I have below, without a lot
 of the design decisions behind it, then all the better. However, don't take this just for the tutorials. They are quick and lack context on why

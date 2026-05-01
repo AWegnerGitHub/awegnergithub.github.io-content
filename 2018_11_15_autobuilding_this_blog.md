@@ -31,7 +31,7 @@ Using my settings, this would generate my HTML in the output directory. After th
 which had a `.gitignore` rule to ignore the `output` directory, and then I'd push the output directory.
 
 With all of this, I had a `requirements.txt` document so that I could theoretically generate a post from anywhere, but I failed to keep
-that updated an in sync with my development environment. On more than one occasion, I tried to write a post on my laptop (not my usual
+that updated and in sync with my development environment. On more than one occasion, I tried to write a post on my laptop (not my usual
 development machine) and failed due to the mismatched dependencies, missing theme and missing plugins.
 
 My development environment was fragile and couldn't be replicated with what I'd posted on GitHub. I'd also forgotten to push the `output`
@@ -48,10 +48,10 @@ I set out to change all of this with the following goals:
 Earlier this year, I made a [public post about how poorly Travis CI handles secure environment variables][4]. The public
 [GitHub issue][5] hasn't been worked on yet. The two issues identified still persist:
 
- - Secure variables can be show via simple string manipulation from a malicious commit
+ - Secure variables can be shown via simple string manipulation from a malicious commit
  - Secure variables are transferred to a third party if the repository is transferred
 
-I feel that the still need to be addressed. They are security issues.
+I feel that they still need to be addressed. They are security issues.
 
 That said, I am using a Travis CI secure environment variable in my deployment script. It is the GitHub token used to push
 to the repository that contains generated HTML. I have chosen to do this because I am the only one that will be committing
@@ -84,7 +84,7 @@ to contain all of the dependencies I needed to generate the site correctly. I am
 three years, except to fix a plugin that had broken.
 
 I had Pelican pinned to an old version that I hadn't used in over a year and I was missing dependencies that the Pelican plugins required. This took
-a lot more time to hunt down than I expected, and it's entire my fault for not keeping this updated over the years. Fortunately, with the setup, I have
+a lot more time to hunt down than I expected, and it's entirely my fault for not keeping this updated over the years. Fortunately, with the setup, I have
 to keep this updated or the site won't generate correctly.
 
 ### Generated Content
@@ -141,7 +141,7 @@ this isn't done, Travis CI will print out the command and may or may not properl
 
 The deployment ends by pinging Google and Bing with my `sitemap.xml`. This is an automated way of telling the two search engines
 that the site has been updated and they should recheck the sitemap and reindex as appropriate. It doesn't guarantee they will
-crawl the site immediately, but it does let them know their is an update before their next scheduled crawl.
+crawl the site immediately, but it does let them know there is an update before their next scheduled crawl.
 
 ### .travis.yml
 
@@ -187,7 +187,7 @@ Deployment is done via the `deploy` block, but all it is doing is calling my `de
 ## Conclusion
 
 This post should be the first one that is automatically deployed. I'm sure there are improvements I can and will make to my
-`deploy.sh` script or `.travis.yml` over time, but right now I'm happy with how it works. In testings, a deployment is taking
+`deploy.sh` script or `.travis.yml` over time, but right now I'm happy with how it works. In testing, a deployment is taking
 about a minute or two from the time I push a new article. This is about how long it took previously, but now I only need to
 perform a single push.
 

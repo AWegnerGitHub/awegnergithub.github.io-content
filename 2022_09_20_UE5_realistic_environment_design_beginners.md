@@ -37,7 +37,7 @@ But first, my concerns...
 
 ### Version
 
-The course was last updated in June of 2021. I mentioned about that Unreal Engine 5 came out in April 2022. The instructor is 
+The course was last updated in June of 2021. I mentioned above that Unreal Engine 5 came out in April 2022. The instructor is 
 using an early access edition of Unreal Engine 5. This means the UI is slightly different, a few bugs exist - namely landscape material
 blend is black on the non-early access version of Unreal Engine 5, and a few options have been merged or moved in the full release. 
 
@@ -59,7 +59,7 @@ With a title of "Realistic Environment Design", it's not surprising that the cou
 texturing, decorating and a few small environment things like collisions and basic lighting, I was able to create an island. It's not going 
 to win any awards for level design, but for a first time, I'm proud of it.
 
-Plus, the kids now was to add "all the things" to my island.
+Plus, the kids now want to add "all the things" to my island.
 
 Forgive the lack of true cinematics, and only 6 seconds of video...this wasn't covered in the course and I probably found an old way to do this 
 manually, but here is my island.

@@ -34,7 +34,7 @@ be useful to users - both new and experienced - would require a significantly la
 
 ### What went wrong?
 
-In my opinion, and as I [mentioned][1] in 2017, Stack Overflow has ignored it's user base. This is going to be a recurring
+In my opinion, and as I [mentioned][1] in 2017, Stack Overflow has ignored its user base. This is going to be a recurring
 theme in this post. For years, users provided feedback on meta, in dedicated user experience interviews and in chatrooms.
 This resulted in superficial changes and major rewrites. Yet, complaints still existed. These complaints turned off the
 experienced users that could produce the high quality documentation. Instead, Documentation became a reputation farming operation
@@ -59,7 +59,7 @@ Initially launched as ["Channels"][5], and later re-branded to "Stack Overflow f
 It uses the [old URL][6].
 
 Now, generating money is good. It's good for both the community and the company. Without money, the company can't survive. Without the
-company there is not Stack Overflow or community. My problem isn't with money generation. My problem is that, once again, community feature
+company there is no Stack Overflow or community. My problem isn't with money generation. My problem is that, once again, community feature
 requests for higher quality and moderation tooling to cultivate that higher quality was ignored.
 
 By all accounts, Teams seems to be doing well and bringing in revenue. I am hopeful that this translates into development time to
@@ -68,7 +68,7 @@ build out the features the community still clamors for.
 ## Meta hatred
 
 Meta. [It's murder.][7] Until it's not. Meta is how Stack Overflow communicates with the community. It's how the community
-communicates with itself. It's where governing principals/thoughts/guidance/sticky notes comes from. In short, meta is a
+communicates with itself. It's where governing principles/thoughts/guidance/sticky notes comes from. In short, meta is a
 large part of how Stack Overflow the company and Stack Overflow the community talks with one another. Decisions are questioned here,
 announcements are posted here, and little by little the site is made better.
 
@@ -90,7 +90,7 @@ Unfortunately, this whole blog post and resulting meta-drama *appears* to have c
 someone who felt unwelcome. That's fair. I believe they felt that way. However, from my point of view, Stack Overflow ignored
 their own users (some of whom had been saying the exact same thing for years) because it was suddenly posted on Twitter where
 the entire world could comment on things that may have been out of context. Instead of listening to their own users and the
-experiences those users had, Stack Overflow went into damage control mode and rapidly [updated it's "Be Nice" policy.][10]
+experiences those users had, Stack Overflow went into damage control mode and rapidly [updated its "Be Nice" policy.][10]
 
 Whether this is actually what happened or not is really beside the point. Many long time users had this perception. Meta was
 ignored. User feedback was ignored. Instead, the person that could shout the loudest and had made the most noise appeared to
@@ -227,7 +227,7 @@ was introduced into Q&A that helped the community maintain high quality posts. T
 is supposed to help. A quick look at the review queue numbers on Stack Overflow shows that they are still stable at the same point it
 was two years ago.
 
-My suggestion as a user, a moderator and someone interested in see Stack Overflow remain successful, is to focus on helping to manage
+My suggestion as a user, a moderator and someone interested in seeing Stack Overflow remain successful, is to focus on helping to manage
 the quality of your content. Users have been asking *for years* to be able to better handle poor content. They've asked for tools (both
 system tools and moderator tools). There have been projects started, stopped, restarted, and stopped again that are supposed to
 improve quality. Community tools have been built to help deal with quality problems. *Use some of this!*

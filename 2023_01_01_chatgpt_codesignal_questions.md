@@ -12,7 +12,7 @@ Series: ChatGPT Commentary
 ## Introduction
 
 [ChatGPT][1] has taken over a lot of technology news in the last month. Within days, [Stack Overflow banned ChatGPT][2], due to 
-[subtle errors that the chatbot is prone to make][3]. I've also written about how I hope that ChatGPT's existance will change 
+[subtle errors that the chatbot is prone to make][3]. I've also written about how I hope that ChatGPT's existence will change 
 the hiring processes in the technology industry, because of how easily it can solve [LeetCode][4] and [TestGorilla][5] technical interview
 problems.
 
@@ -24,7 +24,7 @@ _First a disclaimer_: I was Director of Engineering at [Woven Teams][6] in 2022.
 Woven is a competitor of CodeSignal. 
 
 The questions in this post are taken from [CodeSignal's blog][9], showing off four of their software engineering questions. CodeSignal provides an 
-explaination of the question, and a sample response with a quick analysis. 
+explanation of the question, and a sample response with a quick analysis. 
 
 ## Array Manipulation
 
@@ -36,7 +36,7 @@ Getting started...
 
 > You can see that it covers a basic array traversal and manipulation
 
-A small nitpick - depending on the hirnig process, this sentence can come across as condicending. Depending on where a technical interview fits 
+A small nitpick - depending on the hiring process, this sentence can come across as condescending. Depending on where a technical interview fits 
 in the process, it's possible that a non-engineer is the one that sees these results first. I would not count on my HR coworkers to understand
 "basic array traversal and manipulation", because it's not part of their skillset. 
 
@@ -56,11 +56,11 @@ Let's see how ChatGPT does. I copy and pasted the prompt into ChatGPT and waited
             b.append(a[i - 1] + a[i] + a[i + 1])
         return b
 
-It doesn't match the exact response that CodeSignal provides, but it functions with their test case. I am count that as a pass.
+It doesn't match the exact response that CodeSignal provides, but it functions with their test case. I'd count that as a pass.
 
 ## String Pattern Matching
 
-Another common theme in these recent tests I've run is pattern matching. This one, however, at least is more interesting that others. It still 
+Another common theme in these recent tests I've run is pattern matching. This one, however, at least is more interesting than others. It still 
 doesn't seem to reflect a real world problem, and is just a puzzle, but at least it's more unique. 
 
 ![CodeSignal - Pattern Matching][11]
@@ -113,8 +113,8 @@ to build a very small scale Tetris board.
 From my reading of the prompt, and looking at the solution logic, I agree. While this is still a puzzle type question, I don't recall seeing anything
 like this previously. The uniqueness, yet similarity to a game that most engineers will know, makes the question interesting to me. 
 
-The animated gifs are useful for a human to see what is expected in the solution, but shouldn't be need by ChatGPT, provided the prompt is descriptive
-enough. Copying and pasted the text into ChatGPT, provides the following response:
+The animated gifs are useful for a human to see what is expected in the solution, but shouldn't be needed by ChatGPT, provided the prompt is descriptive
+enough. Copying and pasting the text into ChatGPT, provides the following response:
 
     def solution(field, figure):
         # Get the height and width of the field
@@ -138,13 +138,13 @@ enough. Copying and pasted the text into ChatGPT, provides the following respons
 
 Unfortunately, test cases aren't provided for this one. However, looking at the two responses, there are a couple obvious differences. ChatGPT doesn't
 handle the size of the board at all. CodeSignal uses this size in multiple places of their code. ChatGPT also uses `all()` and `any()` checks, where 
-CodeSignal uses longer and more complicated `if` statements. Personally, I'd prefer the simiple `if` statements for readability. 
+CodeSignal uses longer and more complicated `if` statements. Personally, I'd prefer the simple `if` statements for readability. 
 
-I'm unsure how to score this one without the test cases, but will note that ChatGPT failed CodeSignal's first sentence in the solution explaination:
+I'm unsure how to score this one without the test cases, but will note that ChatGPT failed CodeSignal's first sentence in the solution explanation:
 
 > This solution starts by defining some dimensions that will be important for the problem. 
 
-I skeptical that without the size of the figure this will work as expected.
+I'm skeptical that without the size of the figure this will work as expected.
 
 ## Lookup Table
 
@@ -198,7 +198,7 @@ tools exist for developers to make their day to day lives easier. Those tools ca
 basic puzzles during the interview process.
 
 I can already hear people saying that they do face to face coding, so this would never work in their process. You may be right, but ask yourselves this:
-do you developers do face to face coding in their day to day work? If not, why are you evaluating your candidates with that type of pressure? 
+do your developers do face to face coding in their day to day work? If not, why are you evaluating your candidates with that type of pressure? 
 
 Adjust your interview process to reflect what you actually need your candidates to demonstrate. A puzzle isn't real work. Give them a real problem
 to talk through with your team. Evaluate their ability to solve a real problem so that you can learn about their thought processes, how they approach

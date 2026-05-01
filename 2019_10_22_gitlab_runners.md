@@ -10,7 +10,7 @@ Status: published
 
 ## Introduction
 
-It's been a year and a half since I set up GitLab. In that time I've used to it
+It's been a year and a half since I set up GitLab. In that time I've used it to
 store my personal code, keep track of features I want to add to my own projects,
 and generally loved it. One thing I haven't done though, is play with the CI/CD
 features. I've been wanting to, but never got around to it.
@@ -44,9 +44,9 @@ Once Docker is installed and working, we can install the GitLab runner.
     gitlab-runner install --user=gitlab-runner --working-directory=/home/gitlab-runner
     gitlab-runner start
 
-This is downloading the install package. Then it adds a new user, that the runner will run as. This is a nice security precaution to limit what the runner has access to on the system. It's not full security, but it does all me to restrict what that particular user has access to on the server.
+This is downloading the install package. Then it adds a new user, that the runner will run as. This is a nice security precaution to limit what the runner has access to on the system. It's not full security, but it does allow me to restrict what that particular user has access to on the server.
 
-Then the run is started.
+Then the runner is started.
 
 Next the runner needs to be registered. Log into GitLab, and navigate to
 the project that will be using this runner. It should be available at this link:
@@ -93,7 +93,7 @@ This pipeline has 4 stages.
 
 In the Static Analysis phase, I run various analysis tools over my code. The goal here is to ensure that my code, YAML documents, and documentation are easy to read and use.
 
-You'll notice the the xenon task has a warning in the image. I have the settings pretty strict in this pipeline, where I allow a very low [Cyclomatic Complexity][3]. In this project, I have one function that is just barely failing my strict settings. I have allowed the pipeline to continue if this one particular task fails.
+You'll notice the xenon task has a warning in the image. I have the settings pretty strict in this pipeline, where I allow a very low [Cyclomatic Complexity][3]. In this project, I have one function that is just barely failing my strict settings. I have allowed the pipeline to continue if this one particular task fails.
 
 I could either increase the allowed complexity in the code base to ignore the warning. Alternatively, I could not allow the pipeline to proceed until I fix this function. This was one of those instances where it hasn't been worth it to refactor the code, but I want to be reminded I *should* fix it, so I allow the pipeline to proceed and show me the error.
 
@@ -245,7 +245,7 @@ With this, the `python` tag will be automatically applied to the task. For a sim
       script:
         - xenon --max-absolute B --max-modules B --max-average B my_package/
 
-I previously mentioned that I allowed the xenon step to fail. This is accomplished with the `allow_failue: true` setting you see here. Since this setting is in place, the pipeline will proceed even if this single task fails.
+I previously mentioned that I allowed the xenon step to fail. This is accomplished with the `allow_failure: true` setting you see here. Since this setting is in place, the pipeline will proceed even if this single task fails.
 
 ### Manual deployment
 

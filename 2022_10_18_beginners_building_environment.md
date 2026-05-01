@@ -74,11 +74,11 @@ However, that's ok. Those birds are in the background. The animation on the wing
 The next clip is flying from the side, over the island that I put in the lake to break up the water. In this shot you get a better look at the
 waterfalls in the distance, the chance to see all four sides of the house and some more details on the roof and dock. If you look closely
 around the 12 second mark you can also see some floating rocks. This looks like some foliage that is "touching" the landscaping - in the very
-back - and didn't stay attached the the side of the landscape going into the water.
+back - and didn't stay attached to the side of the landscape going into the water.
 
 ::: youtube uvEKQTpy32o
 
-Finally the last clip in high quality is a fly over the lake. It starts by getting a good look at the waterfall (and some more floating rocks). It then flies through the fireflies crossing the river, and gives another look at the cabin and firepit. Finally it pulls back along the river to give a wide shot of the entire scene. A few things to point out - around the 14 second mark, you can see the mountain in the background floating above the landscape. I should have caught that, but I was more focused on keeping the cabin in the shot that I let the camera go to high and you can see a bit of level design that wasn't meant to be shown. Around the 16 second mark, as the camera pulls back, you can see the water texture start to change. I'm not sure what is causing that, but my guess is because of the lighting angles. I don't know how to fix it though.
+Finally the last clip in high quality is a fly over the lake. It starts by getting a good look at the waterfall (and some more floating rocks). It then flies through the fireflies crossing the river, and gives another look at the cabin and firepit. Finally it pulls back along the river to give a wide shot of the entire scene. A few things to point out - around the 14 second mark, you can see the mountain in the background floating above the landscape. I should have caught that, but I was more focused on keeping the cabin in the shot that I let the camera go too high and you can see a bit of level design that wasn't meant to be shown. Around the 16 second mark, as the camera pulls back, you can see the water texture start to change. I'm not sure what is causing that, but my guess is because of the lighting angles. I don't know how to fix it though.
 
 ::: youtube 4x7yg7FSAUA
 

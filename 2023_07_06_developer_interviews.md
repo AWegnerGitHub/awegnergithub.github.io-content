@@ -12,7 +12,7 @@ Series: Leadership Thoughts
 ## Some context
 
 I spent nearly five years at PacketFabric. In my role as Vice President of Software Engineering at the company, I rebuilt the hiring pipeline for
-the software engineering organization. As the company closed it's Series B round of funding we needed to bring on world class talent quickly.  I moved
+the software engineering organization. As the company closed its Series B round of funding we needed to bring on world class talent quickly.  I moved
 on to Woven Teams for a short stint as Director of Engineering where I not only built a tool used by thousands of engineers to get a new job, I hired
 for members of my team as well. In my current role at FleetOps, I've been working to ensure this previous experience is utilized to build a 
 candidate focused hiring process.
@@ -77,7 +77,7 @@ other interview processes.
 [I am a huge fan of remote work.][7] With the proper company structure, I can hire from a global candidate pool. It's important that the team is 
 able to support their new coworkers regardless of their location in the world. I've seen teams and companies expand their developer ranks by slowly 
 expanding the timezones they hire from instead of immediately jumping to global. The trade off here is that you are missing candidates that would be 
-good for you team immediately and in turn you are slowly training your team to operate on a broader set of timezones and be more asyncronous. 
+good for your team immediately and in turn you are slowly training your team to operate on a broader set of timezones and be more asynchronous. 
 
 How the team expands requires careful consideration of team dynamics and executive support. It should also be a discussion the hiring manager is 
 prepared to have with candidates. "Remote" does not always mean someone sitting a handful of timezones away. For some it may mean that they like to 
@@ -103,11 +103,11 @@ ticketing system and code repositories, and start making their first commits to 
 learn how system A talks to system B. Again, this is not a day one thing. A new user is going to get a firehose of information. Make it somewhat easier
 for them by not expecting them to be an expert by the end of week two.
 
-## Intangables
+## Intangibles
 
-A hiring process has a lot of intangables that can make your candidates feel better or worse about your company. A few examples are:
+A hiring process has a lot of intangibles that can make your candidates feel better or worse about your company. A few examples are:
 
- 1. How many interviews does the candidate have to go through? To many quickly burns out a candidate and makes the entire process feel like a waste of time. To few, or only technical interviews, doesn't give the candidate a sense of the company and the team.
+ 1. How many interviews does the candidate have to go through? Too many quickly burns out a candidate and makes the entire process feel like a waste of time. Too few, or only technical interviews, doesn't give the candidate a sense of the company and the team.
  2. Can the interviewers answer a candidate's questions? Candidates are interviewing you too. Does your interview team have the ability to answer a candidate's questions about the company, role expectations, day to day work, job perks, and more? Is the interview committee excited about a new teammate or are they stressed out/uninterested.
  3. Does the candidate receive updates on their application through out the process? Feedback is important and ghosting a candidate will quickly turn an excited candidate to one that doesn't want to join the team. 
  4. Communication with rejected candidates is important too. Coming back to ghosting a candidate and applicant tracking systems, these can be set up to send candidates emails based on what's happening with their application. If they are rejected, have the system send them a message. Please, PLEASE, don't use a default template for this though. There is a person receiving this email. They deserve more than "we're not moving forward at this time." If the hiring manager has talked to a candidate then this email should be more than the basic template sent to candidates rejected earlier in the process. A rejected candidate may reapply to a future role. How you inform them that you aren't hiring them right now determines if that candidate considers reapplying in the future.

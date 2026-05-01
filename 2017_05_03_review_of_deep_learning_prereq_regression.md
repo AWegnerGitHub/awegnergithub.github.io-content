@@ -29,7 +29,7 @@ states, several times, that simply copying the code isn't good enough in the lat
 succeed later. With that in mind, I spent most of these lectures relearning much of the math. The instructor provides several detailed
 "Theory" lectures and I found those helpful.
 
-After the theory is introduced, the next step is applying this in code. The instructor's code is short and to the point. It shows the
+After the theory is introduced, the next step is applying this in code. The instructor's code is short and to the point. It shows
 what was just taught and provides efficient `numpy` code to convert the theory into something workable.
 
 Once again, I'm happy with the instructor and their teaching style. I think this will go well with the future courses I'm planning on taking
@@ -42,7 +42,7 @@ I've posted my [IPython Notebooks][6] on GitHub for all three of the courses rel
 
 I am still looking forward to taking the [courses designed by the Lazy Programmer][7]. The series of prerequisites were very helpful in helping
 me to catch up on the skills I'll need, but didn't know (or remember much of) ahead of time. With the actual content coming up, I am hoping
-the lecture style and hands on coding sections continue be the same quality.
+the lecture style and hands on coding sections continue to be the same quality.
 
 The Linear and Logistic Regression courses didn't require much in terms of software - Python, numpy, pandas and matplotlib - but I still need to
 decide how I'm going to proceed with the courses. I'm not sure whether or not I want to set up a Linux machine or a virtual machine. Windows doesn't

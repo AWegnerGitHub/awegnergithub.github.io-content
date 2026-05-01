@@ -19,14 +19,14 @@ workload: PT33H
 
 One of my personal and professional goals for 2019 was to get a certification of some kind. That's a
 fairly broad requirement with no real reasoning behind it. I wanted to learn something and I wanted it
-to be helpful at work. As the year rapidly entered the last few months, I realized I not done anything
+to be helpful at work. As the year rapidly entered the last few months, I realized I had not done anything
 to reach the goal.
 
 After a brief talk with my management, it was decided that I should get an AWS certification. It'd help
 the company out with some work we are doing to become an AWS partner, and I'd get a certification that would
 be useful.
 
-With a read goal, I set out to learn something. I started by finding [Ultimate AWS Certified Developer Associate 2019][1]
+With a real goal, I set out to learn something. I started by finding [Ultimate AWS Certified Developer Associate 2019][1]
 on Udemy. At the time I'm posting this entry, the course has been updated to be useful for 2020. It's always a good sign
 that the creator is continuously updating their materials. This course was created by Stephane Maarek, who also
 holds the certification that is being taught about.

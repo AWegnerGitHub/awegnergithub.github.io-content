@@ -10,10 +10,10 @@ Status: published
 
 ## Introduction
 
-Not to long ago, applications for new membership in Team Vipers consisted of someone wandering onto the site, posting a
+Not t0o long ago, applications for new membership in Team Vipers consisted of someone wandering onto the site, posting a
 few words and an administrator saying they were accepted as a member. This worked when we were a small community. We
 aren't small any more. We have 5 servers and hundreds of players a day. Each server has their own sub-community. There
-are players joining the forums than entire groups of people have never met because they play exclusively on one game server.
+are players joining the forums that entire groups of people have never met because they play exclusively on one game server.
 
 Admins were also inconsistent in how (or if) they voted. Some admins didn't realize they could have a say, thinking it
 was a privilege granted to only the senior administrators. We've built a system to resolve many of these problems and to
@@ -41,7 +41,7 @@ added a check of a user's [Steam Reputation][2] instead.
 
 After a user applies, they are put into a two week hold. During this week it is expected they will stick around the forums
 and learn about the community they just applied to. Even better would be that they had done this before applying. While
-this two week hold is in place, the administration team will be able to cast they votes in a separate sub-forum. They can
+this two week hold is in place, the administration team will be able to cast their votes in a separate sub-forum. They can
 hold administration specific discussions - usually details that are important for admins to know, but don't *need* to be
 public. Once voting is complete, if they become a member, the system automatically grants appropriate forum and server
 related permissions.
