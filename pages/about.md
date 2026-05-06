@@ -1,4 +1,4 @@
-Title: About Andrew Wegner
+Title: About 
 Slug: about
 Status: published
 
