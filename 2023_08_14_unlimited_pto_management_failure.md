@@ -67,6 +67,29 @@ potential coworkers are taking off. Are these truly times off or are they expect
 determine if "unlimited PTO" is a benefit the company offers or recruiting buzzwords put in place to lure in new employees and it's 
 actually [a scam][4].
 
+## Common Questions
+
+### Is unlimited PTO actually a good benefit for employees?
+
+Often not. It's a great recruiting pitch, but a 2022 Namely survey found employees offered unlimited PTO took as many or fewer days than peers at companies with defined PTO (US employees average about 12 days off a year). 
+
+### Why do companies offer unlimited PTO?
+
+Partly recruiting and partly economics. It's an attractive pitch that reduces vacation negotiations and, in theory, helps fight burnout. For employers, unlimited PTO isn't accrued, so the company owes no payout for unused time when someone leaves. That payout is a cost defined plans carry: the Wall Street Journal in 2015 pegged it at roughly $1,900 per employee at companies under 500 workers and over $2,600 at larger ones.
+
+### How does unlimited PTO become a management failure?
+
+When it isn't administered fairly. Consider a worker denied a two-week vacation despite having taken almost no time off, while a teammate took two separate two-week vacations. That pattern risks a leave-discrimination claim. A core management job is preventing too many overlapping vacations, but with an "unlimited" policy it's hard to justify approving a month for one person and a day for another, or to define where abuse begins without contradicting the word "unlimited."
+
+### What are better alternatives to unlimited PTO?
+
+I prefer a set number of days or a minimum-and-maximum model. A set number means employees know exactly how much to take, and managers tend to be far less picky about it. A minimum/maximum model ("unlimited" with an asterisk) requires employees to take a minimum amount of time off in blocks rather than one-off days, which actively encourages downtime and better work-life balance.
+
+### What should candidates ask about unlimited PTO in interviews?
+
+How much time their potential coworkers are actually taking off, and whether they can fully disconnect or are still expected to take a call. Those answers reveal whether "unlimited PTO" is a benefit or a recruiting buzzword, since the policy is as much a matter of company culture as it is of the perk itself.
+
+
 
  [1]: https://www.wsj.com/articles/BL-ATWORKB-2313
  [2]: https://blog.namely.com/does-your-pto-plan-type-even-really-matter/

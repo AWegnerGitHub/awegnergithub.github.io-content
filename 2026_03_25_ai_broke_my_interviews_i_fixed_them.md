@@ -108,6 +108,34 @@ I've been hiring engineers across industries for nearly two decades and for comp
 What I've learned is that the interview process should evaluate what actually matters on the job: Can this person reason about complex systems? Can they communicate clearly and work constructively with others? Do they take ownership of outcomes, not just code? Are they honest about what they know and what they don't?
  
 No timed assessment answers those questions. A conversation does.
+
+
+## Common Questions
+
+### Why are traditional coding interviews like LeetCode and timed assessments no longer reliable?
+
+Freely available tools can pass them. In 2022-2023 I ran ChatGPT through LeetCode, TestGorilla, CodeSignal, Codility, HackerRank, and CoderByte, and it passed most, producing solutions that would have advanced through our pipeline. If a machine better at test-taking than many humans can pass your assessment, you're measuring test-taking ability, not engineering skill, and today's AI tools make anything vulnerable to early ChatGPT trivially solvable.
+
+### What do you look for when hiring engineers?
+
+Understand how someone thinks, how they communicate, and whether they take ownership of their work. The specific technology matters, but it matters less than those three things. The whole process is designed to reveal reasoning and lived experience rather than producible knowledge.
+
+### How do you design interviews that AI can't shortcut?
+
+Evaluate lived experience and reasoning, not output. For mid-level and senior engineers I use past-project deep-dives and ask "what would you do differently if you built this again?" There's no prompt that generates an authentic answer about a system you actually built. For juniors I use a tiny live-coding exercise, then ask them to write it a different way and explain the trade-offs, because the conversation is the evaluation, not the code. For leads and directors I shift to scenario and system-design discussions about organizational and architectural judgment.
+
+### What soft skills best predict long-term success on an engineering team?
+
+Three signals have been the strongest predictors across my career: ownership without ego (owning the outcome for the user, not just the code, without getting defensive); communication (explaining a technical decision to a non-engineer and disagreeing constructively); and curiosity and willingness to learn (energized by learning something new rather than threatened by it, which matters enormously amid AI disruption).
+
+### Should candidates be allowed to use AI during interviews?
+
+I don't ban AI tools, but I expect candidates to disclose when they use them. If a candidate uses AI and tells me, we can have a productive conversation about how they used it and what their own contribution was. If we've asked and they don't disclose, that's a failure of integrity that outweighs technical competence. When you're hiring someone for a team, trust matters as much as skill.
+
+### Are take-home projects a good alternative to timed assessments?
+
+No. They have the opposite problem. Without time limits or observation there's no way to verify who did the work, how long it took, or what tools were used, and even before AI they disadvantaged candidates with families or other commitments and were hard to evaluate consistently. Both formats optimize a narrow technical signal while telling you almost nothing about how a person thinks, communicates, or collaborates.
+
  
 
 [woven]: https://www.woventeams.com/

@@ -91,6 +91,31 @@ The question has shifted from whether remote engineering teams can work to wheth
 
 Remote engineering success requires intentional design rather than hoping things work out naturally. For leaders willing to invest in the right frameworks, the returns in productivity, talent access, and competitive positioning are substantial and measurable.
 
+## Common Questions
+
+### Do remote engineering teams actually perform worse than in-office ones?
+
+The data suggests the opposite when it's done right. A 2024 U.S. Bureau of Labor Statistics analysis across 60+ industries (2019-2023) found that a one-percentage-point increase in remote workers is associated with a 0.08-point increase in total factor productivity. As remote workers increase, company productivity rises. Remote engineering teams can outperform co-located ones when proper processes exist; distance becomes a liability only when intentional systems are missing.
+
+### How should engineering leaders handle time-zone differences?
+
+Treat it as a workflow-design challenge, not a scheduling problem. Use a follow-the-sun model with documentation-driven handoffs. Each transition carries clear context, explicit next steps and acceptance criteria, known blockers, and quality gates. Add a couple of intentional overlap windows per week (at least one for technical discussion and one for team culture); remote teams need fewer but more intentional synchronous touchpoints, not a replica of the in-office meeting cadence.
+
+### Why is asynchronous communication a competitive advantage for remote teams?
+
+It optimizes for collective intelligence over individual heroics. Documentation-first decision-making (writing down architectural decisions and specs before discussing them) forces precise thinking, enables input across time zones, creates institutional memory that survives role changes, and lets ideas win on merit rather than presentation. GitLab scaled from 100 to 280 engineers in 1.5 years fully remote and deliberately kept Merge Request Rate a team, not individual, metric to encourage collaboration.
+
+### What metrics should remote engineering teams use?
+
+Measure impact, not activity. The DORA metrics (deployment frequency, lead time for changes, mean time to recovery, and change failure rate) are a research-backed framework that works well for remote teams because they focus on outcomes rather than presence. Beyond DORA, track cross-team collaboration frequency, knowledge-sharing effectiveness (new-hire productivity timelines), sprint predictability, and technical-debt management, and make all of it visible and easy to act on.
+
+### What cultural practices make remote engineering teams sustainable?
+
+Three stand out: ownership over oversight (remote amplifies individual accountability, so hire for self-direction and support autonomous decision-making); mentorship through documentation (deliberate knowledge transfer via code reviews, architecture decision records, and documented retrospectives, since juniors can't absorb it by overhearing); and deliberate celebration and recognition, which remote teams must work harder at without spontaneous in-person moments.
+
+### What's the business case for remote engineering beyond productivity?
+
+Bureau of Labor Statistics data from 2024 links a one-point increase in remote workers to a 0.4-point decrease in the growth of office-building costs, sustainable economics on top of productivity. Companies that master remote practices can access talent anywhere rather than just expensive tech hubs, reduce operational overhead without sacrificing performance, and build more resilient teams. The question has shifted from whether remote teams can work to whether an organization will build the processes and culture to unlock the advantage.
 
 [1]: https://www.bls.gov/productivity/notices/2024/productivity-and-remote-work.htm
 [2]: https://www.itpro.com/software/development/software-engineer-remote-work-trends-rto

@@ -71,5 +71,29 @@ From the disk management tool, you can verify it's gone and format as normal.
 ![All EFI partitions removed][noefipartition]
 
 
+## Common Questions
+
+### Why won't Windows let me delete an EFI partition?
+
+Windows protects EFI (system) partitions from being removed through the normal Disk Management right-click menu so you can't accidentally destroy the partition a system boots from. To delete one you have to drop to the built-in `diskpart` command-line tool and force the deletion explicitly.
+
+### How do I delete an EFI partition on a USB drive in Windows?
+
+Open `diskpart` (Win + R, type `diskpart`), run `list disk` to find the USB drive, select it with `sel disk N`, run `list partition`, select the EFI partition with `sel partition N`, then run `delete partition override`. Once it's gone you can format the drive normally in Disk Management.
+
+### What does the `override` in `delete partition override` do?
+
+The `override` parameter tells `diskpart` to delete a protected partition (such as an EFI system partition) that it would otherwise refuse to remove. Without `override`, the deletion is blocked.
+
+### Why does my USB drive have an EFI partition in the first place?
+
+An EFI partition is often created when you use a USB drive to build bootable or recovery media. As soon as that partition exists, Windows treats it as a protected system partition and stops you from deleting it through the usual Disk Management menu.
+
+### How do I make sure I'm deleting the right disk in diskpart?
+
+Run `list disk` and identify the drive by its size. A USB stick is usually far smaller than your internal drives (14 GB in this example) and may show free space. Selecting the wrong disk and deleting its partitions can leave your system inoperable, so confirm the disk number before you select and delete anything.
+
+
+
  [efipartition]: {attach}images/efi-partition.png
  [noefipartition]: {attach}images/efi-partition-removed.png

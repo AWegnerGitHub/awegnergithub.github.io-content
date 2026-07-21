@@ -93,6 +93,32 @@ Software development is a team sport. The best players are the ones who make tho
 
 To be truly successful, your senior engineers should have a mix of both hard skills (like coding) and soft skills (like problem-solving). These are the people who will take your company to the next level.
 
+## Common Questions
+
+### What soft skills should you look for in a senior software developer?
+
+My list is ten: excellent communication, an ownership mentality, ethics, willingness to fail, openness to discussion, mentorship, time management, empathy, leadership, and creativity. The through-line is that software development is a team sport and the best senior engineers make the people around them better. They need a mix of hard skills like coding and soft skills like problem-solving.
+
+### Why do soft skills matter so much for senior engineers?
+
+No one works in a vacuum. A senior engineer interacts with teammates, other teams, managers, and end-users, so technical ability alone hits a ceiling quickly. Soft skills determine whether someone can communicate a decision, take ownership of outcomes, mentor others, and lift the whole team. That's what separates a strong senior engineer from someone who can only write code.
+
+### What does an "ownership mentality" look like in a senior engineer?
+
+They see the dirty underbelly of the system, accept it, and work to clean it up, improving stability one task at a time even when the changes aren't flashy or headline-grabbing. They're not too big for the small things: a senior engineer can and should spend time on support to learn users' pain points and use that knowledge to improve the system.
+
+### Why is a willingness to fail a desirable trait in engineers?
+
+Failure is an opportunity to learn. Senior engineers chase ideas, explore hypotheses, and try unique things; when something fails, they learn from it, admit mistakes, take constructive feedback easily, and use that knowledge to help their team learn too. Not every idea succeeds, and that's expected.
+
+### Do you need a management title to be a leader on an engineering team?
+
+No. A person doesn't need "Engineering Manager" in their title to be a leader. Leadership takes many forms, and the most important part is inspiring those around you, whether by driving technical discussions, mentoring, or having an idea and knowing how to get buy-in and execute on it. Leaders make things happen and don't wait for permission.
+
+### How important are empathy and mentorship for senior developers?
+
+Both are core. Employees aren't machines (they have feelings and lives outside work), so emotional intelligence, especially in a remote environment, matters for building strong professional relationships. Mentorship uses a senior engineer's position of trust to guide junior teammates, and it doesn't require scheduled hour-long sessions: hopping on a troubleshooting call and inviting others to observe and ask questions is often enough.
+
 
  [1]: https://www.woventeams.com/soft-skills-for-senior-software-developers/
  [2]: {filename}2023_08_14_unlimited_pto_management_failure.md

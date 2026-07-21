@@ -128,6 +128,28 @@ One last thing, because "your company is broken, run" would be the wrong takeawa
 
 They were just the silence, in different rooms, waiting for you to notice.
 
+## Common Questions
+
+### Why do engineering organization problems only show up after week two?
+
+Week one is onboarding theater. Everyone's on their best behavior and nothing is under stress, so the gap between how a company says it works and how it actually runs stays invisible. Week two is when the description meets reality: the first release, the first metric request, the first incident. The flags surface the first time you actually need information, a decision, or an escalation to move.
+
+### What are the biggest red flags to watch for when joining an engineering organization?
+
+A stated release cadence the receipts don't support; metrics that track activity (lines of code, tickets closed) instead of outcomes; a founding engineer everyone routes decisions through (a bus-factor risk and a team that never learned to decide for itself); ownership of a decision that only becomes yours when it goes wrong; and silence during a customer-impacting outage because bad news doesn't travel up or out.
+
+### How can a new engineering leader detect these problems early?
+
+Go looking for the receipts. For every confident claim about how the company works, ask what artifact would prove it: the changelog, the ticket history, the incident timeline. Then go find it. When it doesn't exist, you've usually found where the story and reality drifted apart. At scale you push that habit down so directors ask "what artifact would prove this?" as a reflex, and you watch for bad news that arrives late or suspiciously pre-polished.
+
+### Which problem should an engineering leader fix first?
+
+Start with how bad news travels during an incident, the escalation path. It's the flag with customers already in the blast radius, so a broken pipe there costs you fastest, and fixing it buys credibility to spend on releases and metrics later. Many of the other symptoms turn out to run downstream of the same source: information not moving.
+
+### How does a leader's own behavior contribute to these red flags?
+
+How information moves is downstream of how leaders treat the person carrying it. The team watches what happens to the first person who brings bad news (a broken release, an ugly number) and prices their own honesty accordingly. Before hunting these flags in an inherited org, check your own reaction to the first piece of bad news, because it sets the tone for every piece after it.
+
 [1]: https://hbr.org/books/watkins
 [2]: https://martinfowler.com/bliki/TestPyramid.html
 [3]: https://kanban.university/flow-efficiency-a-great-metric-you-probably-arent-using/

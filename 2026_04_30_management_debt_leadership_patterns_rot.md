@@ -84,6 +84,32 @@ Across the leadership roles I've held, the leaders I've seen succeed long-term a
 
 Management debt is real. It accumulates the same way technical debt does. It costs at least as much, and it doesn't show up in any dashboard you already track. The next time you catch yourself thinking "we should really restart that ritual" or "we should really write down who owns that decision," that's not a nice-to-have on a backlog. That's overdue maintenance, and the longer you defer it the more expensive it gets.
 
+## Common Questions
+
+### What is management debt?
+
+It's the gap between how leadership is supposed to operate and how it actually operates, the engineering-leadership sibling of technical debt. It shows up as decision rights that quietly migrate to whoever speaks up first, skip-levels that became calendar holds nobody runs, planning sessions that turned into backward-looking status reviews, and feedback saved up for the annual review. None of it looks like failure in the moment; it just costs more than it should every time you touch it.
+
+### How does management debt accumulate?
+
+Rarely through a bad decision. Usually through a deferred one. A skip-level gets cancelled for a customer escalation, then again, then quietly falls off the calendar "until things calm down," and things never calm down. A team starts skipping architecture review for "small" changes and the definition of small keeps expanding. Each concession is defensible at the time, and at no single point did anyone decide to make the system worse.
+
+### What are the most common patterns of management debt?
+
+Decision-rights drift (ask three people who owns a call and get three answers); ritual decay (skip-levels and reviews slip, hollow out, then become empty calendar holds); feedback latency (feedback batched into year-end reviews instead of delivered close to the event); and meeting metabolism, or "Calendar Tetris" (recurring meetings expanding until deep work is impossible). Each has its own diagnostic and its own fix.
+
+### How do you fix drifting decision rights and decaying leadership rituals?
+
+For decision rights, list the decisions that matter, write down who actually owns each one today versus who should, and where the lists disagree, make and communicate the call. That exercise surfaces drift on nearly every leadership team, especially fast-scaling ones. For rituals, either kill them (and confirm you're getting their signal another way) or restore them to their original purpose; keeping a hollow calendar hold is the worst option, because it teaches people that leadership doesn't take its own rituals seriously.
+
+### How can a leader clear out unnecessary recurring meetings?
+
+Cancel everything recurring for two weeks, then re-add only the meetings someone actively missed. The ones nobody noticed missing were calendar inertia, not signal. Shopify did this at scale in early 2023, deleting roughly 12,000 recurring meetings with a two-week cooling-off period, and reported a 33% drop in meeting time and a 25% increase in completed projects.
+
+### Why can management debt be more damaging than technical debt?
+
+Because technical debt slows code velocity, but management debt slows everything: decisions that aren't made on time, feedback that doesn't land, and rituals that produce no signal. It shows up as engineers working harder for less output and strategic plans everyone agrees with but nobody executes, and unlike technical debt it appears on no dashboard. Engineering leaders are fluent in managing technical debt; they need the same discipline for their own leadership practices: make it visible, talk about it, and refactor it deliberately.
+
 [1]: {filename}2025_04_08_tech_debt_strategic_approach.md
 [2]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308183
 [3]: {filename}2025_04_01_scaling_teams_without_losing_culture.md

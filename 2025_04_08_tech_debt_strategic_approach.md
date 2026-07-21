@@ -103,6 +103,31 @@ I've found that making debt visible through automation, metrics, and clear commu
 
 As engineering leaders, our role isn't to eliminate all technical debt. That would be neither possible nor desirable. Instead, our job is to manage technical debt as thoughtfully as we would manage financial debt. The goal is to take it on deliberately when the terms make sense, monitoring its impact, and paying it down strategically to maximize long-term value.
 
+## Common Questions
+
+### How should engineering leaders approach technical debt?
+
+Manage it like financial debt. Take it on deliberately when the terms make sense, monitor its impact, and pay it down strategically to maximize long-term value. The job isn't to eliminate all technical debt (that's neither possible nor desirable) but to tell strategic debt that enables velocity apart from toxic debt that compounds, and to keep it part of strategic conversations rather than an afterthought.
+
+### When should you pay down technical debt versus defer it?
+
+Address debt that limits key business initiatives; defer debt that doesn't impact current priorities. A guiding principle is that the cost to fix almost always rises with time. Moving one version forward is easier than moving three, and finding problems in development is cheaper than in QA, which is cheaper than in production, with security the steepest curve of all. Sometimes fixing debt actually accelerates delivery: in one case, building a clean new API proved faster than continuing to add features to the creaking original.
+
+### How do you make technical debt visible to a team and to executives?
+
+Make the abstract concrete. A "stoplight" system tracks the end-of-life dates of libraries, frameworks, and language versions so red-light dates create a clear priority list, and automation like Dependabot generates ongoing pull requests so the whole organization develops awareness of technical health. With non-technical executives, focus on why it needs addressing, the consequences of deferring (unsupported versions, active exploits, vendors that won't help), and an impact analysis against existing priorities.
+
+### What's the best way to keep technical debt under control long-term?
+
+Treat it like regular household maintenance, small continuous improvements, rather than occasional "debt sprints" that interrupt momentum and frame technical excellence as exceptional. Automate low-level debt (Dependabot, OWASP scans, accessibility checks) so prevention is baked in, embed standards in the linter and CI/CD so quality is the path of least resistance, and preserve context with architecture decision records. Assigning new engineers small debt tasks during onboarding also makes debt work a normal part of the job.
+
+### Why is preventing technical debt better than fixing it later?
+
+The cost to fix and clean up compounds over time. Preventing unnecessary debt catches issues before they get embedded: automated checks early in development, clear standards that act as enablers rather than barriers, thorough test suites, CI/CD quality gates, and service boundaries. In my experience it's the most efficient strategy there is, making it easier to do things right than to create new debt.
+
+### What are the real costs of unmanaged technical debt?
+
+It progressively slows development (what took days starts taking weeks), demands more hands-on maintenance, and most damagingly stifles innovation as engineers spend creative energy working around limitations instead of solving new problems. Eventually it becomes visible to customers through outages, performance issues, or security vulnerabilities, by which point the fix is more expensive and disruptive than proactive management would have been.
 
 [1]: https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide
 [2]: https://owasp.org/

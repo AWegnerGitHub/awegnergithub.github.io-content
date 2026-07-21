@@ -169,6 +169,32 @@ Once you've set up your datasets, you can see they were all created and how much
 With that, we've finished setting up ZFS on Ubuntu 16.04. I set up a few datasets for my purposes. I'm one step closer to getting this running and handling all of the 
 digital data in the house. 
 	
+## Common Questions
+
+### Why use ZFS for a home NAS or backup server?
+
+ZFS protects against data corruption and offers several other features. When used with dual parity the pool can survive losing up to two drives, which is insurance against a data-loss scare.
+
+### How do I install ZFS on Ubuntu?
+
+Update the system first (`sudo apt-get update && sudo apt-get upgrade`), then run `sudo apt-get install zfs parted`. The `parted` package is used to prepare the disks before creating the pool. You can confirm it's ready with `sudo zpool status`, which should report `no pools available`.
+
+### What is raidz2 in ZFS?
+
+`raidz2` is dual-parity redundancy: the pool can tolerate the failure of up to two drives and still recover the data. 
+
+### Why add a GPT label to each disk before creating a ZFS pool?
+
+Brand-new drives need a `GPT` label so ZFS doesn't complain about an `invalid vdev specification` when you create the pool. Add it per drive by running `sudo parted /dev/sdX`, then `mklabel GPT`, then `q`.
+
+### Should I create a ZFS pool using /dev/sdX or /dev/disk/by-id?
+
+Use the `/dev/disk/by-id/` paths rather than `/dev/sda`-style device paths, because the latter can change (for example when you replace a drive) and break the pool. The post recommends the `by-id` name that includes the drive's serial number, since it makes identifying a problem disk easier later.
+
+### What is a ZFS dataset and how do I create one?
+
+A dataset is a ZFS file system, volume, snapshot, or clone that can be managed and configured independently. You can compress or set a quota on one dataset without affecting the others. Create one with `sudo zfs create data/storage`; child datasets like `data/storage/music` inherit attributes from their parents. Use `sudo zfs list` to see them and their available space.
+
 	
  [1]: {filename}2018_02_12_a_new_server_for_the_house.md
  [2]: https://en.wikipedia.org/wiki/ZFS

@@ -64,6 +64,29 @@ For my purpose, this 15 minute exercise not only answered the question I was see
 While I didn't need those to answer my question, I'd encourage someone looking to introduce this to a team, to look at the [capabilities of MobSF][8]
 
 
+## Common Questions
+
+### How do I install MobSF on Windows?
+
+Install Docker Desktop for Windows (you may need to log out and back in), then run two commands: `docker pull opensecurity/mobile-security-framework-mobsf:latest` and `docker run -it --rm -p 8000:8000 opensecurity/mobile-security-framework-mobsf:latest`. Once it's running, open `http://127.0.0.1:8000` in your browser.
+
+### What is MobSF used for?
+
+Mobile Security Framework (MobSF) analyzes mobile apps such as Android APKs. Its dashboard surfaces the app's permissions, attached certificates, potential security vulnerabilities, code analysis, URLs detected in the code, hard-coded secrets, and strings. All of it helps a team build a more secure mobile application.
+
+### What port does MobSF run on?
+
+The Docker command maps it to port 8000 on the local machine, so you access MobSF at `http://127.0.0.1:8000`.
+
+### How can I get an APK to analyze if I didn't build it myself?
+
+Find the app on the Google Play Store, open its details page, and copy the URL. Then paste that URL into APKCombo's downloader, generate the download link, and download the APK. You can then upload it into MobSF.
+
+### Do I need to set up the MobSF dynamic analyzer?
+
+Not necessarily. For a quick static analysis of an APK (what this walkthrough covers), the author skipped the dynamic analyzer and didn't need it. For a team introducing MobSF more broadly, adding dynamic analysis can provide more detail.
+
+
 
 
  [1]: https://github.com/MobSF/Mobile-Security-Framework-MobSF

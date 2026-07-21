@@ -40,3 +40,25 @@ is likely that this step is not needed after performing the previous step, but i
 Finally, restart MySQL
 
     service mysqld start
+
+## Common Questions
+
+### What does "Table is marked as crashed and should be repaired" mean?
+
+It's a MySQL error (error 145) indicating a MyISAM table has become corrupted. It happens after MySQL shuts down unexpectedly, especially while the tables are in use. A server power failure does it, and so does using `kill` to stop MySQL.
+
+### What causes MyISAM tables to crash?
+
+Unexpected shutdowns while the tables are being used. That includes a power failure to the whole server, or MySQL itself having issues and being stopped with the `kill` command. Unexpected shutdowns while these tables are active do not make MyISAM happy.
+
+### How do I repair a crashed MyISAM table?
+
+Find where the table's files live with `locate *.MYI` and `cd` into that directory, then stop MySQL with `service mysqld stop` so nothing accesses the tables during the repair. Run `myisamchk -r --force --safe-recover *.MYI`, then `myisamchk --force --fast --update-state *.MYI`, and finally restart MySQL with `service mysqld start`.
+
+### Why do I need to stop MySQL before repairing the tables?
+
+Stopping MySQL ensures the tables aren't being accessed while the repair runs. If you skip this step and the tables are in use during the repair, the repair may not succeed.
+
+### What's the difference between the two myisamchk commands?
+
+The first, `myisamchk -r --force --safe-recover *.MYI`, performs the actual recovery and may take a while depending on table size. The second, `myisamchk --force --fast --update-state *.MYI`, makes sure the table states are updated and fixes any minor indexing issues; it usually isn't strictly necessary after the first step and only takes a few seconds.

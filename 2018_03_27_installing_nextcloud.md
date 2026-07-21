@@ -171,6 +171,33 @@ it "just happens". If I take a picture at home, it's backed up within seconds. I
 minutes of me getting home.
 
 
+## Common Questions
+
+### What do I need to install NextCloud on Ubuntu?
+
+You need a database (MySQL or MariaDB), a web server (this guide uses Apache2), and PHP with several modules, since NextCloud is written in PHP. After installing them you enable Apache's rewrite module with `sudo a2enmod rewrite` and restart Apache.
+
+### How do I create the database for NextCloud?
+
+Log into your database as a user that can create databases and users (for example `mysql -uroot -p`), then run `CREATE DATABASE nextcloud;`, grant privileges to a dedicated user with a secure password, and `FLUSH PRIVILEGES;`. You'll enter that username and password again when you finish setup in the browser.
+
+### Can I upgrade NextCloud by skipping versions?
+
+No. NextCloud does not support skipping major versions. You must upgrade one version at a time (12 to 13, for example) and cannot jump directly from 12 to 14. Upgrades are applied from the web UI under Settings, then Basic settings, when an update is available.
+
+### Why set up SSL/HTTPS for NextCloud?
+
+The install is exposed to and accessed over the internet, and the goal is not to send data unencrypted. The virtual host redirects port 80 traffic to HTTPS on 443 using Let's Encrypt certificates. It matters especially for the sync clients, which can't be limited to specific networks, so encryption protects photo uploads.
+
+### How do I automatically back up phone photos with NextCloud?
+
+Install the NextCloud client app on your device (clients exist for Android, iOS, and Windows), point it at your installation's URL with a username and password, and enable automatic photo uploads. The author enabled auto-uploads only on wireless connections to avoid using mobile data.
+
+### Which NextCloud settings do I need to change in config.php?
+
+The key ones are `datadirectory` (pointed at your storage location, in this case a ZFS dataset) and `overwrite.cli.url` (set to the HTTPS URL you want to use). If `config.php` doesn't exist yet, copy it from `config.sample.php`.
+
+
  [1]: {filename}2018_02_15_setting_up_zfs_on_ubuntu.md
  [2]: {filename}2018_02_12_a_new_server_for_the_house.md
  [3]: https://nextcloud.com/

@@ -190,6 +190,31 @@ Please join the conversation over on LinkedIn. I've split this article across th
 - [What skills do junior engineers need to be successful alongside AI?][12]
 
 
+## Common Questions
+
+### Is AI actually making software engineers more productive?
+
+Not uniformly. A METR randomized controlled trial found AI tools made experienced open-source engineers 19% slower, not faster. Software development's value is in thinking speed, not typing speed. Engineers spend the supposedly saved time reviewing, understanding, and debugging AI output for missed requirements and edge cases. McKinsey found nearly all companies are investing in AI but only 1% believe they're at maturity.
+
+### What is the "junior engineer crisis" caused by AI code generation?
+
+Traditional progression relied on juniors writing code, debugging their own mistakes, and learning from failure under senior mentorship. When AI generates the code, juniors debug the AI's work rather than their own, and senior reviews shift from teaching moments to validating AI output. The pipeline that builds engineering judgment breaks down, risking a generation that never develops problem decomposition, debugging intuition, and architectural thinking. That raises the question of who becomes the next senior engineers.
+
+### How should engineering leaders integrate AI without hollowing out their teams?
+
+Rather than adopting or rejecting AI wholesale, integrate it thoughtfully while preserving the human elements that build strong teams. Redefine what "junior engineer" means (from code generator to code curator who evaluates AI output for correctness, efficiency, and edge cases), use AI as a teaching tool alongside human mentorship focused on architecture and problem-solving, and make knowledge transfer deliberate through recorded architectural decisions and pair problem-solving. Successful transformation requires deliberate strategy, not just tool adoption.
+
+### Does AI mean companies should stop hiring junior engineers?
+
+No. AI doesn't eliminate the need for junior developers; it changes what makes them valuable. The most valuable juniors become code curators: able to think about entire systems, assess code quality, break problems down clearly, and build a way to debug code they didn't write themselves. Employment for software engineers is still projected to grow, but the nature of the talent is evolving.
+
+### Are "AI-free" coding sessions a good idea for engineers?
+
+Some teams run AI-free sessions to build early troubleshooting and debugging muscles. I see value in the training idea, but the approach feels somewhat academic to me. A junior engineer is a professional, not a student, and it shouldn't feel like taking a tool away. I'd rather teach how to use AI correctly while filling in the underlying knowledge gaps.
+
+### Which organizations will win the AI transition in engineering?
+
+The ones that preserve human judgment while using AI's capabilities. They invest in developing people as they adopt new tools, create space for engineers to learn, and maintain their cultural values while adapting processes. The choices leaders make now about hiring, training, mentorship, and team structure will decide whether AI makes teams stronger or merely faster; the juniors we hire today become the seniors leading teams in 2030.
 
 [1]: https://itsconchur.substack.com/p/41-of-code-is-now-ai-generated-should
 [2]: https://blog.pragmaticengineer.com/software-engineer-jobs-five-year-low/

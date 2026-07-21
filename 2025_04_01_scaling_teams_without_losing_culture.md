@@ -78,6 +78,33 @@ Scaling engineering teams successfully requires balancing technical excellence, 
 The journey from 5 to 50+ engineers is challenging, but with intentional leadership, it can result in not just a larger team, but a more capable, cohesive and impactful organization.
 
 
+## Common Questions
+
+### What's the hardest part of scaling an engineering team?
+
+Scaling is about much more than adding headcount. It's sustainable growth that preserves culture while evolving systems. The two consistent challenges are hiring quickly without compromising quality or cultural fit (handled by being crystal-clear on technical requirements while staying flexible about where a candidate's talents best serve the team), and knowledge transfer at scale, since the organic diffusion that works at five engineers breaks down and creates silos as you grow.
+
+### How do you preserve engineering culture while growing quickly?
+
+With intentionality. Integrate new hires into meaningful work immediately (real problems, not busywork), which signals they're valued from day one; require support work to happen in public channels so everyone learns and recurring problems become visible; and maintain visual documentation such as architecture diagrams, workflow charts, and org maps, kept updated as systems evolve.
+
+### How should team structure change as an engineering organization scales?
+
+There's no one-size-fits-all. I've built dedicated backend, frontend, and QA teams as well as cross-functional pods, and the right choice depends on your product, business needs, and existing strengths. What matters most is accepting that structure must evolve. The flat organization that worked at 5 engineers won't function at 50, and being transparent about why restructuring happens helps the team accept it.
+
+### How do you keep communication healthy as a team grows?
+
+Build a communication cascade. As executive reality makes daily contact with everyone impossible, maintain regular 1:1s with your direct reports and skip-levels on a consistent cadence, and have your reports do the same, creating multiple pathways for information to flow up and down. Engineers need to see their feedback travel up the chain and produce changes, or they disengage.
+
+### How do you measure whether scaling is actually working?
+
+Look beyond headcount to whether the growing team is more capable, not just more numerous. Useful metrics include time to first meaningful commit (how fast a new engineer adds value), feature deployment velocity (is delivery holding or improving as you grow), new product launch timelines, and support-queue metrics (are new engineers contributing to support while maintaining quality).
+
+### Why should engineering teams interact with other departments while scaling?
+
+Because engineers who understand the business rationale make better technical decisions and anticipate future needs. Keeping teams connected to product, sales, and customer success from day one provides context about why features are requested, which lets engineers build the right level of flexibility where it's actually needed rather than adding unnecessary complexity or redesigning systems later.
+
+
 
 [1]: {filename}2023_07_06_developer_interviews.md
 [2]: {filename}2022_07_01_softskills_senior_devs_need.md

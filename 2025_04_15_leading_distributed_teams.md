@@ -88,6 +88,32 @@ The most successful technical leaders in this environment will be those who desi
 
 These capabilities represent the future of engineering leadership at the highest levels. For aspiring technical leaders, developing comfort and competence in distributed team management isn't just a nice-to-have—it's increasingly essential preparation for senior technical leadership roles.
 
+## Common Questions
+
+### What makes distributed engineering teams successful?
+
+Intentional systems, not proximity. The foundation is a strong bias toward asynchronous communication and a document-first culture: documenting decisions thoroughly, writing specs before implementation, and recording and summarizing synchronous sessions so people in other time zones can catch up. Tools are just connective tissue; the principles for how they're used matter more.
+
+### How do you make decisions across many time zones without stalling?
+
+Use a time-gated decision framework. For non-emergency decisions, post a proposal to a shared channel with a clear deadline (for example, "I'll create Jira stories from this approach next Monday unless concerns are raised"). That gives every region time to weigh in while creating a firm decision point that prevents endless deliberation. Explicitly tag stakeholders whose input is required, and let available team members make time-sensitive calls that can be reviewed later.
+
+### How should you evaluate performance on a distributed team?
+
+Focus on measurable outcomes rather than observable behaviors. Metrics like whether teams hit targets and deliver on time and budget, and whether they meet KPIs for deployments, reviews, specs, and delivery. For managers, evaluate whether they hold regular 1:1s with everyone regardless of location and build clear succession and training plans. Skip-level 1:1s across all regions ensure distance doesn't become an invisible barrier to advancement.
+
+### How should on-call and support work on a globally distributed team?
+
+Use a follow-the-sun rotation where team members cover support during their local working hours, giving around-the-clock coverage without anyone working unusual hours. Two principles govern true off-hours escalations: anyone contacted outside working hours gets compensatory time off (which makes people think twice before waking a colleague), and every off-hours escalation triggers a review of documentation and training, since needing to wake someone reveals a knowledge-distribution gap to close.
+
+### What do you look for when hiring for a distributed team?
+
+In addition to the technical requirements, consider clear written and verbal communication, since team members interact with colleagues and customers across linguistic and cultural backgrounds; comfort with asynchronous work and self-direction; strong documentation habits that support knowledge sharing; and cultural adaptability and awareness. These attributes predict success in a remote, asynchronous environment.
+
+### Why is distributed-team leadership important for senior technical leaders?
+
+The future of engineering leadership demands it. Leading remote or hybrid teams is how you get access to the best talent regardless of location. The most successful technical leaders design systems that work asynchronously by default, reward documentation and knowledge sharing, and balance inclusive decision-making with the need to move forward. For aspiring leaders, competence in distributed management is increasingly essential preparation for senior roles.
+
 
 [1]: {filename}2020_10_26_gitlab_manage_remote_team.md
 [2]: {filename}2023_02_02_learning_gitlab_teamops.md
