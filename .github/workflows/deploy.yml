@@ -61,7 +61,20 @@ jobs:
           cd source
           uv sync --frozen
 
+      - name: Restore generated OG cards (incremental)
+        uses: actions/checkout@v5
+        continue-on-error: true
+        with:
+          repository: AWegnerGitHub/awegnergithub.github.io
+          path: card-cache
+          sparse-checkout: theme/img/cards
+          sparse-checkout-cone-mode: false
+          fetch-depth: 1
+          token: ${{ secrets.API_TOKEN_GITHUB }}
+
       - name: Build site with Pelican
+        env:
+          CARD_CACHE_DIR: ${{ github.workspace }}/card-cache/theme/img/cards
         run: |
           cd source
           uv run pelican content --output output --settings publishconf.py --verbose
