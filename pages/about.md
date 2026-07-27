@@ -15,9 +15,11 @@ Outside of work, I'm usually playing board games, diving into video games, or ta
 **Andrew Wegner**<br />
 a.k.a **Andy Wegner**
 
-[LinkedIn][linkedin] | [Stack Overflow][stackoverflow] | [GitHub][github] | [Keybase][keybase]
+[LinkedIn][linkedin] | [Stack Overflow][stackoverflow] | [GitHub][github] | [Keybase][keybase] | [Who's Who][who] | [Inner Circle][circle]
 
 [linkedin]: https://www.linkedin.com/in/andrew-wegner/
 [stackoverflow]: https://stackoverflow.com/users/189134/andy
 [github]: https://github.com/AWegnerGitHub/
 [keybase]: https://keybase.io/awegner
+[who]: https://www.cwwpressrelease.com/andrew-wegner.htm
+[circle]: https://incirclexec.com/andrew-wegner-vp-product-strategic-software/
