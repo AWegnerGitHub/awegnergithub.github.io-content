@@ -86,13 +86,6 @@ jobs:
           cd source
           npx --yes lightningcss-cli --minify -o output/theme/css/site.css output/theme/css/site.css
 
-      - name: Minify JS
-        run: |
-          cd source
-          for f in output/theme/js/*.js; do
-            npx --yes terser "$f" --compress --mangle --output "$f"
-          done
-
       - name: Minify HTML
         run: |
           cd source
