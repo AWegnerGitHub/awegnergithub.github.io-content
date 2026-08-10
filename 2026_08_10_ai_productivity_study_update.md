@@ -31,13 +31,13 @@ For the 10 developers who had also been in the original study, the estimated eff
 
 18% against the original 19%. The first result came back almost exactly the same. But the confidence interval around it changed. The original ran from 2% slower to 39% slower and excluded zero. Both of these new results cross it, which means the study can no longer separate the effect from nothing at all.
 
-So this is not a retraction, and it isn't a failure to land on the same number. It's a measurement that came back the same size and stopped meaning anything. METR spent that post explaining why they no longer trust their own instrument.
+METR spent that post explaining why they no longer trust their own instrument because their results no longer mean anything.
 
 ## Why METR stopped trusting the measurement
 
 So what went wrong? METR lists six problems, names two of them as the important ones, and most of them follow from AI getting better over the past year to year and a half.
 
-Three have the shape of a selection effect, and they all point the same direction. Developers started declining to participate once there was a chance they would be assigned to work without AI, so the study systematically missed the people most optimistic about it. Among those who did participate, 30% to 50% told METR they were holding back specific tasks because they didn't want to do those tasks without AI, so it systematically missed the work with the most to gain. And developers were less likely to finish a task at all once it was assigned to the no-AI condition. One of them completed none of theirs. Pay dropped from $150 an hour to $50 an hour over the same stretch, which METR believes contributed, though they put developers' expectations about AI ahead of money as the cause.
+Three look like a selection effect, and they are all similar. Developers started declining to participate once there was a chance they would be assigned to work without AI, so the study systematically missed the people most optimistic about it. Among those who did participate, 30% to 50% told METR they were holding back specific tasks because they didn't want to do those tasks without AI, so it systematically missed the work with the most to gain. Developers were less likely to finish a task at all once it was assigned to the no-AI condition. One of them completed none of theirs. Pay dropped from $150 an hour to $50 an hour over the same stretch, which METR believes contributed, though they put developers' expectations about AI ahead of money as the cause.
 
 A fourth problem isn't selection at all, it's the clock. Developers told METR that timing a task got hard once agents were involved, because a developer waiting on an agent tends to go work on something unrelated while it runs.
 
@@ -51,7 +51,7 @@ They are now redesigning around developer-level randomization, shorter experimen
 
 ## What held up?
 
-One result from the original study has held up better than the 19%.
+One result from the original study has held up better than others.
 
 Before starting, those developers predicted AI would make them 24% faster. After finishing the tasks, having done the work, they still believed they had been sped up by about 20%. The clock said 19% slower.
 
