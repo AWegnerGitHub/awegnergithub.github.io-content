@@ -4,7 +4,7 @@ Tags: ai, leadership, measurement
 Category: Leadership
 Slug: build-sdlc-ai-metrics
 Status: published
-Summary: Time-to-implementation cut in half. Bug triage down more than half. The organization tripled in size during the same window, a separate initiative improved our specifications, and we fixed our intake process along the way. How much of that metric is due to AI?
+Summary: Time-to-implementation cut in half. Bug triage down more than half. The organization grew significantly during the same window, a separate initiative improved our specifications, and we fixed our intake process along the way. How much of that metric is due to AI?
 Series: Leadership Thoughts
 Featured: true
 
@@ -36,7 +36,7 @@ Those are good numbers.
 
 ## What the number doesn't show
 
-The halving is a year-over-year comparison in an organization that tripled in size inside the comparison window. The team that produced the second number is not the team that produced the first, and [the people we added were hired against a bar we'd been raising for a year][5]. Some real fraction of that improvement is just better hiring.
+The halving is a year-over-year comparison in an organization that grew so much inside the comparison window. The team that produced the second number is not the team that produced the first, and [the people we added were hired against a bar we'd been raising for a year][5]. Some real fraction of that improvement is just better hiring.
 
 The inputs changed too. Another change in the same window improved how specifications get written before engineering ever sees them. Better specified work moves faster whether or not an AI model touches it. That change was worth doing on its own merits, and it landed at the same time as the many other improvements being made. Year-over-year comparisons in a growing org compare two different team, at two different levels of maturity.
 
@@ -60,7 +60,7 @@ Everyone on the team got the same tools and the same training regardless of leve
 
 That sits uncomfortably next to the on call note above. First-pass investigation by a model is most valuable exactly when the engineer looking at the problem has no context on the code in front of them. That's a real win in the middle of the night  when it happens. It also relieves the pressure that used to put context into someone's head.
 
-Unfortunately, we're trading middle of the night convinence for longer term...something. I don't know if it's a problem, but it is a concern. The organization tripled in size, so there is more system to hold in your head than there was and less senior attention per person to help you hold it. Both of those slow knowledge accumulation with no models involved at all.
+Unfortunately, we're trading middle of the night convinence for longer term...something. I don't know if it's a problem, but it is a concern. The organization grew, so there is more system to hold in your head than there was and less senior attention per person to help you hold it. Both of those slow knowledge accumulation with no models involved at all.
 
 What I'm watching for is whether this is a lag or a ceiling. If the context arrives six months later than it used to, that's a scheduling problem and I'll change how I scope the work. If it doesn't arrive at all, that's a different conversation, and I don't yet know what I'd do about it.
 
